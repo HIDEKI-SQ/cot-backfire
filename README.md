@@ -1,6 +1,6 @@
 # When Reasoning Traces Backfire
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18050394.svg)](https://doi.org/10.5281/zenodo.18050394)
 
 **Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning**
 
