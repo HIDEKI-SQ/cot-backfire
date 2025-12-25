@@ -8,7 +8,7 @@
 
 This repository contains code, data, and materials for the paper:
 
-> HIDEKI. "When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning." *Preprint* (2025). DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> HIDEKI. "When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning." *Preprint* (2025). DOI: [10.5281/zenodo.18050394](https://doi.org/10.5281/zenodo.18050394)
 
 We introduce a **provided-CoT paradigm** that separates reasoning generation from reasoning following, enabling controlled study of how language models respond to reasoning traces of varying quality.
 
@@ -163,7 +163,7 @@ torch
   author={HIDEKI},
   journal={Preprint},
   year={2025},
-  doi={10.5281/zenodo.XXXXXXX}
+  doi={10.5281/zenodo.18050394}
 }
 ```
 
