@@ -1,0 +1,18 @@
+{
+  "experiment": "E3_Instruction_Gating",
+  "model": "Claude 3.5 Haiku",
+  "date": "20251228",
+  "n_problems": 99,
+  "lambda": 0.8,
+  "accuracy": {
+    "DIRECT": 0.4444444444444444,
+    "USE": 0.898989898989899,
+    "VERIFY": 0.8787878787878788,
+    "IGNORE": 0.9292929292929293
+  },
+  "delta_vs_direct": {
+    "USE": 0.4545454545454546,
+    "VERIFY": 0.43434343434343436,
+    "IGNORE": 0.48484848484848486
+  }
+}

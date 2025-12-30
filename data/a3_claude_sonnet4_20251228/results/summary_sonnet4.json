@@ -1,0 +1,21 @@
+{
+  "experiment": "A3_Scaling_Law_Claude",
+  "date": "20251228",
+  "model": {
+    "name": "Claude 4 Sonnet",
+    "api_name": "claude-sonnet-4-20250514",
+    "capability": "High"
+  },
+  "n_problems": 199,
+  "baseline_accuracy": 0.9246231155778895,
+  "accuracy_by_lambda": {
+    "0.0": 0.9798994974874372,
+    "0.2": 0.9698492462311558,
+    "0.4": 0.9246231155778895,
+    "0.6": 0.9045226130653267,
+    "0.8": 0.914572864321608,
+    "1.0": 0.8844221105527639
+  },
+  "lambda_crit": null,
+  "a_crit": null
+}

@@ -1,0 +1,3952 @@
+[
+  {
+    "problem_index": 2,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 11,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 524,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 531,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1046,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 189,
+    "correct_answer": 189,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1057,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1058,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 551,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1071,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 257,
+    "correct_answer": 251,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 576,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1088,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 200,
+    "correct_answer": 30,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1093,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1102,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 598,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 633,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 122,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1147,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 637,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 129,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1154,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1161,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 656,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1175,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1177,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 154,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 167,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 681,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 178,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 710,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 205,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 89,
+    "correct_answer": 98,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1236,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1249,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 36,
+    "correct_answer": 56,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 743,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1262,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1267,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 245,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 250,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 762,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 256,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 259,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 76,
+    "correct_answer": 168,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 260,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 775,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1301,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 4,
+    "correct_answer": 23,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 794,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1309,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 2180,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 290,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1316,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 814,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 17,
+    "correct_answer": 11,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 824,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 850,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 854,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 353,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 871,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 889,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 395,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 909,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 398,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 403,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 915,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 405,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 923,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 925,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 927,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 416,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 422,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 939,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 430,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 949,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 439,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 4,
+    "correct_answer": 17,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 960,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 961,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 450,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 962,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 465,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 989,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 481,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1008,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 503,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1019,
+    "model": "Claude 4 Sonnet",
+    "condition": "direct",
+    "lam": null,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 2,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 11,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 524,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 531,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1046,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 189,
+    "correct_answer": 189,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1057,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1058,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 551,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1071,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 576,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1088,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1093,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1102,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 598,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 633,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 122,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1147,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 637,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 129,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1161,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 170,
+    "correct_answer": 170,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 656,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1175,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1177,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 167,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 681,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 178,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 710,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 205,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 100,
+    "correct_answer": 98,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1236,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1249,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 743,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1262,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1267,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 245,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 250,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 762,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 256,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 259,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 260,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 775,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1301,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 794,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1309,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 2280,
+    "correct_answer": 2280,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 290,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1316,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 814,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 824,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 850,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 854,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 353,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 871,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 889,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 395,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 909,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 398,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 403,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 81,
+    "correct_answer": 81,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 915,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 405,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 923,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 925,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 927,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 416,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 422,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 939,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 430,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 949,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 439,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 960,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 961,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 450,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 962,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 465,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 989,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 481,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1008,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 503,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1019,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.0,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 2,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 11,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 524,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 531,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1046,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 189,
+    "correct_answer": 189,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1057,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1058,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 551,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1071,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 576,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1088,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1093,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1102,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 598,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 633,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 122,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1147,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 637,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 129,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1161,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 656,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1175,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1177,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 405,
+    "correct_answer": 272,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 167,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 681,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 96,
+    "correct_answer": 298,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 178,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 710,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 205,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 71,
+    "correct_answer": 98,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1236,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1249,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 20,
+    "correct_answer": 56,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 743,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1262,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1267,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 245,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 250,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 762,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 256,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 259,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 260,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 775,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1301,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 2,
+    "correct_answer": 23,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 794,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1309,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 300,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 290,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1316,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 814,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 824,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 850,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 25,
+    "correct_answer": 70,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 854,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 353,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 871,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 889,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 395,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 909,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 398,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 403,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 915,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 405,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 923,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 925,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 927,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 416,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 422,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 939,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 430,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 949,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 439,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 960,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 961,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 450,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 962,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 465,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 989,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 452,
+    "correct_answer": 45,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 481,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1008,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 503,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1019,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.4,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 2,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 11,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 524,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 531,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1046,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 270,
+    "correct_answer": 189,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1057,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1058,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 551,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1071,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 576,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1088,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 1800,
+    "correct_answer": 30,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1093,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1102,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 598,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 633,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 122,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1147,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 637,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 129,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1161,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 656,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1175,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1177,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 167,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 681,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 178,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 710,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 0,
+    "correct_answer": 45,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 205,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1236,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1249,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 743,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1262,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1267,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 245,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 250,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 762,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 256,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 259,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 92,
+    "correct_answer": 168,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 260,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 775,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1301,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 3,
+    "correct_answer": 23,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 794,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1309,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 2180,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 290,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1316,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 814,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 17,
+    "correct_answer": 11,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 824,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 850,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 854,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 353,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 871,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 889,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 395,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 909,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 398,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 403,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 915,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 405,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 923,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 925,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 927,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 416,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 422,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 939,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 430,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 949,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 439,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 4,
+    "correct_answer": 17,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 960,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 961,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 450,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 962,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 465,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 989,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 481,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1008,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 503,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1019,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 0.8,
+    "model_answer": 113,
+    "correct_answer": 98,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 2,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 11,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 524,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 531,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1046,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 47,
+    "correct_answer": 189,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1057,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1058,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 551,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1071,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 257,
+    "correct_answer": 251,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 576,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 371,
+    "correct_answer": 11232,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1088,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1093,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 5,
+    "correct_answer": 144,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1102,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 598,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 633,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 122,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 480,
+    "correct_answer": 48,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1147,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 104,
+    "correct_answer": 22,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 637,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 129,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1161,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 656,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1175,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1177,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 154,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 167,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 681,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 178,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 710,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 205,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1236,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1249,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 743,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1262,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1267,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 245,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 250,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 762,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 256,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 259,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 4,
+    "correct_answer": 168,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 260,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 775,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1301,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 4,
+    "correct_answer": 23,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 794,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1309,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 1450,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 290,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1316,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 814,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 17,
+    "correct_answer": 11,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 824,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 850,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 854,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 353,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 871,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 14,
+    "correct_answer": 48,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 889,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 395,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 909,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 398,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 403,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 915,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 467,
+    "correct_answer": 23,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 405,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 923,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 925,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 927,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 416,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 304,
+    "correct_answer": 56,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 422,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 939,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 430,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 949,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 439,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 804,
+    "correct_answer": 17,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 960,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 961,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 450,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 962,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 465,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 544,
+    "correct_answer": 30,
+    "is_correct": false,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 989,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 481,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1008,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 503,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "subset": "hard"
+  },
+  {
+    "problem_index": 1019,
+    "model": "Claude 4 Sonnet",
+    "condition": "cot",
+    "lam": 1.0,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "subset": "hard"
+  }
+]

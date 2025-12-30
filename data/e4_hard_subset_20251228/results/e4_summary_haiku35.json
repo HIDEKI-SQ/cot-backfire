@@ -1,0 +1,17 @@
+{
+  "experiment": "E4_Hard_Subset",
+  "model": "Claude 3.5 Haiku",
+  "date": "20251228",
+  "n_hard_problems": 79,
+  "hard_threshold": 4,
+  "baseline_hard": 0.13924050632911392,
+  "baseline_full": 0.925,
+  "accuracy_by_lambda": {
+    "0.0": 0.9873417721518988,
+    "0.4": 0.9113924050632911,
+    "0.8": 0.7341772151898734,
+    "1.0": 0.6329113924050633
+  },
+  "lambda_crit_hard": 1.0,
+  "lambda_crit_full": 0.4
+}

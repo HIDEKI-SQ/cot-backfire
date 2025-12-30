@@ -1,0 +1,21 @@
+{
+  "experiment": "A3_Scaling_Law_Claude",
+  "date": "20251228",
+  "model": {
+    "name": "Claude 3.5 Haiku",
+    "api_name": "claude-3-5-haiku-latest",
+    "capability": "Medium"
+  },
+  "n_problems": 199,
+  "baseline_accuracy": 0.46733668341708545,
+  "accuracy_by_lambda": {
+    "0.0": 0.9949748743718593,
+    "0.2": 0.9849246231155779,
+    "0.4": 0.949748743718593,
+    "0.6": 0.8944723618090452,
+    "0.8": 0.8844221105527639,
+    "1.0": 0.8291457286432161
+  },
+  "lambda_crit": 1.0,
+  "a_crit": 0.0
+}

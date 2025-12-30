@@ -1,0 +1,1992 @@
+[
+  {
+    "problem_index": 2,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 120000,
+    "correct_answer": 70000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 120000}",
+    "timestamp": "2025-12-28T12:59:09.987100"
+  },
+  {
+    "problem_index": 11,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 740,
+    "correct_answer": 694,
+    "is_correct": false,
+    "raw_output": "{\"final\": 740}",
+    "timestamp": "2025-12-28T12:59:11.833998"
+  },
+  {
+    "problem_index": 24,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 26,
+    "correct_answer": 26,
+    "is_correct": true,
+    "raw_output": "{\"final\": 26}",
+    "timestamp": "2025-12-28T12:59:13.044925"
+  },
+  {
+    "problem_index": 55,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T12:59:14.344044"
+  },
+  {
+    "problem_index": 64,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 360,
+    "correct_answer": 300,
+    "is_correct": false,
+    "raw_output": "{\"final\": 360}",
+    "timestamp": "2025-12-28T12:59:15.706926"
+  },
+  {
+    "problem_index": 65,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 24,
+    "correct_answer": 36,
+    "is_correct": false,
+    "raw_output": "{\"final\": 24}",
+    "timestamp": "2025-12-28T12:59:17.139972"
+  },
+  {
+    "problem_index": 66,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 60,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2025-12-28T12:59:18.306204"
+  },
+  {
+    "problem_index": 79,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T12:59:19.782911"
+  },
+  {
+    "problem_index": 83,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 600,
+    "correct_answer": 600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2025-12-28T12:59:21.148461"
+  },
+  {
+    "problem_index": 85,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 48,
+    "correct_answer": 44,
+    "is_correct": false,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2025-12-28T12:59:23.358243"
+  },
+  {
+    "problem_index": 104,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 500,
+    "correct_answer": 500,
+    "is_correct": true,
+    "raw_output": "{\"final\": 500}",
+    "timestamp": "2025-12-28T12:59:25.273575"
+  },
+  {
+    "problem_index": 109,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28.00}",
+    "timestamp": "2025-12-28T12:59:26.612310"
+  },
+  {
+    "problem_index": 114,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Jamal's phone can hold 1800 photographs\n2. His phone can hold 6 times more photos than Brittany's phone\n3. So Brittany's phone can hold: 1800 ÷ 6 = 300 photographs\n4. Brittany's phone can hold 50 times more photos than the number of ducks\n5. So the number of ducks = 300 ÷ 50 = 6\n\n{\"final\": 6}",
+    "timestamp": "2025-12-28T12:59:29.256350"
+  },
+  {
+    "problem_index": 116,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 70,
+    "correct_answer": 42,
+    "is_correct": false,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T12:59:30.434186"
+  },
+  {
+    "problem_index": 120,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 240,
+    "correct_answer": 240,
+    "is_correct": true,
+    "raw_output": "{\"final\": 240}",
+    "timestamp": "2025-12-28T12:59:31.546361"
+  },
+  {
+    "problem_index": 122,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 43,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 43}",
+    "timestamp": "2025-12-28T12:59:32.917361"
+  },
+  {
+    "problem_index": 125,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T12:59:34.100392"
+  },
+  {
+    "problem_index": 129,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 12500,
+    "correct_answer": 10000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 12500}",
+    "timestamp": "2025-12-28T12:59:35.441003"
+  },
+  {
+    "problem_index": 150,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Convert miles to feet for Steve: 3 miles × 5,280 feet/mile = 15,840 feet\n2. Convert miles to feet for Tim: 2 miles × 5,280 feet/mile = 10,560 feet\n3. Calculate Steve's travel time: 15,840 feet ÷ 440 feet/minute = 36 minutes\n4. Calculate Tim's travel time: 10,560 feet ÷ 264 feet/minute = 40 minutes\n5. Time difference: 40 - 36 = 4 minutes\n\n{\"final\": 4}",
+    "timestamp": "2025-12-28T12:59:38.690563"
+  },
+  {
+    "problem_index": 152,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 3,
+    "correct_answer": 4,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3.40}",
+    "timestamp": "2025-12-28T12:59:39.776475"
+  },
+  {
+    "problem_index": 154,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 288,
+    "correct_answer": 272,
+    "is_correct": false,
+    "raw_output": "{\"final\": 288}",
+    "timestamp": "2025-12-28T12:59:40.822407"
+  },
+  {
+    "problem_index": 167,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 14,
+    "correct_answer": 16,
+    "is_correct": false,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T12:59:42.108760"
+  },
+  {
+    "problem_index": 169,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 130,
+    "correct_answer": 120,
+    "is_correct": false,
+    "raw_output": "{\"final\": 130}",
+    "timestamp": "2025-12-28T12:59:43.440205"
+  },
+  {
+    "problem_index": 175,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 15,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T12:59:44.512087"
+  },
+  {
+    "problem_index": 176,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T12:59:47.095758"
+  },
+  {
+    "problem_index": 178,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 90,
+    "correct_answer": 122,
+    "is_correct": false,
+    "raw_output": "{\"final\": 90}",
+    "timestamp": "2025-12-28T12:59:48.134524"
+  },
+  {
+    "problem_index": 198,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 320,
+    "correct_answer": 320,
+    "is_correct": true,
+    "raw_output": "{\"final\": 320}",
+    "timestamp": "2025-12-28T12:59:49.499170"
+  },
+  {
+    "problem_index": 205,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 100,
+    "correct_answer": 98,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T12:59:50.930171"
+  },
+  {
+    "problem_index": 210,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Total cost of items:\n   - Jacket: $30\n   - 2 pairs of shoes: $20 × 2 = $40\n   - Total cost: $30 + $40 = $70\n\n2. Money Sara has already:\n   - Saved before: $10\n   - Babysitting earnings: 4 × $5 = $20\n   - Current total: $10 + $20 = $30\n\n3. Money still needed:\n   - $70 - $30 = $40\n\n4. Lawn mowing earnings:\n   - $4 per lawn mowed\n\n5. Lawns needed to mow:\n   - $40 ÷ $4 = 10 lawns\n\n{\"final\": 10}",
+    "timestamp": "2025-12-28T12:59:54.758098"
+  },
+  {
+    "problem_index": 217,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2025-12-28T12:59:55.819212"
+  },
+  {
+    "problem_index": 222,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 130,
+    "correct_answer": 140,
+    "is_correct": false,
+    "raw_output": "{\"final\": 130}",
+    "timestamp": "2025-12-28T12:59:57.559149"
+  },
+  {
+    "problem_index": 223,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20000,
+    "correct_answer": 20000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20000}",
+    "timestamp": "2025-12-28T12:59:58.650719"
+  },
+  {
+    "problem_index": 225,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T13:00:00.020733"
+  },
+  {
+    "problem_index": 229,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 18,
+    "correct_answer": 21,
+    "is_correct": false,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T13:00:01.381456"
+  },
+  {
+    "problem_index": 241,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T13:00:02.462113"
+  },
+  {
+    "problem_index": 245,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 14,
+    "correct_answer": 7,
+    "is_correct": false,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T13:00:03.954078"
+  },
+  {
+    "problem_index": 250,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T13:00:05.278416"
+  },
+  {
+    "problem_index": 253,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T13:00:06.639709"
+  },
+  {
+    "problem_index": 256,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 54,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 54.00}",
+    "timestamp": "2025-12-28T13:00:08.132160"
+  },
+  {
+    "problem_index": 259,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Andrea has 52 apples\n2. Jamal has 8 fewer apples than Andrea: 52 - 8 = 44 apples\n3. Jamal has 4 more bananas than apples: 44 + 4 = 48 bananas\n4. Andrea has half as many bananas as Jamal: 48 ÷ 2 = 24 bananas\n5. Total fruits = Andrea's apples + Andrea's bananas + Jamal's apples + Jamal's bananas\n   = 52 + 24 + 44 + 48 = 168\n\n{\"final\": 168}",
+    "timestamp": "2025-12-28T13:00:11.392439"
+  },
+  {
+    "problem_index": 260,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 3,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T13:00:13.367982"
+  },
+  {
+    "problem_index": 262,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 270,
+    "correct_answer": 270,
+    "is_correct": true,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2025-12-28T13:00:14.809546"
+  },
+  {
+    "problem_index": 266,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 118000,
+    "correct_answer": 118000,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Selling price of house = $400,000\n2. Transfer fees (3%): $400,000 × 0.03 = $12,000\n3. Brokerage fees (5%): $400,000 × 0.05 = $20,000\n4. Remaining loan amount: $250,000\n5. Net proceeds = Selling price - Transfer fees - Brokerage fees - Loan amount\n   = $400,000 - $12,000 - $20,000 - $250,000\n   = $118,000\n\n{\"final\": 118000}",
+    "timestamp": "2025-12-28T13:00:17.873527"
+  },
+  {
+    "problem_index": 272,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5.00}",
+    "timestamp": "2025-12-28T13:00:19.115013"
+  },
+  {
+    "problem_index": 274,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 4400,
+    "correct_answer": 3200,
+    "is_correct": false,
+    "raw_output": "{\"final\": 4400}",
+    "timestamp": "2025-12-28T13:00:20.367439"
+  },
+  {
+    "problem_index": 278,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2025-12-28T13:00:21.444381"
+  },
+  {
+    "problem_index": 279,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T13:00:22.474604"
+  },
+  {
+    "problem_index": 290,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 270,
+    "correct_answer": 390,
+    "is_correct": false,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2025-12-28T13:00:23.648661"
+  },
+  {
+    "problem_index": 295,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 440,
+    "correct_answer": 370,
+    "is_correct": false,
+    "raw_output": "{\"final\": 440}",
+    "timestamp": "2025-12-28T13:00:24.977058"
+  },
+  {
+    "problem_index": 302,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2025-12-28T13:00:26.033092"
+  },
+  {
+    "problem_index": 306,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T13:00:27.589074"
+  },
+  {
+    "problem_index": 321,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T13:00:29.097072"
+  },
+  {
+    "problem_index": 328,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1.2}",
+    "timestamp": "2025-12-28T13:00:30.686488"
+  },
+  {
+    "problem_index": 336,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 84,
+    "correct_answer": 72,
+    "is_correct": false,
+    "raw_output": "{\"final\": 84}",
+    "timestamp": "2025-12-28T13:00:31.846950"
+  },
+  {
+    "problem_index": 350,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 8,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5.5}",
+    "timestamp": "2025-12-28T13:00:33.382169"
+  },
+  {
+    "problem_index": 353,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T13:00:34.469205"
+  },
+  {
+    "problem_index": 360,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 25,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:00:35.832325"
+  },
+  {
+    "problem_index": 389,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. Cost of tickets per ride: $2 × 2 = $4 per ride\n2. Total cost for 9 rides with tickets: $4 × 9 = $36\n3. Cost of ride bracelet: $30\n4. Money saved by David: $36 - $30 = $6\n\n{\"final\": 6}",
+    "timestamp": "2025-12-28T13:00:38.218036"
+  },
+  {
+    "problem_index": 395,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 28,
+    "correct_answer": 38,
+    "is_correct": false,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2025-12-28T13:00:39.284135"
+  },
+  {
+    "problem_index": 398,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 150,
+    "correct_answer": 168,
+    "is_correct": false,
+    "raw_output": "{\"final\": 150}",
+    "timestamp": "2025-12-28T13:00:40.321779"
+  },
+  {
+    "problem_index": 400,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2025-12-28T13:00:41.520660"
+  },
+  {
+    "problem_index": 403,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 108,
+    "correct_answer": 81,
+    "is_correct": false,
+    "raw_output": "{\"final\": 108}",
+    "timestamp": "2025-12-28T13:00:42.698346"
+  },
+  {
+    "problem_index": 405,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 80,
+    "correct_answer": 50,
+    "is_correct": false,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T13:00:43.778086"
+  },
+  {
+    "problem_index": 408,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 10,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T13:00:45.145030"
+  },
+  {
+    "problem_index": 410,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3.50}",
+    "timestamp": "2025-12-28T13:00:46.600977"
+  },
+  {
+    "problem_index": 416,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 124,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 124}",
+    "timestamp": "2025-12-28T13:00:47.606696"
+  },
+  {
+    "problem_index": 422,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 240,
+    "correct_answer": 284,
+    "is_correct": false,
+    "raw_output": "{\"final\": 240}",
+    "timestamp": "2025-12-28T13:00:48.950591"
+  },
+  {
+    "problem_index": 430,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 112,
+    "correct_answer": 132,
+    "is_correct": false,
+    "raw_output": "{\"final\": 112.00}",
+    "timestamp": "2025-12-28T13:00:50.796819"
+  },
+  {
+    "problem_index": 437,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 4,
+    "correct_answer": 7,
+    "is_correct": false,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2025-12-28T13:00:52.541665"
+  },
+  {
+    "problem_index": 439,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:00:53.883450"
+  },
+  {
+    "problem_index": 450,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 4,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T13:00:54.951880"
+  },
+  {
+    "problem_index": 461,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Frederick has 10 plants\n2. Toni has 60% more plants than Frederick\n   • 60% of 10 = 6\n   • Toni's plants = 10 + 6 = 16 plants\n3. Shondra has 7 fewer plants than Toni\n   • Shondra's plants = 16 - 7 = 9 plants\n\n{\"final\": 9}",
+    "timestamp": "2025-12-28T13:00:57.409394"
+  },
+  {
+    "problem_index": 463,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T13:00:58.641146"
+  },
+  {
+    "problem_index": 465,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 25,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T13:00:59.652858"
+  },
+  {
+    "problem_index": 472,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T13:01:00.725892"
+  },
+  {
+    "problem_index": 481,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 66,
+    "correct_answer": 84,
+    "is_correct": false,
+    "raw_output": "{\"final\": 66}",
+    "timestamp": "2025-12-28T13:01:01.830134"
+  },
+  {
+    "problem_index": 488,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 18,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T13:01:02.844228"
+  },
+  {
+    "problem_index": 492,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2025-12-28T13:01:04.035426"
+  },
+  {
+    "problem_index": 499,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. First venue cost = $200 flat fee + $5 per person for food\n2. Second venue cost = $25 per person\n\nLet x be the number of guests:\n1. First venue total cost = $200 + $5x\n2. Second venue total cost = $25x\n\nSet these equal to each other and solve for x:\n$200 + $5x = $25x\n$200 = $20x\nx = 10\n\nTherefore, at 10 guests, both venues cost exactly the same.\n\n{\"final\": 10}",
+    "timestamp": "2025-12-28T13:01:07.211589"
+  },
+  {
+    "problem_index": 500,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Let Bodhi's insects = x\n2. David's insects = x/2\n3. Lily's insects = (x/2) + 7\n4. Total insects = x + (x/2) + (x/2 + 7) = 43\n5. Simplify: x + x/2 + x/2 + 7 = 43\n6. Simplify: 2x + 7 = 43\n7. Subtract 7 from both sides: 2x = 36\n8. Divide by 2: x = 18\n9. David found x/2 = 9\n10. Lily found (x/2) + 7 = 16\n\n{\"final\": 16}",
+    "timestamp": "2025-12-28T13:01:10.663048"
+  },
+  {
+    "problem_index": 503,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 16,
+    "correct_answer": 18,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2025-12-28T13:01:11.696881"
+  },
+  {
+    "problem_index": 524,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T13:01:12.737735"
+  },
+  {
+    "problem_index": 529,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "Let me solve this step by step:\n1. Tom's total purchase was $48\n2. One CD costs $4\n3. Tom bought 1 CD and a headphone set\n4. So the headphone set cost: $48 - $4 = $44\n5. With $44 saved by not buying the headphones, he could buy additional CDs\n6. $44 ÷ $4 per CD = 11 additional CDs\n\n{\"final\": 11}",
+    "timestamp": "2025-12-28T13:01:16.021596"
+  },
+  {
+    "problem_index": 531,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 40,
+    "correct_answer": 66,
+    "is_correct": false,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2025-12-28T13:01:17.477818"
+  },
+  {
+    "problem_index": 536,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 12,
+    "correct_answer": 8,
+    "is_correct": false,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2025-12-28T13:01:18.873794"
+  },
+  {
+    "problem_index": 541,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. April has 30 days\n2. First half of the month is 15 days\n3. Second half of the month is 15 days\n4. Total monthly target is $1125\n\nLet x = daily savings in first half\nThen 2x = daily savings in second half\n\n15x + 15(2x) = 1125\n15x + 30x = 1125\n45x = 1125\nx = 25\n\nSo first half daily savings is $25\nSecond half daily savings is 2x = $50\n\n{\"final\": 50}",
+    "timestamp": "2025-12-28T13:01:21.974196"
+  },
+  {
+    "problem_index": 548,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T13:01:23.314241"
+  },
+  {
+    "problem_index": 551,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 13,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 13.50}",
+    "timestamp": "2025-12-28T13:01:24.372605"
+  },
+  {
+    "problem_index": 563,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. First, find the ages of the sons: \n   - One son is 12 years old\n   - The other son is 4 years younger, so 12 - 4 = 8 years old\n2. Calculate total candles needed: \n   - 12 candles for the 12-year-old\n   - 8 candles for the 8-year-old\n   - Total candles: 12 + 8 = 20 candles\n3. Calculate cost of candles:\n   - 1 pack of 5 candles costs $3\n   - Needed 20 candles, which means 4 packs (20 ÷ 5 = 4)\n   - Total cost: 4 × $3 = $12\n\n{\"final\": 12}",
+    "timestamp": "2025-12-28T13:01:27.938295"
+  },
+  {
+    "problem_index": 567,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "Let me solve this step by step:\n• First tooth: $5.00\n• Next three teeth: $1.00 each = $3.00\n• Last two teeth: Half of $1.00 = $0.50 per tooth = $1.00\n\nTotal money from tooth fairy: $5.00 + $3.00 + $1.00 = $9.00\n\n{\"final\": 9.00}",
+    "timestamp": "2025-12-28T13:01:30.652370"
+  },
+  {
+    "problem_index": 575,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T13:01:31.736381"
+  },
+  {
+    "problem_index": 576,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 11880,
+    "correct_answer": 11232,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11880}",
+    "timestamp": "2025-12-28T13:01:33.455887"
+  },
+  {
+    "problem_index": 597,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 90,
+    "correct_answer": 90,
+    "is_correct": true,
+    "raw_output": "{\"final\": 90}",
+    "timestamp": "2025-12-28T13:01:35.299055"
+  },
+  {
+    "problem_index": 598,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 16,
+    "correct_answer": 69,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2025-12-28T13:01:36.383609"
+  },
+  {
+    "problem_index": 617,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T13:01:37.382831"
+  },
+  {
+    "problem_index": 624,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2025-12-28T13:01:38.721716"
+  },
+  {
+    "problem_index": 633,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 2,
+    "correct_answer": 5,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2.5}",
+    "timestamp": "2025-12-28T13:01:39.878693"
+  },
+  {
+    "problem_index": 637,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 7,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2025-12-28T13:01:41.527843"
+  },
+  {
+    "problem_index": 644,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 29,
+    "correct_answer": 29,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Steve is 60 years old\n2. Steve's wife is 4 years older: 60 + 4 = 64 years old\n3. Their son is half his mom's age: 64 ÷ 2 = 32 years old\n4. The son's wife is 3 years younger than him: 32 - 3 = 29 years old\n\n{\"final\": 29}",
+    "timestamp": "2025-12-28T13:01:45.013172"
+  },
+  {
+    "problem_index": 650,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 142,
+    "correct_answer": 142,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. Tuesday's purchase:\n• 20 pomegranates at $20 each = $400\n• Voucher discount = $2\n• Total cost on Tuesday = $398\n\n2. Wednesday's purchase:\n• 20 pomegranates at $30 each = $600\n• 10% store discount = $60\n• Total cost on Wednesday = $540\n\n3. Difference between the two prices:\n• $540 - $398 = $142\n\n{\"final\": 142}",
+    "timestamp": "2025-12-28T13:01:47.865637"
+  },
+  {
+    "problem_index": 653,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T13:01:48.930359"
+  },
+  {
+    "problem_index": 656,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:01:50.319641"
+  },
+  {
+    "problem_index": 673,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T13:01:51.378143"
+  },
+  {
+    "problem_index": 679,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 576,
+    "correct_answer": 576,
+    "is_correct": true,
+    "raw_output": "{\"final\": 576}",
+    "timestamp": "2025-12-28T13:01:52.821100"
+  },
+  {
+    "problem_index": 681,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 270,
+    "correct_answer": 298,
+    "is_correct": false,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2025-12-28T13:01:53.903945"
+  },
+  {
+    "problem_index": 682,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T13:01:55.232421"
+  },
+  {
+    "problem_index": 684,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2025-12-28T13:01:56.283941"
+  },
+  {
+    "problem_index": 688,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T13:01:57.614653"
+  },
+  {
+    "problem_index": 695,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T13:01:58.941983"
+  },
+  {
+    "problem_index": 710,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 44,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 44.10}",
+    "timestamp": "2025-12-28T13:02:00.343966"
+  },
+  {
+    "problem_index": 715,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 385000,
+    "correct_answer": 385000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 385000}",
+    "timestamp": "2025-12-28T13:02:01.426564"
+  },
+  {
+    "problem_index": 721,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 2450,
+    "correct_answer": 2450,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. With arms down (3 minutes):\n   - Right foot: 300 taps/minute × 3 minutes = 900 taps\n   - Left foot: 250 taps/minute × 3 minutes = 750 taps\n\n2. With arms raised (2 minutes):\n   - Right foot: 200 taps/minute × 2 minutes = 400 taps\n   - Left foot: 200 taps/minute × 2 minutes = 400 taps\n\n3. Total taps:\n   - Right foot: 900 + 400 = 1,300 taps\n   - Left foot: 750 + 400 = 1,150 taps\n\n4. Combined total taps:\n   - 1,300 + 1,150 = 2,450 taps\n\n{\"final\": 2450}",
+    "timestamp": "2025-12-28T13:02:04.939942"
+  },
+  {
+    "problem_index": 728,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2025-12-28T13:02:06.041631"
+  },
+  {
+    "problem_index": 741,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2025-12-28T13:02:07.083151"
+  },
+  {
+    "problem_index": 743,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 2,
+    "correct_answer": 8,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2025-12-28T13:02:08.429658"
+  },
+  {
+    "problem_index": 746,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2025-12-28T13:02:09.822632"
+  },
+  {
+    "problem_index": 758,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 133,
+    "correct_answer": 133,
+    "is_correct": true,
+    "raw_output": "{\"final\": 133}",
+    "timestamp": "2025-12-28T13:02:10.875481"
+  },
+  {
+    "problem_index": 759,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 60000,
+    "correct_answer": 60000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2025-12-28T13:02:12.527098"
+  },
+  {
+    "problem_index": 762,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 40,
+    "correct_answer": 85,
+    "is_correct": false,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2025-12-28T13:02:13.606515"
+  },
+  {
+    "problem_index": 763,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T13:02:14.669624"
+  },
+  {
+    "problem_index": 764,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T13:02:16.140290"
+  },
+  {
+    "problem_index": 775,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 286,
+    "correct_answer": 276,
+    "is_correct": false,
+    "raw_output": "{\"final\": 286}",
+    "timestamp": "2025-12-28T13:02:17.526178"
+  },
+  {
+    "problem_index": 787,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 25,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:02:18.868707"
+  },
+  {
+    "problem_index": 794,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 26,
+    "correct_answer": 32,
+    "is_correct": false,
+    "raw_output": "{\"final\": 26}",
+    "timestamp": "2025-12-28T13:02:20.244110"
+  },
+  {
+    "problem_index": 814,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T13:02:21.658349"
+  },
+  {
+    "problem_index": 819,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 6250,
+    "correct_answer": 6250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6250}",
+    "timestamp": "2025-12-28T13:02:23.147547"
+  },
+  {
+    "problem_index": 824,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 50,
+    "correct_answer": 52,
+    "is_correct": false,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2025-12-28T13:02:24.179972"
+  },
+  {
+    "problem_index": 841,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5600,
+    "correct_answer": 5600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5600}",
+    "timestamp": "2025-12-28T13:02:25.260825"
+  },
+  {
+    "problem_index": 850,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 90,
+    "correct_answer": 70,
+    "is_correct": false,
+    "raw_output": "{\"final\": 90}",
+    "timestamp": "2025-12-28T13:02:26.296795"
+  },
+  {
+    "problem_index": 854,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 108,
+    "correct_answer": 144,
+    "is_correct": false,
+    "raw_output": "{\"final\": 108}",
+    "timestamp": "2025-12-28T13:02:27.887599"
+  },
+  {
+    "problem_index": 871,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 38,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2025-12-28T13:02:29.118053"
+  },
+  {
+    "problem_index": 889,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 25,
+    "correct_answer": 15,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T13:02:31.077643"
+  },
+  {
+    "problem_index": 901,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T13:02:32.646298"
+  },
+  {
+    "problem_index": 908,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 16,
+    "correct_answer": 14,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2025-12-28T13:02:34.278928"
+  },
+  {
+    "problem_index": 909,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 52,
+    "correct_answer": 38,
+    "is_correct": false,
+    "raw_output": "{\"final\": 52}",
+    "timestamp": "2025-12-28T13:02:35.584383"
+  },
+  {
+    "problem_index": 915,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 19,
+    "correct_answer": 23,
+    "is_correct": false,
+    "raw_output": "{\"final\": 19}",
+    "timestamp": "2025-12-28T13:02:37.283424"
+  },
+  {
+    "problem_index": 923,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 3,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T13:02:38.333084"
+  },
+  {
+    "problem_index": 925,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 2500,
+    "correct_answer": 2000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2500}",
+    "timestamp": "2025-12-28T13:02:39.479581"
+  },
+  {
+    "problem_index": 927,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 50400,
+    "correct_answer": 85000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 50400}",
+    "timestamp": "2025-12-28T13:02:40.604781"
+  },
+  {
+    "problem_index": 939,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 450,
+    "correct_answer": 650,
+    "is_correct": false,
+    "raw_output": "{\"final\": 450}",
+    "timestamp": "2025-12-28T13:02:41.615157"
+  },
+  {
+    "problem_index": 949,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 36,
+    "correct_answer": 42,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T13:02:43.009029"
+  },
+  {
+    "problem_index": 960,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 7,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2025-12-28T13:02:44.626975"
+  },
+  {
+    "problem_index": 961,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 205,
+    "correct_answer": 225,
+    "is_correct": false,
+    "raw_output": "{\"final\": 205}",
+    "timestamp": "2025-12-28T13:02:45.631967"
+  },
+  {
+    "problem_index": 962,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2025-12-28T13:02:46.952151"
+  },
+  {
+    "problem_index": 963,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 147,
+    "correct_answer": 147,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. Let's define Adelwolfe's Pokemon as x\n2. Stan's Pokemon will be: 4x - 13\n3. Alex's Pokemon will be: (4x - 13) + 5, which simplifies to 4x - 8\n4. Total Pokemon = x + (4x - 13) + (4x - 8) = 339\n5. Simplifying: 9x - 21 = 339\n6. Adding 21 to both sides: 9x = 360\n7. Dividing by 9: x = 40\n8. Stan's Pokemon is: 4(40) - 13 = 160 - 13 = 147\n\n{\"final\": 147}",
+    "timestamp": "2025-12-28T13:02:50.621300"
+  },
+  {
+    "problem_index": 969,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1800,
+    "correct_answer": 1800,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1800}",
+    "timestamp": "2025-12-28T13:02:51.964829"
+  },
+  {
+    "problem_index": 975,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:02:53.213022"
+  },
+  {
+    "problem_index": 977,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2025-12-28T13:02:54.566762"
+  },
+  {
+    "problem_index": 989,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 25,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T13:02:55.597565"
+  },
+  {
+    "problem_index": 998,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 50,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:02:57.012969"
+  },
+  {
+    "problem_index": 1008,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 50,
+    "correct_answer": 230,
+    "is_correct": false,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2025-12-28T13:02:58.082065"
+  },
+  {
+    "problem_index": 1019,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 118,
+    "correct_answer": 98,
+    "is_correct": false,
+    "raw_output": "{\"final\": 118}",
+    "timestamp": "2025-12-28T13:02:59.190956"
+  },
+  {
+    "problem_index": 1023,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 77,
+    "correct_answer": 77,
+    "is_correct": true,
+    "raw_output": "{\"final\": 77}",
+    "timestamp": "2025-12-28T13:03:00.484498"
+  },
+  {
+    "problem_index": 1026,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 43200,
+    "correct_answer": 43200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 43200}",
+    "timestamp": "2025-12-28T13:03:02.019213"
+  },
+  {
+    "problem_index": 1035,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 70,
+    "correct_answer": 35,
+    "is_correct": false,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T13:03:03.144724"
+  },
+  {
+    "problem_index": 1036,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T13:03:04.480482"
+  },
+  {
+    "problem_index": 1046,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 54,
+    "correct_answer": 189,
+    "is_correct": false,
+    "raw_output": "{\"final\": 54}",
+    "timestamp": "2025-12-28T13:03:05.580797"
+  },
+  {
+    "problem_index": 1049,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:03:07.064476"
+  },
+  {
+    "problem_index": 1057,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 32,
+    "correct_answer": 24,
+    "is_correct": false,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2025-12-28T13:03:08.379189"
+  },
+  {
+    "problem_index": 1058,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 300,
+    "correct_answer": 250,
+    "is_correct": false,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2025-12-28T13:03:09.829337"
+  },
+  {
+    "problem_index": 1069,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2025-12-28T13:03:11.204994"
+  },
+  {
+    "problem_index": 1071,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Total invited guests = 25 classmates + 7 dance class girls + 13 family members = 45 total\n2. People not attending = 4\n3. Actual party attendees = 45 - 4 = 41\n4. Additional guests beyond the base 20 = 41 - 20 = 21\n5. Additional guest fee = 21 × $6 = $126\n6. Base theater rental fee = $125\n7. Total party cost = $125 + $126 = $251\n\n{\"final\": 251}",
+    "timestamp": "2025-12-28T13:03:14.932031"
+  },
+  {
+    "problem_index": 1080,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 72000,
+    "correct_answer": 72000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72000}",
+    "timestamp": "2025-12-28T13:03:16.275498"
+  },
+  {
+    "problem_index": 1088,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. Regular school periods per day: 6 + 2 extra = 8 periods\n2. Minutes per class: 40 minutes\n3. School days per week: 5 days\n4. Weekday learning minutes: 8 × 40 × 5 = 1,600 minutes\n5. Weekend extra learning time: (1,600 ÷ 16) × 2 = 200 minutes\n6. Total weekly learning time: 1,600 + 200 = 1,800 minutes\n7. Convert minutes to hours: 1,800 ÷ 60 = 30 hours\n\n{\"final\": 30}",
+    "timestamp": "2025-12-28T13:03:19.761616"
+  },
+  {
+    "problem_index": 1093,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 96,
+    "correct_answer": 144,
+    "is_correct": false,
+    "raw_output": "{\"final\": 96}",
+    "timestamp": "2025-12-28T13:03:20.871053"
+  },
+  {
+    "problem_index": 1102,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 97,
+    "correct_answer": 113,
+    "is_correct": false,
+    "raw_output": "{\"final\": 97.50}",
+    "timestamp": "2025-12-28T13:03:22.443234"
+  },
+  {
+    "problem_index": 1109,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T13:03:23.597737"
+  },
+  {
+    "problem_index": 1117,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T13:03:24.769855"
+  },
+  {
+    "problem_index": 1132,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 45000,
+    "correct_answer": 45000,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Valerie earns $5000 per month\n2. Her brother must earn twice her amount: $10,000 per month\n3. Their combined salary is: $5000 + $10,000 = $15,000\n4. Their mother earns twice their combined salary: $15,000 × 2 = $30,000\n5. Total amount they have together: $5000 + $10,000 + $30,000 = $45,000\n\n{\"final\": 45000}",
+    "timestamp": "2025-12-28T13:03:27.606559"
+  },
+  {
+    "problem_index": 1147,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 22,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:03:28.691118"
+  },
+  {
+    "problem_index": 1152,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 0,
+    "correct_answer": 12,
+    "is_correct": false,
+    "raw_output": "{\"final\": 0.012}",
+    "timestamp": "2025-12-28T13:03:29.805336"
+  },
+  {
+    "problem_index": 1154,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 35,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 35}",
+    "timestamp": "2025-12-28T13:03:31.239303"
+  },
+  {
+    "problem_index": 1158,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 7300,
+    "correct_answer": 7300,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n1. Hortex currently produces 4200 bottles per day\n2. Each bottle covers 20% of 1 person's daily energy demand\n3. Need to cover 100% of energy demand for 2300 people\n4. Bottles needed to cover 100%: (1/0.2) * 2300 = 11,500 bottles\n5. Current daily production: 4200 bottles\n6. Additional bottles needed: 11,500 - 4200 = 7,300 bottles\n\n{\"final\": 7300}",
+    "timestamp": "2025-12-28T13:03:34.600521"
+  },
+  {
+    "problem_index": 1159,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. Total babies: 8 octuplets\n2. Purple babies: 3/4 of 8 = 6 babies\n3. Blue babies: 1/4 of 8 = 2 babies\n4. Babies with bows:\n   - Blue babies with bows: 2\n   - Purple babies with bows: 1/3 of 6 = 2\n5. Total babies with bows: 2 + 2 = 4\n6. Purple babies with bows: 2\n7. Percentage of bow-wearing babies in purple: (2/4) * 100 = 50%\n\n{\"final\": 50}",
+    "timestamp": "2025-12-28T13:03:38.214926"
+  },
+  {
+    "problem_index": 1161,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 100,
+    "correct_answer": 170,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T13:03:39.538286"
+  },
+  {
+    "problem_index": 1168,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:03:40.735594"
+  },
+  {
+    "problem_index": 1175,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 14,
+    "correct_answer": 16,
+    "is_correct": false,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T13:03:41.861726"
+  },
+  {
+    "problem_index": 1177,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 27,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2025-12-28T13:03:42.880596"
+  },
+  {
+    "problem_index": 1202,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 19,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T13:03:44.055746"
+  },
+  {
+    "problem_index": 1206,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 60000,
+    "correct_answer": 40000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2025-12-28T13:03:45.488780"
+  },
+  {
+    "problem_index": 1214,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T13:03:49.891332"
+  },
+  {
+    "problem_index": 1216,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "Let's solve this step by step:\n\n1. Initial people on the bus: 20\n2. People at first stop: 40\n   Total people after first stop: 20 + 40 = 60\n3. People at second stop: 3/4 of 40 = 30\n   Total people after second stop: 60 + 30 = 90\n4. People at third stop: 90 × 2 = 180\n5. Bus capacity: 200\n6. Remaining spaces: 200 - 180 = 20\n\n{\"final\": 20}",
+    "timestamp": "2025-12-28T13:03:52.958209"
+  },
+  {
+    "problem_index": 1229,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T13:03:54.114270"
+  },
+  {
+    "problem_index": 1234,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2025-12-28T13:03:55.180298"
+  },
+  {
+    "problem_index": 1236,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 66,
+    "correct_answer": 84,
+    "is_correct": false,
+    "raw_output": "{\"final\": 66}",
+    "timestamp": "2025-12-28T13:03:56.570304"
+  },
+  {
+    "problem_index": 1240,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2025-12-28T13:03:58.124805"
+  },
+  {
+    "problem_index": 1249,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 52,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 52}",
+    "timestamp": "2025-12-28T13:03:59.197005"
+  },
+  {
+    "problem_index": 1251,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 25,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T13:04:00.255423"
+  },
+  {
+    "problem_index": 1254,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2025-12-28T13:04:01.411418"
+  },
+  {
+    "problem_index": 1258,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 60,
+    "correct_answer": 60,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2025-12-28T13:04:02.892954"
+  },
+  {
+    "problem_index": 1262,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1,
+    "correct_answer": 12,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T13:04:04.204061"
+  },
+  {
+    "problem_index": 1267,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 70,
+    "correct_answer": 40,
+    "is_correct": false,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T13:04:05.407288"
+  },
+  {
+    "problem_index": 1286,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 115,
+    "correct_answer": 105,
+    "is_correct": false,
+    "raw_output": "{\"final\": 115}",
+    "timestamp": "2025-12-28T13:04:06.765131"
+  },
+  {
+    "problem_index": 1291,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 27,
+    "correct_answer": 27,
+    "is_correct": true,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2025-12-28T13:04:08.142384"
+  },
+  {
+    "problem_index": 1294,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T13:04:09.194616"
+  },
+  {
+    "problem_index": 1295,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T13:04:10.262924"
+  },
+  {
+    "problem_index": 1301,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 16,
+    "correct_answer": 23,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2025-12-28T13:04:11.660498"
+  },
+  {
+    "problem_index": 1309,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 1750,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1750}",
+    "timestamp": "2025-12-28T13:04:13.071918"
+  },
+  {
+    "problem_index": 1316,
+    "condition": "direct",
+    "model": "claude-3-5-haiku-latest",
+    "model_answer": 130,
+    "correct_answer": 230,
+    "is_correct": false,
+    "raw_output": "{\"final\": 130}",
+    "timestamp": "2025-12-28T13:04:14.423739"
+  }
+]

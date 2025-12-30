@@ -1,0 +1,18 @@
+{
+  "experiment": "E3_Instruction_Gating",
+  "model": "Claude 4 Sonnet",
+  "date": "20251228",
+  "n_problems": 99,
+  "lambda": 0.8,
+  "accuracy": {
+    "DIRECT": 0.9595959595959596,
+    "USE": 0.5757575757575758,
+    "VERIFY": 0.9595959595959596,
+    "IGNORE": 0.9494949494949495
+  },
+  "delta_vs_direct": {
+    "USE": -0.38383838383838376,
+    "VERIFY": 0.0,
+    "IGNORE": -0.010101010101010055
+  }
+}

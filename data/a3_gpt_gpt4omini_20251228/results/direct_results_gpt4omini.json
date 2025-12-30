@@ -1,0 +1,1992 @@
+[
+  {
+    "problem_index": 2,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 65000,
+    "correct_answer": 70000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 65000}",
+    "timestamp": "2025-12-28T14:21:29.233293"
+  },
+  {
+    "problem_index": 11,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 724,
+    "correct_answer": 694,
+    "is_correct": false,
+    "raw_output": "{\"final\": 724}",
+    "timestamp": "2025-12-28T14:21:30.073180"
+  },
+  {
+    "problem_index": 24,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 26,
+    "correct_answer": 26,
+    "is_correct": true,
+    "raw_output": "{\"final\": 26.00}",
+    "timestamp": "2025-12-28T14:21:30.809962"
+  },
+  {
+    "problem_index": 55,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T14:21:31.548523"
+  },
+  {
+    "problem_index": 64,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2025-12-28T14:21:32.321295"
+  },
+  {
+    "problem_index": 65,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T14:21:33.022406"
+  },
+  {
+    "problem_index": 66,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 32,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2025-12-28T14:21:33.723539"
+  },
+  {
+    "problem_index": 79,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T14:21:34.966317"
+  },
+  {
+    "problem_index": 83,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 600,
+    "correct_answer": 600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2025-12-28T14:21:35.679740"
+  },
+  {
+    "problem_index": 85,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 44,
+    "correct_answer": 44,
+    "is_correct": true,
+    "raw_output": "{\"final\": 44}",
+    "timestamp": "2025-12-28T14:21:36.392160"
+  },
+  {
+    "problem_index": 104,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 500,
+    "correct_answer": 500,
+    "is_correct": true,
+    "raw_output": "{\"final\": 500}",
+    "timestamp": "2025-12-28T14:21:37.618919"
+  },
+  {
+    "problem_index": 109,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 27,
+    "correct_answer": 28,
+    "is_correct": false,
+    "raw_output": "{\"final\": 27.80}",
+    "timestamp": "2025-12-28T14:21:38.340524"
+  },
+  {
+    "problem_index": 114,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T14:21:39.179660"
+  },
+  {
+    "problem_index": 116,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 40,
+    "correct_answer": 42,
+    "is_correct": false,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2025-12-28T14:21:40.209320"
+  },
+  {
+    "problem_index": 120,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 240,
+    "correct_answer": 240,
+    "is_correct": true,
+    "raw_output": "{\"final\": 240}",
+    "timestamp": "2025-12-28T14:21:40.924928"
+  },
+  {
+    "problem_index": 122,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 41,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 41}",
+    "timestamp": "2025-12-28T14:21:42.222361"
+  },
+  {
+    "problem_index": 125,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T14:21:42.899292"
+  },
+  {
+    "problem_index": 129,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 2500,
+    "correct_answer": 10000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2500}",
+    "timestamp": "2025-12-28T14:21:43.963177"
+  },
+  {
+    "problem_index": 150,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1,
+    "correct_answer": 4,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T14:21:44.736964"
+  },
+  {
+    "problem_index": 152,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2025-12-28T14:21:45.418019"
+  },
+  {
+    "problem_index": 154,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 96,
+    "correct_answer": 272,
+    "is_correct": false,
+    "raw_output": "{\"final\": 96}",
+    "timestamp": "2025-12-28T14:21:46.288692"
+  },
+  {
+    "problem_index": 167,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 18,
+    "correct_answer": 16,
+    "is_correct": false,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T14:21:46.998430"
+  },
+  {
+    "problem_index": 169,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 130,
+    "correct_answer": 120,
+    "is_correct": false,
+    "raw_output": "{\"final\": 130}",
+    "timestamp": "2025-12-28T14:21:47.863160"
+  },
+  {
+    "problem_index": 175,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2025-12-28T14:21:48.549246"
+  },
+  {
+    "problem_index": 176,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:21:49.349425"
+  },
+  {
+    "problem_index": 178,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 94,
+    "correct_answer": 122,
+    "is_correct": false,
+    "raw_output": "{\"final\": 94}",
+    "timestamp": "2025-12-28T14:21:50.354215"
+  },
+  {
+    "problem_index": 198,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 320,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:21:51.493504"
+  },
+  {
+    "problem_index": 205,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 98,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:21:52.285999"
+  },
+  {
+    "problem_index": 210,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T14:21:53.100858"
+  },
+  {
+    "problem_index": 217,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 11,
+    "correct_answer": 15,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2025-12-28T14:21:53.815794"
+  },
+  {
+    "problem_index": 222,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 130,
+    "correct_answer": 140,
+    "is_correct": false,
+    "raw_output": "{\"final\": 130}",
+    "timestamp": "2025-12-28T14:21:54.521474"
+  },
+  {
+    "problem_index": 223,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20000,
+    "correct_answer": 20000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20000}",
+    "timestamp": "2025-12-28T14:21:55.663425"
+  },
+  {
+    "problem_index": 225,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T14:21:56.359444"
+  },
+  {
+    "problem_index": 229,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6,
+    "correct_answer": 21,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T14:21:57.013110"
+  },
+  {
+    "problem_index": 241,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T14:21:57.856791"
+  },
+  {
+    "problem_index": 245,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 14,
+    "correct_answer": 7,
+    "is_correct": false,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2025-12-28T14:21:58.544774"
+  },
+  {
+    "problem_index": 250,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T14:21:59.640642"
+  },
+  {
+    "problem_index": 253,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T14:22:00.986688"
+  },
+  {
+    "problem_index": 256,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 54,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 54.0}",
+    "timestamp": "2025-12-28T14:22:01.711764"
+  },
+  {
+    "problem_index": 259,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 104,
+    "correct_answer": 168,
+    "is_correct": false,
+    "raw_output": "{\"final\": 104}",
+    "timestamp": "2025-12-28T14:22:02.382336"
+  },
+  {
+    "problem_index": 260,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T14:22:03.462299"
+  },
+  {
+    "problem_index": 262,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 270,
+    "correct_answer": 270,
+    "is_correct": true,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2025-12-28T14:22:04.166945"
+  },
+  {
+    "problem_index": 266,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 115000,
+    "correct_answer": 118000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 115000}",
+    "timestamp": "2025-12-28T14:22:04.952095"
+  },
+  {
+    "problem_index": 272,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5.00}",
+    "timestamp": "2025-12-28T14:22:05.729626"
+  },
+  {
+    "problem_index": 274,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3200,
+    "correct_answer": 3200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3200}",
+    "timestamp": "2025-12-28T14:22:06.477759"
+  },
+  {
+    "problem_index": 278,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2025-12-28T14:22:07.678606"
+  },
+  {
+    "problem_index": 279,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T14:22:08.556957"
+  },
+  {
+    "problem_index": 290,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 270,
+    "correct_answer": 390,
+    "is_correct": false,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2025-12-28T14:22:09.265319"
+  },
+  {
+    "problem_index": 295,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 370,
+    "correct_answer": 370,
+    "is_correct": true,
+    "raw_output": "{\"final\": 370}",
+    "timestamp": "2025-12-28T14:22:10.595709"
+  },
+  {
+    "problem_index": 302,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2025-12-28T14:22:11.350857"
+  },
+  {
+    "problem_index": 306,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T14:22:12.333465"
+  },
+  {
+    "problem_index": 321,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 1,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T14:22:13.036993"
+  },
+  {
+    "problem_index": 328,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2025-12-28T14:22:13.846452"
+  },
+  {
+    "problem_index": 336,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 60,
+    "correct_answer": 72,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2025-12-28T14:22:14.962001"
+  },
+  {
+    "problem_index": 350,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6,
+    "correct_answer": 8,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T14:22:16.000107"
+  },
+  {
+    "problem_index": 353,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 12,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2025-12-28T14:22:17.072533"
+  },
+  {
+    "problem_index": 360,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 25,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:22:17.864134"
+  },
+  {
+    "problem_index": 389,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\":6}",
+    "timestamp": "2025-12-28T14:22:18.871875"
+  },
+  {
+    "problem_index": 395,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 23,
+    "correct_answer": 38,
+    "is_correct": false,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2025-12-28T14:22:19.963382"
+  },
+  {
+    "problem_index": 398,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 126,
+    "correct_answer": 168,
+    "is_correct": false,
+    "raw_output": "{\"final\": 126}",
+    "timestamp": "2025-12-28T14:22:21.052598"
+  },
+  {
+    "problem_index": 400,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2025-12-28T14:22:22.069712"
+  },
+  {
+    "problem_index": 403,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "raw_output": "{\"final\": 135}",
+    "timestamp": "2025-12-28T14:22:23.142352"
+  },
+  {
+    "problem_index": 405,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 70,
+    "correct_answer": 50,
+    "is_correct": false,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T14:22:24.122477"
+  },
+  {
+    "problem_index": 408,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T14:22:25.286343"
+  },
+  {
+    "problem_index": 410,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3.0}",
+    "timestamp": "2025-12-28T14:22:25.980112"
+  },
+  {
+    "problem_index": 416,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 124,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 124}",
+    "timestamp": "2025-12-28T14:22:27.003640"
+  },
+  {
+    "problem_index": 422,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 296,
+    "correct_answer": 284,
+    "is_correct": false,
+    "raw_output": "{\"final\": 296}",
+    "timestamp": "2025-12-28T14:22:27.830510"
+  },
+  {
+    "problem_index": 430,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 104,
+    "correct_answer": 132,
+    "is_correct": false,
+    "raw_output": "{\"final\": 104}",
+    "timestamp": "2025-12-28T14:22:29.062893"
+  },
+  {
+    "problem_index": 437,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2025-12-28T14:22:30.189096"
+  },
+  {
+    "problem_index": 439,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 21,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 21}",
+    "timestamp": "2025-12-28T14:22:30.981342"
+  },
+  {
+    "problem_index": 450,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 4,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T14:22:31.606228"
+  },
+  {
+    "problem_index": 461,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 43,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 43}",
+    "timestamp": "2025-12-28T14:22:32.904294"
+  },
+  {
+    "problem_index": 463,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2025-12-28T14:22:33.699440"
+  },
+  {
+    "problem_index": 465,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 25,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T14:22:34.729378"
+  },
+  {
+    "problem_index": 472,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T14:22:35.899812"
+  },
+  {
+    "problem_index": 481,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 72,
+    "correct_answer": 84,
+    "is_correct": false,
+    "raw_output": "{\"final\": 72}",
+    "timestamp": "2025-12-28T14:22:36.652108"
+  },
+  {
+    "problem_index": 488,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 9,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T14:22:37.837062"
+  },
+  {
+    "problem_index": 492,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2025-12-28T14:22:38.630831"
+  },
+  {
+    "problem_index": 499,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:22:39.279439"
+  },
+  {
+    "problem_index": 500,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 25,
+    "correct_answer": 16,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T14:22:40.285925"
+  },
+  {
+    "problem_index": 503,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 16,
+    "correct_answer": 18,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2025-12-28T14:22:41.000712"
+  },
+  {
+    "problem_index": 524,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 10,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T14:22:42.005763"
+  },
+  {
+    "problem_index": 529,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2025-12-28T14:22:43.057624"
+  },
+  {
+    "problem_index": 531,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 112,
+    "correct_answer": 66,
+    "is_correct": false,
+    "raw_output": "{\"final\": 112}",
+    "timestamp": "2025-12-28T14:22:44.056456"
+  },
+  {
+    "problem_index": 536,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2025-12-28T14:22:45.317745"
+  },
+  {
+    "problem_index": 541,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 75,
+    "correct_answer": 50,
+    "is_correct": false,
+    "raw_output": "{\"final\": 75}",
+    "timestamp": "2025-12-28T14:22:46.450120"
+  },
+  {
+    "problem_index": 548,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:22:47.318346"
+  },
+  {
+    "problem_index": 551,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 32,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 32.5}",
+    "timestamp": "2025-12-28T14:22:48.098022"
+  },
+  {
+    "problem_index": 563,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6,
+    "correct_answer": 12,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2025-12-28T14:22:48.804436"
+  },
+  {
+    "problem_index": 567,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 8,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 8.0}",
+    "timestamp": "2025-12-28T14:22:49.693060"
+  },
+  {
+    "problem_index": 575,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 30,
+    "correct_answer": 36,
+    "is_correct": false,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2025-12-28T14:22:50.300159"
+  },
+  {
+    "problem_index": 576,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1080,
+    "correct_answer": 11232,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1080}",
+    "timestamp": "2025-12-28T14:22:50.961311"
+  },
+  {
+    "problem_index": 597,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 120,
+    "correct_answer": 90,
+    "is_correct": false,
+    "raw_output": "{\"final\": 120}",
+    "timestamp": "2025-12-28T14:22:52.004346"
+  },
+  {
+    "problem_index": 598,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 66,
+    "correct_answer": 69,
+    "is_correct": false,
+    "raw_output": "{\"final\": 66}",
+    "timestamp": "2025-12-28T14:22:52.732220"
+  },
+  {
+    "problem_index": 617,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T14:22:53.849210"
+  },
+  {
+    "problem_index": 624,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 94,
+    "correct_answer": 85,
+    "is_correct": false,
+    "raw_output": "{\"final\": 94}",
+    "timestamp": "2025-12-28T14:22:54.985038"
+  },
+  {
+    "problem_index": 633,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 15,
+    "correct_answer": 5,
+    "is_correct": false,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2025-12-28T14:22:55.974278"
+  },
+  {
+    "problem_index": 637,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T14:22:57.123797"
+  },
+  {
+    "problem_index": 644,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 27,
+    "correct_answer": 29,
+    "is_correct": false,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2025-12-28T14:22:57.813708"
+  },
+  {
+    "problem_index": 650,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 80,
+    "correct_answer": 142,
+    "is_correct": false,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T14:22:58.501845"
+  },
+  {
+    "problem_index": 653,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T14:22:59.254343"
+  },
+  {
+    "problem_index": 656,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:23:00.024964"
+  },
+  {
+    "problem_index": 673,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T14:23:00.728586"
+  },
+  {
+    "problem_index": 679,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 576,
+    "correct_answer": 576,
+    "is_correct": true,
+    "raw_output": "{\"final\": 576}",
+    "timestamp": "2025-12-28T14:23:01.395036"
+  },
+  {
+    "problem_index": 681,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 168,
+    "correct_answer": 298,
+    "is_correct": false,
+    "raw_output": "{\"final\": 168}",
+    "timestamp": "2025-12-28T14:23:02.084780"
+  },
+  {
+    "problem_index": 682,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T14:23:03.191399"
+  },
+  {
+    "problem_index": 684,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2025-12-28T14:23:03.939713"
+  },
+  {
+    "problem_index": 688,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:23:04.604368"
+  },
+  {
+    "problem_index": 695,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2025-12-28T14:23:05.290341"
+  },
+  {
+    "problem_index": 710,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36.30}",
+    "timestamp": "2025-12-28T14:23:05.931371"
+  },
+  {
+    "problem_index": 715,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 385000,
+    "correct_answer": 385000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 385000}",
+    "timestamp": "2025-12-28T14:23:06.941338"
+  },
+  {
+    "problem_index": 721,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 2750,
+    "correct_answer": 2450,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2750}",
+    "timestamp": "2025-12-28T14:23:07.900319"
+  },
+  {
+    "problem_index": 728,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 60,
+    "correct_answer": 40,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2025-12-28T14:23:09.014663"
+  },
+  {
+    "problem_index": 741,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 8,
+    "correct_answer": 28,
+    "is_correct": false,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2025-12-28T14:23:09.779632"
+  },
+  {
+    "problem_index": 743,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1,
+    "correct_answer": 8,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2025-12-28T14:23:10.888156"
+  },
+  {
+    "problem_index": 746,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 34,
+    "correct_answer": 28,
+    "is_correct": false,
+    "raw_output": "{\"final\": 34}",
+    "timestamp": "2025-12-28T14:23:12.346620"
+  },
+  {
+    "problem_index": 758,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 133,
+    "correct_answer": 133,
+    "is_correct": true,
+    "raw_output": "{\"final\": 133}",
+    "timestamp": "2025-12-28T14:23:13.428856"
+  },
+  {
+    "problem_index": 759,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 60000,
+    "correct_answer": 60000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2025-12-28T14:23:14.573791"
+  },
+  {
+    "problem_index": 762,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 60,
+    "correct_answer": 85,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2025-12-28T14:23:15.377728"
+  },
+  {
+    "problem_index": 763,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:23:16.164204"
+  },
+  {
+    "problem_index": 764,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 19,
+    "correct_answer": 14,
+    "is_correct": false,
+    "raw_output": "{\"final\": 19}",
+    "timestamp": "2025-12-28T14:23:16.920624"
+  },
+  {
+    "problem_index": 775,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 34,
+    "correct_answer": 276,
+    "is_correct": false,
+    "raw_output": "{\"final\": 34}",
+    "timestamp": "2025-12-28T14:23:17.694539"
+  },
+  {
+    "problem_index": 787,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 25,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:23:18.820726"
+  },
+  {
+    "problem_index": 794,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 34,
+    "correct_answer": 32,
+    "is_correct": false,
+    "raw_output": "{\"final\": 34}",
+    "timestamp": "2025-12-28T14:23:19.596808"
+  },
+  {
+    "problem_index": 814,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 12,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2025-12-28T14:23:20.249657"
+  },
+  {
+    "problem_index": 819,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 6250,
+    "correct_answer": 6250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6250}",
+    "timestamp": "2025-12-28T14:23:21.296320"
+  },
+  {
+    "problem_index": 824,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 54,
+    "correct_answer": 52,
+    "is_correct": false,
+    "raw_output": "{\"final\": 54}",
+    "timestamp": "2025-12-28T14:23:21.978224"
+  },
+  {
+    "problem_index": 841,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 8200,
+    "correct_answer": 5600,
+    "is_correct": false,
+    "raw_output": "{\"final\": 8200}",
+    "timestamp": "2025-12-28T14:23:22.815245"
+  },
+  {
+    "problem_index": 850,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 80,
+    "correct_answer": 70,
+    "is_correct": false,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2025-12-28T14:23:24.269294"
+  },
+  {
+    "problem_index": 854,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 48,
+    "correct_answer": 144,
+    "is_correct": false,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2025-12-28T14:23:24.987122"
+  },
+  {
+    "problem_index": 871,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 43,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 43}",
+    "timestamp": "2025-12-28T14:23:26.161870"
+  },
+  {
+    "problem_index": 889,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 30,
+    "correct_answer": 15,
+    "is_correct": false,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2025-12-28T14:23:27.299743"
+  },
+  {
+    "problem_index": 901,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 2,
+    "correct_answer": 1,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2025-12-28T14:23:28.038528"
+  },
+  {
+    "problem_index": 908,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 19,
+    "correct_answer": 14,
+    "is_correct": false,
+    "raw_output": "{\"final\": 19}",
+    "timestamp": "2025-12-28T14:23:28.734270"
+  },
+  {
+    "problem_index": 909,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 38,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T14:23:29.456117"
+  },
+  {
+    "problem_index": 915,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 13,
+    "correct_answer": 23,
+    "is_correct": false,
+    "raw_output": "{\"final\": 13}",
+    "timestamp": "2025-12-28T14:23:30.485087"
+  },
+  {
+    "problem_index": 923,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 4,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2025-12-28T14:23:31.532146"
+  },
+  {
+    "problem_index": 925,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1000,
+    "correct_answer": 2000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1000}",
+    "timestamp": "2025-12-28T14:23:32.230408"
+  },
+  {
+    "problem_index": 927,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 150000,
+    "correct_answer": 85000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 150000}",
+    "timestamp": "2025-12-28T14:23:32.972842"
+  },
+  {
+    "problem_index": 939,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 350,
+    "correct_answer": 650,
+    "is_correct": false,
+    "raw_output": "{\"final\": 350}",
+    "timestamp": "2025-12-28T14:23:33.655888"
+  },
+  {
+    "problem_index": 949,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 26,
+    "correct_answer": 42,
+    "is_correct": false,
+    "raw_output": "{\"final\": 26}",
+    "timestamp": "2025-12-28T14:23:34.713849"
+  },
+  {
+    "problem_index": 960,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 38,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2025-12-28T14:23:35.412159"
+  },
+  {
+    "problem_index": 961,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 155,
+    "correct_answer": 225,
+    "is_correct": false,
+    "raw_output": "{\"final\": 155}",
+    "timestamp": "2025-12-28T14:23:36.548593"
+  },
+  {
+    "problem_index": 962,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2025-12-28T14:23:37.230833"
+  },
+  {
+    "problem_index": 963,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 56,
+    "correct_answer": 147,
+    "is_correct": false,
+    "raw_output": "{\"final\": 56}",
+    "timestamp": "2025-12-28T14:23:37.970738"
+  },
+  {
+    "problem_index": 969,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1800,
+    "correct_answer": 1800,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1800}",
+    "timestamp": "2025-12-28T14:23:39.033026"
+  },
+  {
+    "problem_index": 975,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 10,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T14:23:39.732955"
+  },
+  {
+    "problem_index": 977,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 4,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T14:23:40.743209"
+  },
+  {
+    "problem_index": 989,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 25,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T14:23:41.444302"
+  },
+  {
+    "problem_index": 998,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2025-12-28T14:23:42.147217"
+  },
+  {
+    "problem_index": 1008,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 50,
+    "correct_answer": 230,
+    "is_correct": false,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2025-12-28T14:23:42.877632"
+  },
+  {
+    "problem_index": 1019,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 98,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:23:43.581502"
+  },
+  {
+    "problem_index": 1023,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 77,
+    "correct_answer": 77,
+    "is_correct": true,
+    "raw_output": "{\"final\": 77}",
+    "timestamp": "2025-12-28T14:23:44.724963"
+  },
+  {
+    "problem_index": 1026,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 288000,
+    "correct_answer": 43200,
+    "is_correct": false,
+    "raw_output": "{\"final\": 288000}",
+    "timestamp": "2025-12-28T14:23:45.616944"
+  },
+  {
+    "problem_index": 1035,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 35,
+    "correct_answer": 35,
+    "is_correct": true,
+    "raw_output": "{\"final\": 35}",
+    "timestamp": "2025-12-28T14:23:46.354726"
+  },
+  {
+    "problem_index": 1036,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T14:23:47.091671"
+  },
+  {
+    "problem_index": 1046,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 12,
+    "correct_answer": 189,
+    "is_correct": false,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2025-12-28T14:23:47.839247"
+  },
+  {
+    "problem_index": 1049,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 25,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T14:23:48.533685"
+  },
+  {
+    "problem_index": 1057,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 28,
+    "correct_answer": 24,
+    "is_correct": false,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2025-12-28T14:23:49.261903"
+  },
+  {
+    "problem_index": 1058,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 300,
+    "correct_answer": 250,
+    "is_correct": false,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2025-12-28T14:23:49.980286"
+  },
+  {
+    "problem_index": 1069,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2025-12-28T14:23:50.682988"
+  },
+  {
+    "problem_index": 1071,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 175,
+    "correct_answer": 251,
+    "is_correct": false,
+    "raw_output": "{\"final\": 175}",
+    "timestamp": "2025-12-28T14:23:52.070781"
+  },
+  {
+    "problem_index": 1080,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 720000,
+    "correct_answer": 72000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 720000}",
+    "timestamp": "2025-12-28T14:23:53.142706"
+  },
+  {
+    "problem_index": 1088,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:23:54.209926"
+  },
+  {
+    "problem_index": 1093,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 144,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T14:23:55.257134"
+  },
+  {
+    "problem_index": 1102,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 90,
+    "correct_answer": 113,
+    "is_correct": false,
+    "raw_output": "{\"final\": 90.0}",
+    "timestamp": "2025-12-28T14:23:56.672225"
+  },
+  {
+    "problem_index": 1109,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3.0}",
+    "timestamp": "2025-12-28T14:23:57.430564"
+  },
+  {
+    "problem_index": 1117,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2025-12-28T14:23:58.106446"
+  },
+  {
+    "problem_index": 1132,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20000,
+    "correct_answer": 45000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20000}",
+    "timestamp": "2025-12-28T14:23:59.034131"
+  },
+  {
+    "problem_index": 1147,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 13,
+    "correct_answer": 22,
+    "is_correct": false,
+    "raw_output": "{\"final\": 13}",
+    "timestamp": "2025-12-28T14:24:00.028428"
+  },
+  {
+    "problem_index": 1152,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 0,
+    "correct_answer": 12,
+    "is_correct": false,
+    "raw_output": "{\"final\": 0.12}",
+    "timestamp": "2025-12-28T14:24:01.184325"
+  },
+  {
+    "problem_index": 1154,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 34,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 34}",
+    "timestamp": "2025-12-28T14:24:01.896069"
+  },
+  {
+    "problem_index": 1158,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 11500,
+    "correct_answer": 7300,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11500}",
+    "timestamp": "2025-12-28T14:24:02.886859"
+  },
+  {
+    "problem_index": 1159,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 75,
+    "correct_answer": 50,
+    "is_correct": false,
+    "raw_output": "{\"final\": 75}",
+    "timestamp": "2025-12-28T14:24:03.569145"
+  },
+  {
+    "problem_index": 1161,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 65,
+    "correct_answer": 170,
+    "is_correct": false,
+    "raw_output": "{\"final\": 65}",
+    "timestamp": "2025-12-28T14:24:04.273492"
+  },
+  {
+    "problem_index": 1168,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:24:05.304441"
+  },
+  {
+    "problem_index": 1175,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 30,
+    "correct_answer": 16,
+    "is_correct": false,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2025-12-28T14:24:06.040222"
+  },
+  {
+    "problem_index": 1177,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T14:24:06.784553"
+  },
+  {
+    "problem_index": 1202,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 19,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:24:07.844628"
+  },
+  {
+    "problem_index": 1206,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 60000,
+    "correct_answer": 40000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2025-12-28T14:24:08.997114"
+  },
+  {
+    "problem_index": 1214,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 10,
+    "correct_answer": 5,
+    "is_correct": false,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2025-12-28T14:24:09.818714"
+  },
+  {
+    "problem_index": 1216,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 160,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 160}",
+    "timestamp": "2025-12-28T14:24:10.523062"
+  },
+  {
+    "problem_index": 1229,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 36,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:24:11.276614"
+  },
+  {
+    "problem_index": 1234,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2025-12-28T14:24:12.336025"
+  },
+  {
+    "problem_index": 1236,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 66,
+    "correct_answer": 84,
+    "is_correct": false,
+    "raw_output": "{\"final\": 66}",
+    "timestamp": "2025-12-28T14:24:13.050929"
+  },
+  {
+    "problem_index": 1240,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T14:24:13.800588"
+  },
+  {
+    "problem_index": 1249,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 36,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2025-12-28T14:24:14.564829"
+  },
+  {
+    "problem_index": 1251,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 25,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T14:24:15.290701"
+  },
+  {
+    "problem_index": 1254,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2025-12-28T14:24:16.026156"
+  },
+  {
+    "problem_index": 1258,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 100,
+    "correct_answer": 60,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2025-12-28T14:24:16.829438"
+  },
+  {
+    "problem_index": 1262,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 3,
+    "correct_answer": 12,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2025-12-28T14:24:17.542362"
+  },
+  {
+    "problem_index": 1267,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 70,
+    "correct_answer": 40,
+    "is_correct": false,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2025-12-28T14:24:18.635651"
+  },
+  {
+    "problem_index": 1286,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 105,
+    "correct_answer": 105,
+    "is_correct": true,
+    "raw_output": "{\"final\": 105}",
+    "timestamp": "2025-12-28T14:24:19.813875"
+  },
+  {
+    "problem_index": 1291,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 27,
+    "correct_answer": 27,
+    "is_correct": true,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2025-12-28T14:24:20.654387"
+  },
+  {
+    "problem_index": 1294,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 20,
+    "correct_answer": 36,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2025-12-28T14:24:22.350554"
+  },
+  {
+    "problem_index": 1295,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2025-12-28T14:24:23.422920"
+  },
+  {
+    "problem_index": 1301,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 25,
+    "correct_answer": 23,
+    "is_correct": false,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2025-12-28T14:24:24.154504"
+  },
+  {
+    "problem_index": 1309,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 1850,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1850}",
+    "timestamp": "2025-12-28T14:24:25.043556"
+  },
+  {
+    "problem_index": 1316,
+    "condition": "direct",
+    "model": "gpt-4o-mini",
+    "model_answer": 50,
+    "correct_answer": 230,
+    "is_correct": false,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2025-12-28T14:24:25.756558"
+  }
+]

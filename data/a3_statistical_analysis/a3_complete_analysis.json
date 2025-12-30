@@ -1,0 +1,187 @@
+{
+  "experiment": "A3_Scaling_Law_Statistical_Analysis",
+  "date": "2025-12-28",
+  "n_models": 6,
+  "models": {
+    "Claude 3 Haiku": {
+      "basic_metrics": {
+        "n_problems": 199,
+        "baseline_accuracy": 0.32160804020100503,
+        "accuracy_by_lambda": {
+          "0.0": 1.0,
+          "0.2": 0.9246231155778895,
+          "0.4": 0.6733668341708543,
+          "0.6": 0.507537688442211,
+          "0.8": 0.35175879396984927,
+          "1.0": 0.11557788944723618
+        },
+        "lambda_crit_point": 0.8255319148936171
+      },
+      "bootstrap": {
+        "lambda_crit_mean": 0.8250777821902148,
+        "lambda_crit_std": 0.02542450143461215,
+        "ci_lower": 0.768,
+        "ci_upper": 0.8717216117216117,
+        "n_valid_samples": 929
+      },
+      "supplementary": {
+        "lambda_crit": 0.8255319148936171,
+        "delta_at_1": -0.20603015075376885,
+        "harm_area": 0.02060301507537688,
+        "benefit_area": 0.3020100502512563,
+        "net_area": 0.28140703517587945,
+        "harm_ratio": 0.06386292834890964
+      }
+    },
+    "Claude 3.5 Haiku": {
+      "basic_metrics": {
+        "n_problems": 199,
+        "baseline_accuracy": 0.46733668341708545,
+        "accuracy_by_lambda": {
+          "0.0": 0.9949748743718593,
+          "0.2": 0.9849246231155779,
+          "0.4": 0.949748743718593,
+          "0.6": 0.8944723618090452,
+          "0.8": 0.8844221105527639,
+          "1.0": 0.8291457286432161
+        },
+        "lambda_crit_point": 1.0
+      },
+      "bootstrap": {
+        "lambda_crit_mean": 1.0,
+        "lambda_crit_std": 0.0,
+        "ci_lower": 1.0,
+        "ci_upper": 1.0,
+        "n_valid_samples": 1000
+      },
+      "supplementary": {
+        "lambda_crit": 1.0,
+        "delta_at_1": 0.36180904522613067,
+        "harm_area": 0.0,
+        "benefit_area": 0.4577889447236181,
+        "net_area": 0.4577889447236181,
+        "harm_ratio": 0.0
+      }
+    },
+    "Claude 4 Sonnet": {
+      "basic_metrics": {
+        "n_problems": 199,
+        "baseline_accuracy": 0.9246231155778895,
+        "accuracy_by_lambda": {
+          "0.0": 0.9798994974874372,
+          "0.2": 0.9698492462311558,
+          "0.4": 0.9246231155778895,
+          "0.6": 0.9045226130653267,
+          "0.8": 0.914572864321608,
+          "1.0": 0.8844221105527639
+        },
+        "lambda_crit_point": null
+      },
+      "bootstrap": {
+        "lambda_crit_mean": 0.44808478443141786,
+        "lambda_crit_std": 0.14061715821467236,
+        "ci_lower": 0.2857142857142858,
+        "ci_upper": 0.8662499999999997,
+        "n_valid_samples": 802
+      },
+      "supplementary": {
+        "lambda_crit": null,
+        "delta_at_1": -0.04020100502512558,
+        "harm_area": 0.010050251256281405,
+        "benefit_area": 0.014572864321608037,
+        "net_area": 0.004522613065326631,
+        "harm_ratio": 0.40816326530612246
+      }
+    },
+    "GPT-3.5 Turbo": {
+      "basic_metrics": {
+        "n_problems": 199,
+        "baseline_accuracy": 0.34673366834170855,
+        "accuracy_by_lambda": {
+          "0.0": 1.0,
+          "0.2": 0.9246231155778895,
+          "0.4": 0.6884422110552764,
+          "0.6": 0.5326633165829145,
+          "0.8": 0.3417085427135678,
+          "1.0": 0.05527638190954774
+        },
+        "lambda_crit_point": 0.7947368421052632
+      },
+      "bootstrap": {
+        "lambda_crit_mean": 0.792017229778738,
+        "lambda_crit_std": 0.029710000871934466,
+        "ci_lower": 0.7333333333333334,
+        "ci_upper": 0.8413474692202463,
+        "n_valid_samples": 911
+      },
+      "supplementary": {
+        "lambda_crit": 0.7947368421052632,
+        "delta_at_1": -0.2914572864321608,
+        "harm_area": 0.03015075376884422,
+        "benefit_area": 0.28643216080402006,
+        "net_area": 0.2562814070351758,
+        "harm_ratio": 0.09523809523809523
+      }
+    },
+    "GPT-4o-mini": {
+      "basic_metrics": {
+        "n_problems": 199,
+        "baseline_accuracy": 0.3065326633165829,
+        "accuracy_by_lambda": {
+          "0.0": 0.9949748743718593,
+          "0.2": 0.949748743718593,
+          "0.4": 0.7537688442211056,
+          "0.6": 0.6432160804020101,
+          "0.8": 0.4321608040201005,
+          "1.0": 0.17587939698492464
+        },
+        "lambda_crit_point": 0.8980392156862745
+      },
+      "bootstrap": {
+        "lambda_crit_mean": 0.897449902994364,
+        "lambda_crit_std": 0.018669924328084786,
+        "ci_lower": 0.858811274509804,
+        "ci_upper": 0.9333333333333333,
+        "n_valid_samples": 1000
+      },
+      "supplementary": {
+        "lambda_crit": 0.8980392156862745,
+        "delta_at_1": -0.13065326633165827,
+        "harm_area": 0.013065326633165824,
+        "benefit_area": 0.37939698492462315,
+        "net_area": 0.3663316582914573,
+        "harm_ratio": 0.03329065300896285
+      }
+    },
+    "GPT-4o": {
+      "basic_metrics": {
+        "n_problems": 199,
+        "baseline_accuracy": 0.5628140703517588,
+        "accuracy_by_lambda": {
+          "0.0": 0.964824120603015,
+          "0.2": 0.9547738693467337,
+          "0.4": 0.864321608040201,
+          "0.6": 0.7537688442211056,
+          "0.8": 0.6180904522613065,
+          "1.0": 0.4472361809045226
+        },
+        "lambda_crit_point": 0.8647058823529412
+      },
+      "bootstrap": {
+        "lambda_crit_mean": 0.8660618131387635,
+        "lambda_crit_std": 0.03351028494031327,
+        "ci_lower": 0.7892105263157895,
+        "ci_upper": 0.926939393939394,
+        "n_valid_samples": 983
+      },
+      "supplementary": {
+        "lambda_crit": 0.8647058823529412,
+        "delta_at_1": -0.11557788944723618,
+        "harm_area": 0.011557788944723616,
+        "benefit_area": 0.22814070351758794,
+        "net_area": 0.21658291457286433,
+        "harm_ratio": 0.048218029350104816
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment": "E4_Hard_Subset",
+  "model": "Claude 4 Sonnet",
+  "date": "20251228",
+  "n_hard_problems": 79,
+  "hard_threshold": 4,
+  "baseline_hard": 0.8481012658227848,
+  "baseline_full": 0.925,
+  "accuracy_by_lambda": {
+    "0.0": 0.9746835443037974,
+    "0.4": 0.8607594936708861,
+    "0.8": 0.8481012658227848,
+    "1.0": 0.7721518987341772
+  },
+  "lambda_crit_hard": null,
+  "lambda_crit_full": 0.4
+}

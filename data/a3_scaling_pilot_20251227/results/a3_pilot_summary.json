@@ -1,0 +1,40 @@
+{
+  "experiment": "A3_Scaling_Law_Pilot",
+  "date": "20251227",
+  "n_problems_pilot": 50,
+  "models": {
+    "gpt35": {
+      "model_name": "gpt-4o-mini",
+      "baseline_accuracy": 0.44,
+      "lambda_crit": 0.7833333333333334,
+      "accuracy_by_lambda": {
+        "0.0": 1.0,
+        "0.2": 0.96,
+        "0.4": 0.82,
+        "0.6": 0.66,
+        "0.8": 0.42,
+        "1.0": 0.24
+      }
+    },
+    "gpt4o": {
+      "model_name": "gpt-4o",
+      "baseline_accuracy": 0.5628,
+      "lambda_crit": 0.865
+    },
+    "claude": {
+      "model_name": "claude-3-sonnet",
+      "baseline_accuracy": 0.7588,
+      "lambda_crit": 0.449
+    }
+  },
+  "analysis": {
+    "slope": -0.01148028276802421,
+    "correlation_direction": "negative",
+    "a3_feasibility": "high"
+  },
+  "next_steps": [
+    "If negative correlation confirmed: Proceed with full A3 experiment (200 problems, 5+ models)",
+    "Add more models: Llama-7B, Llama-70B, Mistral-7B, etc.",
+    "Consider different capability metrics (MMLU scores, parameter count)"
+  ]
+}

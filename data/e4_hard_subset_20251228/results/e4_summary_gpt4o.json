@@ -1,0 +1,17 @@
+{
+  "experiment": "E4_Hard_Subset",
+  "model": "GPT-4o",
+  "date": "20251228",
+  "n_hard_problems": 79,
+  "hard_threshold": 4,
+  "baseline_hard": 0.27848101265822783,
+  "baseline_full": 0.925,
+  "accuracy_by_lambda": {
+    "0.0": 0.9873417721518988,
+    "0.4": 0.810126582278481,
+    "0.8": 0.3924050632911392,
+    "1.0": 0.0759493670886076
+  },
+  "lambda_crit_hard": 0.872,
+  "lambda_crit_full": 0.4
+}
