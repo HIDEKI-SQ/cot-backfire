@@ -12,9 +12,9 @@ This repository contains code, data, and materials for two related papers:
 > HIDEKI. "When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning." *Preprint* (2025).  
 > DOI: [10.5281/zenodo.18050394](https://doi.org/10.5281/zenodo.18050394)
 
-### Paper A1: Compliance Without Verification
-> HIDEKI. "Compliance Without Verification: How Language Models Defer to External Reasoning Traces." *Preprint* (2025).  
-> DOI: [10.5281/zenodo.18103582](https://doi.org/10.5281/zenodo.18103582)
+### Paper A1: The Capability–Compliance Paradox
+> HIDEKI. "The Capability–Compliance Paradox: Vulnerability to External Guidance Revealed by Language Models." *Preprint* (2025).  
+> DOI: [10.5281/zenodo.18105329](https://doi.org/10.5281/zenodo.18105329)
 
 We introduce a **provided-CoT paradigm** that separates reasoning generation from reasoning following, enabling controlled study of how language models respond to reasoning traces of varying quality.
 
@@ -27,7 +27,7 @@ We introduce a **provided-CoT paradigm** that separates reasoning generation fro
 2. **Model-Dependent Threshold**: The boundary depends on baseline capability
 3. **Redundancy over Integration**: Longer traces provide resilience through redundancy
 
-### A1: Compliance Without Verification
+### A1: The Capability–Compliance Paradox
 1. **Compliance-Induced Failure (CIF)**: High-capability models abandon correct reasoning for erroneous external input (40% CIF rate, 38:0 asymmetry)
 2. **Capability-Compliance Paradox**: Higher-capability models show greater vulnerability
 3. **Verification Eliminates CIF**: VERIFY instructions fully restore performance (57.6% → 96.0%)
@@ -225,14 +225,14 @@ tqdm
 }
 ```
 
-### A1: Compliance Without Verification
+### A1: The Capability–Compliance Paradox
 ```bibtex
-@article{hideki2025compliance,
-  title={Compliance Without Verification: How Language Models Defer to External Reasoning Traces},
+@article{hideki2025paradox,
+  title={The Capability--Compliance Paradox: Vulnerability to External Guidance Revealed by Language Models},
   author={HIDEKI},
   journal={Preprint},
   year={2025},
-  doi={10.5281/zenodo.18095644}
+  doi={後で追記}
 }
 ```
 
@@ -258,3 +258,4 @@ AI writing assistants were used for manuscript preparation.
 
 - **v1.0.0** (2025-12-24): Initial release (A0)
 - **v1.0.A1** (2025-12-30): Added A1 experiments (E2, E3, A3)
+- **v1.1.A1** (2025-12-31): Updated A1 title to "The Capability–Compliance Paradox"
