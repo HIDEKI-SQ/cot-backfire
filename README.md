@@ -14,7 +14,7 @@ This repository contains code, data, and materials for two related papers:
 
 ### Paper A1: Compliance Without Verification
 > HIDEKI. "Compliance Without Verification: How Language Models Defer to External Reasoning Traces." *Preprint* (2025).  
-> DOI: [10.5281/zenodo.18095644](https://doi.org/10.5281/zenodo.18095644)
+> DOI: [10.5281/zenodo.18103582](https://doi.org/10.5281/zenodo.18103582)
 
 We introduce a **provided-CoT paradigm** that separates reasoning generation from reasoning following, enabling controlled study of how language models respond to reasoning traces of varying quality.
 
