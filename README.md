@@ -232,7 +232,7 @@ tqdm
   author={HIDEKI},
   journal={Preprint},
   year={2025},
-  doi={後で追記}
+  doi={10.5281/zenodo.18105329}
 }
 ```
 
