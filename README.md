@@ -6,21 +6,34 @@
 
 ## Overview
 
-This repository contains code, data, and materials for the paper:
+This repository contains code, data, and materials for two related papers:
 
-> HIDEKI. "When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning." *Preprint* (2025). DOI: [10.5281/zenodo.18050394](https://doi.org/10.5281/zenodo.18050394)
+### Paper A0: Backfire Boundary
+> HIDEKI. "When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning." *Preprint* (2025).  
+> DOI: [10.5281/zenodo.18050394](https://doi.org/10.5281/zenodo.18050394)
+
+### Paper A1: Compliance Without Verification
+> HIDEKI. "Compliance Without Verification: How Language Models Defer to External Reasoning Traces." *Preprint* (2025).  
+> DOI: [10.5281/zenodo.18095644](https://doi.org/10.5281/zenodo.18095644)
 
 We introduce a **provided-CoT paradigm** that separates reasoning generation from reasoning following, enabling controlled study of how language models respond to reasoning traces of varying quality.
 
+---
+
 ## Key Findings
 
-1. **Backfire Boundary**: We identify a point where provided CoT becomes counterproductive, performing worse than no CoT at all.
+### A0: Backfire Boundary
+1. **Backfire Boundary**: A critical point where provided CoT becomes counterproductive
+2. **Model-Dependent Threshold**: The boundary depends on baseline capability
+3. **Redundancy over Integration**: Longer traces provide resilience through redundancy
 
-2. **Model-Dependent Threshold**: The boundary is not universal—it depends on the model's baseline (direct) capability. Models with weaker direct performance remain above their baseline longer even under corrupted traces.
+### A1: Compliance Without Verification
+1. **Compliance-Induced Failure (CIF)**: High-capability models abandon correct reasoning for erroneous external input (40% CIF rate, 38:0 asymmetry)
+2. **Capability-Compliance Paradox**: Higher-capability models show greater vulnerability
+3. **Verification Eliminates CIF**: VERIFY instructions fully restore performance (57.6% → 96.0%)
+4. **Contamination Type Matters**: WRONG traces cause catastrophic failures (GPT-4o: 7.1%)
 
-3. **High Compliance**: Models exhibit strong compliance to provided traces, following corrupted reasoning even for problems they could solve without CoT (~40% failure rate at high corruption).
-
-4. **Redundancy over Integration**: Longer traces provide resilience through redundancy (more surviving correct steps) rather than deeper cognitive integration.
+---
 
 ## Repository Structure
 
@@ -29,116 +42,160 @@ cot-backfire/
 ├── README.md
 ├── LICENSE
 ├── data/
-│   ├── claude/
-│   │   ├── results_full_v3.json        # Experiment 1: I × λ grid
-│   │   ├── direct_results_v3.json      # Experiment 3: Direct baseline
-│   │   ├── acrit_results_v3.json       # Experiment 4: Fine-grained λ
-│   │   ├── kappa_results_v3_1.json     # Experiment 2: Curvature
-│   │   ├── clean_traces_I10_v3.json    # Clean reasoning traces
-│   │   └── problems_v3.json            # Selected GSM8K problems
-│   └── gpt4o/
-│       ├── direct_results_gpt.json     # Direct baseline
-│       ├── cot_results_gpt.json        # CoT conditions
-│       └── summary_gpt.json            # Summary statistics
+│   ├── claude/                           # A0: Claude Sonnet baseline
+│   │   ├── results_full_v3.json
+│   │   ├── direct_results_v3.json
+│   │   ├── acrit_results_v3.json
+│   │   ├── kappa_results_v3_1.json
+│   │   ├── clean_traces_I10_v3.json
+│   │   └── problems_v3.json
+│   ├── gpt4o/                            # A0: GPT-4o baseline
+│   │   ├── direct_results_gpt.json
+│   │   ├── cot_results_gpt.json
+│   │   └── summary_gpt.json
+│   ├── e2_contamination_type_20251228/   # A1 Study 3
+│   ├── e3_verify_ignore_20251228/        # A1 Study 1-2
+│   ├── e4_hard_subset_20251228/          # Extended analysis
+│   ├── a3_claude_sonnet4_20251228/       # A1 Study 4
+│   ├── a3_claude_haiku35_20251228/       # A1 Study 4
+│   ├── a3_claude_haiku_20251228/         # A1 Study 4
+│   ├── a3_gpt_gpt35_20251228/            # A1 Study 4
+│   ├── a3_gpt_gpt4omini_20251228/        # A1 Study 4
+│   ├── a3_scaling_pilot_20251227/        # A1 Study 4 pilot
+│   └── a3_statistical_analysis/          # A1 Study 4 analysis
+│       ├── a3_complete_analysis.json
+│       ├── table1_summary.csv
+│       └── figures/
 ├── notebooks/
-│   ├── cot_experiment_full_v3.ipynb    # Experiment 1: I × λ grid (Claude)
-│   ├── cot_experiment_kappa_v3.1.ipynb # Experiment 2: Curvature (Mistral-7B)
-│   ├── cot_experiment_direct_v3.ipynb  # Experiment 3: Direct baseline (Claude)
-│   ├── cot_experiment_acrit_v3.ipynb   # Experiment 4: Fine-grained λ (Claude)
-│   ├── experiment_gpt4o.ipynb          # Experiment 5: Cross-model (GPT-4o)
-│   └── analysis.ipynb                  # Reproduction analysis
+│   ├── cot_experiment_full_v3.ipynb      # A0 Exp 1
+│   ├── cot_experiment_kappa_v3.1.ipynb   # A0 Exp 2
+│   ├── cot_experiment_direct_v3.ipynb    # A0 Exp 3
+│   ├── cot_experiment_acrit_v3.ipynb     # A0 Exp 4
+│   ├── experiment_gpt4o.ipynb            # A0 Exp 5
+│   ├── e2_contamination_type.ipynb       # A1 Study 3
+│   ├── e3_verify_ignore.ipynb            # A1 Study 1-2
+│   ├── e4_hard_subset.ipynb              # Extended
+│   ├── a3_scaling_law_claude_full.ipynb  # A1 Study 4
+│   ├── a3_scaling_law_gpt_full.ipynb     # A1 Study 4
+│   ├── a3_scaling_law_gpt35_pilot.ipynb  # A1 Study 4 pilot
+│   ├── a3_statistical_analysis.ipynb     # A1 Study 4
+│   └── analysis.ipynb                    # Reproduction
 ├── figures/
-│   ├── fig1_heatmap.png
-│   ├── fig2_accuracy_curve.png
-│   ├── fig3_redundancy.png
-│   ├── extended_fig1_kappa.png
-│   └── extended_fig2_comparison.png
 └── docs/
-    └── manuscript.md
 ```
+Note: The repository also contains exploratory analyses, pilot experiments, and artifacts
+not directly used in the papers. These are included for transparency and reproducibility.
 
-## Experiments
+The figures/ directory contains only figures that appear in the corresponding papers.
+All other plots generated during experimentation are kept in data/ as exploratory artifacts.
+
+---
+
+## A1 Experiments
+
+### Study 1-2: Instruction Gating (E3)
+- **Notebook**: `e3_verify_ignore.ipynb`
+- **Data**: `e3_verify_ignore_20251228/`
+- **Conditions**: DIRECT, USE, VERIFY, IGNORE
+- **Models**: Claude 4 Sonnet, GPT-4o, Claude 3.5 Haiku
+- **N**: 99 problems × 4 conditions × 3 models
+
+### Study 3: Contamination Type (E2)
+- **Notebook**: `e2_contamination_type.ipynb`
+- **Data**: `e2_contamination_type_20251228/`
+- **Types**: IRR, LOC, WRONG
+- **Models**: Claude 4 Sonnet, GPT-4o, Claude 3.5 Haiku
+- **N**: 198 problems × 3 types × 3 λ × 3 models
+
+### Study 4: Cross-Model Scaling (A3)
+- **Notebooks**: `a3_scaling_law_claude_full.ipynb`, `a3_scaling_law_gpt_full.ipynb`, `a3_statistical_analysis.ipynb`
+- **Data**: `a3_*_20251228/`, `a3_statistical_analysis/`
+- **Models**: 6 models (Claude 3/3.5/4, GPT-3.5/4o-mini/4o)
+- **N**: 199 problems × 6 λ × 6 models
+
+---
+
+## A0 Experiments
 
 ### Experiment 1: I × λ Grid (Claude Sonnet)
-Full factorial design testing trace depth (I ∈ {5, 10, 15}) and corruption rate (λ ∈ {0.0, 0.2, 0.4, 0.6, 0.8, 1.0}).
 - **Notebook**: `cot_experiment_full_v3.ipynb`
-- **Data**: `results_full_v3.json`
 - **Inferences**: 3,582
 
-### Experiment 2: Curvature Measurement (Mistral-7B)
-Hidden-state trajectory curvature (κ) as a candidate geometric signature.
+### Experiment 2: Curvature (Mistral-7B)
 - **Notebook**: `cot_experiment_kappa_v3.1.ipynb`
-- **Data**: `kappa_results_v3_1.json`
 - **Measurements**: 597
 
 ### Experiment 3: Direct Baseline (Claude Sonnet)
-No-CoT baseline for comparison.
 - **Notebook**: `cot_experiment_direct_v3.ipynb`
-- **Data**: `direct_results_v3.json`
 - **Inferences**: 199
 
 ### Experiment 4: Fine-grained λ (Claude Sonnet)
-Additional λ values (0.1, 0.3, 0.5, 0.7, 0.9) for precise boundary estimation.
 - **Notebook**: `cot_experiment_acrit_v3.ipynb`
-- **Data**: `acrit_results_v3.json`
 - **Inferences**: 995
 
-### Experiment 5: Cross-model Validation (GPT-4o)
-Replication with GPT-4o to test generalizability.
+### Experiment 5: Cross-model (GPT-4o)
 - **Notebook**: `experiment_gpt4o.ipynb`
-- **Data**: `cot_results_gpt.json`, `direct_results_gpt.json`
 - **Inferences**: 1,393
 
-### Total: 6,766 inferences
+---
 
-## Corruption Protocol
+## A1 Results Summary
 
-| Type | Proportion | Description |
-|------|------------|-------------|
-| IRR (Irrelevant) | 20% | Task-unrelated computation |
-| LOC (Local Error) | 40% | Small numerical errors |
-| WRONG (Wrong Constraint) | 40% | Incorrect intermediate values |
+### Study 1: Transition Patterns (N=99, λ=0.8)
 
-## Results Summary
+| Model | DIRECT | USE | CIF | Recovery | Asymmetry |
+|-------|--------|-----|-----|----------|-----------|
+| Claude 4 Sonnet | 96.0% | 57.6% | 38 (40.0%) | 0 (0%) | 38:0*** |
+| GPT-4o | 60.6% | 56.6% | 19 (31.7%) | 15 (38.5%) | 19:15 ns |
+| Claude 3.5 Haiku | 44.4% | 89.9% | 5 (11.4%) | 50 (90.9%) | 5:50*** |
 
-### Backfire Boundary
+### Study 2: Instruction Gating (N=99, λ=0.8)
 
-| Model | Direct Accuracy | Clean CoT | λ* | A* |
-|-------|-----------------|-----------|-----|-----|
-| Claude Sonnet | 75.9% | 97.0% | 0.45 | 0.55 |
-| GPT-4o | 56.3% | 96.5% | 0.87 | 0.13 |
+| Model | DIRECT | USE | VERIFY | IGNORE |
+|-------|--------|-----|--------|--------|
+| Claude 4 Sonnet | 96.0% | 57.6% | 96.0% | 94.9% |
+| GPT-4o | 60.6% | 56.6% | 90.9% | 65.7% |
+| Claude 3.5 Haiku | 44.4% | 89.9% | 87.9% | 92.9% |
 
-### Compliance Analysis
+### Study 3: Contamination Type (N=198, λ=1.0)
 
-| Metric | Claude Sonnet | GPT-4o |
-|--------|---------------|--------|
-| Flip Rate (Clean→Wrong, λ=0.8) | 42.7% | 36.5% |
-| McNemar χ² | 77.1 | 65.1 |
-| p-value | < 10⁻¹⁸ | < 10⁻¹⁵ |
+| Model | Baseline | IRR | LOC | WRONG |
+|-------|----------|-----|-----|-------|
+| Claude 4 Sonnet | 92.5% | 93.4% | 89.4% | 91.9% |
+| Claude 3.5 Haiku | 46.7% | 86.4% | 77.8% | 31.3% |
+| GPT-4o | 56.3% | 56.1% | 42.9% | 7.1% |
+
+### Study 4: Capability-Compliance Paradox (N=199)
+
+| Model | Baseline | Harm Ratio |
+|-------|----------|------------|
+| Claude 4 Sonnet | 92.5% | 40.8% |
+| GPT-4o | 56.3% | 4.8% |
+| Claude 3.5 Haiku | 46.7% | 0% |
+| GPT-3.5 Turbo | 34.7% | 9.5% |
+| Claude 3 Haiku | 32.2% | 6.4% |
+| GPT-4o-mini | 30.7% | 3.3% |
+
+---
 
 ## Reproducibility
 
 All experiments use deterministic settings:
 - **Global Seed**: 20251224
 - **Temperature**: 0
-- **Deterministic Hashing**: For corruption assignment
 
 ### Quick Start
 
 ```bash
-# Clone repository
 git clone https://github.com/HIDEKI-SQ/cot-backfire.git
 cd cot-backfire
-
 # Open notebooks in Google Colab
-# Run analysis.ipynb to reproduce main figures
 ```
 
 ### Requirements
 
 - Python 3.8+
-- Google Colab (recommended for experiments)
-- API keys: Anthropic (Claude), OpenAI (GPT-4o)
+- API keys: Anthropic, OpenAI
 
 ### Dependencies
 
@@ -151,12 +208,13 @@ pandas
 scipy
 matplotlib
 tqdm
-transformers  # For Experiment 2 (κ measurement)
-torch
 ```
 
-## Citation
+---
 
+## Citations
+
+### A0: Backfire Boundary
 ```bibtex
 @article{hideki2025backfire,
   title={When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning},
@@ -167,17 +225,36 @@ torch
 }
 ```
 
+### A1: Compliance Without Verification
+```bibtex
+@article{hideki2025compliance,
+  title={Compliance Without Verification: How Language Models Defer to External Reasoning Traces},
+  author={HIDEKI},
+  journal={Preprint},
+  year={2025},
+  doi={10.5281/zenodo.18095644}
+}
+```
+
+---
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License - see [LICENSE](LICENSE)
 
 ## Author
 
 **HIDEKI**  
 Independent Researcher, Japan  
-ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608)  
-Contact: hideki@r3776.jp
+ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608)
 
 ## Acknowledgements
 
 AI writing assistants were used for manuscript preparation.
+
+---
+
+## Version History
+
+- **v1.0.0** (2025-12-24): Initial release (A0)
+- **v1.0.A1** (2025-12-30): Added A1 experiments (E2, E3, A3)
