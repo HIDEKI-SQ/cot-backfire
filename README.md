@@ -372,11 +372,11 @@ tqdm
 
 ### A2: Cue-Dominant Extraction
 ```bibtex
-@article{hideki2025cue,
+@article{hideki2026cue,
   title={Cue-Dominant Extraction Explains Length Effects in Corrupted Reasoning Traces},
   author={HIDEKI},
   journal={Preprint},
-  year={2025},
+  year={2026},
   doi={10.5281/zenodo.18132430}
 }
 ```
