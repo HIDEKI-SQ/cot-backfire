@@ -1,0 +1,7166 @@
+[
+  {
+    "problem_index": 2,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70000}",
+    "timestamp": "2026-01-02T10:18:29.063153"
+  },
+  {
+    "problem_index": 11,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "raw_output": "{\"final\": 694}",
+    "timestamp": "2026-01-02T10:18:34.788087"
+  },
+  {
+    "problem_index": 24,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 26,
+    "correct_answer": 26,
+    "is_correct": true,
+    "raw_output": "{\"final\": 26}",
+    "timestamp": "2026-01-02T10:18:40.387482"
+  },
+  {
+    "problem_index": 55,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T10:18:46.287100"
+  },
+  {
+    "problem_index": 64,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2026-01-02T10:18:52.428248"
+  },
+  {
+    "problem_index": 65,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:18:58.079663"
+  },
+  {
+    "problem_index": 66,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:19:03.773304"
+  },
+  {
+    "problem_index": 79,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2026-01-02T10:19:09.400708"
+  },
+  {
+    "problem_index": 83,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 600,
+    "correct_answer": 600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2026-01-02T10:19:15.383640"
+  },
+  {
+    "problem_index": 85,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 44,
+    "correct_answer": 44,
+    "is_correct": true,
+    "raw_output": "{\"final\": 44}",
+    "timestamp": "2026-01-02T10:19:21.235209"
+  },
+  {
+    "problem_index": 104,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 500,
+    "correct_answer": 500,
+    "is_correct": true,
+    "raw_output": "{\"final\": 500}",
+    "timestamp": "2026-01-02T10:19:27.822967"
+  },
+  {
+    "problem_index": 109,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:19:33.461207"
+  },
+  {
+    "problem_index": 114,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:19:39.060205"
+  },
+  {
+    "problem_index": 116,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T10:19:45.628456"
+  },
+  {
+    "problem_index": 120,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 240,
+    "correct_answer": 240,
+    "is_correct": true,
+    "raw_output": "{\"final\": 240}",
+    "timestamp": "2026-01-02T10:19:51.630352"
+  },
+  {
+    "problem_index": 122,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:19:57.434480"
+  },
+  {
+    "problem_index": 125,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:20:03.176649"
+  },
+  {
+    "problem_index": 129,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10000}",
+    "timestamp": "2026-01-02T10:20:09.167352"
+  },
+  {
+    "problem_index": 150,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:20:14.982442"
+  },
+  {
+    "problem_index": 152,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:20:21.564744"
+  },
+  {
+    "problem_index": 154,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "raw_output": "{\"final\": 272}",
+    "timestamp": "2026-01-02T10:20:27.325662"
+  },
+  {
+    "problem_index": 167,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:20:33.040126"
+  },
+  {
+    "problem_index": 169,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 120,
+    "correct_answer": 120,
+    "is_correct": true,
+    "raw_output": "{\"final\": 120}",
+    "timestamp": "2026-01-02T10:20:39.739034"
+  },
+  {
+    "problem_index": 175,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:20:45.175531"
+  },
+  {
+    "problem_index": 176,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:20:50.588183"
+  },
+  {
+    "problem_index": 178,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "raw_output": "{\"final\": 122}",
+    "timestamp": "2026-01-02T10:20:56.471810"
+  },
+  {
+    "problem_index": 198,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 320,
+    "correct_answer": 320,
+    "is_correct": true,
+    "raw_output": "{\"final\": 320}",
+    "timestamp": "2026-01-02T10:21:02.630503"
+  },
+  {
+    "problem_index": 205,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "raw_output": "{\"final\": 98}",
+    "timestamp": "2026-01-02T10:21:08.500248"
+  },
+  {
+    "problem_index": 210,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:21:14.529110"
+  },
+  {
+    "problem_index": 217,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:21:20.045400"
+  },
+  {
+    "problem_index": 222,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 140,
+    "correct_answer": 140,
+    "is_correct": true,
+    "raw_output": "{\"final\": 140}",
+    "timestamp": "2026-01-02T10:21:26.347515"
+  },
+  {
+    "problem_index": 223,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20000,
+    "correct_answer": 20000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20000}",
+    "timestamp": "2026-01-02T10:21:31.926524"
+  },
+  {
+    "problem_index": 225,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:21:37.316424"
+  },
+  {
+    "problem_index": 229,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 21,
+    "correct_answer": 21,
+    "is_correct": true,
+    "raw_output": "{\"final\": 21}",
+    "timestamp": "2026-01-02T10:21:43.697204"
+  },
+  {
+    "problem_index": 241,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:21:49.586262"
+  },
+  {
+    "problem_index": 245,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T10:21:56.040782"
+  },
+  {
+    "problem_index": 250,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T10:22:01.943999"
+  },
+  {
+    "problem_index": 253,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T10:22:08.056660"
+  },
+  {
+    "problem_index": 256,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T10:22:15.319065"
+  },
+  {
+    "problem_index": 259,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 169,
+    "correct_answer": 168,
+    "is_correct": false,
+    "raw_output": "{\"final\": 169}",
+    "timestamp": "2026-01-02T10:22:21.058097"
+  },
+  {
+    "problem_index": 260,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:22:27.315408"
+  },
+  {
+    "problem_index": 262,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 270,
+    "correct_answer": 270,
+    "is_correct": true,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2026-01-02T10:22:33.373411"
+  },
+  {
+    "problem_index": 266,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 118000,
+    "correct_answer": 118000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 118000}",
+    "timestamp": "2026-01-02T10:22:38.811301"
+  },
+  {
+    "problem_index": 272,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:22:44.957897"
+  },
+  {
+    "problem_index": 274,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 3200,
+    "correct_answer": 3200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3200}",
+    "timestamp": "2026-01-02T10:22:52.204323"
+  },
+  {
+    "problem_index": 278,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T10:22:58.132811"
+  },
+  {
+    "problem_index": 279,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:23:03.968873"
+  },
+  {
+    "problem_index": 290,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "raw_output": "{\"final\": 390}",
+    "timestamp": "2026-01-02T10:23:09.713089"
+  },
+  {
+    "problem_index": 295,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 370,
+    "correct_answer": 370,
+    "is_correct": true,
+    "raw_output": "{\"final\": 370}",
+    "timestamp": "2026-01-02T10:23:16.237612"
+  },
+  {
+    "problem_index": 302,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:23:21.957017"
+  },
+  {
+    "problem_index": 306,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:23:27.447869"
+  },
+  {
+    "problem_index": 321,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2026-01-02T10:23:33.217349"
+  },
+  {
+    "problem_index": 328,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T10:23:39.133463"
+  },
+  {
+    "problem_index": 336,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 72,
+    "correct_answer": 72,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72}",
+    "timestamp": "2026-01-02T10:23:44.894126"
+  },
+  {
+    "problem_index": 350,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T10:23:50.736535"
+  },
+  {
+    "problem_index": 353,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:23:56.961946"
+  },
+  {
+    "problem_index": 360,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2026-01-02T10:24:02.510835"
+  },
+  {
+    "problem_index": 389,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:24:08.103823"
+  },
+  {
+    "problem_index": 395,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2026-01-02T10:24:14.179777"
+  },
+  {
+    "problem_index": 398,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "{\"final\": 168}",
+    "timestamp": "2026-01-02T10:24:20.024047"
+  },
+  {
+    "problem_index": 400,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:24:25.949048"
+  },
+  {
+    "problem_index": 403,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "raw_output": "{\"final\": 135}",
+    "timestamp": "2026-01-02T10:24:31.845121"
+  },
+  {
+    "problem_index": 405,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:24:38.743595"
+  },
+  {
+    "problem_index": 408,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:24:45.254167"
+  },
+  {
+    "problem_index": 410,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T10:24:50.553924"
+  },
+  {
+    "problem_index": 416,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "raw_output": "{\"final\": 56}",
+    "timestamp": "2026-01-02T10:24:56.539176"
+  },
+  {
+    "problem_index": 422,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "raw_output": "{\"final\": 284}",
+    "timestamp": "2026-01-02T10:25:02.507172"
+  },
+  {
+    "problem_index": 430,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "raw_output": "{\"final\": 132}",
+    "timestamp": "2026-01-02T10:25:08.143795"
+  },
+  {
+    "problem_index": 437,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T10:25:14.148934"
+  },
+  {
+    "problem_index": 439,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T10:25:20.534851"
+  },
+  {
+    "problem_index": 450,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:25:26.247089"
+  },
+  {
+    "problem_index": 461,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:25:31.911678"
+  },
+  {
+    "problem_index": 463,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T10:25:37.824969"
+  },
+  {
+    "problem_index": 465,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:25:43.468700"
+  },
+  {
+    "problem_index": 472,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:25:49.133356"
+  },
+  {
+    "problem_index": 481,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "{\"final\": 84}",
+    "timestamp": "2026-01-02T10:25:55.385178"
+  },
+  {
+    "problem_index": 488,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:26:00.747158"
+  },
+  {
+    "problem_index": 492,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2026-01-02T10:26:06.352975"
+  },
+  {
+    "problem_index": 499,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:26:12.206530"
+  },
+  {
+    "problem_index": 500,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:26:17.851101"
+  },
+  {
+    "problem_index": 503,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T10:26:24.344628"
+  },
+  {
+    "problem_index": 524,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:26:30.607701"
+  },
+  {
+    "problem_index": 529,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:26:36.708315"
+  },
+  {
+    "problem_index": 531,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "raw_output": "{\"final\": 66}",
+    "timestamp": "2026-01-02T10:26:42.646204"
+  },
+  {
+    "problem_index": 536,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T10:26:48.434944"
+  },
+  {
+    "problem_index": 541,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:26:54.477423"
+  },
+  {
+    "problem_index": 548,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:27:00.504768"
+  },
+  {
+    "problem_index": 551,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T10:27:06.194663"
+  },
+  {
+    "problem_index": 563,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:27:12.286938"
+  },
+  {
+    "problem_index": 567,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:27:18.465420"
+  },
+  {
+    "problem_index": 575,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:27:24.712982"
+  },
+  {
+    "problem_index": 576,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11232}",
+    "timestamp": "2026-01-02T10:27:31.005989"
+  },
+  {
+    "problem_index": 597,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 90,
+    "correct_answer": 90,
+    "is_correct": true,
+    "raw_output": "{\"final\": 90}",
+    "timestamp": "2026-01-02T10:27:37.187051"
+  },
+  {
+    "problem_index": 598,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "raw_output": "{\"final\": 69}",
+    "timestamp": "2026-01-02T10:27:43.233531"
+  },
+  {
+    "problem_index": 617,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:27:49.938033"
+  },
+  {
+    "problem_index": 624,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T10:27:55.610924"
+  },
+  {
+    "problem_index": 633,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:28:01.463386"
+  },
+  {
+    "problem_index": 637,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T10:28:07.626055"
+  },
+  {
+    "problem_index": 644,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 29,
+    "correct_answer": 29,
+    "is_correct": true,
+    "raw_output": "{\"final\": 29}",
+    "timestamp": "2026-01-02T10:28:13.584241"
+  },
+  {
+    "problem_index": 650,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 142,
+    "correct_answer": 142,
+    "is_correct": true,
+    "raw_output": "{\"final\": 142}",
+    "timestamp": "2026-01-02T10:28:19.645938"
+  },
+  {
+    "problem_index": 653,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T10:28:25.576197"
+  },
+  {
+    "problem_index": 656,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:28:31.262266"
+  },
+  {
+    "problem_index": 673,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:28:36.724291"
+  },
+  {
+    "problem_index": 679,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 576,
+    "correct_answer": 576,
+    "is_correct": true,
+    "raw_output": "{\"final\": 576}",
+    "timestamp": "2026-01-02T10:28:42.872187"
+  },
+  {
+    "problem_index": 681,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "raw_output": "{\"final\": 298}",
+    "timestamp": "2026-01-02T10:28:49.136525"
+  },
+  {
+    "problem_index": 682,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T10:28:55.796222"
+  },
+  {
+    "problem_index": 684,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:29:01.585981"
+  },
+  {
+    "problem_index": 688,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:29:07.429480"
+  },
+  {
+    "problem_index": 695,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:29:13.619153"
+  },
+  {
+    "problem_index": 710,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T10:29:18.841463"
+  },
+  {
+    "problem_index": 715,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 385000,
+    "correct_answer": 385000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 385000}",
+    "timestamp": "2026-01-02T10:29:24.533325"
+  },
+  {
+    "problem_index": 721,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2450,
+    "correct_answer": 2450,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2450}",
+    "timestamp": "2026-01-02T10:29:30.493641"
+  },
+  {
+    "problem_index": 728,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T10:29:35.999976"
+  },
+  {
+    "problem_index": 741,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:29:41.506635"
+  },
+  {
+    "problem_index": 743,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T10:29:47.741253"
+  },
+  {
+    "problem_index": 746,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:29:53.701383"
+  },
+  {
+    "problem_index": 758,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 133,
+    "correct_answer": 133,
+    "is_correct": true,
+    "raw_output": "{\"final\": 133}",
+    "timestamp": "2026-01-02T10:29:59.694692"
+  },
+  {
+    "problem_index": 759,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 60000,
+    "correct_answer": 60000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2026-01-02T10:30:05.702475"
+  },
+  {
+    "problem_index": 762,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T10:30:11.526107"
+  },
+  {
+    "problem_index": 763,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:30:17.888220"
+  },
+  {
+    "problem_index": 764,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T10:30:24.354777"
+  },
+  {
+    "problem_index": 775,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "raw_output": "{\"final\": 276}",
+    "timestamp": "2026-01-02T10:30:29.914379"
+  },
+  {
+    "problem_index": 787,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2026-01-02T10:30:36.069052"
+  },
+  {
+    "problem_index": 794,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2026-01-02T10:30:42.551680"
+  },
+  {
+    "problem_index": 814,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 68,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 68}",
+    "timestamp": "2026-01-02T10:30:48.413321"
+  },
+  {
+    "problem_index": 819,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 6250,
+    "correct_answer": 6250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6250}",
+    "timestamp": "2026-01-02T10:30:54.361992"
+  },
+  {
+    "problem_index": 824,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "raw_output": "{\"final\": 52}",
+    "timestamp": "2026-01-02T10:31:00.209702"
+  },
+  {
+    "problem_index": 841,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5600,
+    "correct_answer": 5600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5600}",
+    "timestamp": "2026-01-02T10:31:07.031971"
+  },
+  {
+    "problem_index": 850,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2026-01-02T10:31:12.582301"
+  },
+  {
+    "problem_index": 854,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "{\"final\": 144}",
+    "timestamp": "2026-01-02T10:31:17.983781"
+  },
+  {
+    "problem_index": 871,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:31:23.327252"
+  },
+  {
+    "problem_index": 889,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:31:28.682743"
+  },
+  {
+    "problem_index": 901,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2026-01-02T10:31:34.672706"
+  },
+  {
+    "problem_index": 908,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T10:31:40.211207"
+  },
+  {
+    "problem_index": 909,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2026-01-02T10:31:45.591443"
+  },
+  {
+    "problem_index": 915,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2026-01-02T10:31:51.762017"
+  },
+  {
+    "problem_index": 923,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T10:31:57.261948"
+  },
+  {
+    "problem_index": 925,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2000}",
+    "timestamp": "2026-01-02T10:32:02.827790"
+  },
+  {
+    "problem_index": 927,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85000}",
+    "timestamp": "2026-01-02T10:32:09.022298"
+  },
+  {
+    "problem_index": 939,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "raw_output": "{\"final\": 650}",
+    "timestamp": "2026-01-02T10:32:16.217493"
+  },
+  {
+    "problem_index": 949,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T10:32:22.711659"
+  },
+  {
+    "problem_index": 960,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:32:28.550147"
+  },
+  {
+    "problem_index": 961,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "raw_output": "{\"final\": 225}",
+    "timestamp": "2026-01-02T10:32:33.957948"
+  },
+  {
+    "problem_index": 962,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2026-01-02T10:32:39.889195"
+  },
+  {
+    "problem_index": 963,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 147,
+    "correct_answer": 147,
+    "is_correct": true,
+    "raw_output": "{\"final\": 147}",
+    "timestamp": "2026-01-02T10:32:45.363726"
+  },
+  {
+    "problem_index": 969,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 1800,
+    "correct_answer": 1800,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1800}",
+    "timestamp": "2026-01-02T10:32:51.161529"
+  },
+  {
+    "problem_index": 975,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:32:57.301991"
+  },
+  {
+    "problem_index": 977,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:33:03.189408"
+  },
+  {
+    "problem_index": 989,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T10:33:08.735363"
+  },
+  {
+    "problem_index": 998,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:33:13.930084"
+  },
+  {
+    "problem_index": 1008,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "{\"final\": 230}",
+    "timestamp": "2026-01-02T10:33:19.468399"
+  },
+  {
+    "problem_index": 1019,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "raw_output": "{\"final\": 98}",
+    "timestamp": "2026-01-02T10:33:25.202219"
+  },
+  {
+    "problem_index": 1023,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 77,
+    "correct_answer": 77,
+    "is_correct": true,
+    "raw_output": "{\"final\": 77}",
+    "timestamp": "2026-01-02T10:33:31.680324"
+  },
+  {
+    "problem_index": 1026,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 43200,
+    "correct_answer": 43200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 43200}",
+    "timestamp": "2026-01-02T10:33:37.675260"
+  },
+  {
+    "problem_index": 1035,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 35,
+    "correct_answer": 35,
+    "is_correct": true,
+    "raw_output": "{\"final\": 35}",
+    "timestamp": "2026-01-02T10:33:43.958497"
+  },
+  {
+    "problem_index": 1036,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:33:49.671342"
+  },
+  {
+    "problem_index": 1046,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 189,
+    "correct_answer": 189,
+    "is_correct": true,
+    "raw_output": "{\"final\": 189}",
+    "timestamp": "2026-01-02T10:33:55.613595"
+  },
+  {
+    "problem_index": 1049,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:34:01.723978"
+  },
+  {
+    "problem_index": 1057,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "raw_output": "{\"final\": 24}",
+    "timestamp": "2026-01-02T10:34:06.925052"
+  },
+  {
+    "problem_index": 1058,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 250}",
+    "timestamp": "2026-01-02T10:34:12.518111"
+  },
+  {
+    "problem_index": 1069,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2026-01-02T10:34:18.160346"
+  },
+  {
+    "problem_index": 1071,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "raw_output": "{\"final\": 251}",
+    "timestamp": "2026-01-02T10:34:23.650032"
+  },
+  {
+    "problem_index": 1080,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 72000,
+    "correct_answer": 72000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72000}",
+    "timestamp": "2026-01-02T10:34:29.134858"
+  },
+  {
+    "problem_index": 1088,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:34:34.858495"
+  },
+  {
+    "problem_index": 1093,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "{\"final\": 144}",
+    "timestamp": "2026-01-02T10:34:40.188617"
+  },
+  {
+    "problem_index": 1102,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "raw_output": "{\"final\": 113}",
+    "timestamp": "2026-01-02T10:34:46.789861"
+  },
+  {
+    "problem_index": 1109,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T10:34:53.279675"
+  },
+  {
+    "problem_index": 1117,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:34:59.562287"
+  },
+  {
+    "problem_index": 1132,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 45000,
+    "correct_answer": 45000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45000}",
+    "timestamp": "2026-01-02T10:35:05.188381"
+  },
+  {
+    "problem_index": 1147,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "raw_output": "{\"final\": 22}",
+    "timestamp": "2026-01-02T10:35:11.451849"
+  },
+  {
+    "problem_index": 1152,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:35:17.720795"
+  },
+  {
+    "problem_index": 1154,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:35:23.709210"
+  },
+  {
+    "problem_index": 1158,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 7300,
+    "correct_answer": 7300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7300}",
+    "timestamp": "2026-01-02T10:35:29.048125"
+  },
+  {
+    "problem_index": 1159,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:35:34.414346"
+  },
+  {
+    "problem_index": 1161,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "raw_output": "{\"final\": 140}",
+    "timestamp": "2026-01-02T10:35:40.336948"
+  },
+  {
+    "problem_index": 1168,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:35:45.654643"
+  },
+  {
+    "problem_index": 1175,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:35:51.083004"
+  },
+  {
+    "problem_index": 1177,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T10:35:56.460464"
+  },
+  {
+    "problem_index": 1202,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 19,
+    "correct_answer": 19,
+    "is_correct": true,
+    "raw_output": "{\"final\": 19}",
+    "timestamp": "2026-01-02T10:36:02.275540"
+  },
+  {
+    "problem_index": 1206,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 40000,
+    "correct_answer": 40000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40000}",
+    "timestamp": "2026-01-02T10:36:07.855423"
+  },
+  {
+    "problem_index": 1214,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:36:14.537641"
+  },
+  {
+    "problem_index": 1216,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:36:20.147741"
+  },
+  {
+    "problem_index": 1229,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:36:25.756884"
+  },
+  {
+    "problem_index": 1234,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:36:31.925655"
+  },
+  {
+    "problem_index": 1236,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "{\"final\": 84}",
+    "timestamp": "2026-01-02T10:36:37.399308"
+  },
+  {
+    "problem_index": 1240,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T10:36:43.255609"
+  },
+  {
+    "problem_index": 1249,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "raw_output": "{\"final\": 56}",
+    "timestamp": "2026-01-02T10:36:48.776337"
+  },
+  {
+    "problem_index": 1251,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:36:54.956436"
+  },
+  {
+    "problem_index": 1254,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:37:01.551779"
+  },
+  {
+    "problem_index": 1258,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 60,
+    "correct_answer": 60,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2026-01-02T10:37:07.816061"
+  },
+  {
+    "problem_index": 1262,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:37:13.396428"
+  },
+  {
+    "problem_index": 1267,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T10:37:19.614206"
+  },
+  {
+    "problem_index": 1286,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 105,
+    "correct_answer": 105,
+    "is_correct": true,
+    "raw_output": "{\"final\": 105}",
+    "timestamp": "2026-01-02T10:37:25.015296"
+  },
+  {
+    "problem_index": 1291,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 27,
+    "correct_answer": 27,
+    "is_correct": true,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2026-01-02T10:37:30.400425"
+  },
+  {
+    "problem_index": 1294,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:37:35.938173"
+  },
+  {
+    "problem_index": 1295,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T10:37:41.791746"
+  },
+  {
+    "problem_index": 1301,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2026-01-02T10:37:48.454203"
+  },
+  {
+    "problem_index": 1309,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 2180,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2180}",
+    "timestamp": "2026-01-02T10:37:54.885899"
+  },
+  {
+    "problem_index": 1316,
+    "condition": "early",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "{\"final\": 230}",
+    "timestamp": "2026-01-02T10:38:00.618811"
+  },
+  {
+    "problem_index": 2,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70000}",
+    "timestamp": "2026-01-02T10:18:31.681819"
+  },
+  {
+    "problem_index": 11,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 686,
+    "correct_answer": 694,
+    "is_correct": false,
+    "raw_output": "{\"final\": 686}",
+    "timestamp": "2026-01-02T10:18:37.637169"
+  },
+  {
+    "problem_index": 24,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 26,
+    "correct_answer": 26,
+    "is_correct": true,
+    "raw_output": "{\"final\": 26}",
+    "timestamp": "2026-01-02T10:18:43.605159"
+  },
+  {
+    "problem_index": 55,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T10:18:49.259543"
+  },
+  {
+    "problem_index": 64,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 350,
+    "correct_answer": 300,
+    "is_correct": false,
+    "raw_output": "{\"final\": 350}",
+    "timestamp": "2026-01-02T10:18:55.060225"
+  },
+  {
+    "problem_index": 65,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:19:00.845314"
+  },
+  {
+    "problem_index": 66,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:19:06.579549"
+  },
+  {
+    "problem_index": 79,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2026-01-02T10:19:12.499242"
+  },
+  {
+    "problem_index": 83,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 825,
+    "correct_answer": 600,
+    "is_correct": false,
+    "raw_output": "{\"final\": 825}",
+    "timestamp": "2026-01-02T10:19:18.141862"
+  },
+  {
+    "problem_index": 85,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 44,
+    "correct_answer": 44,
+    "is_correct": true,
+    "raw_output": "{\"final\": 44}",
+    "timestamp": "2026-01-02T10:19:24.330478"
+  },
+  {
+    "problem_index": 104,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 500,
+    "correct_answer": 500,
+    "is_correct": true,
+    "raw_output": "{\"final\": 500}",
+    "timestamp": "2026-01-02T10:19:30.643890"
+  },
+  {
+    "problem_index": 109,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:19:36.342539"
+  },
+  {
+    "problem_index": 114,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 28,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:19:42.354071"
+  },
+  {
+    "problem_index": 116,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T10:19:49.029000"
+  },
+  {
+    "problem_index": 120,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 240,
+    "correct_answer": 240,
+    "is_correct": true,
+    "raw_output": "{\"final\": 240}",
+    "timestamp": "2026-01-02T10:19:54.316116"
+  },
+  {
+    "problem_index": 122,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:20:00.093805"
+  },
+  {
+    "problem_index": 125,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:20:06.365202"
+  },
+  {
+    "problem_index": 129,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 100,
+    "correct_answer": 10000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:20:12.084805"
+  },
+  {
+    "problem_index": 150,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 7,
+    "correct_answer": 4,
+    "is_correct": false,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T10:20:17.954374"
+  },
+  {
+    "problem_index": 152,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:20:24.587541"
+  },
+  {
+    "problem_index": 154,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "raw_output": "{\"final\": 272}",
+    "timestamp": "2026-01-02T10:20:30.219046"
+  },
+  {
+    "problem_index": 167,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:20:36.798598"
+  },
+  {
+    "problem_index": 169,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 120,
+    "correct_answer": 120,
+    "is_correct": true,
+    "raw_output": "{\"final\": 120}",
+    "timestamp": "2026-01-02T10:20:42.484347"
+  },
+  {
+    "problem_index": 175,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:20:47.739973"
+  },
+  {
+    "problem_index": 176,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:20:53.275410"
+  },
+  {
+    "problem_index": 178,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "raw_output": "{\"final\": 122}",
+    "timestamp": "2026-01-02T10:20:59.322031"
+  },
+  {
+    "problem_index": 198,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 32,
+    "correct_answer": 320,
+    "is_correct": false,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2026-01-02T10:21:05.316410"
+  },
+  {
+    "problem_index": 205,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 104,
+    "correct_answer": 98,
+    "is_correct": false,
+    "raw_output": "{\"final\": 104}",
+    "timestamp": "2026-01-02T10:21:11.399622"
+  },
+  {
+    "problem_index": 210,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:21:17.240086"
+  },
+  {
+    "problem_index": 217,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:21:22.671308"
+  },
+  {
+    "problem_index": 222,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 140,
+    "correct_answer": 140,
+    "is_correct": true,
+    "raw_output": "{\"final\": 140}",
+    "timestamp": "2026-01-02T10:21:29.049423"
+  },
+  {
+    "problem_index": 223,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20000,
+    "correct_answer": 20000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20000}",
+    "timestamp": "2026-01-02T10:21:34.671664"
+  },
+  {
+    "problem_index": 225,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:21:40.827825"
+  },
+  {
+    "problem_index": 229,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 21,
+    "correct_answer": 21,
+    "is_correct": true,
+    "raw_output": "{\"final\": 21}",
+    "timestamp": "2026-01-02T10:21:46.686940"
+  },
+  {
+    "problem_index": 241,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:21:52.306655"
+  },
+  {
+    "problem_index": 245,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T10:21:59.017661"
+  },
+  {
+    "problem_index": 250,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 13,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 13}",
+    "timestamp": "2026-01-02T10:22:05.020847"
+  },
+  {
+    "problem_index": 253,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 16,
+    "correct_answer": 18,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:22:11.134253"
+  },
+  {
+    "problem_index": 256,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 99,
+    "correct_answer": 45,
+    "is_correct": false,
+    "raw_output": "{\"final\": 99}",
+    "timestamp": "2026-01-02T10:22:18.228296"
+  },
+  {
+    "problem_index": 259,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "{\"final\": 168}",
+    "timestamp": "2026-01-02T10:22:24.398169"
+  },
+  {
+    "problem_index": 260,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:22:30.100657"
+  },
+  {
+    "problem_index": 262,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 270,
+    "correct_answer": 270,
+    "is_correct": true,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2026-01-02T10:22:36.020931"
+  },
+  {
+    "problem_index": 266,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 118002,
+    "correct_answer": 118000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 118002}",
+    "timestamp": "2026-01-02T10:22:41.449644"
+  },
+  {
+    "problem_index": 272,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:22:49.062137"
+  },
+  {
+    "problem_index": 274,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 75,
+    "correct_answer": 3200,
+    "is_correct": false,
+    "raw_output": "{\"final\": 75}",
+    "timestamp": "2026-01-02T10:22:55.326875"
+  },
+  {
+    "problem_index": 278,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T10:23:01.182092"
+  },
+  {
+    "problem_index": 279,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 4,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:23:06.831238"
+  },
+  {
+    "problem_index": 290,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "raw_output": "{\"final\": 390}",
+    "timestamp": "2026-01-02T10:23:13.026731"
+  },
+  {
+    "problem_index": 295,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 368,
+    "correct_answer": 370,
+    "is_correct": false,
+    "raw_output": "{\"final\": 368}",
+    "timestamp": "2026-01-02T10:23:19.275649"
+  },
+  {
+    "problem_index": 302,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T10:23:24.702805"
+  },
+  {
+    "problem_index": 306,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 13,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 13}",
+    "timestamp": "2026-01-02T10:23:30.568472"
+  },
+  {
+    "problem_index": 321,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2026-01-02T10:23:36.173819"
+  },
+  {
+    "problem_index": 328,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 11,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:23:42.188331"
+  },
+  {
+    "problem_index": 336,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 72,
+    "correct_answer": 72,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72}",
+    "timestamp": "2026-01-02T10:23:47.981889"
+  },
+  {
+    "problem_index": 350,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T10:23:53.716212"
+  },
+  {
+    "problem_index": 353,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:23:59.770511"
+  },
+  {
+    "problem_index": 360,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2026-01-02T10:24:05.380697"
+  },
+  {
+    "problem_index": 389,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:24:10.994037"
+  },
+  {
+    "problem_index": 395,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 40,
+    "correct_answer": 38,
+    "is_correct": false,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T10:24:16.953446"
+  },
+  {
+    "problem_index": 398,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "{\"final\": 168}",
+    "timestamp": "2026-01-02T10:24:22.967907"
+  },
+  {
+    "problem_index": 400,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 96,
+    "correct_answer": 48,
+    "is_correct": false,
+    "raw_output": "{\"final\": 96}",
+    "timestamp": "2026-01-02T10:24:29.135995"
+  },
+  {
+    "problem_index": 403,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 85,
+    "correct_answer": 81,
+    "is_correct": false,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T10:24:35.345686"
+  },
+  {
+    "problem_index": 405,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:24:41.714237"
+  },
+  {
+    "problem_index": 408,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:24:47.964835"
+  },
+  {
+    "problem_index": 410,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T10:24:53.360647"
+  },
+  {
+    "problem_index": 416,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 124,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 124}",
+    "timestamp": "2026-01-02T10:24:59.684305"
+  },
+  {
+    "problem_index": 422,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "raw_output": "{\"final\": 284}",
+    "timestamp": "2026-01-02T10:25:05.341222"
+  },
+  {
+    "problem_index": 430,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "raw_output": "{\"final\": 132}",
+    "timestamp": "2026-01-02T10:25:11.028786"
+  },
+  {
+    "problem_index": 437,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T10:25:17.351252"
+  },
+  {
+    "problem_index": 439,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 21,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 21}",
+    "timestamp": "2026-01-02T10:25:23.390276"
+  },
+  {
+    "problem_index": 450,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:25:28.967973"
+  },
+  {
+    "problem_index": 461,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 11,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:25:34.610488"
+  },
+  {
+    "problem_index": 463,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T10:25:40.487833"
+  },
+  {
+    "problem_index": 465,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:25:46.313845"
+  },
+  {
+    "problem_index": 472,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:25:52.197860"
+  },
+  {
+    "problem_index": 481,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 72,
+    "correct_answer": 84,
+    "is_correct": false,
+    "raw_output": "{\"final\": 72}",
+    "timestamp": "2026-01-02T10:25:58.136469"
+  },
+  {
+    "problem_index": 488,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:26:03.616315"
+  },
+  {
+    "problem_index": 492,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2026-01-02T10:26:09.414395"
+  },
+  {
+    "problem_index": 499,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:26:14.998198"
+  },
+  {
+    "problem_index": 500,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 16,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:26:21.468922"
+  },
+  {
+    "problem_index": 503,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T10:26:27.739415"
+  },
+  {
+    "problem_index": 524,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:26:33.713706"
+  },
+  {
+    "problem_index": 529,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:26:39.798586"
+  },
+  {
+    "problem_index": 531,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "raw_output": "{\"final\": 66}",
+    "timestamp": "2026-01-02T10:26:45.328142"
+  },
+  {
+    "problem_index": 536,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T10:26:51.284950"
+  },
+  {
+    "problem_index": 541,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 31,
+    "correct_answer": 50,
+    "is_correct": false,
+    "raw_output": "{\"final\": 31}",
+    "timestamp": "2026-01-02T10:26:57.627908"
+  },
+  {
+    "problem_index": 548,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 97,
+    "correct_answer": 100,
+    "is_correct": false,
+    "raw_output": "{\"final\": 97}",
+    "timestamp": "2026-01-02T10:27:03.361136"
+  },
+  {
+    "problem_index": 551,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:27:09.316422"
+  },
+  {
+    "problem_index": 563,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:27:15.297167"
+  },
+  {
+    "problem_index": 567,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 11,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T10:27:21.615658"
+  },
+  {
+    "problem_index": 575,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 358,
+    "correct_answer": 36,
+    "is_correct": false,
+    "raw_output": "{\"final\": 358}",
+    "timestamp": "2026-01-02T10:27:27.934794"
+  },
+  {
+    "problem_index": 576,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 11880,
+    "correct_answer": 11232,
+    "is_correct": false,
+    "raw_output": "{\"final\": 11880}",
+    "timestamp": "2026-01-02T10:27:34.183035"
+  },
+  {
+    "problem_index": 597,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 93,
+    "correct_answer": 90,
+    "is_correct": false,
+    "raw_output": "{\"final\": 93}",
+    "timestamp": "2026-01-02T10:27:40.265446"
+  },
+  {
+    "problem_index": 598,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 115,
+    "correct_answer": 69,
+    "is_correct": false,
+    "raw_output": "{\"final\": 115}",
+    "timestamp": "2026-01-02T10:27:46.561629"
+  },
+  {
+    "problem_index": 617,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:27:52.763689"
+  },
+  {
+    "problem_index": 624,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T10:27:58.439391"
+  },
+  {
+    "problem_index": 633,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:28:04.827037"
+  },
+  {
+    "problem_index": 637,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 16,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:28:10.419708"
+  },
+  {
+    "problem_index": 644,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 27,
+    "correct_answer": 29,
+    "is_correct": false,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2026-01-02T10:28:16.278183"
+  },
+  {
+    "problem_index": 650,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 60,
+    "correct_answer": 142,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2026-01-02T10:28:23.034593"
+  },
+  {
+    "problem_index": 653,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T10:28:28.536486"
+  },
+  {
+    "problem_index": 656,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T10:28:33.938176"
+  },
+  {
+    "problem_index": 673,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:28:39.739478"
+  },
+  {
+    "problem_index": 679,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 576,
+    "correct_answer": 576,
+    "is_correct": true,
+    "raw_output": "{\"final\": 576}",
+    "timestamp": "2026-01-02T10:28:45.597279"
+  },
+  {
+    "problem_index": 681,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 225,
+    "correct_answer": 298,
+    "is_correct": false,
+    "raw_output": "{\"final\": 225}",
+    "timestamp": "2026-01-02T10:28:52.171640"
+  },
+  {
+    "problem_index": 682,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T10:28:58.771464"
+  },
+  {
+    "problem_index": 684,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:29:04.414342"
+  },
+  {
+    "problem_index": 688,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:29:10.009422"
+  },
+  {
+    "problem_index": 695,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T10:29:16.225517"
+  },
+  {
+    "problem_index": 710,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T10:29:21.734619"
+  },
+  {
+    "problem_index": 715,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 387310,
+    "correct_answer": 385000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 387310}",
+    "timestamp": "2026-01-02T10:29:27.341528"
+  },
+  {
+    "problem_index": 721,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 45,
+    "correct_answer": 2450,
+    "is_correct": false,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T10:29:33.203892"
+  },
+  {
+    "problem_index": 728,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 41,
+    "correct_answer": 40,
+    "is_correct": false,
+    "raw_output": "{\"final\": 41}",
+    "timestamp": "2026-01-02T10:29:38.767924"
+  },
+  {
+    "problem_index": 741,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:29:44.698780"
+  },
+  {
+    "problem_index": 743,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 33,
+    "correct_answer": 8,
+    "is_correct": false,
+    "raw_output": "{\"final\": 33}",
+    "timestamp": "2026-01-02T10:29:50.959962"
+  },
+  {
+    "problem_index": 746,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 38,
+    "correct_answer": 28,
+    "is_correct": false,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2026-01-02T10:29:56.979364"
+  },
+  {
+    "problem_index": 758,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 133,
+    "correct_answer": 133,
+    "is_correct": true,
+    "raw_output": "{\"final\": 133}",
+    "timestamp": "2026-01-02T10:30:03.029617"
+  },
+  {
+    "problem_index": 759,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 60000,
+    "correct_answer": 60000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2026-01-02T10:30:08.394429"
+  },
+  {
+    "problem_index": 762,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T10:30:14.066772"
+  },
+  {
+    "problem_index": 763,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T10:30:21.809020"
+  },
+  {
+    "problem_index": 764,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T10:30:27.085259"
+  },
+  {
+    "problem_index": 775,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "raw_output": "{\"final\": 276}",
+    "timestamp": "2026-01-02T10:30:32.991825"
+  },
+  {
+    "problem_index": 787,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 28,
+    "correct_answer": 25,
+    "is_correct": false,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T10:30:39.203910"
+  },
+  {
+    "problem_index": 794,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 31,
+    "correct_answer": 32,
+    "is_correct": false,
+    "raw_output": "{\"final\": 31}",
+    "timestamp": "2026-01-02T10:30:45.762795"
+  },
+  {
+    "problem_index": 814,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 22,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 22}",
+    "timestamp": "2026-01-02T10:30:51.136670"
+  },
+  {
+    "problem_index": 819,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6250,
+    "correct_answer": 6250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6250}",
+    "timestamp": "2026-01-02T10:30:57.177452"
+  },
+  {
+    "problem_index": 824,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 53,
+    "correct_answer": 52,
+    "is_correct": false,
+    "raw_output": "{\"final\": 53}",
+    "timestamp": "2026-01-02T10:31:03.651978"
+  },
+  {
+    "problem_index": 841,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 5600,
+    "correct_answer": 5600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5600}",
+    "timestamp": "2026-01-02T10:31:09.807607"
+  },
+  {
+    "problem_index": 850,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2026-01-02T10:31:15.358440"
+  },
+  {
+    "problem_index": 854,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 141,
+    "correct_answer": 144,
+    "is_correct": false,
+    "raw_output": "{\"final\": 141}",
+    "timestamp": "2026-01-02T10:31:20.597629"
+  },
+  {
+    "problem_index": 871,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:31:26.035063"
+  },
+  {
+    "problem_index": 889,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 18,
+    "correct_answer": 15,
+    "is_correct": false,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T10:31:31.499509"
+  },
+  {
+    "problem_index": 901,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2026-01-02T10:31:37.396929"
+  },
+  {
+    "problem_index": 908,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T10:31:42.917351"
+  },
+  {
+    "problem_index": 909,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 43,
+    "correct_answer": 38,
+    "is_correct": false,
+    "raw_output": "{\"final\": 43}",
+    "timestamp": "2026-01-02T10:31:49.027909"
+  },
+  {
+    "problem_index": 915,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2026-01-02T10:31:54.611753"
+  },
+  {
+    "problem_index": 923,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 0,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 0}",
+    "timestamp": "2026-01-02T10:32:00.167936"
+  },
+  {
+    "problem_index": 925,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2000}",
+    "timestamp": "2026-01-02T10:32:06.080639"
+  },
+  {
+    "problem_index": 927,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85000}",
+    "timestamp": "2026-01-02T10:32:13.365940"
+  },
+  {
+    "problem_index": 939,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "raw_output": "{\"final\": 650}",
+    "timestamp": "2026-01-02T10:32:19.218664"
+  },
+  {
+    "problem_index": 949,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T10:32:25.960770"
+  },
+  {
+    "problem_index": 960,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 68,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 68}",
+    "timestamp": "2026-01-02T10:32:31.365320"
+  },
+  {
+    "problem_index": 961,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 222,
+    "correct_answer": 225,
+    "is_correct": false,
+    "raw_output": "{\"final\": 222}",
+    "timestamp": "2026-01-02T10:32:36.759804"
+  },
+  {
+    "problem_index": 962,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 599,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 599}",
+    "timestamp": "2026-01-02T10:32:42.743412"
+  },
+  {
+    "problem_index": 963,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 49,
+    "correct_answer": 147,
+    "is_correct": false,
+    "raw_output": "{\"final\": 49}",
+    "timestamp": "2026-01-02T10:32:47.991878"
+  },
+  {
+    "problem_index": 969,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 1796,
+    "correct_answer": 1800,
+    "is_correct": false,
+    "raw_output": "{\"final\": 1796}",
+    "timestamp": "2026-01-02T10:32:54.098483"
+  },
+  {
+    "problem_index": 975,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:33:00.233587"
+  },
+  {
+    "problem_index": 977,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T10:33:05.936588"
+  },
+  {
+    "problem_index": 989,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T10:33:11.353163"
+  },
+  {
+    "problem_index": 998,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:33:16.632217"
+  },
+  {
+    "problem_index": 1008,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "{\"final\": 230}",
+    "timestamp": "2026-01-02T10:33:22.180738"
+  },
+  {
+    "problem_index": 1019,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 44,
+    "correct_answer": 98,
+    "is_correct": false,
+    "raw_output": "{\"final\": 44}",
+    "timestamp": "2026-01-02T10:33:28.783151"
+  },
+  {
+    "problem_index": 1023,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 110,
+    "correct_answer": 77,
+    "is_correct": false,
+    "raw_output": "{\"final\": 110}",
+    "timestamp": "2026-01-02T10:33:34.400374"
+  },
+  {
+    "problem_index": 1026,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 43200,
+    "correct_answer": 43200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 43200}",
+    "timestamp": "2026-01-02T10:33:41.106637"
+  },
+  {
+    "problem_index": 1035,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 49,
+    "correct_answer": 35,
+    "is_correct": false,
+    "raw_output": "{\"final\": 49}",
+    "timestamp": "2026-01-02T10:33:46.923908"
+  },
+  {
+    "problem_index": 1036,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 8,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T10:33:53.035745"
+  },
+  {
+    "problem_index": 1046,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 189,
+    "correct_answer": 189,
+    "is_correct": true,
+    "raw_output": "{\"final\": 189}",
+    "timestamp": "2026-01-02T10:33:58.939342"
+  },
+  {
+    "problem_index": 1049,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 94,
+    "correct_answer": 20,
+    "is_correct": false,
+    "raw_output": "{\"final\": 94}",
+    "timestamp": "2026-01-02T10:34:04.370081"
+  },
+  {
+    "problem_index": 1057,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "raw_output": "{\"final\": 24}",
+    "timestamp": "2026-01-02T10:34:09.829469"
+  },
+  {
+    "problem_index": 1058,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 48,
+    "correct_answer": 250,
+    "is_correct": false,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T10:34:15.248814"
+  },
+  {
+    "problem_index": 1069,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2026-01-02T10:34:20.902919"
+  },
+  {
+    "problem_index": 1071,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "raw_output": "{\"final\": 251}",
+    "timestamp": "2026-01-02T10:34:26.347082"
+  },
+  {
+    "problem_index": 1080,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 72000,
+    "correct_answer": 72000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72000}",
+    "timestamp": "2026-01-02T10:34:31.891887"
+  },
+  {
+    "problem_index": 1088,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 31,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 31}",
+    "timestamp": "2026-01-02T10:34:37.406083"
+  },
+  {
+    "problem_index": 1093,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "{\"final\": 144}",
+    "timestamp": "2026-01-02T10:34:43.280879"
+  },
+  {
+    "problem_index": 1102,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 42,
+    "correct_answer": 113,
+    "is_correct": false,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T10:34:50.002316"
+  },
+  {
+    "problem_index": 1109,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T10:34:56.379354"
+  },
+  {
+    "problem_index": 1117,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T10:35:02.512520"
+  },
+  {
+    "problem_index": 1132,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 45000,
+    "correct_answer": 45000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45000}",
+    "timestamp": "2026-01-02T10:35:08.763404"
+  },
+  {
+    "problem_index": 1147,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 74,
+    "correct_answer": 22,
+    "is_correct": false,
+    "raw_output": "{\"final\": 74}",
+    "timestamp": "2026-01-02T10:35:15.105402"
+  },
+  {
+    "problem_index": 1152,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:35:20.549859"
+  },
+  {
+    "problem_index": 1154,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 30,
+    "is_correct": false,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:35:26.341113"
+  },
+  {
+    "problem_index": 1158,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 7299,
+    "correct_answer": 7300,
+    "is_correct": false,
+    "raw_output": "{\"final\": 7299}",
+    "timestamp": "2026-01-02T10:35:31.698009"
+  },
+  {
+    "problem_index": 1159,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T10:35:37.601978"
+  },
+  {
+    "problem_index": 1161,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 141,
+    "correct_answer": 170,
+    "is_correct": false,
+    "raw_output": "{\"final\": 141}",
+    "timestamp": "2026-01-02T10:35:43.104355"
+  },
+  {
+    "problem_index": 1168,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:35:48.301735"
+  },
+  {
+    "problem_index": 1175,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T10:35:53.814313"
+  },
+  {
+    "problem_index": 1177,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 19,
+    "correct_answer": 17,
+    "is_correct": false,
+    "raw_output": "{\"final\": 19}",
+    "timestamp": "2026-01-02T10:35:59.392321"
+  },
+  {
+    "problem_index": 1202,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 93,
+    "correct_answer": 19,
+    "is_correct": false,
+    "raw_output": "{\"final\": 93}",
+    "timestamp": "2026-01-02T10:36:05.140004"
+  },
+  {
+    "problem_index": 1206,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 40000,
+    "correct_answer": 40000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40000}",
+    "timestamp": "2026-01-02T10:36:10.441833"
+  },
+  {
+    "problem_index": 1214,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 7,
+    "correct_answer": 5,
+    "is_correct": false,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T10:36:17.152484"
+  },
+  {
+    "problem_index": 1216,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T10:36:23.185613"
+  },
+  {
+    "problem_index": 1229,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:36:29.106866"
+  },
+  {
+    "problem_index": 1234,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 6,
+    "correct_answer": 12,
+    "is_correct": false,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T10:36:34.724904"
+  },
+  {
+    "problem_index": 1236,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "{\"final\": 84}",
+    "timestamp": "2026-01-02T10:36:40.335661"
+  },
+  {
+    "problem_index": 1240,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T10:36:46.112645"
+  },
+  {
+    "problem_index": 1249,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 63,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 63}",
+    "timestamp": "2026-01-02T10:36:52.314908"
+  },
+  {
+    "problem_index": 1251,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:36:58.490596"
+  },
+  {
+    "problem_index": 1254,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T10:37:04.202163"
+  },
+  {
+    "problem_index": 1258,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 60,
+    "correct_answer": 60,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2026-01-02T10:37:10.596377"
+  },
+  {
+    "problem_index": 1262,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T10:37:16.890457"
+  },
+  {
+    "problem_index": 1267,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 80,
+    "correct_answer": 40,
+    "is_correct": false,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T10:37:22.235363"
+  },
+  {
+    "problem_index": 1286,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 60,
+    "correct_answer": 105,
+    "is_correct": false,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2026-01-02T10:37:27.592145"
+  },
+  {
+    "problem_index": 1291,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 27,
+    "correct_answer": 27,
+    "is_correct": true,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2026-01-02T10:37:33.161041"
+  },
+  {
+    "problem_index": 1294,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T10:37:39.102185"
+  },
+  {
+    "problem_index": 1295,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 38,
+    "correct_answer": 2,
+    "is_correct": false,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2026-01-02T10:37:45.257805"
+  },
+  {
+    "problem_index": 1301,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2026-01-02T10:37:51.637628"
+  },
+  {
+    "problem_index": 1309,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 2180,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2180}",
+    "timestamp": "2026-01-02T10:37:57.752812"
+  },
+  {
+    "problem_index": 1316,
+    "condition": "late",
+    "L": 10,
+    "c": 0.4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "{\"final\": 230}",
+    "timestamp": "2026-01-02T10:38:03.225401"
+  }
+]

@@ -1,0 +1,3982 @@
+[
+  {
+    "problem_index": 2,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70000}",
+    "timestamp": "2026-01-02T13:15:38.622651"
+  },
+  {
+    "problem_index": 11,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "raw_output": "{\"final\": 694}",
+    "timestamp": "2026-01-02T13:15:41.603355"
+  },
+  {
+    "problem_index": 24,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 26,
+    "correct_answer": 26,
+    "is_correct": true,
+    "raw_output": "{\"final\": 26}",
+    "timestamp": "2026-01-02T13:15:44.420128"
+  },
+  {
+    "problem_index": 55,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T13:15:47.125058"
+  },
+  {
+    "problem_index": 64,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2026-01-02T13:15:49.956103"
+  },
+  {
+    "problem_index": 65,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T13:15:52.588398"
+  },
+  {
+    "problem_index": 66,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T13:15:55.380662"
+  },
+  {
+    "problem_index": 79,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "{\"final\": 70}",
+    "timestamp": "2026-01-02T13:15:58.136034"
+  },
+  {
+    "problem_index": 83,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 600,
+    "correct_answer": 600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2026-01-02T13:16:01.121377"
+  },
+  {
+    "problem_index": 85,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 44,
+    "correct_answer": 44,
+    "is_correct": true,
+    "raw_output": "{\"final\": 44}",
+    "timestamp": "2026-01-02T13:16:03.967915"
+  },
+  {
+    "problem_index": 104,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 500,
+    "correct_answer": 500,
+    "is_correct": true,
+    "raw_output": "{\"final\": 500}",
+    "timestamp": "2026-01-02T13:16:06.508663"
+  },
+  {
+    "problem_index": 109,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T13:16:09.893081"
+  },
+  {
+    "problem_index": 114,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T13:16:12.539442"
+  },
+  {
+    "problem_index": 116,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T13:16:15.754626"
+  },
+  {
+    "problem_index": 120,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 240,
+    "correct_answer": 240,
+    "is_correct": true,
+    "raw_output": "{\"final\": 240}",
+    "timestamp": "2026-01-02T13:16:18.648496"
+  },
+  {
+    "problem_index": 122,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T13:16:21.543701"
+  },
+  {
+    "problem_index": 125,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T13:16:24.363165"
+  },
+  {
+    "problem_index": 129,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": -30000,
+    "correct_answer": 10000,
+    "is_correct": false,
+    "raw_output": "{\"final\": -30000}",
+    "timestamp": "2026-01-02T13:16:27.127186"
+  },
+  {
+    "problem_index": 150,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T13:16:30.286360"
+  },
+  {
+    "problem_index": 152,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T13:16:32.903338"
+  },
+  {
+    "problem_index": 154,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "raw_output": "{\"final\": 272}",
+    "timestamp": "2026-01-02T13:16:35.647378"
+  },
+  {
+    "problem_index": 167,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T13:16:38.276625"
+  },
+  {
+    "problem_index": 169,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 120,
+    "correct_answer": 120,
+    "is_correct": true,
+    "raw_output": "{\"final\": 120}",
+    "timestamp": "2026-01-02T13:16:40.825992"
+  },
+  {
+    "problem_index": 175,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T13:16:44.702437"
+  },
+  {
+    "problem_index": 176,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T13:16:47.467361"
+  },
+  {
+    "problem_index": 178,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "raw_output": "{\"final\": 122}",
+    "timestamp": "2026-01-02T13:16:50.421770"
+  },
+  {
+    "problem_index": 198,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 220,
+    "correct_answer": 320,
+    "is_correct": false,
+    "raw_output": "{\"final\": 220}",
+    "timestamp": "2026-01-02T13:16:53.102675"
+  },
+  {
+    "problem_index": 205,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "raw_output": "{\"final\": 98}",
+    "timestamp": "2026-01-02T13:16:55.744446"
+  },
+  {
+    "problem_index": 210,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T13:16:58.450032"
+  },
+  {
+    "problem_index": 217,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T13:17:01.027613"
+  },
+  {
+    "problem_index": 222,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 140,
+    "correct_answer": 140,
+    "is_correct": true,
+    "raw_output": "{\"final\": 140}",
+    "timestamp": "2026-01-02T13:17:03.719184"
+  },
+  {
+    "problem_index": 223,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20000,
+    "correct_answer": 20000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20000}",
+    "timestamp": "2026-01-02T13:17:06.586778"
+  },
+  {
+    "problem_index": 225,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T13:17:09.431370"
+  },
+  {
+    "problem_index": 229,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 21,
+    "correct_answer": 21,
+    "is_correct": true,
+    "raw_output": "{\"final\": 21}",
+    "timestamp": "2026-01-02T13:17:11.981606"
+  },
+  {
+    "problem_index": 241,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T13:17:14.639580"
+  },
+  {
+    "problem_index": 245,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T13:17:17.311070"
+  },
+  {
+    "problem_index": 250,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T13:17:20.255449"
+  },
+  {
+    "problem_index": 253,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T13:17:23.149236"
+  },
+  {
+    "problem_index": 256,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T13:17:26.785801"
+  },
+  {
+    "problem_index": 259,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 170,
+    "correct_answer": 168,
+    "is_correct": false,
+    "raw_output": "{\"final\": 170}",
+    "timestamp": "2026-01-02T13:17:29.293635"
+  },
+  {
+    "problem_index": 260,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T13:17:32.351931"
+  },
+  {
+    "problem_index": 262,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 270,
+    "correct_answer": 270,
+    "is_correct": true,
+    "raw_output": "{\"final\": 270}",
+    "timestamp": "2026-01-02T13:17:35.670638"
+  },
+  {
+    "problem_index": 266,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 118000,
+    "correct_answer": 118000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 118000}",
+    "timestamp": "2026-01-02T13:17:38.350172"
+  },
+  {
+    "problem_index": 272,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T13:17:41.083285"
+  },
+  {
+    "problem_index": 274,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 3200,
+    "correct_answer": 3200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3200}",
+    "timestamp": "2026-01-02T13:17:43.963320"
+  },
+  {
+    "problem_index": 278,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T13:17:47.026608"
+  },
+  {
+    "problem_index": 279,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T13:17:49.600534"
+  },
+  {
+    "problem_index": 290,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "raw_output": "{\"final\": 390}",
+    "timestamp": "2026-01-02T13:17:53.398616"
+  },
+  {
+    "problem_index": 295,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 370,
+    "correct_answer": 370,
+    "is_correct": true,
+    "raw_output": "{\"final\": 370}",
+    "timestamp": "2026-01-02T13:17:56.044618"
+  },
+  {
+    "problem_index": 302,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T13:17:59.102880"
+  },
+  {
+    "problem_index": 306,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T13:18:01.895085"
+  },
+  {
+    "problem_index": 321,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2026-01-02T13:18:04.850920"
+  },
+  {
+    "problem_index": 328,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T13:18:07.747027"
+  },
+  {
+    "problem_index": 336,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 72,
+    "correct_answer": 72,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72}",
+    "timestamp": "2026-01-02T13:18:10.634640"
+  },
+  {
+    "problem_index": 350,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T13:18:13.310965"
+  },
+  {
+    "problem_index": 353,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T13:18:16.051555"
+  },
+  {
+    "problem_index": 360,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2026-01-02T13:18:18.938163"
+  },
+  {
+    "problem_index": 389,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 3,
+    "correct_answer": 6,
+    "is_correct": false,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T13:18:22.658006"
+  },
+  {
+    "problem_index": 395,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2026-01-02T13:18:26.090509"
+  },
+  {
+    "problem_index": 398,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "{\"final\": 168}",
+    "timestamp": "2026-01-02T13:18:28.720805"
+  },
+  {
+    "problem_index": 400,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T13:18:31.374015"
+  },
+  {
+    "problem_index": 403,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "raw_output": "{\"final\": 135}",
+    "timestamp": "2026-01-02T13:18:34.367594"
+  },
+  {
+    "problem_index": 405,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T13:18:37.737205"
+  },
+  {
+    "problem_index": 408,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T13:18:41.133368"
+  },
+  {
+    "problem_index": 410,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T13:18:43.942659"
+  },
+  {
+    "problem_index": 416,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "raw_output": "{\"final\": 56}",
+    "timestamp": "2026-01-02T13:18:46.546343"
+  },
+  {
+    "problem_index": 422,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "raw_output": "{\"final\": 284}",
+    "timestamp": "2026-01-02T13:18:50.390021"
+  },
+  {
+    "problem_index": 430,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "raw_output": "{\"final\": 132}",
+    "timestamp": "2026-01-02T13:18:53.433880"
+  },
+  {
+    "problem_index": 437,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7}",
+    "timestamp": "2026-01-02T13:18:56.154210"
+  },
+  {
+    "problem_index": 439,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T13:18:58.922826"
+  },
+  {
+    "problem_index": 450,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T13:19:01.522146"
+  },
+  {
+    "problem_index": 461,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T13:19:04.342788"
+  },
+  {
+    "problem_index": 463,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T13:19:07.049433"
+  },
+  {
+    "problem_index": 465,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T13:19:09.951790"
+  },
+  {
+    "problem_index": 472,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T13:19:12.707096"
+  },
+  {
+    "problem_index": 481,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "{\"final\": 84}",
+    "timestamp": "2026-01-02T13:19:15.482105"
+  },
+  {
+    "problem_index": 488,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6}",
+    "timestamp": "2026-01-02T13:19:18.307817"
+  },
+  {
+    "problem_index": 492,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2026-01-02T13:19:21.124910"
+  },
+  {
+    "problem_index": 499,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T13:19:24.094465"
+  },
+  {
+    "problem_index": 500,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T13:19:26.684712"
+  },
+  {
+    "problem_index": 503,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "{\"final\": 18}",
+    "timestamp": "2026-01-02T13:19:29.343456"
+  },
+  {
+    "problem_index": 524,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 10,
+    "correct_answer": 9,
+    "is_correct": false,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T13:19:31.934342"
+  },
+  {
+    "problem_index": 529,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T13:19:35.115214"
+  },
+  {
+    "problem_index": 531,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 87,
+    "correct_answer": 66,
+    "is_correct": false,
+    "raw_output": "{\"final\": 87}",
+    "timestamp": "2026-01-02T13:19:38.337967"
+  },
+  {
+    "problem_index": 536,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T13:19:40.975194"
+  },
+  {
+    "problem_index": 541,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T13:19:44.643128"
+  },
+  {
+    "problem_index": 548,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T13:19:47.384670"
+  },
+  {
+    "problem_index": 551,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T13:19:51.156413"
+  },
+  {
+    "problem_index": 563,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T13:19:53.825992"
+  },
+  {
+    "problem_index": 567,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T13:19:56.765390"
+  },
+  {
+    "problem_index": 575,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T13:19:59.593123"
+  },
+  {
+    "problem_index": 576,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11232}",
+    "timestamp": "2026-01-02T13:20:02.450788"
+  },
+  {
+    "problem_index": 597,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 90,
+    "correct_answer": 90,
+    "is_correct": true,
+    "raw_output": "{\"final\": 90}",
+    "timestamp": "2026-01-02T13:20:05.077847"
+  },
+  {
+    "problem_index": 598,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "raw_output": "{\"final\": 69}",
+    "timestamp": "2026-01-02T13:20:07.780157"
+  },
+  {
+    "problem_index": 617,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T13:20:10.623115"
+  },
+  {
+    "problem_index": 624,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T13:20:13.390320"
+  },
+  {
+    "problem_index": 633,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T13:20:16.120978"
+  },
+  {
+    "problem_index": 637,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T13:20:18.888993"
+  },
+  {
+    "problem_index": 644,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 29,
+    "correct_answer": 29,
+    "is_correct": true,
+    "raw_output": "{\"final\": 29}",
+    "timestamp": "2026-01-02T13:20:21.868238"
+  },
+  {
+    "problem_index": 650,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 142,
+    "correct_answer": 142,
+    "is_correct": true,
+    "raw_output": "{\"final\": 142}",
+    "timestamp": "2026-01-02T13:20:24.515390"
+  },
+  {
+    "problem_index": 653,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T13:20:27.413321"
+  },
+  {
+    "problem_index": 656,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T13:20:30.011451"
+  },
+  {
+    "problem_index": 673,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T13:20:32.580546"
+  },
+  {
+    "problem_index": 679,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 576,
+    "correct_answer": 576,
+    "is_correct": true,
+    "raw_output": "{\"final\": 576}",
+    "timestamp": "2026-01-02T13:20:36.229923"
+  },
+  {
+    "problem_index": 681,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "raw_output": "{\"final\": 298}",
+    "timestamp": "2026-01-02T13:20:38.990613"
+  },
+  {
+    "problem_index": 682,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "{\"final\": 80}",
+    "timestamp": "2026-01-02T13:20:42.012796"
+  },
+  {
+    "problem_index": 684,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T13:20:44.806133"
+  },
+  {
+    "problem_index": 688,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T13:20:47.459628"
+  },
+  {
+    "problem_index": 695,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T13:20:50.248152"
+  },
+  {
+    "problem_index": 710,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T13:20:52.960785"
+  },
+  {
+    "problem_index": 715,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 385000,
+    "correct_answer": 385000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 385000}",
+    "timestamp": "2026-01-02T13:20:56.502543"
+  },
+  {
+    "problem_index": 721,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2450,
+    "correct_answer": 2450,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2450}",
+    "timestamp": "2026-01-02T13:20:59.780855"
+  },
+  {
+    "problem_index": 728,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T13:21:02.985793"
+  },
+  {
+    "problem_index": 741,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T13:21:06.197338"
+  },
+  {
+    "problem_index": 743,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "{\"final\": 8}",
+    "timestamp": "2026-01-02T13:21:09.287352"
+  },
+  {
+    "problem_index": 746,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "{\"final\": 28}",
+    "timestamp": "2026-01-02T13:21:12.191925"
+  },
+  {
+    "problem_index": 758,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 133,
+    "correct_answer": 133,
+    "is_correct": true,
+    "raw_output": "{\"final\": 133}",
+    "timestamp": "2026-01-02T13:21:15.007338"
+  },
+  {
+    "problem_index": 759,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 60000,
+    "correct_answer": 60000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60000}",
+    "timestamp": "2026-01-02T13:21:17.732450"
+  },
+  {
+    "problem_index": 762,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85}",
+    "timestamp": "2026-01-02T13:21:21.936348"
+  },
+  {
+    "problem_index": 763,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "{\"final\": 100}",
+    "timestamp": "2026-01-02T13:21:25.591122"
+  },
+  {
+    "problem_index": 764,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T13:21:28.376755"
+  },
+  {
+    "problem_index": 775,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "raw_output": "{\"final\": 276}",
+    "timestamp": "2026-01-02T13:21:31.368287"
+  },
+  {
+    "problem_index": 787,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "{\"final\": 25}",
+    "timestamp": "2026-01-02T13:21:34.224099"
+  },
+  {
+    "problem_index": 794,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "{\"final\": 32}",
+    "timestamp": "2026-01-02T13:21:36.957165"
+  },
+  {
+    "problem_index": 814,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 68,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "{\"final\": 68}",
+    "timestamp": "2026-01-02T13:21:39.839071"
+  },
+  {
+    "problem_index": 819,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 6250,
+    "correct_answer": 6250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 6250}",
+    "timestamp": "2026-01-02T13:21:42.898817"
+  },
+  {
+    "problem_index": 824,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "raw_output": "{\"final\": 52}",
+    "timestamp": "2026-01-02T13:21:45.892487"
+  },
+  {
+    "problem_index": 841,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5600,
+    "correct_answer": 5600,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5600}",
+    "timestamp": "2026-01-02T13:21:48.699437"
+  },
+  {
+    "problem_index": 850,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 67,
+    "correct_answer": 70,
+    "is_correct": false,
+    "raw_output": "{\"final\": 67}",
+    "timestamp": "2026-01-02T13:21:51.954001"
+  },
+  {
+    "problem_index": 854,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "{\"final\": 144}",
+    "timestamp": "2026-01-02T13:21:54.684828"
+  },
+  {
+    "problem_index": 871,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "{\"final\": 48}",
+    "timestamp": "2026-01-02T13:21:57.493199"
+  },
+  {
+    "problem_index": 889,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T13:22:00.177886"
+  },
+  {
+    "problem_index": 901,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1}",
+    "timestamp": "2026-01-02T13:22:03.022936"
+  },
+  {
+    "problem_index": 908,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "{\"final\": 14}",
+    "timestamp": "2026-01-02T13:22:06.284793"
+  },
+  {
+    "problem_index": 909,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "raw_output": "{\"final\": 38}",
+    "timestamp": "2026-01-02T13:22:10.088105"
+  },
+  {
+    "problem_index": 915,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2026-01-02T13:22:12.919178"
+  },
+  {
+    "problem_index": 923,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T13:22:16.296340"
+  },
+  {
+    "problem_index": 925,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2000}",
+    "timestamp": "2026-01-02T13:22:19.204244"
+  },
+  {
+    "problem_index": 927,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 85000}",
+    "timestamp": "2026-01-02T13:22:22.225105"
+  },
+  {
+    "problem_index": 939,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "raw_output": "{\"final\": 650}",
+    "timestamp": "2026-01-02T13:22:25.113785"
+  },
+  {
+    "problem_index": 949,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "{\"final\": 42}",
+    "timestamp": "2026-01-02T13:22:28.591786"
+  },
+  {
+    "problem_index": 960,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "{\"final\": 11}",
+    "timestamp": "2026-01-02T13:22:31.262332"
+  },
+  {
+    "problem_index": 961,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "raw_output": "{\"final\": 225}",
+    "timestamp": "2026-01-02T13:22:34.903634"
+  },
+  {
+    "problem_index": 962,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 600}",
+    "timestamp": "2026-01-02T13:22:37.753207"
+  },
+  {
+    "problem_index": 963,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 147,
+    "correct_answer": 147,
+    "is_correct": true,
+    "raw_output": "{\"final\": 147}",
+    "timestamp": "2026-01-02T13:22:40.565650"
+  },
+  {
+    "problem_index": 969,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 1800,
+    "correct_answer": 1800,
+    "is_correct": true,
+    "raw_output": "{\"final\": 1800}",
+    "timestamp": "2026-01-02T13:22:43.445599"
+  },
+  {
+    "problem_index": 975,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T13:22:46.189278"
+  },
+  {
+    "problem_index": 977,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "{\"final\": 4}",
+    "timestamp": "2026-01-02T13:22:49.280327"
+  },
+  {
+    "problem_index": 989,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "{\"final\": 45}",
+    "timestamp": "2026-01-02T13:22:52.171577"
+  },
+  {
+    "problem_index": 998,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T13:22:55.148835"
+  },
+  {
+    "problem_index": 1008,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "{\"final\": 230}",
+    "timestamp": "2026-01-02T13:22:57.999610"
+  },
+  {
+    "problem_index": 1019,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "raw_output": "{\"final\": 98}",
+    "timestamp": "2026-01-02T13:23:00.731740"
+  },
+  {
+    "problem_index": 1023,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 77,
+    "correct_answer": 77,
+    "is_correct": true,
+    "raw_output": "{\"final\": 77}",
+    "timestamp": "2026-01-02T13:23:03.405803"
+  },
+  {
+    "problem_index": 1026,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 43200,
+    "correct_answer": 43200,
+    "is_correct": true,
+    "raw_output": "{\"final\": 43200}",
+    "timestamp": "2026-01-02T13:23:06.393766"
+  },
+  {
+    "problem_index": 1035,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 35,
+    "correct_answer": 35,
+    "is_correct": true,
+    "raw_output": "{\"final\": 35}",
+    "timestamp": "2026-01-02T13:23:09.050669"
+  },
+  {
+    "problem_index": 1036,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "{\"final\": 10}",
+    "timestamp": "2026-01-02T13:23:11.808125"
+  },
+  {
+    "problem_index": 1046,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 189,
+    "correct_answer": 189,
+    "is_correct": true,
+    "raw_output": "{\"final\": 189}",
+    "timestamp": "2026-01-02T13:23:14.657629"
+  },
+  {
+    "problem_index": 1049,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T13:23:17.498804"
+  },
+  {
+    "problem_index": 1057,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "raw_output": "{\"final\": 24}",
+    "timestamp": "2026-01-02T13:23:20.591853"
+  },
+  {
+    "problem_index": 1058,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "raw_output": "{\"final\": 250}",
+    "timestamp": "2026-01-02T13:23:23.147317"
+  },
+  {
+    "problem_index": 1069,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 300}",
+    "timestamp": "2026-01-02T13:23:25.973394"
+  },
+  {
+    "problem_index": 1071,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 251,
+    "correct_answer": 251,
+    "is_correct": true,
+    "raw_output": "{\"final\": 251}",
+    "timestamp": "2026-01-02T13:23:28.755620"
+  },
+  {
+    "problem_index": 1080,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 72000,
+    "correct_answer": 72000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 72000}",
+    "timestamp": "2026-01-02T13:23:31.752084"
+  },
+  {
+    "problem_index": 1088,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T13:23:34.376265"
+  },
+  {
+    "problem_index": 1093,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "{\"final\": 144}",
+    "timestamp": "2026-01-02T13:23:37.505349"
+  },
+  {
+    "problem_index": 1102,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "raw_output": "{\"final\": 113}",
+    "timestamp": "2026-01-02T13:23:40.621801"
+  },
+  {
+    "problem_index": 1109,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "{\"final\": 3}",
+    "timestamp": "2026-01-02T13:23:43.344681"
+  },
+  {
+    "problem_index": 1117,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "{\"final\": 9}",
+    "timestamp": "2026-01-02T13:23:45.938600"
+  },
+  {
+    "problem_index": 1132,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 50000,
+    "correct_answer": 45000,
+    "is_correct": false,
+    "raw_output": "{\"final\": 50000}",
+    "timestamp": "2026-01-02T13:23:49.353229"
+  },
+  {
+    "problem_index": 1147,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "raw_output": "{\"final\": 22}",
+    "timestamp": "2026-01-02T13:23:52.296035"
+  },
+  {
+    "problem_index": 1152,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T13:23:55.162389"
+  },
+  {
+    "problem_index": 1154,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T13:23:57.870169"
+  },
+  {
+    "problem_index": 1158,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 7300,
+    "correct_answer": 7300,
+    "is_correct": true,
+    "raw_output": "{\"final\": 7300}",
+    "timestamp": "2026-01-02T13:24:00.690885"
+  },
+  {
+    "problem_index": 1159,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "{\"final\": 50}",
+    "timestamp": "2026-01-02T13:24:03.319980"
+  },
+  {
+    "problem_index": 1161,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "raw_output": "{\"final\": 140}",
+    "timestamp": "2026-01-02T13:24:06.028878"
+  },
+  {
+    "problem_index": 1168,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T13:24:08.685377"
+  },
+  {
+    "problem_index": 1175,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "{\"final\": 16}",
+    "timestamp": "2026-01-02T13:24:11.395969"
+  },
+  {
+    "problem_index": 1177,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "{\"final\": 17}",
+    "timestamp": "2026-01-02T13:24:14.625624"
+  },
+  {
+    "problem_index": 1202,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 15,
+    "correct_answer": 19,
+    "is_correct": false,
+    "raw_output": "{\"final\": 15}",
+    "timestamp": "2026-01-02T13:24:17.544685"
+  },
+  {
+    "problem_index": 1206,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 40000,
+    "correct_answer": 40000,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40000}",
+    "timestamp": "2026-01-02T13:24:20.358940"
+  },
+  {
+    "problem_index": 1214,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "{\"final\": 5}",
+    "timestamp": "2026-01-02T13:24:22.924851"
+  },
+  {
+    "problem_index": 1216,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "{\"final\": 20}",
+    "timestamp": "2026-01-02T13:24:26.134876"
+  },
+  {
+    "problem_index": 1229,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T13:24:28.873467"
+  },
+  {
+    "problem_index": 1234,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T13:24:32.033145"
+  },
+  {
+    "problem_index": 1236,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "{\"final\": 84}",
+    "timestamp": "2026-01-02T13:24:34.733751"
+  },
+  {
+    "problem_index": 1240,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T13:24:37.440446"
+  },
+  {
+    "problem_index": 1249,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 73,
+    "correct_answer": 56,
+    "is_correct": false,
+    "raw_output": "{\"final\": 73}",
+    "timestamp": "2026-01-02T13:24:40.100134"
+  },
+  {
+    "problem_index": 1251,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T13:24:43.102938"
+  },
+  {
+    "problem_index": 1254,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "{\"final\": 30}",
+    "timestamp": "2026-01-02T13:24:45.726675"
+  },
+  {
+    "problem_index": 1258,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 60,
+    "correct_answer": 60,
+    "is_correct": true,
+    "raw_output": "{\"final\": 60}",
+    "timestamp": "2026-01-02T13:24:48.470978"
+  },
+  {
+    "problem_index": 1262,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "{\"final\": 12}",
+    "timestamp": "2026-01-02T13:24:51.452068"
+  },
+  {
+    "problem_index": 1267,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "{\"final\": 40}",
+    "timestamp": "2026-01-02T13:24:54.150642"
+  },
+  {
+    "problem_index": 1286,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 105,
+    "correct_answer": 105,
+    "is_correct": true,
+    "raw_output": "{\"final\": 105}",
+    "timestamp": "2026-01-02T13:24:56.889646"
+  },
+  {
+    "problem_index": 1291,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 27,
+    "correct_answer": 27,
+    "is_correct": true,
+    "raw_output": "{\"final\": 27}",
+    "timestamp": "2026-01-02T13:24:59.636495"
+  },
+  {
+    "problem_index": 1294,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "{\"final\": 36}",
+    "timestamp": "2026-01-02T13:25:03.310430"
+  },
+  {
+    "problem_index": 1295,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "{\"final\": 2}",
+    "timestamp": "2026-01-02T13:25:05.837134"
+  },
+  {
+    "problem_index": 1301,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "{\"final\": 23}",
+    "timestamp": "2026-01-02T13:25:08.499192"
+  },
+  {
+    "problem_index": 1309,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 2180,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "raw_output": "{\"final\": 2180}",
+    "timestamp": "2026-01-02T13:25:11.235346"
+  },
+  {
+    "problem_index": 1316,
+    "condition": "late_protected_c04",
+    "L": 10,
+    "c": 0.4,
+    "K_corrupt": 4,
+    "K_clean": 6,
+    "corrupted_steps": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "final_cue_clean": true,
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "{\"final\": 230}",
+    "timestamp": "2026-01-02T13:25:14.023279"
+  }
+]
