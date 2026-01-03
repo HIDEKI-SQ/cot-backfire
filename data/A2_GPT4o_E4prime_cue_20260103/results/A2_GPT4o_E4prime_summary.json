@@ -1,0 +1,48 @@
+{
+  "experiment": "A2_GPT4o_E4prime_cue",
+  "model": "gpt-4o",
+  "date": "20260103",
+  "n_problems": 199,
+  "c": 0.4,
+  "L": 10,
+  "positions": {
+    "e2_late": [
+      8,
+      9,
+      10,
+      7
+    ],
+    "e4_prime": [
+      8,
+      9,
+      6,
+      7
+    ]
+  },
+  "results": {
+    "e2_late_accuracy": 0.678391959798995,
+    "e4_prime_accuracy": 0.8944723618090452,
+    "cue_protection_effect_pp": 21.608040201005018
+  },
+  "mcnemar": {
+    "chi2": 33.283018867924525,
+    "p_value": 7.967534965125367e-09
+  },
+  "contingency": {
+    "both_correct": 130,
+    "e2_late_only": 5,
+    "e4_prime_only": 48,
+    "both_wrong": 16,
+    "asymmetry": "48:5"
+  },
+  "comparison_claude": {
+    "e2_late": 60.3,
+    "e4_prime": 92.0,
+    "effect": 31.700000000000003
+  },
+  "api_settings": {
+    "rate_limit_delay": 2.0,
+    "max_retries": 5,
+    "rate_limit_wait": 60
+  }
+}

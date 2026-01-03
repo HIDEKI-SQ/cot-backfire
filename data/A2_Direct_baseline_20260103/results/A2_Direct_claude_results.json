@@ -1,0 +1,1793 @@
+[
+  {
+    "problem_index": 2,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 70000,
+    "correct_answer": 70000,
+    "is_correct": true,
+    "raw_output": "I need to find Josh's profit from flipping the house.\n\nLet me break this down step by step:\n\n**Step 1: Calculate Josh's total investment**\n- Purchase price: $80,000\n- Repairs: $50,000\n- Total investment = $80,000 + $50,000 = $130,000\n\n**Step 2: Calculate the house's value after repairs**\nThe problem states that the repairs \"increased the value of the house by 150%.\"\n\nThis means the value increased by 150% of the original purchase price:\n- Increase in value = 150% × $80,000 = 1.5 × $80,000 = $120,000\n- New value = Original value + Increase = $80,000 + $120,000 = $200,000\n\n**Step 3: Calculate the profit**\n- Profit = Selling price - Total investment\n- Profit = $200,000 - $130,000 = $70,000\n\nTherefore, Josh made a profit of $70,000.\n\n{\"final\": 70000}",
+    "timestamp": "2026-01-03T03:26:50.252735"
+  },
+  {
+    "problem_index": 11,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 694,
+    "correct_answer": 694,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total cost of all the pastries Toula bought.\n\nLet me break this down by each type of pastry:\n\n**Donuts:**\n- Quantity: 3 dozen\n- Cost per dozen: $68\n- Total cost for donuts: 3 × $68 = $204\n\n**Mini cupcakes:**\n- Quantity: 2 dozen\n- Cost per dozen: $80\n- Total cost for mini cupcakes: 2 × $80 = $160\n\n**Mini cheesecakes:**\n- Quantity: 6 dozen\n- Cost per dozen: $55\n- Total cost for mini cheesecakes: 6 × $55 = $330\n\n**Total cost:**\n$204 + $160 + $330 = $694\n\n{\"final\": 694}",
+    "timestamp": "2026-01-03T03:26:57.489382"
+  },
+  {
+    "problem_index": 24,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 26,
+    "correct_answer": 26,
+    "is_correct": true,
+    "raw_output": "I need to find the original price of the book when Kyle paid $19.50 after a 25% discount.\n\nLet me set up the problem:\n- Let x = the original price of the book\n- Kyle got a 25% discount, so he paid 75% of the original price\n- 75% of the original price = $19.50\n\nSetting up the equation:\n0.75x = 19.50\n\nTo solve for x, I'll divide both sides by 0.75:\nx = 19.50 ÷ 0.75\nx = 19.50 ÷ (3/4)\nx = 19.50 × (4/3)\nx = 19.50 × 4 ÷ 3\nx = 78 ÷ 3\nx = 26\n\nLet me verify this answer:\n- Original price: $26.00\n- 25% discount: 26.00 × 0.25 = $6.50\n- Price after discount: 26.00 - 6.50 = $19.50 ✓\n\nThis matches what Kyle paid, so the original price was $26.00.\n\n{\"final\": 26}",
+    "timestamp": "2026-01-03T03:27:06.590996"
+  },
+  {
+    "problem_index": 55,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nStep 1: Find how many lollipops Jean has after eating some.\n- Jean starts with 30 lollipops\n- Jean eats 2 lollipops\n- Remaining lollipops = 30 - 2 = 28 lollipops\n\nStep 2: Find how many bags Jean can fill.\n- Jean wants to put 2 lollipops in each bag\n- Number of bags = Total remaining lollipops ÷ Lollipops per bag\n- Number of bags = 28 ÷ 2 = 14 bags\n\nTherefore, Jean can fill 14 bags.\n\n{\"final\": 14}",
+    "timestamp": "2026-01-03T03:27:13.247095"
+  },
+  {
+    "problem_index": 64,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "I need to find how many miles Sophia can drive on a single tank of gas.\n\nLet me work through this step by step:\n\n**Step 1: Find Sophia's car's fuel efficiency (miles per gallon)**\n- Sophia drove 100 miles\n- She used 4 gallons of gas to refill the tank\n- Fuel efficiency = miles driven ÷ gallons used\n- Fuel efficiency = 100 miles ÷ 4 gallons = 25 miles per gallon\n\n**Step 2: Calculate how far she can drive on a full tank**\n- Her tank holds 12 gallons total\n- She can drive 25 miles per gallon\n- Total distance on full tank = tank capacity × fuel efficiency\n- Total distance = 12 gallons × 25 miles per gallon = 300 miles\n\nTherefore, Sophia can drive 300 miles on a single tank of gas.\n\n{\"final\": 300}",
+    "timestamp": "2026-01-03T03:27:22.076183"
+  },
+  {
+    "problem_index": 65,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "I need to find the total hours Jim spends on TV and reading over 4 weeks.\n\nLet me break this down step by step:\n\n**Step 1: Find how long Jim reads each time**\n- Jim watches TV for 2 hours\n- He reads for half as long as he watches TV\n- Reading time = 2 hours ÷ 2 = 1 hour\n\n**Step 2: Find total time spent on both activities in one session**\n- TV time: 2 hours\n- Reading time: 1 hour\n- Total per session: 2 + 1 = 3 hours\n\n**Step 3: Find total time per week**\n- Jim does this 3 times a week\n- Total per week: 3 hours × 3 times = 9 hours\n\n**Step 4: Find total time over 4 weeks**\n- Total over 4 weeks: 9 hours × 4 weeks = 36 hours\n\nTherefore, Jim spends 36 hours on TV and reading in 4 weeks.\n\n{\"final\": 36}",
+    "timestamp": "2026-01-03T03:27:30.346255"
+  },
+  {
+    "problem_index": 66,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of people sent by all four schools to the basketball tournament.\n\nLet me break this down step by step:\n\n**Step 1: Identify what each school sends**\n- 1 girls' basketball team with 5 players\n- 1 boys' basketball team with 5 players  \n- 1 coach for the girls' team\n- 1 coach for the boys' team\n\n**Step 2: Calculate the total number of people per school**\n- Girls' team players: 5\n- Boys' team players: 5\n- Girls' team coach: 1\n- Boys' team coach: 1\n- Total per school: 5 + 5 + 1 + 1 = 12 people\n\n**Step 3: Calculate the total for all four schools**\n- Number of schools: 4\n- People per school: 12\n- Total people: 4 × 12 = 48 people\n\nTherefore, all four schools have sent a total of 48 people to the tournament.\n\n{\"final\": 48}",
+    "timestamp": "2026-01-03T03:27:38.152579"
+  },
+  {
+    "problem_index": 79,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "I need to calculate the cost of dog grooming after applying a 30% discount.\n\nStep 1: Identify the original cost and discount.\n- Original grooming cost: $100\n- Discount: 30% for being a new customer\n\nStep 2: Calculate the discount amount.\n- Discount amount = 30% of $100\n- Discount amount = 0.30 × $100 = $30\n\nStep 3: Calculate the final cost after discount.\n- Final cost = Original cost - Discount amount\n- Final cost = $100 - $30 = $70\n\nTherefore, the grooming costs $70 after the 30% new customer discount.\n\n{\"final\": 70}",
+    "timestamp": "2026-01-03T03:27:45.803122"
+  },
+  {
+    "problem_index": 83,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 600,
+    "correct_answer": 600,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of thorns by multiplying the number of rose bushes, roses per bush, and thorns per rose.\n\nStep 1: Identify the given information\n- Number of rose bushes: 3\n- Number of roses per bush: 25\n- Number of thorns per rose: 8\n\nStep 2: Calculate the total number of roses\nTotal roses = Number of rose bushes × Roses per bush\nTotal roses = 3 × 25 = 75 roses\n\nStep 3: Calculate the total number of thorns\nTotal thorns = Total roses × Thorns per rose\nTotal thorns = 75 × 8 = 600 thorns\n\nTherefore, there are 600 thorns total.\n\n{\"final\": 600}",
+    "timestamp": "2026-01-03T03:27:51.936588"
+  },
+  {
+    "problem_index": 85,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 44,
+    "correct_answer": 44,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of quilt blocks Gene has, which equals the total number of vacation t-shirts he has collected.\n\nLet me break this down step by step:\n\n**Step 1: Find how many years Gene has been vacationing**\n- Gene started vacationing when he was 23 years old\n- He is now 34 years old\n- Years of vacationing = 34 - 23 = 11 years\n\n**Step 2: Find how many vacations per year**\n- Gene goes on 4 vacations per year\n\n**Step 3: Calculate total number of vacations (and therefore t-shirts/quilt blocks)**\n- Total vacations = Years of vacationing × Vacations per year\n- Total vacations = 11 × 4 = 44\n\n**Step 4: Verify the logic**\n- Each vacation = 1 souvenir t-shirt\n- Each t-shirt = 1 quilt block\n- Therefore, 44 vacations = 44 t-shirts = 44 quilt blocks\n\nGene has 44 quilt blocks in total.\n\n{\"final\": 44}",
+    "timestamp": "2026-01-03T03:28:00.276812"
+  },
+  {
+    "problem_index": 104,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 500,
+    "correct_answer": 500,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nGiven information:\n- Total puzzle pieces: 1000\n- Poppy places 1/4 of the pieces\n- Mom places 1/3 of the remaining pieces\n- Need to find how many pieces are left\n\nStep 1: Calculate how many pieces Poppy places.\nPoppy places 1/4 of 1000 pieces\n1/4 × 1000 = 250 pieces\n\nStep 2: Calculate how many pieces remain after Poppy places hers.\nRemaining pieces = 1000 - 250 = 750 pieces\n\nStep 3: Calculate how many pieces Mom places.\nMom places 1/3 of the remaining 750 pieces\n1/3 × 750 = 250 pieces\n\nStep 4: Calculate how many pieces are left to be placed.\nPieces left = Total pieces - Poppy's pieces - Mom's pieces\nPieces left = 1000 - 250 - 250 = 500 pieces\n\nTherefore, 500 jigsaw pieces are left to be placed.\n\n{\"final\": 500}",
+    "timestamp": "2026-01-03T03:28:07.422958"
+  },
+  {
+    "problem_index": 109,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "I need to calculate the final cost of gas after applying the cashback reward.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the initial cost of gas**\n- Price per gallon: $3.00\n- Number of gallons: 10\n- Initial cost = $3.00 × 10 = $30.00\n\n**Step 2: Calculate the total cashback**\n- Cashback per gallon: $0.20\n- Number of gallons: 10\n- Total cashback = $0.20 × 10 = $2.00\n\n**Step 3: Calculate the final cost after cashback**\n- Final cost = Initial cost - Cashback\n- Final cost = $30.00 - $2.00 = $28.00\n\nTherefore, after the cashback rewards, the gas will cost $28.00.\n\n{\"final\": 28}",
+    "timestamp": "2026-01-03T03:28:15.101146"
+  },
+  {
+    "problem_index": 114,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "I need to work backwards from the given information to find the number of ducks in Jamal's photograph.\n\nLet me define variables:\n- Let D = number of ducks in Jamal's photograph\n- Let B = maximum number of photographs Brittany's phone can hold\n- Let J = maximum number of photographs Jamal's phone can hold = 1800\n\nStep 1: Set up the relationship between Jamal's and Brittany's phone capacities.\n\"Jamal's phone can hold 6 times more photographs than can Brittany's phone\"\nJ = 6B\n1800 = 6B\nB = 1800 ÷ 6 = 300\n\nSo Brittany's phone can hold 300 photographs.\n\nStep 2: Set up the relationship between Brittany's phone capacity and the number of ducks.\n\"The maximum number of photographs that Brittany's phone can hold is 50 times more than the number of birds in Jamal's photograph of the ducks at the zoo\"\nB = 50D\n300 = 50D\nD = 300 ÷ 50 = 6\n\nStep 3: Verify the solution.\n- Jamal's phone holds 1800 photographs ✓\n- Brittany's phone holds 300 photographs\n- 1800 = 6 × 300 ✓ (Jamal's phone holds 6 times more than Brittany's)\n- 300 = 50 × 6 ✓ (Brittany's phone capacity is 50 times the number of ducks)\n\nTherefore, there are 6 ducks in Jamal's photograph.\n\n{\"final\": 6}",
+    "timestamp": "2026-01-03T03:28:24.117502"
+  },
+  {
+    "problem_index": 116,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step using the given ratio.\n\nGiven information:\n- Ratio of sugar to water = 7:13\n- Total amount of sugar and water combined = 120 units\n\nStep 1: Understand what the ratio means.\nThe ratio 7:13 means that for every 7 teaspoons of sugar, there are 13 cups of water.\n\nStep 2: Find the total parts in the ratio.\nTotal parts = 7 + 13 = 20 parts\n\nStep 3: Determine what each part represents.\nSince the total is 120 units and there are 20 parts:\nEach part = 120 ÷ 20 = 6 units\n\nStep 4: Calculate the amount of sugar.\nSugar corresponds to 7 parts in the ratio.\nAmount of sugar = 7 × 6 = 42 teaspoons\n\nStep 5: Verify the answer.\nAmount of water = 13 × 6 = 78 cups\nTotal = 42 + 78 = 120 ✓\n\nTherefore, Katy used 42 teaspoons of sugar.\n\n{\"final\": 42}",
+    "timestamp": "2026-01-03T03:28:33.820924"
+  },
+  {
+    "problem_index": 120,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 240,
+    "correct_answer": 240,
+    "is_correct": true,
+    "raw_output": "I need to find how many sheets of paper Miguel uses every month.\n\nLet me break this down step by step:\n\n**Step 1: Find how many sheets Miguel uses per week**\n- Miguel uses 2 pads of paper per week\n- Each pad has 30 sheets\n- Sheets per week = 2 pads × 30 sheets/pad = 60 sheets per week\n\n**Step 2: Find how many sheets Miguel uses per month**\n- There are approximately 4 weeks in a month\n- Sheets per month = 60 sheets/week × 4 weeks/month = 240 sheets per month\n\nTherefore, Miguel uses 240 sheets of paper every month.\n\n{\"final\": 240}",
+    "timestamp": "2026-01-03T03:28:40.630940"
+  },
+  {
+    "problem_index": 122,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "I need to calculate Sadie's total sleep hours for the entire week.\n\nLet me break this down day by day:\n\n**Monday:**\n- Slept 8 hours\n\n**Tuesday and Wednesday (the next two days):**\n- Slept 2 hours less than Monday each day\n- Monday sleep - 2 hours = 8 - 2 = 6 hours each day\n- Tuesday: 6 hours\n- Wednesday: 6 hours\n\n**Thursday, Friday, Saturday, and Sunday (rest of the week):**\n- Slept 1 hour more than those two days (Tuesday and Wednesday)\n- Those two days she slept 6 hours each, so rest of week = 6 + 1 = 7 hours each day\n- Thursday: 7 hours\n- Friday: 7 hours\n- Saturday: 7 hours\n- Sunday: 7 hours\n\n**Total sleep for the week:**\n- Monday: 8 hours\n- Tuesday: 6 hours\n- Wednesday: 6 hours\n- Thursday: 7 hours\n- Friday: 7 hours\n- Saturday: 7 hours\n- Sunday: 7 hours\n\nTotal = 8 + 6 + 6 + 7 + 7 + 7 + 7 = 48 hours\n\n{\"final\": 48}",
+    "timestamp": "2026-01-03T03:28:50.009462"
+  },
+  {
+    "problem_index": 125,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "I need to find how many spoons were in the package that Julia bought.\n\nLet me define variables and work through this step by step.\n\nLet x = number of spoons in the package Julia bought\n\nNow I'll track what happened:\n\n1) Julia bought a package with x spoons\n2) Her husband bought a package with 5 spoons and gave them to Julia\n3) Julia used 3 spoons to sample her stew\n4) She ended up with 12 spoons total\n\nSetting up the equation:\n- Started with: x spoons (Julia's package)\n- Added: 5 spoons (husband's package)\n- Subtracted: 3 spoons (used for sampling)\n- Final total: 12 spoons\n\nSo: x + 5 - 3 = 12\n\nSolving:\nx + 5 - 3 = 12\nx + 2 = 12\nx = 12 - 2\nx = 10\n\nLet me verify this answer:\n- Julia bought 10 spoons\n- Husband added 5 spoons: 10 + 5 = 15 spoons\n- Julia used 3 spoons: 15 - 3 = 12 spoons ✓\n\nTherefore, Julia's package contained 10 spoons.\n\n{\"final\": 10}",
+    "timestamp": "2026-01-03T03:28:58.486699"
+  },
+  {
+    "problem_index": 129,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 10000,
+    "correct_answer": 10000,
+    "is_correct": true,
+    "raw_output": "I need to calculate the hospital's profit from seeing 500 patients per day.\n\nLet me break this down step by step:\n\n**Step 1: Calculate total time spent with patients**\n- 500 patients × 24 minutes per patient = 12,000 minutes\n- Convert to hours: 12,000 minutes ÷ 60 minutes/hour = 200 hours\n\n**Step 2: Calculate the hospital's revenue (what they charge patients)**\n- Hospital charges patients $200 per hour\n- Revenue = 200 hours × $200/hour = $40,000\n\n**Step 3: Calculate the hospital's costs (what they pay doctors)**\n- Hospital pays doctors $150 per hour\n- Costs = 200 hours × $150/hour = $30,000\n\n**Step 4: Calculate profit**\n- Profit = Revenue - Costs\n- Profit = $40,000 - $30,000 = $10,000\n\nTherefore, the hospital makes $10,000 profit from these visits.\n\n{\"final\": 10000}",
+    "timestamp": "2026-01-03T03:29:07.326828"
+  },
+  {
+    "problem_index": 150,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "I need to find how long each person takes to get home, then calculate the difference.\n\nFirst, let me convert distances to the same units as the speeds (feet).\n\n**Steve's journey:**\n- Distance: 3 miles\n- 1 mile = 5,280 feet\n- Steve's distance = 3 × 5,280 = 15,840 feet\n- Speed = 440 feet per minute\n- Time = Distance ÷ Speed = 15,840 ÷ 440 = 36 minutes\n\n**Tim's journey:**\n- Distance: 2 miles = 2 × 5,280 = 10,560 feet\n- Speed = 264 feet per minute\n- Time = Distance ÷ Speed = 10,560 ÷ 264 = 40 minutes\n\n**Determining the winner:**\nSteve takes 36 minutes, Tim takes 40 minutes.\nSteve is faster and wins the race.\n\n**Waiting time:**\nThe winner (Steve) will wait: 40 - 36 = 4 minutes\n\n{\"final\": 4}",
+    "timestamp": "2026-01-03T03:29:17.247595"
+  },
+  {
+    "problem_index": 152,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate the total number of cookies**\n- Carl buys 10 packs of cookies\n- Each pack has 6 cookies\n- Total cookies = 10 packs × 6 cookies per pack = 60 cookies\n\n**Step 2: Calculate the total cost**\n- Each cookie costs $0.10\n- Total cost = 60 cookies × $0.10 per cookie = $6.00\n\n**Step 3: Calculate the change**\n- Carl pays with a $10 bill\n- Total cost is $6.00\n- Change = $10.00 - $6.00 = $4.00\n\nTherefore, Carl receives $4.00 in change.\n\n{\"final\": 4}",
+    "timestamp": "2026-01-03T03:29:24.776563"
+  },
+  {
+    "problem_index": 154,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 272,
+    "correct_answer": 272,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total hours Kimo spends in classes during one semester.\n\nLet me break this down by days of the week:\n\n**Mondays, Wednesdays, and Fridays:**\n- 3 classes per day\n- Each class is 1 hour long\n- Hours per day = 3 × 1 = 3 hours\n- Number of these days per week = 3 (Mon, Wed, Fri)\n- Hours per week for these days = 3 × 3 = 9 hours\n\n**Tuesdays and Thursdays:**\n- 2 classes per day\n- Each class is 2 hours long\n- Hours per day = 2 × 2 = 4 hours\n- Number of these days per week = 2 (Tue, Thu)\n- Hours per week for these days = 4 × 2 = 8 hours\n\n**Total hours per week:**\n9 hours (Mon/Wed/Fri) + 8 hours (Tue/Thu) = 17 hours per week\n\n**Total hours in one semester:**\n17 hours per week × 16 weeks = 272 hours\n\n{\"final\": 272}",
+    "timestamp": "2026-01-03T03:29:33.011600"
+  },
+  {
+    "problem_index": 167,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "I need to find Seth's current age. Let me set up equations based on the given information.\n\nLet me define variables:\n- Let B = Brooke's current age\n- Let S = Seth's current age\n\nFrom the problem, I know:\n1) Seth is twice as old as Brooke: S = 2B\n2) In 2 years, the sum of their ages will be 28: (S + 2) + (B + 2) = 28\n\nNow I'll solve step by step:\n\nStep 1: Simplify the second equation.\n(S + 2) + (B + 2) = 28\nS + B + 4 = 28\nS + B = 24\n\nStep 2: Substitute the first equation into the simplified second equation.\nSince S = 2B, I can substitute:\n2B + B = 24\n3B = 24\nB = 8\n\nStep 3: Find Seth's age using S = 2B.\nS = 2(8) = 16\n\nStep 4: Verify the answer.\n- Seth is currently 16, Brooke is currently 8\n- Seth is twice as old as Brooke: 16 = 2(8) ✓\n- In 2 years: Seth will be 18, Brooke will be 10\n- Sum of their ages in 2 years: 18 + 10 = 28 ✓\n\nTherefore, Seth is currently 16 years old.\n\n{\"final\": 16}",
+    "timestamp": "2026-01-03T03:29:42.042846"
+  },
+  {
+    "problem_index": 169,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 120,
+    "correct_answer": 120,
+    "is_correct": true,
+    "raw_output": "I need to find the total miles Pancho walks in a week.\n\nLet me break this down step by step:\n\nStep 1: Identify the walking pattern\n- Weekdays (Monday through Friday): 20 miles per day\n- Weekends (Saturday and Sunday): 10 miles per day\n\nStep 2: Count the number of each type of day in a week\n- Weekdays: 5 days (Monday, Tuesday, Wednesday, Thursday, Friday)\n- Weekend days: 2 days (Saturday, Sunday)\n\nStep 3: Calculate miles walked on weekdays\n- Miles per weekday: 20 miles\n- Number of weekdays: 5 days\n- Total weekday miles: 20 × 5 = 100 miles\n\nStep 4: Calculate miles walked on weekends\n- Miles per weekend day: 10 miles\n- Number of weekend days: 2 days\n- Total weekend miles: 10 × 2 = 20 miles\n\nStep 5: Calculate total miles for the week\n- Total miles = Weekday miles + Weekend miles\n- Total miles = 100 + 20 = 120 miles\n\n{\"final\": 120}",
+    "timestamp": "2026-01-03T03:29:50.606985"
+  },
+  {
+    "problem_index": 175,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "I need to find how much Juan and Carlos spent on lemons.\n\nLet me start by figuring out the profit per gallon and then work backwards to find how many gallons they made.\n\n**Step 1: Calculate revenue and costs per gallon**\n- Revenue per gallon: 20 glasses × $0.50 = $10\n- Cost per gallon: $3 (lemons) + $2 (sugar) = $5\n- Profit per gallon: $10 - $5 = $5\n\n**Step 2: Find how many gallons they made**\n- Total profit = $25\n- Profit per gallon = $5\n- Number of gallons = $25 ÷ $5 = 5 gallons\n\n**Step 3: Calculate total spending on lemons**\n- Cost of lemons per gallon = $3\n- Number of gallons = 5\n- Total spent on lemons = 5 × $3 = $15\n\n**Verification:**\n- 5 gallons × $3 lemons = $15 spent on lemons\n- 5 gallons × $2 sugar = $10 spent on sugar\n- Total costs = $15 + $10 = $25\n- Revenue = 5 gallons × 20 glasses × $0.50 = $50\n- Profit = $50 - $25 = $25 ✓\n\n{\"final\": 15}",
+    "timestamp": "2026-01-03T03:29:59.334217"
+  },
+  {
+    "problem_index": 176,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "I need to find the number of girls on the Chinese team.\n\nLet me work through this step by step:\n\nStep 1: Find the total number of Chinese participants.\n- Total Asians = 240\n- Japanese participants = 80\n- Chinese participants = 240 - 80 = 160\n\nStep 2: Find the number of girls on the Chinese team.\n- Total Chinese participants = 160\n- Chinese boys = 60\n- Chinese girls = 160 - 60 = 100\n\nTherefore, there were 100 girls on the Chinese team.\n\n{\"final\": 100}",
+    "timestamp": "2026-01-03T03:30:09.473736"
+  },
+  {
+    "problem_index": 178,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 122,
+    "correct_answer": 122,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\nGiven information:\n- Bo has 40 crabs\n- Monic has 4 fewer crabs than Bo\n- Rani has 10 more crabs than Monic\n\nStep 1: Find how many crabs Monic has.\nMonic has 4 fewer crabs than Bo\nMonic = Bo - 4\nMonic = 40 - 4 = 36 crabs\n\nStep 2: Find how many crabs Rani has.\nRani has 10 more crabs than Monic\nRani = Monic + 10\nRani = 36 + 10 = 46 crabs\n\nStep 3: Calculate the total number of crabs all three have together.\nTotal = Bo + Monic + Rani\nTotal = 40 + 36 + 46 = 122 crabs\n\n{\"final\": 122}",
+    "timestamp": "2026-01-03T03:30:16.913960"
+  },
+  {
+    "problem_index": 198,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 320,
+    "correct_answer": 320,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step, tracking Elaine's Pokemon card collection over three months.\n\n**Initial cards:**\nElaine started with 20 Pokemon cards.\n\n**First month:**\nShe collected three times her initial number.\nFirst month collection = 3 × 20 = 60 cards\n\n**Second month:**\nShe collected 20 fewer cards than in the first month.\nSecond month collection = 60 - 20 = 40 cards\n\n**Third month:**\nShe collected twice the combined number from the first and second months.\nCombined first and second months = 60 + 40 = 100 cards\nThird month collection = 2 × 100 = 200 cards\n\n**Total cards:**\nInitial cards + First month + Second month + Third month\n= 20 + 60 + 40 + 200\n= 320 cards\n\n{\"final\": 320}",
+    "timestamp": "2026-01-03T03:30:24.632802"
+  },
+  {
+    "problem_index": 205,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "raw_output": "I need to find what score Brinley needs on her sixth test to achieve an average of 93, knowing that the lowest score will be dropped.\n\nLet me work through this step by step.\n\n**Step 1: Understand the situation**\n- Brinley has taken 5 tests with scores: 89, 71, 92, 100, 86\n- She will take a 6th test (unknown score)\n- The lowest of the 6 scores will be dropped\n- She wants an average of 93 from the remaining 5 scores\n\n**Step 2: Identify the current lowest score**\nLooking at her current scores: 89, 71, 92, 100, 86\nThe lowest score is 71.\n\n**Step 3: Consider what happens with the 6th test**\nLet's call the 6th test score x.\n\nIf x ≥ 71, then 71 remains the lowest and gets dropped.\nIf x < 71, then x becomes the lowest and gets dropped.\n\n**Step 4: Case 1 - If x ≥ 71**\nIf x ≥ 71, then 71 is dropped and the remaining scores are: 89, 92, 100, 86, x\n\nFor an average of 93:\n(89 + 92 + 100 + 86 + x) ÷ 5 = 93\n(367 + x) ÷ 5 = 93\n367 + x = 465\nx = 98\n\nSince 98 ≥ 71, this case is valid.\n\n**Step 5: Case 2 - If x < 71**\nIf x < 71, then x is dropped and the remaining scores are: 89, 92, 100, 86, 71\n\nLet's check what average this gives:\n(89 + 92 + 100 + 86 + 71) ÷ 5 = 438 ÷ 5 = 87.6\n\nSince 87.6 < 93, scoring less than 71 won't achieve the desired average.\n\n**Step 6: Verification**\nIf Brinley scores 98 on the sixth test:\n- All scores: 89, 71, 92, 100, 86, 98\n- Lowest score (71) is dropped\n- Remaining scores: 89, 92, 100, 86, 98\n- Average: (89 + 92 + 100 + 86 + 98) ÷ 5 = 465 ÷ 5 = 93 ✓\n\nTherefore, Brinley needs to score 98 on her sixth test.\n\n{\"final\": 98}",
+    "timestamp": "2026-01-03T03:30:39.557122"
+  },
+  {
+    "problem_index": 210,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "I need to find how many times Sara must mow the lawn to afford the jacket and shoes.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the total cost of what Sara wants to buy**\n- Jacket: $30\n- 2 pairs of shoes: 2 × $20 = $40\n- Total cost: $30 + $40 = $70\n\n**Step 2: Calculate how much money Sara already has**\n- Initial savings: $10\n- Babysitting earnings: 4 times × $5 per time = $20\n- Total money Sara has: $10 + $20 = $30\n\n**Step 3: Calculate how much more money Sara needs**\n- Money needed: $70 - $30 = $40\n\n**Step 4: Calculate how many times Sara must mow the lawn**\n- Sara earns $4 each time she mows the lawn\n- Number of times needed: $40 ÷ $4 = 10\n\nLet me verify: \n- Sara has $30\n- If she mows the lawn 10 times: 10 × $4 = $40\n- Total money: $30 + $40 = $70\n- This equals the cost of the jacket and shoes ✓\n\n{\"final\": 10}",
+    "timestamp": "2026-01-03T03:30:48.361158"
+  },
+  {
+    "problem_index": 217,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of flowers in the vase.\n\nLet me break this down step by step:\n\nStep 1: Find the number of roses.\n- There are 4 roses in the vase.\n\nStep 2: Find the number of dahlias.\n- There are 7 more dahlias than roses\n- Number of dahlias = Number of roses + 7\n- Number of dahlias = 4 + 7 = 11\n\nStep 3: Find the total number of flowers.\n- Total flowers = Number of roses + Number of dahlias\n- Total flowers = 4 + 11 = 15\n\nTherefore, there are 15 flowers in the vase in total.\n\n{\"final\": 15}",
+    "timestamp": "2026-01-03T03:30:55.740856"
+  },
+  {
+    "problem_index": 222,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 140,
+    "correct_answer": 140,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of flowers Andy plants.\n\nLet me break this down step by step:\n\nStep 1: Find the number of geraniums.\nAndy plants 90 geraniums.\n\nStep 2: Find the number of petunias.\nThe problem states he plants \"40 fewer petunias than geraniums.\"\nThis means: petunias = geraniums - 40\npetunias = 90 - 40 = 50 petunias\n\nStep 3: Find the total number of flowers.\nTotal flowers = geraniums + petunias\nTotal flowers = 90 + 50 = 140 flowers\n\nTherefore, Andy plants 140 flowers total.\n\n{\"final\": 140}",
+    "timestamp": "2026-01-03T03:31:07.976958"
+  },
+  {
+    "problem_index": 223,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20000,
+    "correct_answer": 20000,
+    "is_correct": true,
+    "raw_output": "I need to find the total amount spent on advertising over two years.\n\nStep 1: Identify the spending for the first year.\nThe company spends $15,000 on advertising for the first year.\n\nStep 2: Calculate the spending for the second year.\nThe company spends a third of the first year's amount in the second year.\nSecond year spending = (1/3) × $15,000 = $15,000 ÷ 3 = $5,000\n\nStep 3: Calculate the total spending for both years.\nTotal spending = First year spending + Second year spending\nTotal spending = $15,000 + $5,000 = $20,000\n\nTherefore, the company spent a total of $20,000 on advertising for the two years.\n\n{\"final\": 20000}",
+    "timestamp": "2026-01-03T03:31:14.418161"
+  },
+  {
+    "problem_index": 225,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of days Andrew will travel if he goes to Rochester by bus and returns by car.\n\nLet me break this down step by step:\n\nStep 1: Find the time to travel by bus from New Jersey to Rochester.\n- The problem states it takes 6 days to travel by bus from New Jersey to Rochester.\n\nStep 2: Find the time to travel by car from New Jersey to Rochester.\n- The problem states it takes \"half as many days to travel by car\" compared to bus.\n- Car travel time = 6 days ÷ 2 = 3 days\n\nStep 3: Calculate the total travel time for Andrew's trip.\n- Going to Rochester by bus: 6 days\n- Returning from Rochester by car: 3 days\n- Total travel time = 6 days + 3 days = 9 days\n\nTherefore, Andrew will travel for 9 days total.\n\n{\"final\": 9}",
+    "timestamp": "2026-01-03T03:31:22.251194"
+  },
+  {
+    "problem_index": 229,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 21,
+    "correct_answer": 21,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find how many watermelons were harvested in the first visit**\n- Total watermelons: 120\n- 30% were ready for harvest\n- First harvest: 30% of 120 = 0.30 × 120 = 36 watermelons\n\n**Step 2: Find how many watermelons remained after the first harvest**\n- Remaining watermelons: 120 - 36 = 84 watermelons\n\n**Step 3: Find how many watermelons were harvested in the second visit**\n- 3/4 of the remaining melons were ready\n- Second harvest: 3/4 × 84 = (3 × 84) ÷ 4 = 252 ÷ 4 = 63 watermelons\n\n**Step 4: Find how many watermelons were not ready after the second visit**\n- Watermelons not harvested: 84 - 63 = 21 watermelons\n\n**Verification:**\n- Started with: 120 watermelons\n- First harvest: 36 watermelons\n- Second harvest: 63 watermelons\n- Not ready: 21 watermelons\n- Total: 36 + 63 + 21 = 120 ✓\n\n{\"final\": 21}",
+    "timestamp": "2026-01-03T03:31:30.517058"
+  },
+  {
+    "problem_index": 241,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "I need to figure out how many books Dolly and Pandora will read collectively.\n\nLet me break this down step by step:\n\n**Step 1: Identify what books each person owns**\n- Dolly has 2 books\n- Pandora has 1 book\n- Total books available = 2 + 1 = 3 books\n\n**Step 2: Determine what each person will read**\nThe problem states that both Dolly and Pandora will read:\n- Their own books\n- Each other's books\n\nThis means each person will read ALL the available books.\n\n**Step 3: Calculate how many books each person reads**\n- Dolly will read: her own 2 books + Pandora's 1 book = 3 books\n- Pandora will read: her own 1 book + Dolly's 2 books = 3 books\n\n**Step 4: Calculate the collective total**\n- Dolly reads 3 books\n- Pandora reads 3 books\n- Collectively they read: 3 + 3 = 6 books\n\nTherefore, by the end, they will collectively read 6 books.\n\n{\"final\": 6}",
+    "timestamp": "2026-01-03T03:31:39.670940"
+  },
+  {
+    "problem_index": 245,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "I need to find the number of fish in each aquarium.\n\nLet me define variables and set up the problem:\n- Let f = number of fish in each aquarium\n- Aquarium 1 has 4 snails\n- Aquarium 2 has 32 snails\n- Both aquariums have the same number of fish (f each)\n- Total fish in both aquariums = f + f = 2f\n\nNow I'll set up the equation based on the given information:\n\nThe difference between the number of snails in the two aquariums = 32 - 4 = 28 snails\n\nAccording to the problem, this difference equals twice the total amount of fish in both aquariums:\n28 = 2 × (total fish in both aquariums)\n28 = 2 × (2f)\n28 = 4f\n\nSolving for f:\nf = 28 ÷ 4\nf = 7\n\nLet me verify this answer:\n- Difference in snails: 32 - 4 = 28\n- Total fish in both aquariums: 7 + 7 = 14\n- Twice the total fish: 2 × 14 = 28 ✓\n\nThe equation checks out.\n\n{\"final\": 7}",
+    "timestamp": "2026-01-03T03:31:48.172152"
+  },
+  {
+    "problem_index": 250,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "I need to find how many boys are in the third class.\n\nLet me start by gathering the given information:\n- Each class has 20 students\n- There are 3 classes\n- The school is 50% boys and 50% girls overall\n- First class has 15 girls\n- Second class has 12 girls\n\nStep 1: Calculate the total number of students in the school.\nTotal students = 3 classes × 20 students per class = 60 students\n\nStep 2: Calculate the total number of boys and girls in the school.\nSince the school is 50% boys and 50% girls:\n- Total boys = 60 × 0.5 = 30 boys\n- Total girls = 60 × 0.5 = 30 girls\n\nStep 3: Calculate the number of boys in the first class.\nFirst class has 15 girls and 20 total students.\nBoys in first class = 20 - 15 = 5 boys\n\nStep 4: Calculate the number of boys in the second class.\nSecond class has 12 girls and 20 total students.\nBoys in second class = 20 - 12 = 8 boys\n\nStep 5: Calculate the number of boys in the third class.\nTotal boys in school = Boys in first class + Boys in second class + Boys in third class\n30 = 5 + 8 + Boys in third class\n30 = 13 + Boys in third class\nBoys in third class = 30 - 13 = 17 boys\n\nStep 6: Verify the answer.\nLet me check if this makes sense:\n- Third class has 17 boys, so it has 20 - 17 = 3 girls\n- Total girls: 15 + 12 + 3 = 30 girls ✓\n- Total boys: 5 + 8 + 17 = 30 boys ✓\n\n{\"final\": 17}",
+    "timestamp": "2026-01-03T03:31:58.810612"
+  },
+  {
+    "problem_index": 253,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "I need to find what floor Bill ends up on after riding the elevator.\n\nGiven information:\n- Bill starts on the 3rd floor\n- He rides up to a floor that equals: 4 times his starting floor plus 6\n\nLet me work through this step by step:\n\nStep 1: Identify Bill's starting floor.\nStarting floor = 3\n\nStep 2: Calculate the target floor using the given formula.\nTarget floor = 4 × (starting floor) + 6\nTarget floor = 4 × 3 + 6\nTarget floor = 12 + 6\nTarget floor = 18\n\nStep 3: Determine Bill's final location.\nBill is now on the 18th floor.\n\n{\"final\": 18}",
+    "timestamp": "2026-01-03T03:32:06.992487"
+  },
+  {
+    "problem_index": 256,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total value of Brady's money by finding the value of each type of coin and bill, then adding them together.\n\nLet me work through each type of money:\n\n**Pennies:**\n- 100 pennies\n- Each penny = $0.01\n- Value = 100 × $0.01 = $1.00\n\n**Nickels:**\n- 40 nickels\n- Each nickel = $0.05\n- Value = 40 × $0.05 = $2.00\n\n**Dimes:**\n- 20 dimes\n- Each dime = $0.10\n- Value = 20 × $0.10 = $2.00\n\n**Dollar bills:**\n- 40 pieces of dollar bills\n- Each dollar bill = $1.00\n- Value = 40 × $1.00 = $40.00\n\n**Total amount:**\n$1.00 + $2.00 + $2.00 + $40.00 = $45.00\n\n{\"final\": 45}",
+    "timestamp": "2026-01-03T03:32:14.381622"
+  },
+  {
+    "problem_index": 259,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of fruits that Andrea and Jamal have together.\n\nLet me define variables:\n- Let J_a = number of apples Jamal has\n- Let J_b = number of bananas Jamal has\n- Let A_a = number of apples Andrea has = 52 (given)\n- Let A_b = number of bananas Andrea has\n\nNow I'll set up equations based on the given information:\n\n1) \"Andrea has 8 more apples than Jamal\"\n   A_a = J_a + 8\n   52 = J_a + 8\n   J_a = 44\n\n2) \"Andrea has half as many bananas as Jamal\"\n   A_b = J_b/2\n\n3) \"Jamal has 4 more bananas than apples\"\n   J_b = J_a + 4\n   J_b = 44 + 4 = 48\n\n4) Now I can find Andrea's bananas:\n   A_b = J_b/2 = 48/2 = 24\n\nLet me verify my solution:\n- Jamal has 44 apples and 48 bananas\n- Andrea has 52 apples and 24 bananas\n- Check: Andrea has 52 - 44 = 8 more apples than Jamal ✓\n- Check: Andrea has 24 bananas, which is 48/2 = half of Jamal's bananas ✓\n- Check: Jamal has 48 - 44 = 4 more bananas than apples ✓\n\nTotal fruits = Jamal's fruits + Andrea's fruits\nTotal fruits = (44 + 48) + (52 + 24)\nTotal fruits = 92 + 76 = 168\n\n{\"final\": 168}",
+    "timestamp": "2026-01-03T03:32:25.968798"
+  },
+  {
+    "problem_index": 260,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "I need to find how many cups of flour Carla needs for all the cookies she's making.\n\nLet me break this down step by step:\n\n**Step 1: Find the rate of flour needed per cookie**\n- 2 cups of flour make 12 cookies\n- Rate = 2 cups ÷ 12 cookies = 1/6 cup per cookie\n\n**Step 2: Calculate flour needed for today's cookies**\n- Today: 36 cookies\n- Flour needed = 36 cookies × (1/6 cup per cookie) = 36/6 = 6 cups\n\n**Step 3: Calculate flour needed for tomorrow's cookies**\n- Tomorrow: 30 cookies  \n- Flour needed = 30 cookies × (1/6 cup per cookie) = 30/6 = 5 cups\n\n**Step 4: Find total flour needed**\n- Total flour = Today's flour + Tomorrow's flour\n- Total flour = 6 cups + 5 cups = 11 cups\n\nLet me verify this another way:\n- Total cookies = 36 + 30 = 66 cookies\n- Total flour = 66 cookies × (1/6 cup per cookie) = 66/6 = 11 cups ✓\n\n{\"final\": 11}",
+    "timestamp": "2026-01-03T03:32:35.268841"
+  },
+  {
+    "problem_index": 262,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 270,
+    "correct_answer": 270,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of marbles Maddison has after receiving marbles from her friend.\n\nStep 1: Calculate the number of marbles in the boxes.\n- Maddison has 5 boxes\n- Each box contains 50 marbles\n- Total marbles in boxes = 5 × 50 = 250 marbles\n\nStep 2: Add the marbles she received from her friend.\n- Marbles from friend = 20 marbles\n- Total marbles = marbles in boxes + marbles from friend\n- Total marbles = 250 + 20 = 270 marbles\n\nTherefore, Maddison has 270 marbles in total.\n\n{\"final\": 270}",
+    "timestamp": "2026-01-03T03:32:42.261115"
+  },
+  {
+    "problem_index": 266,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 118000,
+    "correct_answer": 118000,
+    "is_correct": true,
+    "raw_output": "I need to calculate Mr. Tan's net proceeds from selling his house by subtracting all the costs from the selling price.\n\nGiven information:\n- Selling price: $400,000\n- Transfer fees: 3% of selling price\n- Brokerage fee: 5% of selling price\n- Remaining loan amount: $250,000\n\nStep 1: Calculate the transfer fees.\nTransfer fees = 3% of $400,000\nTransfer fees = 0.03 × $400,000 = $12,000\n\nStep 2: Calculate the brokerage fee.\nBrokerage fee = 5% of $400,000\nBrokerage fee = 0.05 × $400,000 = $20,000\n\nStep 3: Calculate the total costs.\nTotal costs = Transfer fees + Brokerage fee + Remaining loan amount\nTotal costs = $12,000 + $20,000 + $250,000 = $282,000\n\nStep 4: Calculate the net proceeds.\nNet proceeds = Selling price - Total costs\nNet proceeds = $400,000 - $282,000 = $118,000\n\nTherefore, Mr. Tan's net proceeds from selling the house is $118,000.\n\n{\"final\": 118000}",
+    "timestamp": "2026-01-03T03:32:49.561605"
+  },
+  {
+    "problem_index": 272,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "I need to find how much change the mother receives after her shopping trip.\n\nStep 1: Calculate the total cost of all items.\n- Cocoa: $4.20\n- Laundry: $9.45\n- Package of pasta: $1.35\n\nTotal cost = $4.20 + $9.45 + $1.35\n\nStep 2: Add the costs together.\n$4.20 + $9.45 = $13.65\n$13.65 + $1.35 = $15.00\n\nSo the total cost is $15.00\n\nStep 3: Calculate the change.\nThe mother paid $20.00 and the total cost was $15.00\n\nChange = Amount paid - Total cost\nChange = $20.00 - $15.00 = $5.00\n\nTherefore, the cashier gives back $5.00 in change.\n\n{\"final\": 5}",
+    "timestamp": "2026-01-03T03:32:57.721510"
+  },
+  {
+    "problem_index": 274,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 3200,
+    "correct_answer": 3200,
+    "is_correct": true,
+    "raw_output": "I need to find the total cost of the seeds Mrs. Rylan bought.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the cost of tomato seeds**\n- Number of tomato seed packets = 20\n- Cost per tomato seed packet = $40\n- Total cost of tomato seeds = 20 × $40 = $800\n\n**Step 2: Calculate the cost of celery seeds**\n- Number of celery seed packets = 80\n- Cost per celery seed packet = $30\n- Total cost of celery seeds = 80 × $30 = $2,400\n\n**Step 3: Calculate the total cost**\n- Total cost = Cost of tomato seeds + Cost of celery seeds\n- Total cost = $800 + $2,400 = $3,200\n\nTherefore, Mrs. Rylan used $3,200 to buy the seeds.\n\n{\"final\": 3200}",
+    "timestamp": "2026-01-03T03:33:04.528098"
+  },
+  {
+    "problem_index": 278,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "I need to find the sum of Mico and Marco's ages in 10 years.\n\nLet me work through this step by step.\n\n**Step 1: Understand what we know**\n- The current sum of their ages is 20\n- We want to find the sum of their ages in 10 years\n\n**Step 2: Set up the problem**\nLet's say:\n- Mico's current age = M\n- Marco's current age = R\n\nWe know: M + R = 20\n\n**Step 3: Find their ages in 10 years**\nIn 10 years:\n- Mico's age will be: M + 10\n- Marco's age will be: R + 10\n\n**Step 4: Calculate the sum of their ages in 10 years**\nSum of their ages in 10 years = (M + 10) + (R + 10)\n= M + 10 + R + 10\n= (M + R) + 20\n= 20 + 20\n= 40\n\n**Step 5: Verify the logic**\nThis makes sense because each person ages 10 years, so the sum of their ages increases by 10 + 10 = 20 years.\n\nTherefore, the sum of their ages in 10 years will be 40.\n\n{\"final\": 40}",
+    "timestamp": "2026-01-03T03:33:12.737378"
+  },
+  {
+    "problem_index": 279,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "I need to solve this step-by-step using algebra.\n\nLet me define variables:\n- Let S = Sam's current age\n- Let R = Ruby's current age\n\nFrom the problem, I can set up two equations:\n\n**Equation 1:** \"Ruby is 6 times older than Sam\"\nR = 6S\n\n**Equation 2:** \"In 9 years, Ruby will be 3 times as old as Sam\"\nIn 9 years:\n- Sam's age will be: S + 9\n- Ruby's age will be: R + 9\n\nSo: R + 9 = 3(S + 9)\n\nNow I'll solve this system of equations:\n\nFrom equation 1: R = 6S\n\nSubstituting this into equation 2:\n6S + 9 = 3(S + 9)\n6S + 9 = 3S + 27\n6S - 3S = 27 - 9\n3S = 18\nS = 6\n\nLet me verify this answer:\n- Sam's current age: 6\n- Ruby's current age: 6 × 6 = 36\n\nCheck equation 1: Ruby is 6 times older than Sam\n36 = 6 × 6 ✓\n\nCheck equation 2: In 9 years, Ruby will be 3 times as old as Sam\n- In 9 years, Sam will be: 6 + 9 = 15\n- In 9 years, Ruby will be: 36 + 9 = 45\n- Is 45 = 3 × 15? Yes, 45 = 45 ✓\n\nTherefore, Sam is currently 6 years old.\n\n{\"final\": 6}",
+    "timestamp": "2026-01-03T03:33:23.098816"
+  },
+  {
+    "problem_index": 290,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 390,
+    "correct_answer": 390,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nLet me define variables and work through the problem:\n\nStep 1: Find how many medals Ali has.\nAli has 22 medals.\n\nStep 2: Find how many medals Izzy has.\nIzzy has 5 less medals than Ali.\nIzzy's medals = 22 - 5 = 17 medals\n\nStep 3: Find how many medals Ali and Izzy have together.\nTogether they have = 22 + 17 = 39 medals\n\nStep 4: Find the total number of medals given out for counting.\nThe problem states that together Ali and Izzy have 10 times less medals than have been given out for counting.\n\nThis means: Total medals given out = 10 × (Ali's medals + Izzy's medals)\nTotal medals given out = 10 × 39 = 390 medals\n\nStep 5: Verify the answer.\n- Ali has 22 medals\n- Izzy has 17 medals  \n- Together they have 39 medals\n- Total medals given out is 390\n- 390 ÷ 39 = 10, which confirms that together they have 10 times less medals than the total\n\n{\"final\": 390}",
+    "timestamp": "2026-01-03T03:33:31.622200"
+  },
+  {
+    "problem_index": 295,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 370,
+    "correct_answer": 370,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total number of exercises Darren did over two days.\n\n**Day 1:**\n- Pushups: 100\n- Squats: 50\n- Dumbbell presses: 20\n\n**Day 2:**\n- Pushups: 100 + 20 = 120 (20 more than day 1)\n- Squats: 50 - 10 = 40 (10 fewer than day 1)\n- Dumbbell presses: 20 × 2 = 40 (double the number from day 1)\n\n**Total for Day 1:**\n100 + 50 + 20 = 170 exercises\n\n**Total for Day 2:**\n120 + 40 + 40 = 200 exercises\n\n**Total for both days:**\n170 + 200 = 370 exercises\n\n{\"final\": 370}",
+    "timestamp": "2026-01-03T03:33:39.057079"
+  },
+  {
+    "problem_index": 302,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nGiven information:\n- Annika brought $50 to the fair\n- She spent half of it on food and snacks\n- She spent an additional $10 on rides\n- I need to find how much money is left\n\nStep 1: Calculate how much she spent on food and snacks.\nHalf of $50 = $50 ÷ 2 = $25\n\nStep 2: Calculate her total spending.\nFood and snacks: $25\nRides: $10\nTotal spent = $25 + $10 = $35\n\nStep 3: Calculate how much money is left.\nMoney left = Starting amount - Total spent\nMoney left = $50 - $35 = $15\n\nTherefore, Annika has $15 left.\n\n{\"final\": 15}",
+    "timestamp": "2026-01-03T03:33:46.481687"
+  },
+  {
+    "problem_index": 306,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5,
+    "correct_answer": 10,
+    "is_correct": false,
+    "raw_output": "I'll solve this step by step.\n\nGiven information:\n- The bakery produces 60 loaves of bread each day\n- Two-thirds are sold in the morning\n- Half of what's left is sold equally in the afternoon and evening\n\nStep 1: Calculate how many loaves are sold in the morning.\nMorning sales = 2/3 × 60 = 40 loaves\n\nStep 2: Calculate how many loaves remain after morning sales.\nRemaining loaves = 60 - 40 = 20 loaves\n\nStep 3: Calculate how many loaves are sold in afternoon and evening combined.\nThe problem states \"half of what is left is sold equally in the afternoon and evening\"\nThis means: Half of the remaining 20 loaves = 1/2 × 20 = 10 loaves total for afternoon and evening\n\nStep 4: Calculate afternoon sales.\nSince the 10 loaves are sold \"equally\" in afternoon and evening:\nAfternoon sales = 10 ÷ 2 = 5 loaves\n\nLet me verify: \n- Morning: 40 loaves\n- Afternoon: 5 loaves  \n- Evening: 5 loaves\n- Total sold: 40 + 5 + 5 = 50 loaves\n- Remaining unsold: 60 - 50 = 10 loaves ✓\n\n{\"final\": 5}",
+    "timestamp": "2026-01-03T03:33:55.831818"
+  },
+  {
+    "problem_index": 321,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\nGiven information:\n- A magazine costs half as much as a book\n- The book costs $4\n- A pen costs $1 less than a magazine\n\nStep 1: Find the cost of the magazine.\nSince the magazine costs half as much as the book, and the book costs $4:\nMagazine cost = $4 ÷ 2 = $2\n\nStep 2: Find the cost of the pen.\nSince the pen costs $1 less than the magazine, and the magazine costs $2:\nPen cost = $2 - $1 = $1\n\nTherefore, the pen costs $1.\n\n{\"final\": 1}",
+    "timestamp": "2026-01-03T03:34:02.960802"
+  },
+  {
+    "problem_index": 328,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "I need to find how long it takes to charge the phone from 60% to 100%.\n\nLet me work through this step by step:\n\n**Step 1: Determine how much charge is needed**\n- Current charge: 60%\n- Target charge: 100%\n- Charge needed: 100% - 60% = 40 percentage points\n\n**Step 2: Determine the charging rate**\n- The phone charges at 1 percentage point per 3 minutes\n\n**Step 3: Calculate time needed in minutes**\n- Time needed = (Charge needed) × (Time per percentage point)\n- Time needed = 40 percentage points × 3 minutes per percentage point\n- Time needed = 120 minutes\n\n**Step 4: Convert minutes to hours**\n- 120 minutes ÷ 60 minutes per hour = 2 hours\n\nTherefore, it will take 2 hours to fully charge the phone from 60%.\n\n{\"final\": 2}",
+    "timestamp": "2026-01-03T03:34:10.853188"
+  },
+  {
+    "problem_index": 336,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 72,
+    "correct_answer": 72,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate the initial investment**\n- Maria buys 8 shares at $8 each\n- Initial total value = 8 × $8 = $64\n\n**Step 2: Calculate the value after the first year (50% increase)**\n- Stock price increases by 50%\n- New price per share = $8 + (50% of $8) = $8 + $4 = $12\n- Total value after first year = 8 shares × $12 = $96\n\n**Step 3: Calculate the value after the second year (25% decrease)**\n- Stock price decreases by 25% from $12\n- Decrease amount = 25% of $12 = 0.25 × $12 = $3\n- New price per share = $12 - $3 = $9\n- Final total value = 8 shares × $9 = $72\n\n**Verification:**\n- Started with: $64\n- After 50% increase: $64 × 1.50 = $96\n- After 25% decrease: $96 × 0.75 = $72 ✓\n\nThe final value of all Maria's shares is $72.\n\n{\"final\": 72}",
+    "timestamp": "2026-01-03T03:34:20.405123"
+  },
+  {
+    "problem_index": 350,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "I need to find the total hours for all of Peyton's after-work activities throughout the week.\n\nLet me break down each day's activities:\n\n**Monday: Yoga class**\n- Duration: 1 hour\n\n**Tuesday: Cooking class**\n- Duration: 3 times as long as Monday's yoga\n- Duration: 3 × 1 = 3 hours\n\n**Wednesday: Cheese-tasting event**\n- Duration: half an hour = 0.5 hours\n\n**Thursday: Museum tour**\n- Duration: half as long as the cooking class\n- Duration: 3 ÷ 2 = 1.5 hours\n\n**Friday: Errands**\n- Duration: 2 hours\n\nNow I'll add up all the hours:\n- Monday: 1 hour\n- Tuesday: 3 hours\n- Wednesday: 0.5 hours\n- Thursday: 1.5 hours\n- Friday: 2 hours\n\nTotal = 1 + 3 + 0.5 + 1.5 + 2 = 8 hours\n\n{\"final\": 8}",
+    "timestamp": "2026-01-03T03:34:27.838855"
+  },
+  {
+    "problem_index": 353,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "I need to find how much time John spent sightseeing. Let me work through this step by step.\n\nFirst, let me calculate the time John spent on the activities mentioned:\n\n**Step 1: Calculate boating and swimming time**\n- Boating: 6 hours\n- Swimming: half the boating time = 6 ÷ 2 = 3 hours\n\n**Step 2: Calculate time watching shows**\n- 3 shows × 2 hours each = 6 hours\n\n**Step 3: Find total time for these activities**\n- Boating + Swimming + Shows = 6 + 3 + 6 = 15 hours\n\n**Step 4: Find John's total vacation time**\nThe problem states that these activities (15 hours) represent 30% of his total time.\n\nIf 15 hours = 30% of total time, then:\nTotal time = 15 ÷ 0.30 = 50 hours\n\n**Step 5: Calculate sightseeing time**\nJohn spent 40% of his time sightseeing.\nSightseeing time = 40% of 50 hours = 0.40 × 50 = 20 hours\n\n**Verification:**\n- Activities mentioned: 15 hours (30%)\n- Sightseeing: 20 hours (40%)\n- Other activities: 15 hours (30%)\n- Total: 50 hours (100%) ✓\n\n{\"final\": 20}",
+    "timestamp": "2026-01-03T03:34:38.245989"
+  },
+  {
+    "problem_index": 360,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "I need to find the age of Carver's son.\n\nLet me define a variable:\n- Let s = the age of Carver's son\n\nNow I'll set up an equation based on the given information:\n- Carver is 45 years old\n- Carver's age is 5 years less than twice his son's age\n\nThis means: Carver's age = 2 × (son's age) - 5\n\nSubstituting the known values:\n45 = 2s - 5\n\nNow I'll solve for s:\n45 = 2s - 5\n45 + 5 = 2s\n50 = 2s\ns = 50 ÷ 2\ns = 25\n\nLet me verify this answer:\n- Son's age: 25 years\n- Twice the son's age: 2 × 25 = 50 years\n- 5 years less than twice the son's age: 50 - 5 = 45 years\n- Carver's age: 45 years ✓\n\nThe answer checks out.\n\n{\"final\": 25}",
+    "timestamp": "2026-01-03T03:34:47.450660"
+  },
+  {
+    "problem_index": 389,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "I need to find how much money David saves by buying a ride bracelet instead of individual tickets.\n\nLet me calculate the cost for each option:\n\n**Option 1: Buying individual tickets (Dasha's choice)**\n- Each ride costs 2 tickets\n- Each ticket costs $2\n- Cost per ride = 2 tickets × $2/ticket = $4 per ride\n- Total cost for 9 rides = 9 rides × $4/ride = $36\n\n**Option 2: Buying a ride bracelet (David's choice)**\n- Cost of ride bracelet = $30\n- This gives access to all 9 rides\n\n**David's savings calculation:**\n- Cost if buying tickets: $36\n- Cost of ride bracelet: $30\n- Savings = $36 - $30 = $6\n\nTherefore, David saves $6 by buying the ride bracelet instead of individual tickets.\n\n{\"final\": 6}",
+    "timestamp": "2026-01-03T03:34:54.887847"
+  },
+  {
+    "problem_index": 395,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "raw_output": "I need to track all the Valentine's cards Erica has, including what she made, received, and gave away.\n\nLet me work through this step by step:\n\n**Starting cards:**\n- Erica made: 20 cards\n- Dad brought 2 boxes with 15 cards each: 2 × 15 = 30 cards\n- Total cards she had initially: 20 + 30 = 50 cards\n\n**Cards she gave away:**\n- To classmates: 24 cards\n- To family: 5 cards\n- Total given away: 24 + 5 = 29 cards\n\n**Cards remaining after giving some away:**\n- 50 - 29 = 21 cards\n\n**Cards she received:**\n- From family and friends: 17 cards\n\n**Final total:**\n- Cards she had left + cards received: 21 + 17 = 38 cards\n\nTherefore, Erica now has 38 Valentine's Day cards.\n\n{\"final\": 38}",
+    "timestamp": "2026-01-03T03:35:03.908109"
+  },
+  {
+    "problem_index": 398,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 168,
+    "correct_answer": 168,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\nGiven information:\n- Nancy saw 90 spiders\n- Millipedes: 1/3 as many as spiders\n- Stink bugs: twice the number of millipedes minus 12\n\nStep 1: Find the number of millipedes.\nMillipedes = 1/3 × number of spiders\nMillipedes = 1/3 × 90 = 30 millipedes\n\nStep 2: Find the number of stink bugs.\nStink bugs = 2 × number of millipedes - 12\nStink bugs = 2 × 30 - 12\nStink bugs = 60 - 12 = 48 stink bugs\n\nStep 3: Calculate the total number of bugs.\nTotal bugs = spiders + millipedes + stink bugs\nTotal bugs = 90 + 30 + 48 = 168 bugs\n\n{\"final\": 168}",
+    "timestamp": "2026-01-03T03:35:11.292828"
+  },
+  {
+    "problem_index": 400,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "I need to find the total calories John consumed from drinking 2 glasses of milk.\n\nLet me break this down step by step:\n\nStep 1: Find how many ounces are in one glass of milk.\n- 1 glass of milk = 8 ounces\n\nStep 2: Find how many ounces John drank total.\n- John drinks 2 glasses of milk\n- Total ounces = 2 glasses × 8 ounces per glass = 16 ounces\n\nStep 3: Calculate the total calories consumed.\n- Milk has 3 calories per ounce\n- Total calories = 16 ounces × 3 calories per ounce = 48 calories\n\nTherefore, John consumed 48 calories.\n\n{\"final\": 48}",
+    "timestamp": "2026-01-03T03:35:19.004997"
+  },
+  {
+    "problem_index": 403,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 135,
+    "correct_answer": 81,
+    "is_correct": false,
+    "raw_output": "I need to find how many kilowatts of energy Mel will save in 30 days by reducing his air conditioner usage.\n\nLet me break this down step by step:\n\n**Step 1: Find current daily energy usage**\n- Air conditioner power: 900 watts\n- Current usage: 8 hours per day\n- Daily energy usage = 900 watts × 8 hours = 7,200 watt-hours per day\n\n**Step 2: Find new daily energy usage after reduction**\n- Reduction: 5 hours per day\n- New usage time: 8 - 5 = 3 hours per day\n- New daily energy usage = 900 watts × 3 hours = 2,700 watt-hours per day\n\n**Step 3: Calculate daily energy savings**\n- Daily savings = Current usage - New usage\n- Daily savings = 7,200 - 2,700 = 4,500 watt-hours per day\n\n**Step 4: Calculate total savings over 30 days**\n- Total savings = 4,500 watt-hours/day × 30 days = 135,000 watt-hours\n\n**Step 5: Convert watt-hours to kilowatt-hours**\n- 1 kilowatt = 1,000 watts\n- 135,000 watt-hours = 135,000 ÷ 1,000 = 135 kilowatt-hours\n\nTherefore, Mel will save 135 kilowatts of electric energy in 30 days.\n\n{\"final\": 135}",
+    "timestamp": "2026-01-03T03:35:27.688314"
+  },
+  {
+    "problem_index": 405,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "I need to find the total cost of meat and cheese for sandwiches to serve 20 people.\n\nLet me work through this step by step:\n\n**Step 1: Determine how many sandwiches are needed**\n- Each sandwich serves 4 people\n- There are 20 people total\n- Number of sandwiches needed = 20 ÷ 4 = 5 sandwiches\n\n**Step 2: Calculate the amount of meat needed**\n- Each sandwich requires 1 pound of meat\n- For 5 sandwiches: 5 × 1 = 5 pounds of meat\n\n**Step 3: Calculate the amount of cheese needed**\n- Each sandwich requires 1 pound of cheese\n- For 5 sandwiches: 5 × 1 = 5 pounds of cheese\n\n**Step 4: Calculate the cost of meat**\n- Meat costs $7.00 per pound\n- Cost for 5 pounds of meat = 5 × $7.00 = $35.00\n\n**Step 5: Calculate the cost of cheese**\n- Cheese costs $3.00 per pound\n- Cost for 5 pounds of cheese = 5 × $3.00 = $15.00\n\n**Step 6: Calculate the total cost**\n- Total cost = Cost of meat + Cost of cheese\n- Total cost = $35.00 + $15.00 = $50.00\n\n{\"final\": 50}",
+    "timestamp": "2026-01-03T03:35:36.490582"
+  },
+  {
+    "problem_index": 408,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "I need to find how many minutes early Toby will be at the airport.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the total number of words in the book**\n- Book length: 45 pages\n- Words per page: 200 words\n- Total words = 45 × 200 = 9,000 words\n\n**Step 2: Calculate how long it takes Toby to read the book**\n- Reading rate: 300 words per minute\n- Time to read = Total words ÷ Reading rate\n- Time to read = 9,000 ÷ 300 = 30 minutes\n\n**Step 3: Calculate when Toby will leave for the airport**\n- Toby leaves as soon as he finishes reading\n- So Toby will leave in 30 minutes\n\n**Step 4: Calculate when Toby will arrive at the airport**\n- Travel time to airport: 10 minutes\n- Toby will arrive at airport in: 30 + 10 = 40 minutes\n\n**Step 5: Calculate how early Toby will be**\n- Toby needs to be at airport in: 60 minutes\n- Toby will arrive in: 40 minutes\n- Minutes early = 60 - 40 = 20 minutes\n\nTherefore, Toby will be 20 minutes early.\n\n{\"final\": 20}",
+    "timestamp": "2026-01-03T03:35:45.411684"
+  },
+  {
+    "problem_index": 410,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "I need to calculate how much Sally spent and subtract that from her $10.\n\nLet me break down her purchases:\n\n**1. Taffy (2 pounds with the sale)**\n- The sale is \"Buy 1 pound at $3, get 1 pound 1/2 off\"\n- First pound: $3.00\n- Second pound: $3.00 × 1/2 = $1.50 (half off)\n- Total for taffy: $3.00 + $1.50 = $4.50\n\n**2. Mixed bag of seashells**\n- Cost: $1.50\n\n**3. Magnets**\n- 4 magnets at $0.25 each\n- Cost: 4 × $0.25 = $1.00\n\n**Total spent:**\n$4.50 + $1.50 + $1.00 = $7.00\n\n**Money left:**\n$10.00 - $7.00 = $3.00\n\n{\"final\": 3}",
+    "timestamp": "2026-01-03T03:35:53.456197"
+  },
+  {
+    "problem_index": 416,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step using a system of equations.\n\nLet me define variables:\n- Let c = number of camels\n- Let d = number of dromedaries\n\nNow I'll set up equations based on the given information:\n\n**Equation 1 (heads):** Each animal has 1 head\nc + d = 180\n\n**Equation 2 (bumps/humps):** Camels have 2 humps, dromedaries have 1 hump\n2c + d = 304\n\nNow I'll solve this system of equations:\n\nFrom equation 1: c + d = 180\nFrom equation 2: 2c + d = 304\n\nI'll subtract equation 1 from equation 2:\n(2c + d) - (c + d) = 304 - 180\n2c + d - c - d = 124\nc = 124\n\nNow I'll substitute c = 124 back into equation 1:\n124 + d = 180\nd = 180 - 124\nd = 56\n\nLet me verify this solution:\n- Total heads: 124 + 56 = 180 ✓\n- Total humps: 2(124) + 1(56) = 248 + 56 = 304 ✓\n\nTherefore, there are 56 dromedaries.\n\n{\"final\": 56}",
+    "timestamp": "2026-01-03T03:36:01.834109"
+  },
+  {
+    "problem_index": 422,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 284,
+    "correct_answer": 284,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total cost of Bill's streaming service over 2 years (24 months), considering the different pricing periods.\n\nLet me break down the timeline:\n- First 6 months: $8/month (introductory rate)\n- Next 8 months: $12/month (normal rate)\n- Remaining months: $14/month (increased rate)\n\nStep 1: Calculate the cost for the first 6 months.\nCost = 6 months × $8/month = $48\n\nStep 2: Calculate the cost for the next 8 months at normal rate.\nCost = 8 months × $12/month = $96\n\nStep 3: Determine how many months are left in the 2-year period.\nTotal months in 2 years = 24 months\nMonths already accounted for = 6 + 8 = 14 months\nRemaining months = 24 - 14 = 10 months\n\nStep 4: Calculate the cost for the remaining 10 months at the increased rate.\nCost = 10 months × $14/month = $140\n\nStep 5: Calculate the total cost.\nTotal cost = $48 + $96 + $140 = $284\n\n{\"final\": 284}",
+    "timestamp": "2026-01-03T03:36:11.693723"
+  },
+  {
+    "problem_index": 430,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 132,
+    "correct_answer": 132,
+    "is_correct": true,
+    "raw_output": "I need to calculate Charlotte's total order after applying the 20% discount.\n\nStep 1: Calculate the cost of each item category.\n- Set of pots and pans: $120.00\n- Set of mixing bowls: $20.00\n- 5 separate utensils at $5.00 each: 5 × $5.00 = $25.00\n\nStep 2: Calculate the total cost before discount.\nTotal before discount = $120.00 + $20.00 + $25.00 = $165.00\n\nStep 3: Calculate the discount amount.\nDiscount = 20% of $165.00\nDiscount = 0.20 × $165.00 = $33.00\n\nStep 4: Calculate the final order amount after discount.\nFinal order = Total before discount - Discount\nFinal order = $165.00 - $33.00 = $132.00\n\n{\"final\": 132}",
+    "timestamp": "2026-01-03T03:36:19.082460"
+  },
+  {
+    "problem_index": 437,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 7,
+    "correct_answer": 7,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\n**Step 1: Find the total number of oranges**\n- Sitti bought 34 oranges\n- Juris bought 22 oranges\n- Total oranges = 34 + 22 = 56 oranges\n\n**Step 2: Find the total number of people**\n- Sitti and Juris = 2 people\n- Their 6 other friends = 6 people\n- Total people = 2 + 6 = 8 people\n\n**Step 3: Divide the oranges equally among all people**\n- Total oranges ÷ Total people = 56 ÷ 8 = 7 oranges per person\n\n**Step 4: Verify the answer**\n- 7 oranges × 8 people = 56 oranges ✓\n\nTherefore, everyone will get 7 oranges.\n\n{\"final\": 7}",
+    "timestamp": "2026-01-03T03:36:26.913242"
+  },
+  {
+    "problem_index": 439,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "I need to find how much earlier Bernadette should leave than Wayne to arrive 5 minutes before him.\n\nLet me break down the given information:\n- Bernadette wants to arrive 5 minutes before Wayne\n- Wayne's drive takes 4 minutes\n- Bernadette's drive takes 4 times as long as Wayne's drive\n- I need to find how much earlier Bernadette should leave than Wayne\n\nStep 1: Calculate Bernadette's drive time.\nBernadette's drive time = 4 × Wayne's drive time\nBernadette's drive time = 4 × 4 minutes = 16 minutes\n\nStep 2: Determine when each person should arrive.\nLet's say Wayne arrives at time 0 (as our reference point).\nBernadette wants to arrive 5 minutes before Wayne.\nSo Bernadette should arrive at time -5 minutes (5 minutes before Wayne).\n\nStep 3: Calculate when each person should leave.\nWayne should leave: 0 - 4 = -4 minutes (4 minutes before his arrival)\nBernadette should leave: -5 - 16 = -21 minutes (21 minutes before her arrival)\n\nStep 4: Find the difference in departure times.\nDifference = Wayne's departure time - Bernadette's departure time\nDifference = (-4) - (-21) = -4 + 21 = 17 minutes\n\nTherefore, Bernadette should leave 17 minutes earlier than Wayne.\n\nLet me verify:\n- If Wayne leaves at time -4 and drives for 4 minutes, he arrives at time 0\n- If Bernadette leaves at time -21 and drives for 16 minutes, she arrives at time -5\n- Bernadette arrives 5 minutes before Wayne ✓\n- Bernadette leaves 17 minutes before Wayne ✓\n\n{\"final\": 17}",
+    "timestamp": "2026-01-03T03:36:38.246400"
+  },
+  {
+    "problem_index": 450,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "I need to find the regular price of popcorn given the information about two ticket options and the savings.\n\nLet me define variables:\n- Let P = regular price of popcorn\n- Soda costs $3 (given)\n\nOption 1 (Super ticket):\n- Movie super ticket: $20\n- Popcorn + soda: $1 extra\n- Total cost: $20 + $1 = $21\n\nOption 2 (Regular ticket):\n- Movie ticket: $12\n- Popcorn at regular price: P\n- Soda at regular price: $3\n- Total cost: $12 + P + $3 = $15 + P\n\nThe problem states that by NOT buying the super ticket (choosing Option 2), the person saved $2.\n\nThis means: Cost of Option 1 - Cost of Option 2 = $2\n\nSetting up the equation:\n$21 - ($15 + P) = $2\n\nSolving:\n$21 - $15 - P = $2\n$6 - P = $2\nP = $6 - $2\nP = $4\n\nLet me verify:\n- Option 1 cost: $21\n- Option 2 cost: $12 + $4 + $3 = $19\n- Savings by choosing Option 2: $21 - $19 = $2 ✓\n\nThe regular price of popcorn is $4.\n\n{\"final\": 4}",
+    "timestamp": "2026-01-03T03:36:48.570896"
+  },
+  {
+    "problem_index": 461,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "I need to find how many plants Shondra has by working through the relationships between Frederick, Toni, and Shondra.\n\nStep 1: Find how many plants Toni has.\n- Frederick has 10 plants\n- Toni has 60% more plants than Frederick\n- 60% of 10 = 0.60 × 10 = 6\n- So Toni has 10 + 6 = 16 plants\n\nStep 2: Find how many plants Shondra has.\n- Shondra has 7 fewer plants than Toni\n- Toni has 16 plants\n- So Shondra has 16 - 7 = 9 plants\n\nLet me verify this:\n- Frederick: 10 plants\n- Toni: 10 + (60% of 10) = 10 + 6 = 16 plants\n- Shondra: 16 - 7 = 9 plants\n\n{\"final\": 9}",
+    "timestamp": "2026-01-03T03:36:56.507360"
+  },
+  {
+    "problem_index": 463,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "I need to find the total amount Ashley should pay, which includes the pizza cost plus a tip.\n\nGiven information:\n- Pizza delivery costs $15\n- Tip should be 1/5 of the amount she ordered\n\nStep 1: Calculate the tip amount.\nThe tip is 1/5 of the pizza cost.\nTip = 1/5 × $15\nTip = $15 ÷ 5\nTip = $3\n\nStep 2: Calculate the total amount.\nTotal amount = Pizza cost + Tip\nTotal amount = $15 + $3\nTotal amount = $18\n\nTherefore, Ashley should give the delivery man $18 total.\n\n{\"final\": 18}",
+    "timestamp": "2026-01-03T03:37:03.203313"
+  },
+  {
+    "problem_index": 465,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "I need to find how many students Miss Maria has by calculating the total cards, subtracting what she keeps, and dividing by how many each student gets.\n\nStep 1: Calculate the total number of basketball cards.\n- 6 decks × 25 cards per deck = 150 basketball cards\n\nStep 2: Calculate the total number of baseball cards.\n- 5 boxes × 40 cards per box = 200 baseball cards\n\nStep 3: Calculate the total number of cards Miss Maria has.\n- Total cards = 150 basketball cards + 200 baseball cards = 350 cards\n\nStep 4: Calculate how many cards she gives to students.\n- Cards given to students = Total cards - Cards she keeps\n- Cards given to students = 350 - 50 = 300 cards\n\nStep 5: Calculate the number of students.\n- Each student gets 10 cards\n- Number of students = Cards given to students ÷ Cards per student\n- Number of students = 300 ÷ 10 = 30 students\n\n{\"final\": 30}",
+    "timestamp": "2026-01-03T03:37:10.866126"
+  },
+  {
+    "problem_index": 472,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "I need to find how many carrot sticks Matt has to eat to get 5 cookies total.\n\nLet me define the variable:\n- Let x = number of carrot sticks Matt eats\n\nNow I'll set up the equation based on the problem:\n- Matt gets half as many cookies as carrot sticks he eats: x/2\n- Plus 2 extra cookies for cleaning his room: +2\n- Total cookies he wants: 5\n\nSo the equation is:\nx/2 + 2 = 5\n\nNow I'll solve for x:\nx/2 + 2 = 5\nx/2 = 5 - 2\nx/2 = 3\nx = 3 × 2\nx = 6\n\nLet me verify this answer:\n- Carrot sticks eaten: 6\n- Cookies from carrot sticks: 6/2 = 3\n- Extra cookies for cleaning room: 2\n- Total cookies: 3 + 2 = 5 ✓\n\nTherefore, Matt has to eat 6 carrot sticks.\n\n{\"final\": 6}",
+    "timestamp": "2026-01-03T03:37:20.356745"
+  },
+  {
+    "problem_index": 481,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "I need to find the combined weight of two pennies: a 2010 penny and a 1959 penny.\n\nGiven information:\n- The 1959 penny weighs 48 grains\n- The 2010 penny weighs three-quarters (3/4) of the weight of the 1959 penny\n\nStep 1: Find the weight of the 2010 penny.\nWeight of 2010 penny = 3/4 × weight of 1959 penny\nWeight of 2010 penny = 3/4 × 48 grains\nWeight of 2010 penny = (3 × 48) ÷ 4 grains\nWeight of 2010 penny = 144 ÷ 4 grains\nWeight of 2010 penny = 36 grains\n\nStep 2: Find the combined weight of both pennies.\nCombined weight = Weight of 1959 penny + Weight of 2010 penny\nCombined weight = 48 grains + 36 grains\nCombined weight = 84 grains\n\n{\"final\": 84}",
+    "timestamp": "2026-01-03T03:37:27.617931"
+  },
+  {
+    "problem_index": 488,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6,
+    "correct_answer": 6,
+    "is_correct": true,
+    "raw_output": "I need to find how many girl Pomeranians Jana has.\n\nLet me work through this step by step.\n\nStep 1: Find the total number of Pomeranians.\n- Jana has 27 puppies total\n- Two thirds of her puppies are Pomeranians\n- Number of Pomeranians = (2/3) × 27 = 18 Pomeranians\n\nStep 2: Find the number of girl Pomeranians.\n- One third of the Pomeranians are girls\n- Number of girl Pomeranians = (1/3) × 18 = 6 girl Pomeranians\n\nLet me verify this:\n- Total puppies: 27\n- Pomeranians: (2/3) × 27 = 18 ✓\n- Girl Pomeranians: (1/3) × 18 = 6 ✓\n\n{\"final\": 6}",
+    "timestamp": "2026-01-03T03:37:34.359285"
+  },
+  {
+    "problem_index": 492,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "I need to find the total amount Sally spends on both pizzas.\n\nStep 1: Find the cost of the small pizza.\nThe small pizza costs $8.\n\nStep 2: Find the cost of the family-size pizza.\nThe family-size pizza costs 3 times as much as the small pizza.\nFamily-size pizza cost = 3 × $8 = $24\n\nStep 3: Find the total amount spent.\nTotal cost = Small pizza cost + Family-size pizza cost\nTotal cost = $8 + $24 = $32\n\nTherefore, Sally spends $32 in all.\n\n{\"final\": 32}",
+    "timestamp": "2026-01-03T03:37:39.870388"
+  },
+  {
+    "problem_index": 499,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "I need to find the number of guests where both venues cost the same amount.\n\nLet me define the variable:\n- Let x = number of guests\n\nNow I'll set up the cost equations for each venue:\n\n**Venue 1:**\n- Flat fee: $200\n- Food cost: $5 per person = $5x\n- Total cost for Venue 1 = $200 + $5x\n\n**Venue 2:**\n- Cost per person (including food): $25 per person = $25x\n- Total cost for Venue 2 = $25x\n\nTo find when the costs are equal, I'll set the two expressions equal to each other:\n\n$200 + $5x = $25x\n\nNow I'll solve for x:\n$200 + $5x = $25x\n$200 = $25x - $5x\n$200 = $20x\nx = $200 ÷ $20\nx = 10\n\nLet me verify this answer:\n- Venue 1 cost with 10 guests: $200 + $5(10) = $200 + $50 = $250\n- Venue 2 cost with 10 guests: $25(10) = $250\n\nBoth venues cost $250 when there are 10 guests, so my answer is correct.\n\n{\"final\": 10}",
+    "timestamp": "2026-01-03T03:37:47.961454"
+  },
+  {
+    "problem_index": 500,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "I need to find how many insects Lily found. Let me set up equations based on the given information.\n\nLet me define variables:\n- Let D = number of insects David found\n- Let L = number of insects Lily found  \n- Let B = number of insects Bodhi found\n\nFrom the problem, I know:\n1. L + D + B = 43 (total insects collected)\n2. L = D + 7 (Lily found 7 more than David)\n3. D = B/2 (David found half of what Bodhi found)\n\nFrom equation 3, I can express B in terms of D:\nD = B/2\nTherefore: B = 2D\n\nNow I can substitute into equation 2:\nL = D + 7\n\nSubstituting both expressions into equation 1:\nL + D + B = 43\n(D + 7) + D + 2D = 43\n4D + 7 = 43\n4D = 36\nD = 9\n\nNow I can find the other values:\n- David found: D = 9 insects\n- Lily found: L = D + 7 = 9 + 7 = 16 insects\n- Bodhi found: B = 2D = 2(9) = 18 insects\n\nLet me verify: 16 + 9 + 18 = 43 ✓\n\nTherefore, Lily found 16 insects.\n\n{\"final\": 16}",
+    "timestamp": "2026-01-03T03:37:56.896154"
+  },
+  {
+    "problem_index": 503,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 18,
+    "correct_answer": 18,
+    "is_correct": true,
+    "raw_output": "I need to find the length of the couch by working through the relationships between the chair, rug, and couch.\n\nGiven information:\n- The chair is 3 feet wide\n- The rug is 5 feet wider than the chair\n- The couch is 2 feet longer than twice the width of the rug\n\nStep 1: Find the width of the rug.\nThe rug is 5 feet wider than the chair.\nWidth of rug = Width of chair + 5 feet\nWidth of rug = 3 + 5 = 8 feet\n\nStep 2: Find the length of the couch.\nThe couch is 2 feet longer than twice the width of the rug.\nLength of couch = 2 × (Width of rug) + 2 feet\nLength of couch = 2 × 8 + 2\nLength of couch = 16 + 2 = 18 feet\n\nTherefore, the couch is 18 feet long.\n\n{\"final\": 18}",
+    "timestamp": "2026-01-03T03:38:06.159975"
+  },
+  {
+    "problem_index": 524,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "I need to find how many rows of flowers Jackson will plant in total.\n\nLet me break this down step by step:\n\n**Step 1: Find the number of rows of red tulips**\n- Jackson has 36 red tulips\n- He can fit 6 red tulips in a row\n- Number of rows of red tulips = 36 ÷ 6 = 6 rows\n\n**Step 2: Find the number of rows of blue tulips**\n- Jackson has 24 blue tulips\n- He can fit 8 blue tulips in a row\n- Number of rows of blue tulips = 24 ÷ 8 = 3 rows\n\n**Step 3: Find the total number of rows**\n- Total rows = rows of red tulips + rows of blue tulips\n- Total rows = 6 + 3 = 9 rows\n\nTherefore, Jackson will plant 9 rows of flowers in total.\n\n{\"final\": 9}",
+    "timestamp": "2026-01-03T03:38:13.045456"
+  },
+  {
+    "problem_index": 529,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "I need to find how many more CDs Tom could have bought with the money he spent on the headphone set.\n\nStep 1: Find the cost of the headphone set.\n- Total amount paid = $48\n- Cost of CD = $4\n- Cost of headphone set = Total amount - Cost of CD\n- Cost of headphone set = $48 - $4 = $44\n\nStep 2: Find how many CDs Tom could buy with the headphone set money.\n- Number of CDs = Cost of headphone set ÷ Cost per CD\n- Number of CDs = $44 ÷ $4 = 11\n\nStep 3: Verify the answer.\n- Tom bought 1 CD for $4\n- If he had bought 11 more CDs instead of the headphone set, he would have spent: 1 × $4 + 11 × $4 = $4 + $44 = $48 ✓\n\nTherefore, Tom would have been able to buy 11 more CDs if he had decided not to buy the headphone set.\n\n{\"final\": 11}",
+    "timestamp": "2026-01-03T03:38:21.959211"
+  },
+  {
+    "problem_index": 531,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 66,
+    "correct_answer": 66,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step, tracking the number of passengers after each stop.\n\n**Initial situation:**\n- Starting passengers: 48\n\n**First stop:**\n- Passengers get off: 8\n- Passengers remaining: 48 - 8 = 40\n- Passengers get on: 5 times as many as got off = 5 × 8 = 40\n- Total after first stop: 40 + 40 = 80\n\n**Second stop:**\n- Passengers get off: 21\n- Passengers remaining: 80 - 21 = 59\n- Passengers get on: 3 times fewer than got off = 21 ÷ 3 = 7\n- Total after second stop: 59 + 7 = 66\n\nLet me verify this calculation:\n- Start: 48 passengers\n- First stop: 48 - 8 + 40 = 80 passengers\n- Second stop: 80 - 21 + 7 = 66 passengers\n\n{\"final\": 66}",
+    "timestamp": "2026-01-03T03:38:30.173794"
+  },
+  {
+    "problem_index": 536,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "I need to find Anne's age by working through the relationships between the three people.\n\nStep 1: Find Alyana's age.\n- Chenny is 10 years old\n- Alyana is 4 years younger than Chenny\n- Alyana's age = Chenny's age - 4\n- Alyana's age = 10 - 4 = 6 years old\n\nStep 2: Find Anne's age.\n- Anne is 2 years older than Alyana\n- Anne's age = Alyana's age + 2\n- Anne's age = 6 + 2 = 8 years old\n\nTherefore, Anne is 8 years old.\n\n{\"final\": 8}",
+    "timestamp": "2026-01-03T03:38:37.354314"
+  },
+  {
+    "problem_index": 541,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "I need to find how much Elvis needs to save each day in the second half of April to meet his monthly target of $1125.\n\nLet me set up the problem step by step.\n\n**Step 1: Determine the number of days in each half of April**\nApril has 30 days total.\n- First half: 15 days\n- Second half: 15 days\n\n**Step 2: Set up variables**\nLet x = amount Elvis saves per day in the first half\nThen 2x = amount Elvis saves per day in the second half (since he wants to save twice as much)\n\n**Step 3: Set up the equation**\nTotal savings = Savings from first half + Savings from second half\n$1125 = (15 days × x) + (15 days × 2x)\n$1125 = 15x + 30x\n$1125 = 45x\n\n**Step 4: Solve for x**\nx = $1125 ÷ 45\nx = $25\n\n**Step 5: Find the daily savings for the second half**\nDaily savings in second half = 2x = 2 × $25 = $50\n\n**Step 6: Verify the answer**\nFirst half: 15 days × $25/day = $375\nSecond half: 15 days × $50/day = $750\nTotal: $375 + $750 = $1125 ✓\n\nTherefore, Elvis needs to save $50 each day in the second half of April.\n\n{\"final\": 50}",
+    "timestamp": "2026-01-03T03:38:46.213957"
+  },
+  {
+    "problem_index": 548,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "I need to find Mark's initial weight before he became unwell.\n\nLet me work backwards from the information given:\n\n**Given information:**\n- Mark was unwell for 3 months\n- He lost 10 pounds per month during this time\n- His final weight was 70 pounds\n\n**Step 1: Calculate total weight lost**\nWeight lost per month = 10 pounds\nNumber of months = 3 months\nTotal weight lost = 10 pounds/month × 3 months = 30 pounds\n\n**Step 2: Calculate initial weight**\nSince Mark lost weight, his initial weight must have been higher than his final weight.\n\nInitial weight = Final weight + Total weight lost\nInitial weight = 70 pounds + 30 pounds = 100 pounds\n\n**Verification:**\n- Starting weight: 100 pounds\n- Lost 10 pounds/month for 3 months = 30 pounds total\n- Final weight: 100 - 30 = 70 pounds ✓\n\nTherefore, Mark's initial weight was 100 pounds.\n\n{\"final\": 100}",
+    "timestamp": "2026-01-03T03:38:55.389886"
+  },
+  {
+    "problem_index": 551,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total cost of Carly's order and then find the change from a $50 bill.\n\nLet me break down the costs:\n\n**Step 1: Calculate the cost of hamburgers**\n- 5 hamburgers at $4 each\n- Cost = 5 × $4 = $20\n\n**Step 2: Calculate the cost of potato fries**\n- 10 packs of potato fries at $0.30 each\n- Cost = 10 × $0.30 = $3\n\n**Step 3: Calculate the cost of fruit drinks**\n- 5 cans of fruit drinks at $2 each\n- Cost = 5 × $2 = $10\n\n**Step 4: Calculate the total cost**\n- Total cost = $20 + $3 + $10 = $33\n\n**Step 5: Calculate the change**\n- Amount paid = $50\n- Change = $50 - $33 = $17\n\nTherefore, Carly gets back $17 in change.\n\n{\"final\": 17}",
+    "timestamp": "2026-01-03T03:39:03.125293"
+  },
+  {
+    "problem_index": 563,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "I need to find out how much James spends on birthday candles for his 2 sons.\n\nLet me work through this step by step:\n\n**Step 1: Find the ages of both sons**\n- One son is 12 years old\n- The other son is 4 years younger than 12\n- Second son's age = 12 - 4 = 8 years old\n\n**Step 2: Calculate total candles needed**\n- For the 12-year-old: 12 candles\n- For the 8-year-old: 8 candles\n- Total candles needed = 12 + 8 = 20 candles\n\n**Step 3: Calculate how many packs needed**\n- Each pack contains 5 candles\n- Number of packs needed = 20 ÷ 5 = 4 packs\n\n**Step 4: Calculate total cost**\n- Each pack costs $3\n- Total cost = 4 packs × $3 per pack = $12\n\nTherefore, James spends $12 on candles.\n\n{\"final\": 12}",
+    "timestamp": "2026-01-03T03:39:11.060032"
+  },
+  {
+    "problem_index": 567,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total amount of money the tooth fairy left Sharon for all her lost teeth.\n\nLet me break this down step by step:\n\n**First tooth:**\n- Sharon received $5.00\n\n**Next three teeth:**\n- Sharon received $1.00 for each tooth\n- Total for these 3 teeth: 3 × $1.00 = $3.00\n\n**Last 2 teeth:**\n- For each of these teeth, Sharon received half the amount she got for each of the previous three teeth\n- She got $1.00 for each of the previous three teeth\n- So for each of the last 2 teeth, she got: $1.00 ÷ 2 = $0.50\n- Total for these 2 teeth: 2 × $0.50 = $1.00\n\n**Total amount:**\n- First tooth: $5.00\n- Next three teeth: $3.00\n- Last two teeth: $1.00\n- Total: $5.00 + $3.00 + $1.00 = $9.00\n\n{\"final\": 9}",
+    "timestamp": "2026-01-03T03:39:20.017074"
+  },
+  {
+    "problem_index": 575,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "I need to find out how much money Kate can make by selling crayon muffins.\n\nLet me work through this step by step:\n\n**Step 1: Calculate the total number of crayon pieces Kate has**\n- Kate has 3 boxes of crayons\n- Each box contains 64 crayons\n- Total crayons = 3 × 64 = 192 crayon pieces\n\n**Step 2: Calculate how many crayon muffins she can make**\n- Each crayon muffin requires 8 small crayon pieces\n- Number of muffins = Total crayon pieces ÷ 8 pieces per muffin\n- Number of muffins = 192 ÷ 8 = 24 muffins\n\n**Step 3: Calculate the total money Kate can make**\n- Each crayon muffin sells for $1.50\n- Total money = Number of muffins × Price per muffin\n- Total money = 24 × $1.50 = $36.00\n\nTherefore, Kate can make $36.00 from selling her crayon muffins.\n\n{\"final\": 36}",
+    "timestamp": "2026-01-03T03:39:28.148297"
+  },
+  {
+    "problem_index": 576,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 11232,
+    "correct_answer": 11232,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total cost for Michael to replace his carpet. Let me break this down step by step.\n\n**Step 1: Calculate the area of the bedroom**\n- Length = 18 feet\n- Width = 12 feet\n- Area = 18 × 12 = 216 square feet\n\n**Step 2: Calculate the cost of materials**\n- New carpet: $12 per square foot\n- Padding: $2 per square foot\n- Total material cost per square foot = $12 + $2 = $14 per square foot\n- Total material cost = 216 × $14 = $3,024\n\n**Step 3: Calculate the labor costs**\n- Removing old carpet: $4 per square foot\n- Installing new carpet: $34 per square foot\n- Total labor cost per square foot = $4 + $34 = $38 per square foot\n- Total labor cost = 216 × $38 = $8,208\n\n**Step 4: Calculate the total cost**\n- Total cost = Material cost + Labor cost\n- Total cost = $3,024 + $8,208 = $11,232\n\n{\"final\": 11232}",
+    "timestamp": "2026-01-03T03:39:37.185178"
+  },
+  {
+    "problem_index": 597,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 90,
+    "correct_answer": 90,
+    "is_correct": true,
+    "raw_output": "I need to find the three angles of a triangle where one angle is twice the smallest and one angle is three times the smallest.\n\nLet me define variables:\n- Let x = the smallest angle\n- Then 2x = the second angle (twice the smallest)\n- And 3x = the third angle (three times the smallest)\n\nSince the three angles in a triangle add up to 180 degrees, I can write:\nx + 2x + 3x = 180\n\nCombining like terms:\n6x = 180\n\nSolving for x:\nx = 180 ÷ 6 = 30\n\nNow I can find all three angles:\n- Smallest angle: x = 30°\n- Second angle: 2x = 2(30) = 60°\n- Third angle: 3x = 3(30) = 90°\n\nLet me verify: 30° + 60° + 90° = 180° ✓\n\nThe largest angle is 90 degrees.\n\n{\"final\": 90}",
+    "timestamp": "2026-01-03T03:39:46.299582"
+  },
+  {
+    "problem_index": 598,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 69,
+    "correct_answer": 69,
+    "is_correct": true,
+    "raw_output": "I need to find out how much money Colby has in total, then determine how many gumballs he can buy at a nickel each.\n\nStep 1: Calculate the total value of each type of coin.\n\nQuarters: 8 quarters × $0.25 = $2.00\nDimes: 6 dimes × $0.10 = $0.60\nNickels: 14 nickels × $0.05 = $0.70\nPennies: 15 pennies × $0.01 = $0.15\n\nStep 2: Find the total amount of money Colby has.\n\nTotal money = $2.00 + $0.60 + $0.70 + $0.15 = $3.45\n\nStep 3: Determine how many gumballs he can buy.\n\nEach gumball costs a nickel = $0.05\nNumber of gumballs = Total money ÷ Cost per gumball\nNumber of gumballs = $3.45 ÷ $0.05 = 69\n\nTherefore, Colby can buy 69 gumballs.\n\n{\"final\": 69}",
+    "timestamp": "2026-01-03T03:39:54.626754"
+  },
+  {
+    "problem_index": 617,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "I need to find how many days it will take Prince to sell all the meat from Bill's bull.\n\nLet me break this down step by step:\n\n**Step 1: Find how much meat Prince sells per day**\n- Prince sells 15 kg of meat per hour\n- Prince works 10 hours per day\n- Meat sold per day = 15 kg/hour × 10 hours/day = 150 kg/day\n\n**Step 2: Find the total amount of meat to sell**\n- Bill's bull weighs 750 kg\n- Total meat to sell = 750 kg\n\n**Step 3: Calculate how many days it will take**\n- Days needed = Total meat ÷ Meat sold per day\n- Days needed = 750 kg ÷ 150 kg/day = 5 days\n\nTherefore, it will take Prince 5 days to sell all the meat from Bill's bull.\n\n{\"final\": 5}",
+    "timestamp": "2026-01-03T03:40:02.968495"
+  },
+  {
+    "problem_index": 624,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "I need to find how much more the basketball coach spent than the baseball coach.\n\nStep 1: Calculate how much the baseball coach spent.\n- The baseball coach bought 9 baseballs at $3 each\n- Total spent by baseball coach = 9 × $3 = $27\n\nStep 2: Calculate how much the basketball coach spent.\n- The basketball coach bought 8 basketballs at $14 each\n- Total spent by basketball coach = 8 × $14 = $112\n\nStep 3: Find the difference between what they spent.\n- Difference = Basketball coach's spending - Baseball coach's spending\n- Difference = $112 - $27 = $85\n\nTherefore, the basketball coach spent $85 more than the baseball coach.\n\n{\"final\": 85}",
+    "timestamp": "2026-01-03T03:40:10.064874"
+  },
+  {
+    "problem_index": 633,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "I need to find when Tom catches up with Bob. This is a relative motion problem.\n\nLet me define variables:\n- Let t = time (in hours) it takes for Tom to catch up with Bob\n- Bob's speed = 55 mph\n- Tom's speed = 70 mph\n- Bob's initial lead = 75 miles\n\nSetting up the problem:\n- Bob's position after time t: 75 + 55t (initial lead plus distance traveled)\n- Tom's position after time t: 70t (distance traveled from starting point)\n\nTom catches up when their positions are equal:\n70t = 75 + 55t\n\nSolving for t:\n70t - 55t = 75\n15t = 75\nt = 75/15\nt = 5\n\nLet me verify this answer:\n- After 5 hours, Bob's position: 75 + 55(5) = 75 + 275 = 350 miles\n- After 5 hours, Tom's position: 70(5) = 350 miles\n\nBoth are at 350 miles after 5 hours, so Tom catches up with Bob.\n\n{\"final\": 5}",
+    "timestamp": "2026-01-03T03:40:18.192836"
+  },
+  {
+    "problem_index": 637,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "I need to find how many miles Lynn ran.\n\nLet me define variables and work through this step by step.\n\nGiven information:\n- Paisley ran 4 miles\n- Reggie ran 5 times what Paisley ran\n- Reggie ran 3 miles farther than Lynn\n\nStep 1: Find how many miles Reggie ran.\nReggie ran 5 times what Paisley ran.\nReggie's distance = 5 × Paisley's distance\nReggie's distance = 5 × 4 = 20 miles\n\nStep 2: Find how many miles Lynn ran.\nI know that Reggie ran 3 miles farther than Lynn.\nThis means: Reggie's distance = Lynn's distance + 3\n\nSubstituting what I know:\n20 = Lynn's distance + 3\n\nSolving for Lynn's distance:\nLynn's distance = 20 - 3 = 17 miles\n\nStep 3: Verify my answer.\n- Paisley ran 4 miles ✓\n- Reggie ran 5 × 4 = 20 miles ✓\n- Reggie ran 3 miles farther than Lynn: 20 = 17 + 3 ✓\n\nTherefore, Lynn ran 17 miles.\n\n{\"final\": 17}",
+    "timestamp": "2026-01-03T03:40:26.195640"
+  },
+  {
+    "problem_index": 644,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 29,
+    "correct_answer": 29,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\nGiven information:\n- Steve is 60 years old\n- Steve's wife is 4 years older than Steve\n- Their son is currently half as old as his mom\n- The son's wife is 3 years younger than her husband (the son)\n\nStep 1: Find Steve's wife's age.\nSteve's wife = Steve's age + 4 years\nSteve's wife = 60 + 4 = 64 years old\n\nStep 2: Find the son's age.\nThe son is half as old as his mom\nSon's age = Steve's wife's age ÷ 2\nSon's age = 64 ÷ 2 = 32 years old\n\nStep 3: Find the son's wife's age.\nThe son's wife is 3 years younger than her husband\nSon's wife's age = Son's age - 3 years\nSon's wife's age = 32 - 3 = 29 years old\n\nTherefore, Steve's son's wife is 29 years old.\n\n{\"final\": 29}",
+    "timestamp": "2026-01-03T03:40:34.536641"
+  },
+  {
+    "problem_index": 650,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 142,
+    "correct_answer": 142,
+    "is_correct": true,
+    "raw_output": "I need to calculate the final prices paid by Clara on Tuesday and Sheila on Wednesday, then find the difference.\n\n**Clara's purchase on Tuesday:**\n- Number of pomegranates: 20\n- Price per pomegranate: $20\n- Initial total cost: 20 × $20 = $400\n- Voucher discount: $2 off\n- Final amount Clara paid: $400 - $2 = $398\n\n**Sheila's purchase on Wednesday:**\n- Number of pomegranates: 20\n- Price per pomegranate: $30\n- Initial total cost: 20 × $30 = $600\n- Store discount: 10% off the total cost\n- Discount amount: 10% of $600 = 0.10 × $600 = $60\n- Final amount Sheila paid: $600 - $60 = $540\n\n**Difference between the final prices:**\nSheila's final price - Clara's final price = $540 - $398 = $142\n\n{\"final\": 142}",
+    "timestamp": "2026-01-03T03:40:41.404106"
+  },
+  {
+    "problem_index": 653,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "I need to find how much money was withheld from Sally's wage.\n\nLet me work through this step by step:\n\n**Step 1: Calculate how much money Sally actually received**\n- Starting bank account balance: $200\n- Ending bank account balance: $420\n- Money received = Ending balance - Starting balance\n- Money received = $420 - $200 = $220\n\n**Step 2: Calculate how much was withheld**\n- Sally's full weekly wage should be: $300\n- Sally actually received: $220\n- Amount withheld = Full wage - Amount received\n- Amount withheld = $300 - $220 = $80\n\n**Step 3: Verify the answer**\n- If Sally received $220 and $80 was withheld, then $220 + $80 = $300 ✓\n- If she started with $200 and received $220, then $200 + $220 = $420 ✓\n\nTherefore, $80 was withheld from Sally's wage.\n\n{\"final\": 80}",
+    "timestamp": "2026-01-03T03:40:50.191434"
+  },
+  {
+    "problem_index": 656,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "I need to find how many days before the deadline Mike will finish reading the book.\n\nLet me break this down step by step:\n\n**Given information:**\n- Total pages in the book: 200 pages\n- Deadline: 30 days\n- Mike's reading rate: 10 pages per day\n\n**Step 1: Calculate how many days Mike needs to finish the book**\nDays needed = Total pages ÷ Pages per day\nDays needed = 200 ÷ 10 = 20 days\n\n**Step 2: Calculate how many days before the deadline Mike will finish**\nDays before deadline = Deadline - Days needed to finish\nDays before deadline = 30 - 20 = 10 days\n\n**Verification:**\n- Mike reads 10 pages/day for 20 days = 200 pages ✓\n- He finishes on day 20, which is 10 days before the 30-day deadline ✓\n\nTherefore, Mike will finish his reading 10 days before the deadline.\n\n{\"final\": 10}",
+    "timestamp": "2026-01-03T03:40:57.559369"
+  },
+  {
+    "problem_index": 673,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "I need to find how many books Sally has, given information about Janey's books.\n\nLet me define a variable:\n- Let S = the number of books Sally has\n\nNow I'll translate the given information into an equation:\n- \"Janey has 3 more than twice the number of books that Sally has\"\n- This means: Janey's books = 2S + 3\n- We're told Janey has 21 books\n\nSo I can write the equation:\n21 = 2S + 3\n\nNow I'll solve for S:\n21 = 2S + 3\n21 - 3 = 2S + 3 - 3\n18 = 2S\n18 ÷ 2 = 2S ÷ 2\n9 = S\n\nLet me verify this answer:\n- Sally has 9 books\n- Twice Sally's books = 2 × 9 = 18\n- 3 more than twice Sally's books = 18 + 3 = 21\n- This matches Janey's 21 books ✓\n\n{\"final\": 9}",
+    "timestamp": "2026-01-03T03:41:06.953570"
+  },
+  {
+    "problem_index": 679,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 576,
+    "correct_answer": 576,
+    "is_correct": true,
+    "raw_output": "I need to find how many hash browns can be made from 96 potatoes, given that 6 potatoes make 36 hash browns.\n\nStep 1: Find the ratio of hash browns to potatoes.\nFrom the given information: 6 potatoes → 36 hash browns\n\nStep 2: Calculate how many hash browns per potato.\nHash browns per potato = 36 hash browns ÷ 6 potatoes = 6 hash browns per potato\n\nStep 3: Calculate how many hash browns can be made from 96 potatoes.\nTotal hash browns = 96 potatoes × 6 hash browns per potato = 576 hash browns\n\nLet me verify this using proportions:\n6 potatoes : 36 hash browns = 96 potatoes : x hash browns\n\nCross multiply: 6x = 36 × 96\n6x = 3,456\nx = 3,456 ÷ 6 = 576\n\nBoth methods give the same answer.\n\n{\"final\": 576}",
+    "timestamp": "2026-01-03T03:41:14.533835"
+  },
+  {
+    "problem_index": 681,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 298,
+    "correct_answer": 298,
+    "is_correct": true,
+    "raw_output": "I need to find how many cookies each person has, then add them all together.\n\nLet me start with what I know and work backwards from Katarina's cookies.\n\nGiven information:\n- Katarina has 68 cookies\n- Katarina has 5 less cookies than Max\n- Max has 12 more cookies than Cookie Monster\n- Summer has 23 more cookies than Max\n\nStep 1: Find how many cookies Max has.\nIf Katarina has 5 less cookies than Max, then:\nMax's cookies = Katarina's cookies + 5\nMax's cookies = 68 + 5 = 73 cookies\n\nStep 2: Find how many cookies Cookie Monster has.\nIf Max has 12 more cookies than Cookie Monster, then:\nCookie Monster's cookies = Max's cookies - 12\nCookie Monster's cookies = 73 - 12 = 61 cookies\n\nStep 3: Find how many cookies Summer has.\nIf Summer has 23 more cookies than Max, then:\nSummer's cookies = Max's cookies + 23\nSummer's cookies = 73 + 23 = 96 cookies\n\nStep 4: Calculate the total number of cookies.\nTotal = Katarina's + Max's + Cookie Monster's + Summer's cookies\nTotal = 68 + 73 + 61 + 96 = 298 cookies\n\nLet me verify my work:\n- Katarina: 68 cookies\n- Max: 73 cookies (5 more than Katarina ✓)\n- Cookie Monster: 61 cookies (12 less than Max ✓)\n- Summer: 96 cookies (23 more than Max ✓)\n\n{\"final\": 298}",
+    "timestamp": "2026-01-03T03:41:24.087410"
+  },
+  {
+    "problem_index": 682,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 80,
+    "correct_answer": 80,
+    "is_correct": true,
+    "raw_output": "I need to find the original length of the dress before Shania made her modifications.\n\nLet me define the variable:\n- Let x = original length of the dress (in cm)\n\nNow I'll set up the equation based on the modifications:\n\n1) Shania extends the dress by 50% of its original length\n   - This means the dress becomes: x + 0.5x = 1.5x\n\n2) She adds 20cm of lace trim to the bottom\n   - This adds another 20cm to the length\n\n3) The final design is 140cm long\n\nSo my equation is:\n1.5x + 20 = 140\n\nNow I'll solve for x:\n1.5x + 20 = 140\n1.5x = 140 - 20\n1.5x = 120\nx = 120 ÷ 1.5\nx = 80\n\nLet me verify this answer:\n- Original length: 80cm\n- After 50% extension: 80 + (0.5 × 80) = 80 + 40 = 120cm\n- After adding 20cm lace trim: 120 + 20 = 140cm ✓\n\nThis matches the final length of 140cm, so my answer is correct.\n\n{\"final\": 80}",
+    "timestamp": "2026-01-03T03:41:32.589427"
+  },
+  {
+    "problem_index": 684,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "I need to find how much time John and Jack have left to get to school.\n\nLet me work through this step by step:\n\n**Given information:**\n- Total time available: 30 minutes\n- Time to get to the library corner: 6 minutes\n- Time from library to fire station: 13 minutes\n\n**Step 1: Calculate total time already used**\nTime used = Time to library + Time from library to fire station\nTime used = 6 minutes + 13 minutes = 19 minutes\n\n**Step 2: Calculate remaining time**\nRemaining time = Total available time - Time already used\nRemaining time = 30 minutes - 19 minutes = 11 minutes\n\nTherefore, John and Jack have 11 more minutes to get to school without being late.\n\n{\"final\": 11}",
+    "timestamp": "2026-01-03T03:41:39.367188"
+  },
+  {
+    "problem_index": 688,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "I need to find how many minutes John has to nap after completing his homework.\n\nLet me break this down step by step:\n\n**Step 1: Calculate total homework time**\n- Math homework: 20 minutes\n- Reading homework: 40 minutes\n- History homework: 20 minutes\n- Total homework time = 20 + 40 + 20 = 80 minutes\n\n**Step 2: Convert the time before dinner to minutes**\n- Time before dinner: 3 hours\n- 3 hours = 3 × 60 = 180 minutes\n\n**Step 3: Calculate nap time**\n- Time available for nap = Total time before dinner - Total homework time\n- Time available for nap = 180 - 80 = 100 minutes\n\nTherefore, John has 100 minutes to nap.\n\n{\"final\": 100}",
+    "timestamp": "2026-01-03T03:41:46.872129"
+  },
+  {
+    "problem_index": 695,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find the number of bucks**\n- Total deer: 50\n- 50% of the deer are bucks\n- Number of bucks = 50% × 50 = 0.50 × 50 = 25 bucks\n\n**Step 2: Find the number of 8-point bucks**\n- 20% of the bucks are 8-point bucks\n- Number of 8-point bucks = 20% × 25 = 0.20 × 25 = 5\n\nTherefore, there are 5 eight-point bucks.\n\n{\"final\": 5}",
+    "timestamp": "2026-01-03T03:41:52.836268"
+  },
+  {
+    "problem_index": 710,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step to find Marcus' total bill.\n\n**Step 1: Calculate the cost of each item type**\n\nCroissants: 5 × $3.00 = $15.00\n\nCinnamon rolls: 4 × $2.50 = $10.00\n\nMini quiches: 3 × $4.00 = $12.00\n\nBlueberry muffins: 13 × $1.00 = $13.00\n\n**Step 2: Calculate the subtotal before discount**\n\nSubtotal = $15.00 + $10.00 + $12.00 + $13.00 = $50.00\n\n**Step 3: Calculate the discount amount**\n\nDiscount = 10% of $50.00 = 0.10 × $50.00 = $5.00\n\n**Step 4: Calculate the final total after discount**\n\nFinal total = $50.00 - $5.00 = $45.00\n\n{\"final\": 45}",
+    "timestamp": "2026-01-03T03:41:59.477472"
+  },
+  {
+    "problem_index": 715,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 385000,
+    "correct_answer": 385000,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nGiven information:\n- The company wanted to buy 500 computers\n- They had budgeted $700 for each computer\n- The actual price was 10% higher than planned\n\nStep 1: Calculate the actual price per computer.\nThe planned price was $700 per computer.\nThe actual price is 10% higher than planned.\n\n10% of $700 = 0.10 × $700 = $70\n\nActual price per computer = $700 + $70 = $770\n\nStep 2: Calculate the total amount paid for all computers.\nNumber of computers = 500\nActual price per computer = $770\n\nTotal amount paid = 500 × $770 = $385,000\n\nTherefore, the company paid $385,000 to buy the computers at the new prices.\n\n{\"final\": 385000}",
+    "timestamp": "2026-01-03T03:42:07.175646"
+  },
+  {
+    "problem_index": 721,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2450,
+    "correct_answer": 2450,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total number of taps for both feet over 5 minutes, considering different tap rates when arms are at sides versus raised.\n\nLet me break this down step by step:\n\n**Step 1: Identify the different scenarios and time periods**\n- Arms at sides: 5 - 2 = 3 minutes\n- Arms raised: 2 minutes\n\n**Step 2: Calculate taps when arms are at sides (3 minutes)**\n- Right foot rate: 300 taps per minute\n- Left foot rate: 250 taps per minute\n- Time: 3 minutes\n\nRight foot taps (arms at sides): 300 × 3 = 900 taps\nLeft foot taps (arms at sides): 250 × 3 = 750 taps\n\n**Step 3: Calculate taps when arms are raised (2 minutes)**\n- Right foot rate: 200 taps per minute\n- Left foot rate: 200 taps per minute\n- Time: 2 minutes\n\nRight foot taps (arms raised): 200 × 2 = 400 taps\nLeft foot taps (arms raised): 200 × 2 = 400 taps\n\n**Step 4: Calculate total taps for each foot**\nTotal right foot taps: 900 + 400 = 1,300 taps\nTotal left foot taps: 750 + 400 = 1,150 taps\n\n**Step 5: Calculate combined total**\nCombined total taps: 1,300 + 1,150 = 2,450 taps\n\n{\"final\": 2450}",
+    "timestamp": "2026-01-03T03:42:17.239352"
+  },
+  {
+    "problem_index": 728,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "I need to find what percent of Candy's spools are blue.\n\nStep 1: Find the total number of blue spools.\nBlue spools = light blue spools + dark blue spools\nBlue spools = 15 + 45 = 60 spools\n\nStep 2: Find the total number of all spools.\nTotal spools = light blue + dark blue + light green + dark green\nTotal spools = 15 + 45 + 40 + 50 = 150 spools\n\nStep 3: Calculate the percentage of blue spools.\nPercentage = (Number of blue spools / Total number of spools) × 100\nPercentage = (60 / 150) × 100\nPercentage = 0.4 × 100 = 40%\n\nTherefore, 40% of Candy's spools are blue.\n\n{\"final\": 40}",
+    "timestamp": "2026-01-03T03:42:25.326569"
+  },
+  {
+    "problem_index": 741,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find how many birds were scared away**\n- Jeremy saw 12 birds initially\n- He scared away 1/3 of that number\n- Birds scared away = 1/3 × 12 = 4 birds\n\n**Step 2: Find how many birds remained after being scared**\n- Birds remaining = Initial birds - Birds scared away\n- Birds remaining = 12 - 4 = 8 birds\n\n**Step 3: Find the total number of birds after more joined**\n- 20 more birds joined the remaining birds\n- Total birds now = Birds remaining + New birds\n- Total birds now = 8 + 20 = 28 birds\n\nTherefore, there are now 28 birds in the backyard.\n\n{\"final\": 28}",
+    "timestamp": "2026-01-03T03:42:32.880697"
+  },
+  {
+    "problem_index": 743,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 8,
+    "correct_answer": 8,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step, tracking the number of cake slices on Mara's plate.\n\nStep 1: Initial slices on the plate\nThe plate already had 2 slices on it.\n\nStep 2: Mara adds more slices\nMara added 3 slices to the plate.\nTotal slices = 2 + 3 = 5 slices\n\nStep 3: Mara triples the number of slices\nShe tripled the number of slices she currently has.\nTotal slices = 5 × 3 = 15 slices\n\nStep 4: Mara eats some slices\nShe ate 2 slices.\nRemaining slices = 15 - 2 = 13 slices\n\nStep 5: Friend steals slices\nHer friend stole 5 slices off her plate.\nFinal remaining slices = 13 - 5 = 8 slices\n\nTherefore, 8 cake slices remained on the plate.\n\n{\"final\": 8}",
+    "timestamp": "2026-01-03T03:42:41.984035"
+  },
+  {
+    "problem_index": 746,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 28,
+    "correct_answer": 28,
+    "is_correct": true,
+    "raw_output": "I need to calculate the cost for each amusement park and find the difference.\n\n**Step 1: Calculate the cost for the first amusement park**\n- Adult fee: $26 per adult\n- Child fee: $12 per child\n- Number of adults: 2\n- Number of children: 2\n\nCost for adults: 2 × $26 = $52\nCost for children: 2 × $12 = $24\nTotal cost for first park: $52 + $24 = $76\n\n**Step 2: Calculate the cost for the second amusement park**\n- Adult fee: $14 per adult\n- Child fee: $10 per child\n- Number of adults: 2\n- Number of children: 2\n\nCost for adults: 2 × $14 = $28\nCost for children: 2 × $10 = $20\nTotal cost for second park: $28 + $20 = $48\n\n**Step 3: Calculate the savings**\nSavings = Cost of first park - Cost of second park\nSavings = $76 - $48 = $28\n\nTherefore, Jake's family will save $28 if they choose the second amusement park over the first.\n\n{\"final\": 28}",
+    "timestamp": "2026-01-03T03:42:49.670102"
+  },
+  {
+    "problem_index": 758,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 133,
+    "correct_answer": 133,
+    "is_correct": true,
+    "raw_output": "I need to find the final price after applying a 5% discount to a bag marked at $140.\n\nStep 1: Calculate the discount amount.\nDiscount = 5% of $140\nDiscount = 0.05 × $140\nDiscount = $7\n\nStep 2: Calculate the final price after the discount.\nFinal price = Original price - Discount\nFinal price = $140 - $7\nFinal price = $133\n\nTherefore, after the 5% discount, I will pay $133 for the bag.\n\n{\"final\": 133}",
+    "timestamp": "2026-01-03T03:42:57.248469"
+  },
+  {
+    "problem_index": 759,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 60000,
+    "correct_answer": 60000,
+    "is_correct": true,
+    "raw_output": "I need to find the total hours for 20 playlists, where each playlist has 300 songs and each song is 10 hours long.\n\nLet me solve this step by step:\n\nStep 1: Find the total number of songs across all playlists.\n- Number of playlists = 20\n- Songs per playlist = 300\n- Total songs = 20 × 300 = 6,000 songs\n\nStep 2: Calculate the total hours.\n- Each song is 10 hours long\n- Total hours = Total songs × Hours per song\n- Total hours = 6,000 × 10 = 60,000 hours\n\nTherefore, the 20 playlists will last 60,000 hours in total.\n\n{\"final\": 60000}",
+    "timestamp": "2026-01-03T03:43:03.270609"
+  },
+  {
+    "problem_index": 762,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 85,
+    "correct_answer": 85,
+    "is_correct": true,
+    "raw_output": "I need to find how much more money Jayden needs to buy the camera.\n\nLet me work through this step by step:\n\n**Step 1: Calculate how much money Jayden has initially**\nJayden has $70 from selling pictures.\n\n**Step 2: Calculate how much Ava gives him**\nAva has a $90 allowance and gives him half of it.\nHalf of $90 = $90 ÷ 2 = $45\n\n**Step 3: Calculate Jayden's total money**\nJayden's total money = Money from pictures + Money from Ava\nJayden's total money = $70 + $45 = $115\n\n**Step 4: Calculate how much more he needs**\nThe camera costs $200\nAmount needed = Camera cost - Total money Jayden has\nAmount needed = $200 - $115 = $85\n\nTherefore, Jayden needs $85 more to buy the camera.\n\n{\"final\": 85}",
+    "timestamp": "2026-01-03T03:43:10.511722"
+  },
+  {
+    "problem_index": 763,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 100,
+    "correct_answer": 100,
+    "is_correct": true,
+    "raw_output": "I need to find how many cases of shingles the third house needs.\n\nLet me define variables for each house:\n- Let x = cases needed for the second house\n- First house needs 1/2 of the second house = x/2\n- Third house needs double the first house = 2 × (x/2) = x\n\nNow I can set up an equation using the total:\nFirst house + Second house + Third house = 250 cases\n\nSubstituting my expressions:\nx/2 + x + x = 250\n\nCombining like terms:\nx/2 + 2x = 250\nx/2 + 4x/2 = 250\n5x/2 = 250\n\nSolving for x:\n5x = 500\nx = 100\n\nSo the second house needs 100 cases.\n\nNow I can find each house's needs:\n- Second house: x = 100 cases\n- First house: x/2 = 100/2 = 50 cases  \n- Third house: 2 × (first house) = 2 × 50 = 100 cases\n\nLet me verify: 50 + 100 + 100 = 250 ✓\n\nTherefore, the third house will need 100 cases of shingles.\n\n{\"final\": 100}",
+    "timestamp": "2026-01-03T03:43:19.490266"
+  },
+  {
+    "problem_index": 764,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "I need to calculate how much each person spent, then add up the total.\n\nLet me solve this step by step:\n\n**Leila's purchase:**\n- 3 cucumbers at $2 each\n- Cost = 3 × $2 = $6\n\n**Jack's purchase:**\n- 5 tomatoes at $1 each\n- Cost = 5 × $1 = $5\n\n**Chase's purchase:**\n- 1 head of lettuce at $3 each\n- Cost = 1 × $3 = $3\n\n**Total amount spent:**\n- Leila: $6\n- Jack: $5\n- Chase: $3\n- Total = $6 + $5 + $3 = $14\n\n{\"final\": 14}",
+    "timestamp": "2026-01-03T03:43:28.028840"
+  },
+  {
+    "problem_index": 775,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 276,
+    "correct_answer": 276,
+    "is_correct": true,
+    "raw_output": "I need to find how many wheels Henry needs total, then subtract that from the 650 wheels he has.\n\nStep 1: Calculate wheels needed for cars.\n- Number of cars: 57\n- Wheels per car: 4\n- Wheels for cars = 57 × 4 = 228 wheels\n\nStep 2: Calculate wheels needed for motorcycles.\n- Number of motorcycles: 73\n- Wheels per motorcycle: 2\n- Wheels for motorcycles = 73 × 2 = 146 wheels\n\nStep 3: Calculate total wheels needed.\n- Total wheels needed = wheels for cars + wheels for motorcycles\n- Total wheels needed = 228 + 146 = 374 wheels\n\nStep 4: Calculate wheels left over.\n- Wheels Henry has: 650\n- Wheels needed: 374\n- Wheels left = 650 - 374 = 276 wheels\n\n{\"final\": 276}",
+    "timestamp": "2026-01-03T03:43:35.018456"
+  },
+  {
+    "problem_index": 787,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 25,
+    "correct_answer": 25,
+    "is_correct": true,
+    "raw_output": "I need to find how many OLED TVs were sold out of a total of 40 TVs.\n\nLet me break down the sales by type:\n- Smart TVs: 1/4 of total sales\n- Analog TVs: 1/8 of total sales  \n- OLED TVs: the rest\n\nStep 1: Calculate the number of smart TVs sold.\nSmart TVs = 1/4 × 40 = 10 TVs\n\nStep 2: Calculate the number of analog TVs sold.\nAnalog TVs = 1/8 × 40 = 5 TVs\n\nStep 3: Calculate the number of OLED TVs sold.\nSince OLED TVs make up the rest of the sales:\nOLED TVs = Total TVs - Smart TVs - Analog TVs\nOLED TVs = 40 - 10 - 5 = 25 TVs\n\nStep 4: Verify the answer.\nLet me check: 10 + 5 + 25 = 40 ✓\n\nTherefore, 25 OLED TVs were sold.\n\n{\"final\": 25}",
+    "timestamp": "2026-01-03T03:43:42.809875"
+  },
+  {
+    "problem_index": 794,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 32,
+    "correct_answer": 32,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of lions in the enclosure by adding up the female lions, male lions, and lion cubs.\n\nLet me solve this step by step:\n\nStep 1: Count the female lions.\nFemale lions = 12\n\nStep 2: Count the male lions.\nThe problem states there are \"half as many male lions\" as female lions.\nMale lions = 12 ÷ 2 = 6\n\nStep 3: Count the lion cubs.\nLion cubs = 14\n\nStep 4: Find the total number of lions.\nTotal lions = Female lions + Male lions + Lion cubs\nTotal lions = 12 + 6 + 14 = 32\n\nTherefore, there are 32 lions in the enclosure.\n\n{\"final\": 32}",
+    "timestamp": "2026-01-03T03:43:49.943995"
+  },
+  {
+    "problem_index": 814,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 17,
+    "correct_answer": 11,
+    "is_correct": false,
+    "raw_output": "I need to find out how much money is spent when Jack and his 3 friends play arcade games for 4 hours.\n\nLet me start by figuring out how long each person can play with 1 quarter:\n\n**Jack's playing time per quarter:**\n- 1 quarter = 20 minutes\n\n**Two friends who are worse than Jack:**\n- They play half as long as Jack\n- 1 quarter = 20 ÷ 2 = 10 minutes each\n\n**One friend who is better than Jack:**\n- They play 1.5 times as long as Jack\n- 1 quarter = 20 × 1.5 = 30 minutes\n\n**Total playing time:**\n- They play for 4 hours = 4 × 60 = 240 minutes\n\n**Now I'll calculate how many quarters each person needs:**\n\n**Jack:**\n- Quarters needed = 240 ÷ 20 = 12 quarters\n\n**Two worse friends:**\n- Quarters needed each = 240 ÷ 10 = 24 quarters\n- Total for both = 24 × 2 = 48 quarters\n\n**Better friend:**\n- Quarters needed = 240 ÷ 30 = 8 quarters\n\n**Total quarters needed:**\n- Jack: 12 quarters\n- Two worse friends: 48 quarters\n- Better friend: 8 quarters\n- Total: 12 + 48 + 8 = 68 quarters\n\n**Total money spent:**\n- 68 quarters × $0.25 = $17.00\n\n{\"final\": 17}",
+    "timestamp": "2026-01-03T03:43:59.432301"
+  },
+  {
+    "problem_index": 819,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 6250,
+    "correct_answer": 6250,
+    "is_correct": true,
+    "raw_output": "I need to find how much each student raised for charity.\n\nLet me break down the given information:\n- Total amount raised: $175,000\n- Amount from organizations: $50,000\n- Number of students: 20\n- Each student earns the same amount\n\nStep 1: Find the total amount raised by students.\nTotal raised by students = Total amount - Amount from organizations\nTotal raised by students = $175,000 - $50,000 = $125,000\n\nStep 2: Find how much each student raised.\nSince there are 20 students and each raised the same amount:\nAmount per student = Total raised by students ÷ Number of students\nAmount per student = $125,000 ÷ 20 = $6,250\n\nLet me verify: 20 students × $6,250 each + $50,000 from organizations = $125,000 + $50,000 = $175,000 ✓\n\n{\"final\": 6250}",
+    "timestamp": "2026-01-03T03:44:07.464121"
+  },
+  {
+    "problem_index": 824,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 52,
+    "correct_answer": 52,
+    "is_correct": true,
+    "raw_output": "I need to find how many more tins of cat food than dog food Kimberly bought.\n\nLet me solve this step by step:\n\n**Step 1: Calculate the total tins of cat food**\n- Number of cat food packages: 8\n- Tins per cat food package: 11\n- Total cat food tins = 8 × 11 = 88 tins\n\n**Step 2: Calculate the total tins of dog food**\n- Number of dog food packages: 6\n- Tins per dog food package: 6\n- Total dog food tins = 6 × 6 = 36 tins\n\n**Step 3: Find the difference**\n- Difference = Cat food tins - Dog food tins\n- Difference = 88 - 36 = 52 tins\n\nTherefore, Kimberly bought 52 more tins of cat food than dog food.\n\n{\"final\": 52}",
+    "timestamp": "2026-01-03T03:44:13.855637"
+  },
+  {
+    "problem_index": 841,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5600,
+    "correct_answer": 5600,
+    "is_correct": true,
+    "raw_output": "I need to find how much money Gabriel still needs to buy both the car and phone.\n\nLet me solve this step by step:\n\n**Step 1: Calculate the total cost of what Gabriel wants to buy**\n- Car cost: $10,000\n- Phone cost: $800\n- Total cost = $10,000 + $800 = $10,800\n\n**Step 2: Calculate how much money Gabriel currently has**\n- Money from working on weekends: $5,000\n- Money from his brother: $200\n- Total money Gabriel has = $5,000 + $200 = $5,200\n\n**Step 3: Calculate how much more money Gabriel needs**\n- Money still needed = Total cost - Money Gabriel has\n- Money still needed = $10,800 - $5,200 = $5,600\n\nTherefore, Gabriel still needs $5,600 to buy both the car and the phone.\n\n{\"final\": 5600}",
+    "timestamp": "2026-01-03T03:44:21.241086"
+  },
+  {
+    "problem_index": 850,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 70,
+    "correct_answer": 70,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find the initial number of goats in each farm**\n- Farm X: 55 goats\n- Farm Y: 45 goats\n- Total initial goats: 55 + 45 = 100 goats\n\n**Step 2: Calculate how many goats were sold from each farm**\n- Goats sold from Farm X: 10 goats\n- Goats sold from Farm Y: twice as many as Farm X = 2 × 10 = 20 goats\n- Total goats sold: 10 + 20 = 30 goats\n\n**Step 3: Calculate remaining goats in each farm**\n- Remaining goats in Farm X: 55 - 10 = 45 goats\n- Remaining goats in Farm Y: 45 - 20 = 25 goats\n\n**Step 4: Find total remaining goats**\n- Total remaining goats: 45 + 25 = 70 goats\n\n**Verification:**\n- Started with: 100 goats\n- Sold: 30 goats\n- Remaining: 100 - 30 = 70 goats ✓\n\n{\"final\": 70}",
+    "timestamp": "2026-01-03T03:44:28.937447"
+  },
+  {
+    "problem_index": 854,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step, tracking the number of homes built each year.\n\n**Year 1:**\n- Homes built: 12\n\n**Year 2:**\n- They will build three times the number from Year 1\n- Homes built: 3 × 12 = 36\n\n**Year 3:**\n- First, I need to count how many homes they have built so far\n- Total homes built after Year 1 and Year 2: 12 + 36 = 48\n- In Year 3, they will double this amount\n- Homes built in Year 3: 2 × 48 = 96\n\n**Total homes built over three years:**\nYear 1 + Year 2 + Year 3 = 12 + 36 + 96 = 144\n\n{\"final\": 144}",
+    "timestamp": "2026-01-03T03:44:36.584458"
+  },
+  {
+    "problem_index": 871,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 48,
+    "correct_answer": 48,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate pieces eaten on the first day**\n- Total pieces: 60\n- Fraction eaten on first day: 2/5\n- Pieces eaten on first day = 2/5 × 60 = 24 pieces\n\n**Step 2: Calculate remaining pieces after first day**\n- Remaining pieces = 60 - 24 = 36 pieces\n\n**Step 3: Calculate pieces eaten on the second day**\n- Pieces eaten on second day = 10 pieces\n\n**Step 4: Calculate remaining pieces after second day**\n- Remaining pieces = 36 - 10 = 26 pieces\n\n**Step 5: Calculate pieces eaten on the third day**\n- Fraction of remaining pieces eaten: 7/13\n- Pieces eaten on third day = 7/13 × 26 = 7 × 2 = 14 pieces\n\n**Step 6: Calculate total pieces eaten**\n- First day: 24 pieces\n- Second day: 10 pieces\n- Third day: 14 pieces\n- Total eaten = 24 + 10 + 14 = 48 pieces\n\n{\"final\": 48}",
+    "timestamp": "2026-01-03T03:44:44.114710"
+  },
+  {
+    "problem_index": 889,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 15,
+    "correct_answer": 15,
+    "is_correct": true,
+    "raw_output": "I need to find how many more petals the daisies have compared to the orchids.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the total petals on the orchids**\n- Number of orchids: 5\n- Petals per orchid: 5\n- Total orchid petals = 5 × 5 = 25 petals\n\n**Step 2: Calculate the total petals on the daisies**\n- Number of African daisies: 4\n- Petals per daisy: 10\n- Total daisy petals = 4 × 10 = 40 petals\n\n**Step 3: Find the difference**\n- Difference = Total daisy petals - Total orchid petals\n- Difference = 40 - 25 = 15 petals\n\nTherefore, the daisies have 15 more petals than the orchids.\n\n{\"final\": 15}",
+    "timestamp": "2026-01-03T03:44:51.394617"
+  },
+  {
+    "problem_index": 901,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 1,
+    "correct_answer": 1,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nFirst, let me understand what we know:\n- The pot has enough soup to fill 4 adult bowls OR 8 child bowls\n- Calvin (adult) + his wife (adult) + 2 children = 4 people total\n- Everyone eats one bowl at dinner\n- We need to find how many times each child can have soup for lunch from leftovers\n\nStep 1: Convert everything to the same unit (child bowls).\nSince the pot fills 4 adult bowls OR 8 child bowls, this means:\n1 adult bowl = 2 child bowls\n\nStep 2: Calculate how much soup is consumed at dinner.\nAt dinner we have:\n- 2 adults × 1 bowl each = 2 adult bowls\n- 2 children × 1 bowl each = 2 child bowls\n\nConverting the adult bowls to child bowls:\n2 adult bowls = 2 × 2 = 4 child bowls\n\nTotal consumed at dinner = 4 child bowls + 2 child bowls = 6 child bowls\n\nStep 3: Calculate leftover soup.\nTotal soup available = 8 child bowls\nSoup consumed at dinner = 6 child bowls\nLeftover soup = 8 - 6 = 2 child bowls\n\nStep 4: Calculate how many times each child can have soup for lunch.\nThere are 2 children and 2 child bowls of leftover soup.\nEach child can have: 2 ÷ 2 = 1 bowl of soup for lunch\n\nTherefore, each child will be able to have a bowl of soup for lunch 1 time.\n\n{\"final\": 1}",
+    "timestamp": "2026-01-03T03:45:01.499862"
+  },
+  {
+    "problem_index": 908,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 14,
+    "correct_answer": 14,
+    "is_correct": true,
+    "raw_output": "I need to find how many marbles Dean has left after giving some to Jamie and Donald.\n\nLet me solve this step by step:\n\n**Step 1: Find how many marbles Dean gives to Jamie**\n- Dean has 30 marbles total\n- He gives 1/5 of them to Jamie\n- 1/5 of 30 = 30 ÷ 5 = 6 marbles\n\n**Step 2: Find how many marbles Dean gives to Donald**\n- Dean gives 10 marbles to Donald\n\n**Step 3: Find the total number of marbles Dean gives away**\n- Marbles given to Jamie: 6\n- Marbles given to Donald: 10\n- Total given away: 6 + 10 = 16 marbles\n\n**Step 4: Find how many marbles Dean has left**\n- Dean started with: 30 marbles\n- Dean gave away: 16 marbles\n- Marbles left: 30 - 16 = 14 marbles\n\nTherefore, Dean has 14 marbles left.\n\n{\"final\": 14}",
+    "timestamp": "2026-01-03T03:45:11.762379"
+  },
+  {
+    "problem_index": 909,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 38,
+    "correct_answer": 38,
+    "is_correct": true,
+    "raw_output": "I need to find Adam's current age, then calculate how old he'll be in 8 years.\n\nLet me define variables:\n- Let Duncan's current age = 60 (given)\n- Let Adam's current age = A (unknown)\n\nStep 1: Set up the equation based on the given information.\n\"Duncan's age eight years ago was two times Adam's age four years ago\"\n\nDuncan's age 8 years ago = 60 - 8 = 52\nAdam's age 4 years ago = A - 4\n\nSo the equation is:\n52 = 2(A - 4)\n\nStep 2: Solve for Adam's current age (A).\n52 = 2(A - 4)\n52 = 2A - 8\n52 + 8 = 2A\n60 = 2A\nA = 30\n\nSo Adam is currently 30 years old.\n\nStep 3: Find Adam's age in 8 years.\nAdam's age in 8 years = 30 + 8 = 38\n\nStep 4: Verify the solution.\n- Duncan's current age: 60\n- Duncan's age 8 years ago: 60 - 8 = 52\n- Adam's current age: 30\n- Adam's age 4 years ago: 30 - 4 = 26\n- Check: Is 52 = 2 × 26? Yes, 52 = 52 ✓\n\n{\"final\": 38}",
+    "timestamp": "2026-01-03T03:45:21.612730"
+  },
+  {
+    "problem_index": 915,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "I need to find the total hours Bruce works over Tuesday, Wednesday, and Thursday.\n\nLet me work through this step by step:\n\n**Step 1: Find hours worked on Tuesday**\nBruce works 5 hours on Tuesday.\n\n**Step 2: Find hours worked on Wednesday**\nOn Wednesday, he works twice the time he works on Tuesday.\nWednesday hours = 2 × Tuesday hours\nWednesday hours = 2 × 5 = 10 hours\n\n**Step 3: Find hours worked on Thursday**\nOn Thursday, he works 2 hours less than the time he works on Wednesday.\nThursday hours = Wednesday hours - 2\nThursday hours = 10 - 2 = 8 hours\n\n**Step 4: Calculate total hours for all three days**\nTotal hours = Tuesday + Wednesday + Thursday\nTotal hours = 5 + 10 + 8 = 23 hours\n\nTherefore, Bruce works 23 hours in total over these three days.\n\n{\"final\": 23}",
+    "timestamp": "2026-01-03T03:45:30.955853"
+  },
+  {
+    "problem_index": 923,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nGiven information:\n- Lana has 27 cups total\n- She divides these into 3 rows\n- In each row, she creates equal amounts of chamomile and mint tea cups\n- She uses the remaining cups to brew 15 cups of cinnamon tea\n\nStep 1: Find how many cups are used for chamomile and mint tea.\nTotal cups = 27\nCinnamon tea cups = 15\nCups for chamomile and mint = 27 - 15 = 12 cups\n\nStep 2: Find how many cups are in each row for chamomile and mint tea.\nTotal cups for chamomile and mint = 12\nNumber of rows = 3\nCups per row for chamomile and mint = 12 ÷ 3 = 4 cups per row\n\nStep 3: Find how many cups of mint tea are in each row.\nIn each row, there are equal amounts of chamomile and mint tea cups.\nCups per row for chamomile and mint = 4\nSince chamomile and mint are equal in each row:\nMint tea cups per row = 4 ÷ 2 = 2 cups\nChamomile tea cups per row = 4 ÷ 2 = 2 cups\n\nStep 4: Verify the answer.\n- 3 rows × 2 mint cups per row = 6 mint cups total\n- 3 rows × 2 chamomile cups per row = 6 chamomile cups total\n- 6 mint + 6 chamomile + 15 cinnamon = 27 total cups ✓\n\nTherefore, there are 2 cups of mint tea in each row.\n\n{\"final\": 2}",
+    "timestamp": "2026-01-03T03:45:41.102174"
+  },
+  {
+    "problem_index": 925,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2000,
+    "correct_answer": 2000,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find how much water is initially put into the tank**\n- Pool contains: 10,000 gallons\n- Tank is filled with half the amount of water in the pool\n- Water in tank initially = 10,000 ÷ 2 = 5,000 gallons\n\n**Step 2: Calculate how much water is used over 6 days**\n- Rate of water usage = 500 gallons per day\n- Number of days = 6 days\n- Total water used = 500 × 6 = 3,000 gallons\n\n**Step 3: Calculate remaining water in the tank**\n- Initial water in tank = 5,000 gallons\n- Water used = 3,000 gallons\n- Remaining water = 5,000 - 3,000 = 2,000 gallons\n\nTherefore, after 6 days, there will be 2,000 gallons of water remaining in the tank.\n\n{\"final\": 2000}",
+    "timestamp": "2026-01-03T03:45:49.506443"
+  },
+  {
+    "problem_index": 927,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 85000,
+    "correct_answer": 85000,
+    "is_correct": true,
+    "raw_output": "I need to find the total calories in all the pastries Andrew baked.\n\nLet me break this down step by step:\n\n**Step 1: Find the calories in a mini cinnamon roll**\n- Normal cinnamon roll = 600 calories\n- Mini cinnamon roll = 1/3 × 600 = 200 calories\n\n**Step 2: Find the calories in a mini blueberry muffin**\n- Normal blueberry muffin = 450 calories\n- Mini blueberry muffin = 1/3 × 450 = 150 calories\n\n**Step 3: Calculate total calories from mini cinnamon rolls**\n- Number of mini cinnamon rolls = 200\n- Calories per mini cinnamon roll = 200\n- Total calories from cinnamon rolls = 200 × 200 = 40,000 calories\n\n**Step 4: Calculate total calories from mini blueberry muffins**\n- Number of mini blueberry muffins = 300\n- Calories per mini blueberry muffin = 150\n- Total calories from muffins = 300 × 150 = 45,000 calories\n\n**Step 5: Find the total calories**\n- Total calories = 40,000 + 45,000 = 85,000 calories\n\n{\"final\": 85000}",
+    "timestamp": "2026-01-03T03:45:58.260406"
+  },
+  {
+    "problem_index": 939,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 650,
+    "correct_answer": 650,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of letters in all the words spelled by both Craig and his brother after ten rounds.\n\nLet me break this down step by step:\n\n**Step 1: Calculate Craig's total letters**\n- Craig spelled 20 words\n- Each word has 15 letters\n- Craig's total letters = 20 × 15 = 300 letters\n\n**Step 2: Calculate Craig's brother's total letters**\n- Craig's brother has spelled words with 50 more letters than Craig\n- Craig's brother's total letters = Craig's total + 50\n- Craig's brother's total letters = 300 + 50 = 350 letters\n\n**Step 3: Calculate the combined total**\n- Total letters from both = Craig's letters + Brother's letters\n- Total letters = 300 + 350 = 650 letters\n\nTherefore, the total number of letters in all the words they've spelled after ten rounds is 650.\n\n{\"final\": 650}",
+    "timestamp": "2026-01-03T03:46:06.276620"
+  },
+  {
+    "problem_index": 949,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 42,
+    "correct_answer": 42,
+    "is_correct": true,
+    "raw_output": "I need to find Leo's age by working through the relationships between Marcus, Leo, and Deanna.\n\nGiven information:\n- Marcus is half of Leo's age\n- Marcus is five years younger than Deanna\n- Deanna is 26\n\nStep 1: Find Marcus's age.\nSince Marcus is five years younger than Deanna, and Deanna is 26:\nMarcus's age = Deanna's age - 5\nMarcus's age = 26 - 5 = 21\n\nStep 2: Find Leo's age.\nSince Marcus is half of Leo's age:\nMarcus's age = Leo's age ÷ 2\n21 = Leo's age ÷ 2\n\nTo solve for Leo's age:\nLeo's age = 21 × 2 = 42\n\nStep 3: Verify the answer.\n- Marcus is 21 years old\n- Leo is 42 years old\n- Deanna is 26 years old\n\nCheck: Marcus (21) is half of Leo's age (42) ✓\nCheck: Marcus (21) is five years younger than Deanna (26) ✓\n\n{\"final\": 42}",
+    "timestamp": "2026-01-03T03:46:14.560935"
+  },
+  {
+    "problem_index": 960,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 11,
+    "correct_answer": 11,
+    "is_correct": true,
+    "raw_output": "I need to track the number of holes day by day and find how many were dug on the fourth day.\n\nLet me work through this step by step:\n\n**Day 1:**\n- Dug 10 holes\n- Total holes at end of day 1: 10 holes\n\n**Day 2:**\n- Dug 13 holes\n- Total holes at end of day 2: 10 + 13 = 23 holes\n\n**Day 3:**\n- Dug 8 holes\n- Filled in 2 holes (so net change is +8 - 2 = +6 holes)\n- Total holes at end of day 3: 23 + 6 = 29 holes\n\n**Day 4:**\n- Let's say they dug x holes on day 4\n- Total holes by the time they found treasure: 29 + x holes\n\n**Key information:**\nThe problem states that \"The island had four times as many holes by then as it did at the end of the first day.\"\n\nSo: Total holes when treasure was found = 4 × (holes at end of day 1)\nTotal holes when treasure was found = 4 × 10 = 40 holes\n\n**Setting up the equation:**\n29 + x = 40\n\n**Solving for x:**\nx = 40 - 29\nx = 11\n\nTherefore, the pirates dug 11 holes on the fourth day before finding the treasure.\n\n{\"final\": 11}",
+    "timestamp": "2026-01-03T03:46:24.103586"
+  },
+  {
+    "problem_index": 961,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 225,
+    "correct_answer": 225,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of corn chips.\n\nLet me analyze the given information:\n- Amora and Lainey each got 70 corn chips\n- Collins got 15 more corn chips than what Amora and Lainey each got\n- So Collins got 70 + 15 = 85 corn chips\n\nNow I can find the total:\n- Amora: 70 corn chips\n- Lainey: 70 corn chips  \n- Collins: 85 corn chips\n\nTotal corn chips = 70 + 70 + 85 = 225 corn chips\n\nLet me verify this makes sense:\n- If they had shared equally, each person would get 225 ÷ 3 = 75 corn chips\n- But the problem states that only two people got equal amounts, while the third got 15 more\n- Amora and Lainey got 70 each (which is 5 less than the equal share)\n- Collins got 85 (which is 10 more than the equal share)\n- The difference between Collins and the others: 85 - 70 = 15 ✓\n\nThis confirms our answer is correct.\n\n{\"final\": 225}",
+    "timestamp": "2026-01-03T03:46:34.175927"
+  },
+  {
+    "problem_index": 962,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 600,
+    "correct_answer": 1000,
+    "is_correct": false,
+    "raw_output": "I need to find the cost of travel tickets.\n\nGiven information:\n- Supplies cost: $400\n- Travel tickets cost 50% more than the supplies\n\nStep 1: Calculate what \"50% more than the supplies\" means.\n50% of $400 = 0.50 × $400 = $200\n\nStep 2: Calculate the total cost of travel tickets.\nTravel tickets cost = Supplies cost + 50% more\nTravel tickets cost = $400 + $200 = $600\n\nTherefore, travel costs $600.\n\n{\"final\": 600}",
+    "timestamp": "2026-01-03T03:46:40.606800"
+  },
+  {
+    "problem_index": 963,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 147,
+    "correct_answer": 147,
+    "is_correct": true,
+    "raw_output": "I need to find how many Pokemon Stan has caught. Let me define variables and set up equations.\n\nLet me define:\n- A = number of Pokemon Alex caught\n- S = number of Pokemon Stan caught  \n- W = number of Pokemon Adelwolfe caught\n\nNow I'll translate the given information into equations:\n\n1) Together they caught 339 Pokemon:\n   A + S + W = 339\n\n2) Alex has caught 5 more than Stan:\n   A = S + 5\n\n3) Stan has caught 13 less than 4 times as many as Adelwolfe:\n   S = 4W - 13\n\nNow I'll solve this system of equations.\n\nFrom equation (3): S = 4W - 13\nThis means: W = (S + 13)/4\n\nFrom equation (2): A = S + 5\n\nSubstituting these into equation (1):\n(S + 5) + S + (S + 13)/4 = 339\n\nMultiplying everything by 4 to eliminate the fraction:\n4(S + 5) + 4S + (S + 13) = 4(339)\n4S + 20 + 4S + S + 13 = 1356\n9S + 33 = 1356\n9S = 1323\nS = 147\n\nLet me verify this answer:\n- Stan caught: S = 147\n- Adelwolfe caught: W = (147 + 13)/4 = 160/4 = 40\n- Alex caught: A = 147 + 5 = 152\n\nCheck: 152 + 147 + 40 = 339 ✓\nCheck: Alex has 5 more than Stan: 152 = 147 + 5 ✓\nCheck: Stan has 13 less than 4 times Adelwolfe: 147 = 4(40) - 13 = 160 - 13 = 147 ✓\n\n{\"final\": 147}",
+    "timestamp": "2026-01-03T03:46:50.085283"
+  },
+  {
+    "problem_index": 969,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 1800,
+    "correct_answer": 1800,
+    "is_correct": true,
+    "raw_output": "I need to figure out how much John paid for phones for himself, his 2 kids, and his wife (4 people total).\n\nLet me break this down step by step:\n\n**Step 1: Identify how many phones are needed**\n- John: 1 phone\n- His 2 kids: 2 phones  \n- His wife: 1 phone\n- Total: 4 phones\n\n**Step 2: Understand the pricing structure**\n- Regular price per phone: $600\n- First 2 phones: full price ($600 each)\n- Each phone after the first 2: half price ($600 ÷ 2 = $300 each)\n\n**Step 3: Calculate the cost**\n- First 2 phones: 2 × $600 = $1,200\n- Remaining phones: 4 - 2 = 2 phones at half price\n- Half-price phones: 2 × $300 = $600\n\n**Step 4: Find the total cost**\nTotal cost = Cost of first 2 phones + Cost of remaining phones\nTotal cost = $1,200 + $600 = $1,800\n\nTherefore, John paid $1,800 for all the phones.\n\n{\"final\": 1800}",
+    "timestamp": "2026-01-03T03:46:59.404072"
+  },
+  {
+    "problem_index": 975,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "I need to find how many more cherries Robert has than Jerry.\n\nLet me start by identifying what I know:\n- Total cherries to share: 60\n- Robert has: 30 cherries\n- Robert has 10 more than Richard\n\nStep 1: Find how many cherries Richard has.\nIf Robert has 10 more than Richard, and Robert has 30:\nRichard's cherries = Robert's cherries - 10\nRichard's cherries = 30 - 10 = 20\n\nStep 2: Find how many cherries Jerry has.\nSince all three share 60 cherries total:\nJerry's cherries = Total - Robert's - Richard's\nJerry's cherries = 60 - 30 - 20 = 10\n\nStep 3: Find how many more cherries Robert has than Jerry.\nDifference = Robert's cherries - Jerry's cherries\nDifference = 30 - 10 = 20\n\nLet me verify: Robert (30) + Richard (20) + Jerry (10) = 60 ✓\n\nTherefore, Robert has 20 more cherries than Jerry.\n\n{\"final\": 20}",
+    "timestamp": "2026-01-03T03:47:08.510863"
+  },
+  {
+    "problem_index": 977,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 4,
+    "correct_answer": 4,
+    "is_correct": true,
+    "raw_output": "I need to find how many bottles of sunscreen Pamela needs for her vacation.\n\nLet me break this down step by step:\n\n**Step 1: Calculate sunscreen usage per day**\n- Pamela uses 1 ounce per hour\n- She's outside 4 hours per day\n- Daily usage = 1 ounce/hour × 4 hours = 4 ounces per day\n\n**Step 2: Calculate total sunscreen needed for the vacation**\n- She'll be on vacation for 8 days\n- Daily usage = 4 ounces\n- Total usage = 4 ounces/day × 8 days = 32 ounces\n\n**Step 3: Calculate how many bottles she needs**\n- Each bottle contains 8 ounces\n- Total needed = 32 ounces\n- Number of bottles = 32 ounces ÷ 8 ounces/bottle = 4 bottles\n\nTherefore, Pamela needs to pack 4 bottles of sunscreen.\n\n{\"final\": 4}",
+    "timestamp": "2026-01-03T03:47:17.583459"
+  },
+  {
+    "problem_index": 989,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 45,
+    "correct_answer": 45,
+    "is_correct": true,
+    "raw_output": "I need to find how long it takes Emily to peel and cook 90 shrimp.\n\nLet me break this down into two parts: peeling time and cooking time.\n\n**Step 1: Calculate peeling time**\n- Emily can peel 6 shrimp per minute\n- She needs to peel 90 shrimp\n- Peeling time = 90 shrimp ÷ 6 shrimp per minute = 15 minutes\n\n**Step 2: Calculate cooking time**\n- Emily can sauté 30 shrimp in 10 minutes\n- She needs to cook 90 shrimp\n- Since 90 ÷ 30 = 3, she needs to cook 3 batches of 30 shrimp each\n- Cooking time = 3 batches × 10 minutes per batch = 30 minutes\n\n**Step 3: Calculate total time**\nSince Emily needs to peel the shrimp before cooking them, these are sequential tasks:\n- Total time = Peeling time + Cooking time\n- Total time = 15 minutes + 30 minutes = 45 minutes\n\n{\"final\": 45}",
+    "timestamp": "2026-01-03T03:47:26.162145"
+  },
+  {
+    "problem_index": 998,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate the total number of cookies brought to the wedding**\n- Number of guests: 100\n- Cookies per guest: 15\n- Total cookies = 100 × 15 = 1,500 cookies\n\n**Step 2: Calculate how many cookies were given to the church**\n- The bride gave 1/2 of the cookies to the church\n- Cookies given to church = 1/2 × 1,500 = 750 cookies\n\n**Step 3: Calculate how many people were in the church**\n- Each person in the church got 15 cookies\n- Number of people in church = Total cookies given ÷ Cookies per person\n- Number of people in church = 750 ÷ 15 = 50 people\n\nTherefore, there were 50 people in the church next door.\n\n{\"final\": 50}",
+    "timestamp": "2026-01-03T03:47:34.209303"
+  },
+  {
+    "problem_index": 1008,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "I need to find how many miles each person traveled, then find the difference.\n\nStep 1: Calculate Matteo's distance.\nDistance = Speed × Time\nMatteo's distance = 55 mph × 4 hours = 220 miles\n\nStep 2: Calculate Shandy's distance.\nShandy's distance = 45 mph × 10 hours = 450 miles\n\nStep 3: Find the difference.\nDifference = Shandy's distance - Matteo's distance\nDifference = 450 miles - 220 miles = 230 miles\n\nTherefore, Shandy drove 230 miles farther than Matteo.\n\n{\"final\": 230}",
+    "timestamp": "2026-01-03T03:47:40.301891"
+  },
+  {
+    "problem_index": 1019,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 98,
+    "correct_answer": 98,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step, tracking the number of guests at each stage.\n\n**Initial situation:**\n- Hotel starts with 100 guests (completely booked)\n\n**Morning checkouts:**\n- 24 guests had early checkout\n- 15 guests had late checkout\n- Total guests who checked out: 24 + 15 = 39 guests\n- Guests remaining: 100 - 39 = 61 guests\n\n**Afternoon check-ins:**\n- \"Twice as many people checked in as those who opted for a late checkout\"\n- Late checkout guests = 15\n- Afternoon check-ins = 2 × 15 = 30 guests\n- Guests after afternoon check-ins: 61 + 30 = 91 guests\n\n**Evening check-ins:**\n- 7 more people checked in after dinner\n- Final number of guests: 91 + 7 = 98 guests\n\n**Verification:**\n- Started with: 100 guests\n- Checked out: 39 guests\n- Checked in during afternoon: 30 guests\n- Checked in after dinner: 7 guests\n- Final count: 100 - 39 + 30 + 7 = 98 guests\n\n{\"final\": 98}",
+    "timestamp": "2026-01-03T03:47:49.264567"
+  },
+  {
+    "problem_index": 1023,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 77,
+    "correct_answer": 77,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of sandwiches the family eats in one week.\n\nLet me break this down step by step:\n\n**Step 1: Find how many sandwiches each person eats per day**\n- Man: 5 sandwiches per day\n- Wife: 4 sandwiches per day\n- Son: 2 sandwiches per day\n\n**Step 2: Find the total sandwiches the family eats per day**\nTotal per day = 5 + 4 + 2 = 11 sandwiches per day\n\n**Step 3: Calculate how many sandwiches they eat in one week**\nSince there are 7 days in a week:\nTotal per week = 11 sandwiches per day × 7 days = 77 sandwiches\n\n**Verification:**\n- Man in one week: 5 × 7 = 35 sandwiches\n- Wife in one week: 4 × 7 = 28 sandwiches\n- Son in one week: 2 × 7 = 14 sandwiches\n- Total: 35 + 28 + 14 = 77 sandwiches ✓\n\n{\"final\": 77}",
+    "timestamp": "2026-01-03T03:47:56.409253"
+  },
+  {
+    "problem_index": 1026,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 43200,
+    "correct_answer": 43200,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find how much ore one dwarf can mine with different tools**\n\nWith bare hands: 12 pounds per day\n\nWith iron pickaxe: twice as much as bare hands\n- Iron pickaxe = 2 × 12 = 24 pounds per day\n\nWith steel pickaxe: 50% more than iron pickaxe\n- Steel pickaxe = 24 + (50% of 24)\n- Steel pickaxe = 24 + (0.5 × 24)\n- Steel pickaxe = 24 + 12 = 36 pounds per day\n\n**Step 2: Calculate how much ore 40 dwarves with steel pickaxes can mine per day**\n\n40 dwarves × 36 pounds per dwarf per day = 1,440 pounds per day\n\n**Step 3: Calculate how much ore they can mine in 30 days**\n\n1,440 pounds per day × 30 days = 43,200 pounds\n\nTherefore, 40 dwarves with steel pickaxes can mine 43,200 pounds of ore in a month with 30 days.\n\n{\"final\": 43200}",
+    "timestamp": "2026-01-03T03:48:05.668826"
+  },
+  {
+    "problem_index": 1035,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 35,
+    "correct_answer": 35,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nFirst, let me figure out how many bottles Richard will place on his driveway.\n\nGiven information:\n- Driveway is 24 feet wide\n- He places a bottle every 3 feet\n- It takes 5 seconds to go from one bottle to the next\n\nStep 1: Calculate the number of bottles.\nIf he places a bottle every 3 feet on a 24-foot driveway:\nNumber of bottles = 24 ÷ 3 = 8 bottles\n\nStep 2: Determine the number of movements between bottles.\nIf there are 8 bottles, Richard needs to move from:\n- Bottle 1 to Bottle 2\n- Bottle 2 to Bottle 3\n- Bottle 3 to Bottle 4\n- Bottle 4 to Bottle 5\n- Bottle 5 to Bottle 6\n- Bottle 6 to Bottle 7\n- Bottle 7 to Bottle 8\n\nThis means he makes 7 movements between bottles (which is 8 - 1 = 7).\n\nStep 3: Calculate the total time.\nSince each movement takes 5 seconds:\nTotal time = 7 movements × 5 seconds per movement = 35 seconds\n\nTherefore, it will take Richard 35 seconds total to set off all the soda fountains.\n\n{\"final\": 35}",
+    "timestamp": "2026-01-03T03:48:15.745355"
+  },
+  {
+    "problem_index": 1036,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 10,
+    "correct_answer": 10,
+    "is_correct": true,
+    "raw_output": "I need to find how many packs of apples Uncle Franky can make.\n\nLet me solve this step by step:\n\nStep 1: Find the total number of apples.\n- There are 40 apples in one box\n- Uncle Franky ordered 2 boxes\n- Total apples = 40 × 2 = 80 apples\n\nStep 2: Find how many packs can be made.\n- Each pack contains 8 apples\n- Number of packs = Total apples ÷ Apples per pack\n- Number of packs = 80 ÷ 8 = 10 packs\n\nTherefore, Uncle Franky can make 10 packs of apples.\n\n{\"final\": 10}",
+    "timestamp": "2026-01-03T03:48:23.059454"
+  },
+  {
+    "problem_index": 1046,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 47,
+    "correct_answer": 189,
+    "is_correct": false,
+    "raw_output": "I need to find how many hours each painter worked.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the total number of days worked**\n- They worked for 3 weeks\n- 3 weeks = 3 × 7 days = 21 days\n\n**Step 2: Calculate hours worked per day**\n- They worked 3/8 of a day each day\n- 1 day = 24 hours\n- Hours per day = (3/8) × 24 = 72/8 = 9 hours per day\n\n**Step 3: Calculate total hours worked by the team**\n- Total team hours = 21 days × 9 hours per day = 189 hours\n\n**Step 4: Calculate hours worked by each painter**\n- There are 4 painters working together\n- Each painter worked the same amount of time\n- Hours per painter = 189 hours ÷ 4 painters = 47.25 hours\n\nTherefore, each painter put in 47.25 hours of work.\n\n{\"final\": 47.25}",
+    "timestamp": "2026-01-03T03:48:30.206723"
+  },
+  {
+    "problem_index": 1049,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "I need to find the number of Spanish books in the library.\n\nGiven information:\n- Total books = 50\n- Half are in English\n- 10% are in German\n- The rest are in Spanish\n\nStep 1: Calculate the number of English books.\nEnglish books = Half of 50 = 50 ÷ 2 = 25 books\n\nStep 2: Calculate the number of German books.\nGerman books = 10% of 50 = 0.10 × 50 = 5 books\n\nStep 3: Calculate the number of Spanish books.\nSpanish books = Total books - English books - German books\nSpanish books = 50 - 25 - 5 = 20 books\n\nStep 4: Verify the answer.\nEnglish books: 25\nGerman books: 5\nSpanish books: 20\nTotal: 25 + 5 + 20 = 50 ✓\n\nTherefore, there are 20 Spanish books in the library.\n\n{\"final\": 20}",
+    "timestamp": "2026-01-03T03:48:40.863158"
+  },
+  {
+    "problem_index": 1057,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 24,
+    "correct_answer": 24,
+    "is_correct": true,
+    "raw_output": "I need to find how many movies Jill and her friends watch in 4 weeks.\n\nLet me break this down step by step:\n\n**Step 1: Find how many movies they watch on Saturday**\n- They watch 4 movies every Saturday\n\n**Step 2: Find how many movies they watch on Sunday**\n- They watch half the number of movies on Sunday than on Saturday\n- Sunday movies = 4 ÷ 2 = 2 movies\n\n**Step 3: Find how many movies they watch per weekend**\n- Saturday: 4 movies\n- Sunday: 2 movies\n- Total per weekend = 4 + 2 = 6 movies\n\n**Step 4: Find how many movies they watch in 4 weeks**\n- They watch movies every weekend\n- 4 weeks = 4 weekends\n- Total movies in 4 weeks = 6 movies per weekend × 4 weekends = 24 movies\n\nTherefore, Jill and her friends can watch 24 movies in 4 weeks.\n\n{\"final\": 24}",
+    "timestamp": "2026-01-03T03:48:47.566435"
+  },
+  {
+    "problem_index": 1058,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 250,
+    "correct_answer": 250,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of stickers Leo has in his collection by tracking his stickers over the years.\n\nLet me work through this step by step:\n\n**Step 1: Identify what Leo had two years ago**\nTwo years ago: 100 stickers\n\n**Step 2: Calculate what he collected last year**\nLast year he collected: 50 stickers\n\n**Step 3: Calculate what he collected this year**\nThis year he collected twice the number as last year\nThis year: 2 × 50 = 100 stickers\n\n**Step 4: Calculate his total collection**\nTotal stickers = Starting amount + Last year's collection + This year's collection\nTotal stickers = 100 + 50 + 100 = 250 stickers\n\nTherefore, Leo has 250 stickers in his collection.\n\n{\"final\": 250}",
+    "timestamp": "2026-01-03T03:48:55.459110"
+  },
+  {
+    "problem_index": 1069,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 300,
+    "correct_answer": 300,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find the initial number of trucks and total fertilizer**\n- Number of trucks dispatched: 20 trucks\n- Fertilizer per truck: 20 tons\n- Total fertilizer dispatched: 20 trucks × 20 tons = 400 tons\n\n**Step 2: Find how many trucks had mechanical failures**\n- A quarter of the trucks had mechanical failures\n- Number of trucks with failures: 1/4 × 20 = 5 trucks\n\n**Step 3: Find how many trucks successfully delivered**\n- Trucks that successfully delivered: 20 - 5 = 15 trucks\n\n**Step 4: Calculate total fertilizer that reached the farmers**\n- Each successful truck carried 20 tons\n- Total fertilizer delivered: 15 trucks × 20 tons = 300 tons\n\nTherefore, 300 tons of fertilizer reached the farmers that day.\n\n{\"final\": 300}",
+    "timestamp": "2026-01-03T03:49:02.803046"
+  },
+  {
+    "problem_index": 1071,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 257,
+    "correct_answer": 251,
+    "is_correct": false,
+    "raw_output": "I need to find the total cost of Kayla's birthday party at the movie theater.\n\nLet me break this down step by step:\n\n**Step 1: Calculate the total number of people invited**\n- Classmates: 25\n- Dance class girls: 7\n- Family members: 13\n- Kayla herself: 1\nTotal invited = 25 + 7 + 13 + 1 = 46 people\n\n**Step 2: Calculate how many people will actually attend**\n- Total invited: 46 people\n- People who can't come: 4\n- People attending = 46 - 4 = 42 people\n\n**Step 3: Calculate the cost**\nThe theater charges:\n- $125 for a party of 20 people\n- $6 for each additional guest beyond 20\n\nSince 42 people are attending:\n- Additional guests beyond 20 = 42 - 20 = 22 additional guests\n- Cost for additional guests = 22 × $6 = $132\n- Total cost = Base fee + Additional guest fee = $125 + $132 = $257\n\nTherefore, the party will cost $257.\n\n{\"final\": 257}",
+    "timestamp": "2026-01-03T03:49:11.937884"
+  },
+  {
+    "problem_index": 1080,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 72000,
+    "correct_answer": 72000,
+    "is_correct": true,
+    "raw_output": "I need to solve this step by step.\n\nGiven information:\n- Each spring creates 1 jellyfish every second\n- There are 5 springs working at the same rate\n- Time period is 4 hours\n\nStep 1: Convert 4 hours to seconds.\n4 hours = 4 × 60 minutes = 240 minutes\n240 minutes = 240 × 60 seconds = 14,400 seconds\n\nStep 2: Calculate how many jellyfish one spring creates in 4 hours.\nSince one spring creates 1 jellyfish per second:\n1 spring × 14,400 seconds = 14,400 jellyfish\n\nStep 3: Calculate how many jellyfish 5 springs create in 4 hours.\n5 springs × 14,400 jellyfish per spring = 72,000 jellyfish\n\nTherefore, 5 springs working at the same rate would create 72,000 jellyfish in 4 hours.\n\n{\"final\": 72000}",
+    "timestamp": "2026-01-03T03:49:20.072668"
+  },
+  {
+    "problem_index": 1088,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "I need to find the total hours John spends learning per week.\n\nLet me break this down step by step:\n\n**Step 1: Calculate daily class time**\n- Normal students have 6 periods\n- John has 2 extra classes\n- Total classes per day = 6 + 2 = 8 classes\n- Each class is 40 minutes long\n- Daily class time = 8 × 40 = 320 minutes\n\n**Step 2: Calculate weekday learning time**\n- John goes to class 5 days a week\n- Weekly class time = 320 × 5 = 1,600 minutes\n\n**Step 3: Calculate weekend learning time**\n- On Saturday and Sunday, he spends 1/16 of his weekly minutes each day\n- Weekend learning per day = 1,600 × (1/16) = 100 minutes\n- Total weekend learning = 100 + 100 = 200 minutes\n\n**Step 4: Calculate total weekly learning time**\n- Total weekly minutes = 1,600 + 200 = 1,800 minutes\n\n**Step 5: Convert to hours**\n- Total weekly hours = 1,800 ÷ 60 = 30 hours\n\n{\"final\": 30}",
+    "timestamp": "2026-01-03T03:49:29.004862"
+  },
+  {
+    "problem_index": 1093,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 144,
+    "correct_answer": 144,
+    "is_correct": true,
+    "raw_output": "I need to find the total cost to paint the room by calculating the total wall area and determining how much paint is needed.\n\nStep 1: Calculate the area of each wall.\n\nNorth wall: 10 × 8 = 80 square feet\nSouth wall: 10 × 8 = 80 square feet\nEast wall: 5 × 8 = 40 square feet\nWest wall: 5 × 8 = 40 square feet\n\nStep 2: Calculate the total wall area.\n\nTotal area = 80 + 80 + 40 + 40 = 240 square feet\n\nStep 3: Determine how many gallons of paint are needed.\n\nEach gallon covers 20 square feet\nGallons needed = 240 ÷ 20 = 12 gallons\n\nStep 4: Calculate the total cost.\n\nEach gallon costs $12\nTotal cost = 12 gallons × $12 = $144\n\n{\"final\": 144}",
+    "timestamp": "2026-01-03T03:49:36.848750"
+  },
+  {
+    "problem_index": 1102,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 113,
+    "correct_answer": 113,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step to find Sheila's new credit card balance.\n\n**Step 1: Start with initial charge**\nInitial charge: $85.00\n\n**Step 2: Account for the return**\nShe returned an item worth $15.00\nBalance after return: $85.00 - $15.00 = $70.00\n\n**Step 3: Calculate the cost of the frying pan**\nOriginal price of frying pan: $20.00\nDiscount: 20% off\nDiscount amount: $20.00 × 0.20 = $4.00\nSale price of frying pan: $20.00 - $4.00 = $16.00\n\n**Step 4: Calculate the cost of the towels**\nOriginal price of towels: $30.00\nDiscount: 10% off\nDiscount amount: $30.00 × 0.10 = $3.00\nSale price of towels: $30.00 - $3.00 = $27.00\n\n**Step 5: Add the new purchases to the balance**\nBalance before new purchases: $70.00\nCost of frying pan: $16.00\nCost of towels: $27.00\nNew balance: $70.00 + $16.00 + $27.00 = $113.00\n\n{\"final\": 113}",
+    "timestamp": "2026-01-03T03:49:46.545138"
+  },
+  {
+    "problem_index": 1109,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 3,
+    "correct_answer": 3,
+    "is_correct": true,
+    "raw_output": "I need to find the average height of heels at the cocktail party.\n\nGiven information:\n- 3 women are wearing 4-inch heels\n- 3 women are wearing 2-inch heels\n\nStep 1: Calculate the total height of all heels.\n- Height from 4-inch heels: 3 women × 4 inches = 12 inches\n- Height from 2-inch heels: 3 women × 2 inches = 6 inches\n- Total height: 12 inches + 6 inches = 18 inches\n\nStep 2: Calculate the total number of women.\n- Total women: 3 + 3 = 6 women\n\nStep 3: Calculate the average heel height.\n- Average = Total height ÷ Total number of women\n- Average = 18 inches ÷ 6 women = 3 inches\n\n{\"final\": 3}",
+    "timestamp": "2026-01-03T03:49:54.092650"
+  },
+  {
+    "problem_index": 1117,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 9,
+    "correct_answer": 9,
+    "is_correct": true,
+    "raw_output": "I need to find how long it takes for the lighthouse to blink 459 times.\n\nFirst, let me find the rate at which the lighthouse blinks.\n\nGiven information:\n- The lighthouse blinks 255 times in 5 minutes\n- I need to find how long it takes to blink 459 times\n\nStep 1: Find the rate of blinking (blinks per minute).\nRate = 255 blinks ÷ 5 minutes = 51 blinks per minute\n\nStep 2: Use the rate to find how long it takes for 459 blinks.\nTime = Number of blinks ÷ Rate\nTime = 459 blinks ÷ 51 blinks per minute\nTime = 9 minutes\n\nLet me verify this answer:\n- Rate: 51 blinks per minute\n- In 9 minutes: 51 × 9 = 459 blinks ✓\n\nTherefore, it will take 9 minutes for the light to blink 459 times.\n\n{\"final\": 9}",
+    "timestamp": "2026-01-03T03:50:03.252425"
+  },
+  {
+    "problem_index": 1132,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 45000,
+    "correct_answer": 45000,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Find Valerie's brother's salary**\n- Valerie earns $5000 per month\n- This is 1/2 of what her brother earns\n- If $5000 = 1/2 × brother's salary\n- Then brother's salary = $5000 × 2 = $10,000 per month\n\n**Step 2: Find their combined salary**\n- Valerie's salary: $5,000\n- Brother's salary: $10,000\n- Combined salary = $5,000 + $10,000 = $15,000\n\n**Step 3: Find their mother's salary**\n- Mother earns twice their combined salary\n- Mother's salary = 2 × $15,000 = $30,000 per month\n\n**Step 4: Find the total amount they all have together**\n- Valerie: $5,000\n- Brother: $10,000\n- Mother: $30,000\n- Total = $5,000 + $10,000 + $30,000 = $45,000\n\n{\"final\": 45000}",
+    "timestamp": "2026-01-03T03:50:10.583109"
+  },
+  {
+    "problem_index": 1147,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 22,
+    "correct_answer": 22,
+    "is_correct": true,
+    "raw_output": "I need to find how many days it will take Lauren to complete all the picture scenes.\n\nLet me break this down by calculating how many days each type of scene will take:\n\n**Large-sized picture scenes:**\n- She needs to create: 45 large-sized scenes\n- She can draw: 5 large-sized scenes per day\n- Days needed: 45 ÷ 5 = 9 days\n\n**Medium-sized picture scenes:**\n- She needs to create: 36 medium-sized scenes\n- She can draw: 6 medium-sized scenes per day\n- Days needed: 36 ÷ 6 = 6 days\n\n**Small-sized picture scenes:**\n- She needs to create: 49 small-sized scenes\n- She can draw: 7 small-sized scenes per day\n- Days needed: 49 ÷ 7 = 7 days\n\n**Total days needed:**\nSince Lauren can only work on one type of scene at a time, she needs to complete each type sequentially.\n\nTotal days = 9 + 6 + 7 = 22 days\n\n{\"final\": 22}",
+    "timestamp": "2026-01-03T03:50:18.859990"
+  },
+  {
+    "problem_index": 1152,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "I need to find the probability that both lottery tickets are winners.\n\nLet me start by identifying the probability of each ticket winning.\n\n**Step 1: Find the probability of each ticket winning**\n\nFirst ticket: 20% chance of winning = 0.20\n\nSecond ticket: \"three times more likely to win\" than the first ticket\n- This means the second ticket has 3 × 20% = 60% chance of winning = 0.60\n\n**Step 2: Calculate the probability that both tickets win**\n\nSince the lottery tickets are independent events, I multiply their individual probabilities:\n\nP(both tickets win) = P(first ticket wins) × P(second ticket wins)\nP(both tickets win) = 0.20 × 0.60 = 0.12\n\n**Step 3: Convert to percentage**\n\n0.12 = 12%\n\nTherefore, the probability that both tickets are winners is 12%.\n\n{\"final\": 12}",
+    "timestamp": "2026-01-03T03:50:27.712803"
+  },
+  {
+    "problem_index": 1154,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of carrots Mason eats in a week.\n\nLet me break this down by days:\n\n**Weekdays (Monday through Friday):**\n- Number of weekdays = 5 days\n- Carrots per weekday = 4 carrots\n- Total carrots on weekdays = 5 × 4 = 20 carrots\n\n**Weekend (Saturday and Sunday):**\n- Number of weekend days = 2 days\n- Carrots per weekend day = 5 carrots\n- Total carrots on weekend = 2 × 5 = 10 carrots\n\n**Total carrots per week:**\nTotal = Weekday carrots + Weekend carrots\nTotal = 20 + 10 = 30 carrots\n\nTherefore, Mason eats 30 carrots in a week.\n\n{\"final\": 30}",
+    "timestamp": "2026-01-03T03:50:34.566643"
+  },
+  {
+    "problem_index": 1158,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 7300,
+    "correct_answer": 7300,
+    "is_correct": true,
+    "raw_output": "I need to find how many more bottles Hortex needs to produce to satisfy 100% of the daily energy needs of 2300 people.\n\nLet me break this down step by step:\n\n**Step 1: Find how many bottles are needed to satisfy 100% of one person's daily energy needs**\n- Each bottle covers 20% of 1 person's daily energy demand\n- To cover 100% of 1 person's daily energy demand: 100% ÷ 20% = 5 bottles per person\n\n**Step 2: Find total bottles needed for 2300 people**\n- Bottles needed = 2300 people × 5 bottles per person = 11,500 bottles\n\n**Step 3: Find how many more bottles are needed beyond current production**\n- Current daily production = 4,200 bottles\n- Required production = 11,500 bottles\n- Additional bottles needed = 11,500 - 4,200 = 7,300 bottles\n\nTherefore, Hortex would need to produce 7,300 more bottles of juice.\n\n{\"final\": 7300}",
+    "timestamp": "2026-01-03T03:50:42.128992"
+  },
+  {
+    "problem_index": 1159,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 50,
+    "correct_answer": 50,
+    "is_correct": true,
+    "raw_output": "I need to find the percentage chance that a baby wearing a bow is wearing purple.\n\nLet me start by setting up the problem with the given information.\n\n**Step 1: Determine the number of babies in each color**\n- Total babies: 8 (octuplets)\n- Purple wearers: 3/4 × 8 = 6 babies\n- Blue wearers: 1/4 × 8 = 2 babies\n\n**Step 2: Determine how many babies wear bows**\n- All blue wearers wear bows: 2 babies\n- 1/3 of purple wearers wear bows: 1/3 × 6 = 2 babies\n- Total babies wearing bows: 2 + 2 = 4 babies\n\n**Step 3: Determine how many bow-wearing babies are wearing purple**\n- Purple babies wearing bows: 2 babies (from Step 2)\n\n**Step 4: Calculate the percentage**\n- Babies wearing bows and purple: 2\n- Total babies wearing bows: 4\n- Percentage = (2/4) × 100% = 50%\n\nTherefore, there is a 50% chance that a baby wearing a bow is wearing purple.\n\n{\"final\": 50}",
+    "timestamp": "2026-01-03T03:50:51.464702"
+  },
+  {
+    "problem_index": 1161,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 140,
+    "correct_answer": 170,
+    "is_correct": false,
+    "raw_output": "I need to solve this step by step to find out how much money Abraham earned from selling all his land.\n\n**Step 1: Determine the initial amount of land**\nAbraham starts with 80 square meters of unused land.\n\n**Step 2: Calculate the first sale**\nHe sold half of the land for $50.\n- Amount sold: 80 ÷ 2 = 40 square meters\n- Money earned: $50\n- Remaining land: 80 - 40 = 40 square meters\n\n**Step 3: Calculate the second sale**\nHe sold another 1/4 of his original land for $30.\n- Amount sold: 80 × 1/4 = 20 square meters\n- Money earned: $30\n- Remaining land: 40 - 20 = 20 square meters\n\n**Step 4: Calculate the third sale**\nHe sold the remaining land for $3 per square meter.\n- Amount sold: 20 square meters\n- Money earned: 20 × $3 = $60\n\n**Step 5: Calculate total earnings**\nTotal money earned = $50 + $30 + $60 = $140\n\n**Verification:**\n- First sale: 40 sq m for $50\n- Second sale: 20 sq m for $30\n- Third sale: 20 sq m for $60\n- Total land sold: 40 + 20 + 20 = 80 sq m ✓\n- Total earnings: $50 + $30 + $60 = $140\n\n{\"final\": 140}",
+    "timestamp": "2026-01-03T03:51:00.998976"
+  },
+  {
+    "problem_index": 1168,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "I need to find the length of the red rope. Let me define variables and set up equations based on the given information.\n\nLet me define:\n- B = length of blue rope (in cm)\n- Y = length of yellow rope (in cm)  \n- R = length of red rope (in cm)\n\nNow I'll translate the given information into equations:\n\n1) \"The red rope was four times the length of the blue rope\"\n   R = 4B\n\n2) \"The blue rope was 7 centimeters shorter than the yellow rope\"\n   B = Y - 7, which means Y = B + 7\n\n3) \"The 3 ropes had a combined length of 37 centimeters\"\n   R + B + Y = 37\n\nNow I'll substitute to solve for B:\n\nFrom equations (1) and (2), I can substitute into equation (3):\n4B + B + (B + 7) = 37\n\nSimplifying:\n4B + B + B + 7 = 37\n6B + 7 = 37\n6B = 30\nB = 5\n\nNow I can find the other lengths:\n- Blue rope: B = 5 cm\n- Yellow rope: Y = B + 7 = 5 + 7 = 12 cm\n- Red rope: R = 4B = 4(5) = 20 cm\n\nLet me verify: 20 + 5 + 12 = 37 ✓\n\nTherefore, the length of the red rope is 20 centimeters.\n\n{\"final\": 20}",
+    "timestamp": "2026-01-03T03:51:10.997335"
+  },
+  {
+    "problem_index": 1175,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 16,
+    "correct_answer": 16,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**First Half:**\n- Team A scores: 4 goals\n- Team B scores 2 goals fewer than team A: 4 - 2 = 2 goals\n\n**Second Half:**\n- Team B scores 4 times the number of goals it scored in the first half: 4 × 2 = 8 goals\n- Team A scores 1/4 of the number of goals scored by team B in the second half: 1/4 × 8 = 2 goals\n\n**Total Goals:**\n- Team A total: 4 (first half) + 2 (second half) = 6 goals\n- Team B total: 2 (first half) + 8 (second half) = 10 goals\n- Total goals in the match: 6 + 10 = 16 goals\n\n{\"final\": 16}",
+    "timestamp": "2026-01-03T03:51:19.245245"
+  },
+  {
+    "problem_index": 1177,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 17,
+    "correct_answer": 17,
+    "is_correct": true,
+    "raw_output": "I need to find how many students are not on varsity in Miss Albert's class.\n\nLet me start by identifying what I know:\n- Total boys: 12\n- Total girls: 12\n- Total students: 12 + 12 = 24\n\nNow I'll find how many students ARE on varsity:\n\nGirls on varsity:\n- One-third of the girls are on varsity\n- 1/3 × 12 = 4 girls on varsity\n\nBoys on varsity:\n- One-fourth of the boys are on varsity\n- 1/4 × 12 = 3 boys on varsity\n\nTotal students on varsity:\n- 4 girls + 3 boys = 7 students on varsity\n\nStudents NOT on varsity:\n- Total students - Students on varsity\n- 24 - 7 = 17 students not on varsity\n\nLet me verify this:\n- Girls not on varsity: 12 - 4 = 8 girls\n- Boys not on varsity: 12 - 3 = 9 boys\n- Total not on varsity: 8 + 9 = 17 students ✓\n\n{\"final\": 17}",
+    "timestamp": "2026-01-03T03:51:28.348239"
+  },
+  {
+    "problem_index": 1202,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 19,
+    "correct_answer": 19,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate Amy's initial eyeshadow colors**\n\nAmy started with:\n- 2 eyeshadow palettes × 4 colors each = 8 colors\n- 3 makeup sets × 6 eyeshadow colors each = 18 colors\n- Total initial colors = 8 + 18 = 26 colors\n\n**Step 2: Account for the stolen palette**\n\nHer sister steals one palette:\n- Colors lost = 1 palette × 4 colors = 4 colors\n- Colors remaining = 26 - 4 = 22 colors\n\n**Step 3: Account for the used colors**\n\nAmy uses up half the colors from one makeup set:\n- Colors used = 6 colors ÷ 2 = 3 colors\n- Colors remaining = 22 - 3 = 19 colors\n\n**Final calculation:**\nAmy has 19 eyeshadow colors left.\n\n{\"final\": 19}",
+    "timestamp": "2026-01-03T03:51:35.887663"
+  },
+  {
+    "problem_index": 1206,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 40000,
+    "correct_answer": 40000,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate the loan amount**\n- House value: $250,000\n- Loan is 40% of house value\n- Loan amount = $250,000 × 0.40 = $100,000\n\n**Step 2: Calculate how much he used to pay off debts**\n- He uses 60% of the loan to pay off debts\n- Amount used for debts = $100,000 × 0.60 = $60,000\n\n**Step 3: Calculate the leftover amount**\n- Leftover = Total loan - Amount used for debts\n- Leftover = $100,000 - $60,000 = $40,000\n\nTherefore, John had $40,000 leftover after paying his debts.\n\n{\"final\": 40000}",
+    "timestamp": "2026-01-03T03:51:44.340654"
+  },
+  {
+    "problem_index": 1214,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 5,
+    "correct_answer": 5,
+    "is_correct": true,
+    "raw_output": "I need to find how many diapers Jordan changes per day.\n\nLet me break this down step by step:\n\nStep 1: Calculate the total number of diaper changes needed per day.\n- Jordan has 2 children\n- Each child requires 5 diaper changes per day\n- Total diaper changes = 2 children × 5 changes per child = 10 diaper changes per day\n\nStep 2: Determine how many diapers Jordan's wife changes.\n- Jordan's wife changes half of the diapers\n- Wife's diaper changes = 10 ÷ 2 = 5 diaper changes per day\n\nStep 3: Calculate how many diapers Jordan changes.\n- Jordan changes the remaining diapers\n- Jordan's diaper changes = Total diaper changes - Wife's diaper changes\n- Jordan's diaper changes = 10 - 5 = 5 diaper changes per day\n\nTherefore, Jordan changes 5 diapers per day.\n\n{\"final\": 5}",
+    "timestamp": "2026-01-03T03:51:51.958299"
+  },
+  {
+    "problem_index": 1216,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 20,
+    "correct_answer": 20,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Initial passengers**\nThe bus started with 20 people.\n\n**Step 2: First stop**\n40 people entered the bus.\nTotal passengers after first stop = 20 + 40 = 60 people\n\n**Step 3: Second station**\n3/4 of the people who entered at the first station entered the bus.\nPeople who entered at first station = 40\nPeople entering at second station = 3/4 × 40 = 30 people\nTotal passengers after second station = 60 + 30 = 90 people\n\n**Step 4: Third station**\nThe number of passengers doubled at the third station.\nThis means the total number of passengers became twice what it was before the third station.\nPassengers after third station = 2 × 90 = 180 people\n\n**Step 5: Calculate remaining spaces**\nBus capacity = 200 people\nCurrent passengers = 180 people\nRemaining spaces = 200 - 180 = 20 people\n\nTherefore, 20 more people are required to fill the remaining spaces on the bus.\n\n{\"final\": 20}",
+    "timestamp": "2026-01-03T03:52:00.156058"
+  },
+  {
+    "problem_index": 1229,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "I need to find the final price of the toy after the price changes in December and January.\n\nLet me work through this step by step:\n\n**Step 1: Find the price in December after the 80% increase**\n- Original price in November: $40\n- Increase of 80% means the price becomes 100% + 80% = 180% of the original price\n- December price = $40 × 1.80 = $72\n\n**Step 2: Find the price in January after the 50% decrease**\n- Price in December: $72\n- Decrease of 50% means the price becomes 100% - 50% = 50% of the December price\n- January price = $72 × 0.50 = $36\n\n**Step 3: Verify the calculation**\n- November: $40\n- December: $40 × 1.80 = $72\n- January: $72 × 0.50 = $36\n\nTherefore, the price of the toy after it was discounted in January was $36.\n\n{\"final\": 36}",
+    "timestamp": "2026-01-03T03:52:08.930150"
+  },
+  {
+    "problem_index": 1234,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "I need to find how many novels Regina wrote this year, given that 9 novels (last year) represents 3/4 of this year's novels.\n\nLet me set up the problem:\n- Let x = number of novels Regina wrote this year\n- 9 novels = 3/4 of x novels\n\nSetting up the equation:\n9 = (3/4) × x\n\nTo solve for x, I'll multiply both sides by 4/3:\n9 × (4/3) = x\n\nCalculating:\n9 × (4/3) = (9 × 4)/3 = 36/3 = 12\n\nLet me verify this answer:\n- If Regina wrote 12 novels this year\n- 3/4 of 12 = (3/4) × 12 = 36/4 = 9 ✓\n\nThis matches the given information that she wrote 9 novels last year.\n\n{\"final\": 12}",
+    "timestamp": "2026-01-03T03:52:18.320945"
+  },
+  {
+    "problem_index": 1236,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 84,
+    "correct_answer": 84,
+    "is_correct": true,
+    "raw_output": "I need to work backwards from the information given to find the total number of grapes at the beginning.\n\nLet me identify what I know:\n- Madeline ate 6 grapes\n- Her brother used 5 times as many grapes as Madeline for juice\n- Their mother used the remaining grapes to make 4 pies\n- Each pie requires 12 grapes\n\nStep 1: Calculate how many grapes the brother used.\nBrother used 5 times as many as Madeline\nBrother used = 5 × 6 = 30 grapes\n\nStep 2: Calculate how many grapes the mother used for pies.\nMother made 4 pies, each requiring 12 grapes\nMother used = 4 × 12 = 48 grapes\n\nStep 3: Calculate the total number of grapes at the beginning.\nTotal grapes = Grapes Madeline ate + Grapes brother used + Grapes mother used\nTotal grapes = 6 + 30 + 48 = 84 grapes\n\nLet me verify this makes sense:\n- Started with 84 grapes\n- Madeline ate 6, leaving 84 - 6 = 78 grapes\n- Brother used 30, leaving 78 - 30 = 48 grapes\n- Mother used 48 grapes for 4 pies (48 ÷ 12 = 4 pies) ✓\n\n{\"final\": 84}",
+    "timestamp": "2026-01-03T03:52:27.080743"
+  },
+  {
+    "problem_index": 1240,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "I need to find how many books one bookcase can hold, then determine how many bookcases Elly needs for 110 books.\n\nLet me start by finding the capacity of each shelf:\n\n**Middle shelves:**\n- There are 2 middle shelves\n- Each middle shelf holds 10 books\n- Total for middle shelves: 2 × 10 = 20 books\n\n**Bottom shelf:**\n- Holds twice as many books as a middle shelf\n- Bottom shelf capacity: 2 × 10 = 20 books\n\n**Top shelf:**\n- Holds 5 fewer books than the bottom shelf\n- Top shelf capacity: 20 - 5 = 15 books\n\n**Total capacity per bookcase:**\n- Middle shelves: 20 books\n- Bottom shelf: 20 books\n- Top shelf: 15 books\n- Total per bookcase: 20 + 20 + 15 = 55 books\n\n**Number of bookcases needed:**\n- Elly has 110 books total\n- Each bookcase holds 55 books\n- Number of bookcases needed: 110 ÷ 55 = 2 bookcases\n\nLet me verify: 2 bookcases × 55 books per bookcase = 110 books ✓\n\n{\"final\": 2}",
+    "timestamp": "2026-01-03T03:52:35.213418"
+  },
+  {
+    "problem_index": 1249,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 56,
+    "correct_answer": 56,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of candles and flashlights being used.\n\nLet me break this down step by step:\n\n**Flashlights:**\n- There are 4 people in the house\n- Each person gets 1 flashlight: 4 × 1 = 4 flashlights\n- There are 8 rooms in the house\n- Each room gets 2 flashlights: 8 × 2 = 16 flashlights\n- Total flashlights: 4 + 16 = 20 flashlights\n\n**Candles:**\n- There are 8 rooms total\n- Half the rooms (4 rooms) get 4 small candles each: 4 × 4 = 16 small candles\n- The other half of the rooms (4 rooms) get 5 medium candles each: 4 × 5 = 20 medium candles\n- Total candles: 16 + 20 = 36 candles\n\n**Total items:**\n- Total flashlights: 20\n- Total candles: 36\n- Combined total: 20 + 36 = 56\n\n{\"final\": 56}",
+    "timestamp": "2026-01-03T03:52:43.258814"
+  },
+  {
+    "problem_index": 1251,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "I need to find the total time it takes John to solve the Rubik's cube by calculating the time for each side.\n\nLet me break down the time for each side:\n\n**First side:** 5 minutes\n\n**Second side:** Twice as long as the first side\n- 2 × 5 = 10 minutes\n\n**Third side:** Twice as long as the first side\n- 2 × 5 = 10 minutes\n\n**Fourth side:** Half as long as the first side\n- 5 ÷ 2 = 2.5 minutes\n\n**Fifth side:** Half as long as the first side\n- 5 ÷ 2 = 2.5 minutes\n\n**Sixth side:** The problem states \"once you get the 5th side you have all 6 sides,\" which means completing the 5th side automatically completes the 6th side, so no additional time is needed.\n\nNow I'll add up all the times:\n- First side: 5 minutes\n- Second side: 10 minutes\n- Third side: 10 minutes\n- Fourth side: 2.5 minutes\n- Fifth side: 2.5 minutes\n- Sixth side: 0 minutes (automatic completion)\n\nTotal time = 5 + 10 + 10 + 2.5 + 2.5 = 30 minutes\n\n{\"final\": 30}",
+    "timestamp": "2026-01-03T03:52:53.334931"
+  },
+  {
+    "problem_index": 1254,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 30,
+    "correct_answer": 30,
+    "is_correct": true,
+    "raw_output": "I need to find the difference in drying time between the new varnish and old varnish for 6 paintings.\n\nStep 1: Calculate the total drying time with the old varnish for 6 paintings.\n- Old varnish: 7 minutes per painting\n- For 6 paintings: 6 × 7 = 42 minutes\n\nStep 2: Calculate the total drying time with the new varnish for 6 paintings.\n- New varnish: 12 minutes per painting\n- For 6 paintings: 6 × 12 = 72 minutes\n\nStep 3: Find the difference in total drying time.\n- Difference = Time with new varnish - Time with old varnish\n- Difference = 72 - 42 = 30 minutes\n\nTherefore, it will take 30 minutes longer for the coat of varnish on 6 paintings to dry with the new varnish compared to the old varnish.\n\n{\"final\": 30}",
+    "timestamp": "2026-01-03T03:53:00.525450"
+  },
+  {
+    "problem_index": 1258,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 60,
+    "correct_answer": 60,
+    "is_correct": true,
+    "raw_output": "I need to find the total cost of the phone plan with 5 phones.\n\nLet me define the variables:\n- Let x = cost of each additional phone\n- Main phone costs twice as much as each additional phone, so main phone costs 2x\n- There are 5 phones total: 1 main phone + 4 additional phones\n\nGiven information:\n- The main phone plan costs $20\n- So 2x = $20\n\nStep 1: Find the cost of each additional phone.\nIf 2x = $20, then:\nx = $20 ÷ 2 = $10\n\nSo each additional phone costs $10.\n\nStep 2: Calculate the total cost of the phone plan.\n- Main phone: $20\n- Additional phones: 4 phones × $10 each = $40\n- Total cost = $20 + $40 = $60\n\nLet me verify:\n- Main phone: $20 (which is twice the $10 cost of additional phones ✓)\n- 4 additional phones: 4 × $10 = $40\n- Total: $20 + $40 = $60\n\n{\"final\": 60}",
+    "timestamp": "2026-01-03T03:53:08.990464"
+  },
+  {
+    "problem_index": 1262,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 12,
+    "correct_answer": 12,
+    "is_correct": true,
+    "raw_output": "I need to find how long it takes John to speak 10 pages after his speed training.\n\nLet me work through this step by step:\n\n**Step 1: Find John's new speaking speed after training**\n- Normal speaking speed: 150 WPM (words per minute)\n- After training, his speed is 2.5 times faster\n- New speed = 150 × 2.5 = 375 WPM\n\n**Step 2: Calculate the total number of words to speak**\n- Number of pages: 10\n- Words per page: 450\n- Total words = 10 × 450 = 4,500 words\n\n**Step 3: Calculate the time needed**\n- Time = Total words ÷ Speaking speed\n- Time = 4,500 words ÷ 375 WPM\n- Time = 12 minutes\n\nTherefore, it would take John 12 minutes to speak 10 pages at his new trained speed.\n\n{\"final\": 12}",
+    "timestamp": "2026-01-03T03:53:17.593219"
+  },
+  {
+    "problem_index": 1267,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 40,
+    "correct_answer": 40,
+    "is_correct": true,
+    "raw_output": "I need to find the total number of pairs of animal legs on the farm.\n\nLet me break this down step by step:\n\n**Step 1: Calculate legs from 2-legged animals**\n- Number of 2-legged animals: 10\n- Legs per animal: 2\n- Total legs from 2-legged animals: 10 × 2 = 20 legs\n\n**Step 2: Calculate legs from 4-legged animals**\n- Number of 4-legged animals: 15\n- Legs per animal: 4\n- Total legs from 4-legged animals: 15 × 4 = 60 legs\n\n**Step 3: Calculate total legs**\n- Total legs = legs from 2-legged animals + legs from 4-legged animals\n- Total legs = 20 + 60 = 80 legs\n\n**Step 4: Convert legs to pairs**\n- Since each pair contains 2 legs\n- Number of pairs = Total legs ÷ 2\n- Number of pairs = 80 ÷ 2 = 40 pairs\n\nTherefore, there are 40 pairs of animal legs in total on the farm.\n\n{\"final\": 40}",
+    "timestamp": "2026-01-03T03:53:25.710903"
+  },
+  {
+    "problem_index": 1286,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 105,
+    "correct_answer": 105,
+    "is_correct": true,
+    "raw_output": "I need to find the total value of the coins James found.\n\nLet me identify the value of each type of coin:\n- Quarter = 25 cents\n- Nickel = 5 cents  \n- Dime = 10 cents\n\nNow let me calculate the total value:\n\n**Quarter:**\n1 quarter = 1 × 25 cents = 25 cents\n\n**Nickels:**\n2 nickels = 2 × 5 cents = 10 cents\n\n**Dimes:**\n7 dimes = 7 × 10 cents = 70 cents\n\n**Total:**\n25 cents + 10 cents + 70 cents = 105 cents\n\nTherefore, James has 105 cents.\n\n{\"final\": 105}",
+    "timestamp": "2026-01-03T03:53:32.989304"
+  },
+  {
+    "problem_index": 1291,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 27,
+    "correct_answer": 27,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\nGiven information:\n- George has 18 pens\n- Timothy has three times the number of pens that George owns\n- Sarah has half as many pens as Timothy\n\nStep 1: Find how many pens Timothy has.\nTimothy has 3 times George's pens\nTimothy's pens = 3 × George's pens\nTimothy's pens = 3 × 18 = 54 pens\n\nStep 2: Find how many pens Sarah has.\nSarah has half as many pens as Timothy\nSarah's pens = ½ × Timothy's pens\nSarah's pens = ½ × 54 = 27 pens\n\nTherefore, Sarah has 27 pens.\n\n{\"final\": 27}",
+    "timestamp": "2026-01-03T03:53:40.892112"
+  },
+  {
+    "problem_index": 1294,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 36,
+    "correct_answer": 36,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate the cost of T-shirts with the buy one get one 50% off deal**\n\n- Original price of each T-shirt: $8\n- Jake buys 2 T-shirts\n- With \"buy one get one 50% off\":\n  - First T-shirt: full price = $8\n  - Second T-shirt: 50% off = $8 × 0.5 = $4\n- Total cost of T-shirts = $8 + $4 = $12\n\n**Step 2: Calculate the cost of shoes with 40% off**\n\n- Original price of shoes: $40\n- Discount: 40% off\n- Discount amount = $40 × 0.40 = $16\n- Sale price of shoes = $40 - $16 = $24\n\n**Step 3: Calculate total amount spent**\n\n- Cost of T-shirts: $12\n- Cost of shoes: $24\n- Total amount spent = $12 + $24 = $36\n\n{\"final\": 36}",
+    "timestamp": "2026-01-03T03:53:48.553850"
+  },
+  {
+    "problem_index": 1295,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2,
+    "correct_answer": 2,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step.\n\n**Step 1: Calculate Ryan's total allowance**\n- Ryan gets $6 per week for completing chores\n- He did chores for 3 weeks\n- Total allowance = $6 × 3 = $18\n\n**Step 2: Calculate the cost of ice cream cones**\n- Ryan bought ice cream for himself and 3 friends = 4 people total\n- Each ice cream cone costs $1.25\n- Total ice cream cost = 4 × $1.25 = $5.00\n\n**Step 3: Calculate Ryan's remaining money**\n- Money left after ice cream = $18 - $5.00 = $13.00\n\n**Step 4: Calculate how many movie tickets Ryan can buy**\n- Each movie ticket costs $6.50\n- Number of tickets = $13.00 ÷ $6.50 = 2\n\n**Step 5: Verify the calculation**\n- 2 tickets × $6.50 = $13.00 ✓\n- If he tried to buy 3 tickets: 3 × $6.50 = $19.50 (more than his $13.00)\n\nTherefore, Ryan can buy 2 movie tickets.\n\n{\"final\": 2}",
+    "timestamp": "2026-01-03T03:53:58.287836"
+  },
+  {
+    "problem_index": 1301,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 23,
+    "correct_answer": 23,
+    "is_correct": true,
+    "raw_output": "I'll solve this step by step, tracking Randy's cookies through each event.\n\n**Initial cookies:**\n- Oatmeal cookies: 9\n- Chocolate chip cookies: 4\n- Sugar cookies: 5\n- Total: 9 + 4 + 5 = 18 cookies\n\n**After eating 3 cookies for snack (1 of each flavor):**\n- Oatmeal cookies: 9 - 1 = 8\n- Chocolate chip cookies: 4 - 1 = 3\n- Sugar cookies: 5 - 1 = 4\n- Total: 8 + 3 + 4 = 15 cookies\n\n**After eating 2 oatmeal cookies for lunch:**\n- Oatmeal cookies: 8 - 2 = 6\n- Chocolate chip cookies: 3 (no change)\n- Sugar cookies: 4 (no change)\n- Total: 6 + 3 + 4 = 13 cookies\n\n**After giving 2 sugar cookies to friends:**\n- Oatmeal cookies: 6 (no change)\n- Chocolate chip cookies: 3 (no change)\n- Sugar cookies: 4 - 2 = 2\n- Total: 6 + 3 + 2 = 11 cookies\n\n**After baking 4 of each flavor for dinner:**\n- Oatmeal cookies: 6 + 4 = 10\n- Chocolate chip cookies: 3 + 4 = 7\n- Sugar cookies: 2 + 4 = 6\n- Total: 10 + 7 + 6 = 23 cookies\n\n{\"final\": 23}",
+    "timestamp": "2026-01-03T03:54:07.726282"
+  },
+  {
+    "problem_index": 1309,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 2180,
+    "correct_answer": 2280,
+    "is_correct": false,
+    "raw_output": "I need to find the total amount of money raised by all four girls: Kim, Alexandra, Maryam, and Sarah.\n\nLet me identify what each person raised:\n\n**Alexandra:** $430 (given directly)\n\n**Kim:** $320 more than Alexandra\nKim = $430 + $320 = $750\n\n**Sarah:** $300 (given directly)\n\n**Maryam:** $400 more than Sarah\nMaryam = $300 + $400 = $700\n\nNow I'll add up all the amounts:\nTotal = Alexandra + Kim + Sarah + Maryam\nTotal = $430 + $750 + $300 + $700\nTotal = $2,180\n\nLet me verify this calculation:\n$430 + $750 = $1,180\n$300 + $700 = $1,000\n$1,180 + $1,000 = $2,180\n\n{\"final\": 2180}",
+    "timestamp": "2026-01-03T03:54:15.328624"
+  },
+  {
+    "problem_index": 1316,
+    "model": "claude-sonnet-4-20250514",
+    "model_answer": 230,
+    "correct_answer": 230,
+    "is_correct": true,
+    "raw_output": "I need to calculate the total cost Mark paid for the radiator and installation.\n\nStep 1: Calculate the cost of the radiator at the junk shop.\n- Original cost: $400\n- Discount: 80% off\n- Amount he pays: $400 × (1 - 0.80) = $400 × 0.20 = $80\n\nStep 2: Calculate the cost of mechanic installation.\n- Time: 3 hours\n- Rate: $50 per hour\n- Installation cost: 3 × $50 = $150\n\nStep 3: Calculate the total amount Mark paid.\n- Radiator cost: $80\n- Installation cost: $150\n- Total cost: $80 + $150 = $230\n\n{\"final\": 230}",
+    "timestamp": "2026-01-03T03:54:22.534883"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "experiment": "A2_GPT4o_E5_singlestep",
+  "model": "gpt-4o",
+  "date": "20260103",
+  "n_problems": 199,
+  "c": 0.1,
+  "L": 10,
+  "results": {
+    "step1_accuracy": 0.964824120603015,
+    "step10_accuracy": 0.8944723618090452,
+    "difference_pp": -7.0351758793969825
+  },
+  "mcnemar": {
+    "chi2": 12.071428571428571,
+    "p_value": 0.0005120045221899128
+  },
+  "contingency": {
+    "both_correct": 178,
+    "step1_only_correct": 14,
+    "step10_only_correct": 0,
+    "both_wrong": 7,
+    "asymmetry": "14:0"
+  },
+  "comparison_claude": {
+    "step1": 97.0,
+    "step10": 85.9,
+    "difference": -11.099999999999994,
+    "asymmetry": "22:0"
+  }
+}

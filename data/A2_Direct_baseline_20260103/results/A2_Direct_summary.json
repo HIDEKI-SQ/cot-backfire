@@ -1,0 +1,36 @@
+{
+  "experiment": "A2_Direct_baseline",
+  "date": "20260103",
+  "n_problems": 199,
+  "models": [
+    "claude-sonnet-4-20250514",
+    "gpt-4o"
+  ],
+  "results": {
+    "claude": {
+      "model": "claude-sonnet-4-20250514",
+      "accuracy": 0.9597989949748744,
+      "correct": 191,
+      "ci_95": [
+        92.269130297867,
+        97.94911259189975
+      ]
+    },
+    "gpt4o": {
+      "model": "gpt-4o",
+      "accuracy": 0.964824120603015,
+      "correct": 192,
+      "ci_95": [
+        92.91841127557207,
+        98.28582333976588
+      ]
+    }
+  },
+  "agreement": {
+    "both_correct": 190,
+    "claude_only": 1,
+    "gpt_only": 2,
+    "both_wrong": 6,
+    "agreement_rate": 0.9849246231155779
+  }
+}

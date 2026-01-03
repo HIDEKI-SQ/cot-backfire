@@ -1,0 +1,28 @@
+{
+  "experiment": "A2_GPT4o_E1b_shuffle",
+  "model": "gpt-4o",
+  "date": "20260103",
+  "n_problems": 199,
+  "c": 0.4,
+  "L": 10,
+  "results": {
+    "original_accuracy": 0.8592964824120602,
+    "shuffled_accuracy": 0.8592964824120602,
+    "shuffle_effect_pp": 0.0
+  },
+  "mcnemar": {
+    "chi2": 0.05,
+    "p_value": 0.8230632737581214
+  },
+  "contingency": {
+    "both_correct": 161,
+    "original_only": 10,
+    "shuffled_only": 10,
+    "both_wrong": 18
+  },
+  "comparison_claude": {
+    "original": 83.9,
+    "shuffled": 91.5,
+    "effect": 7.599999999999994
+  }
+}
