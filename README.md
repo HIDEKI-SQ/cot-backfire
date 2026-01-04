@@ -16,7 +16,11 @@ This repository contains code, data, and materials for three related papers:
 > HIDEKI. "The Capability–Compliance Paradox: Vulnerability to External Guidance Revealed by Language Models." *Preprint* (2025).  
 > DOI: [10.5281/zenodo.18105329](https://doi.org/10.5281/zenodo.18105329)
 
-### Paper A2: Cue-Dominant Extraction
+### Paper A2: Cue-Conditional Length Effects (Main)
+> HIDEKI. "Length Effects in Chain-of-Thought Are Conditional on Explicit Answer-Cue Availability." *Preprint* (2026).  
+> DOI: [10.5281/zenodo.18144101](https://doi.org/10.5281/zenodo.18144101)
+
+### Paper A2-preliminary: Cue-Dominant Extraction (Archived)
 > HIDEKI. "Cue-Dominant Extraction Explains Length Effects in Corrupted Reasoning Traces." *Preprint* (2025).  
 > DOI: [10.5281/zenodo.18132430](https://doi.org/10.5281/zenodo.18132430)
 
@@ -37,11 +41,16 @@ We introduce a **provided-CoT paradigm** that separates reasoning generation fro
 3. **Verification Eliminates CIF**: VERIFY instructions fully restore performance (57.6% → 96.0%)
 4. **Contamination Type Matters**: WRONG traces cause catastrophic failures (GPT-4o: 7.1%)
 
-### A2: Cue-Dominant Extraction
+### A2: Cue-Conditional Length Effects (Main)
+1. **Cue-Conditional Length Law**: Length effects exist only when answer cues are absent; with cues present, accuracy saturates regardless of trace length (∆L ≈ 0 pp)
+2. **Dual-Path Processing Model**: Cue-preferential extraction (fast path) with fallback computation (slow path) when cues are unavailable or unreliable
+3. **Corruption Sensitivity**: Models differ not in extraction ability but in threshold for abandoning extraction—Claude tolerates more corruption than GPT-4o
+4. **Design Implication**: Cue integrity and corruption sensitivity calibration—not trace length—should be primary design targets for trace-consuming systems
+
+### A2-preliminary: Cue-Dominant Extraction (Archived)
 1. **Order Invariance**: Shuffling step order does not reduce accuracy (+7.5%, P=0.001), contradicting sequential integration
 2. **Cue Dominance**: Final-answer cue status explains ~7× more variance than step position (31.7 vs 4.5 pp)
 3. **Two-Stage Processing**: Models extract from cues first, fall back to redundancy when cues are corrupted
-4. **Design Implication**: Cue integrity—not trace length—should be the primary design target
 
 ---
 
@@ -76,26 +85,68 @@ cot-backfire/
 │   │   ├── a3_complete_analysis.json
 │   │   ├── table1_summary.csv
 │   │   └── figures/
-│   ├── E1_shuffle_20260102/              # A2 E1: Shuffle (c=0.6)
+│   │
+│   │   # === A2-preliminary experiments (E1-E5) ===
+│   ├── E1_shuffle_20260102/              # A2-prelim E1: Shuffle (c=0.6)
 │   │   └── results/
-│   ├── E1b_shuffle_c04_20260102/         # A2 E1b: Shuffle (c=0.4)
+│   ├── E1b_shuffle_c04_20260102/         # A2-prelim E1b: Shuffle (c=0.4)
 │   │   └── results/
-│   ├── E2_position_20260102/             # A2 E2: Position
+│   ├── E2_position_20260102/             # A2-prelim E2: Position
 │   │   └── results/
-│   ├── E3_wrong_position_20260102/       # A2 E3: WRONG Position
+│   ├── E3_wrong_position_20260102/       # A2-prelim E3: WRONG Position
 │   │   └── results/
-│   ├── E4_late_protected_20260102/       # A2 E4: Late-Protected (c=0.3)
+│   ├── E4_late_protected_20260102/       # A2-prelim E4: Late-Protected (c=0.3)
 │   │   └── results/
-│   ├── E4prime_late_protected_c04_20260102/  # A2 E4': Late-Protected (c=0.4)
+│   ├── E4prime_late_protected_c04_20260102/  # A2-prelim E4': Late-Protected (c=0.4)
 │   │   └── results/
-│   └── E5_single_step_20260102/          # A2 E5: Single-Step
+│   ├── E5_single_step_20260102/          # A2-prelim E5: Single-Step
+│   │   └── results/
+│   │
+│   │   # === A2 main experiments (E6-E8) ===
+│   ├── trace_generation_L5_L20_20260103/ # A2: Trace generation (L=5,10,15,20)
+│   │   ├── L5_generation_log.json
+│   │   ├── L20_generation_log.json
+│   │   └── generation_summary.json
+│   ├── E6_conflicting_cue_v2_20260103/   # A2 E6: Conflicting-cue (Claude)
+│   │   └── results/
+│   │       ├── E6_conflicting_cue_results.json
+│   │       ├── E6_conflicting_cue_traces.json
+│   │       └── E6_summary.json
+│   ├── A2_GPT4o_E6_v2_20260103/          # A2 E6: Conflicting-cue (GPT-4o)
+│   │   └── results/
+│   │       ├── A2_GPT4o_E6_results.json
+│   │       ├── A2_GPT4o_E6_summary.json
+│   │       └── A2_GPT4o_E6_traces.json
+│   ├── E7_trace_only_v2_20260103/        # A2 E7: Trace-only (Claude)
+│   │   └── results/
+│   │       ├── E7_trace_only_results.json
+│   │       ├── E7_trace_only_traces.json
+│   │       └── E7_summary.json
+│   ├── A2_GPT4o_E7_trace_only_20260103/  # A2 E7: Trace-only (GPT-4o)
+│   │   └── results/
+│   │       ├── A2_GPT4o_E7_results.json
+│   │       ├── A2_GPT4o_E7_summary.json
+│   │       └── A2_GPT4o_E7_traces.json
+│   ├── E8_length_cue_v2_20260103/        # A2 E8: Length × Cue × Corruption (Claude)
+│   │   └── results/
+│   │       ├── E8_length_cue_results.json
+│   │       ├── E8_length_cue_figure.png
+│   │       ├── E8_traces_sample.json
+│   │       └── E8_summary.json
+│   └── E8prime_GPT4o_v2_20260103/        # A2 E8': Cross-model (GPT-4o)
 │       └── results/
+│           ├── E8prime_GPT4o_results.json
+│           └── E8prime_GPT4o_summary.json
+│
 ├── notebooks/
+│   │   # === A0 experiments ===
 │   ├── cot_experiment_full_v3.ipynb      # A0 Exp 1
 │   ├── cot_experiment_kappa_v3.1.ipynb   # A0 Exp 2
 │   ├── cot_experiment_direct_v3.ipynb    # A0 Exp 3
 │   ├── cot_experiment_acrit_v3.ipynb     # A0 Exp 4
 │   ├── experiment_gpt4o.ipynb            # A0 Exp 5
+│   │
+│   │   # === A1 experiments ===
 │   ├── e2_contamination_type.ipynb       # A1 Study 3
 │   ├── e3_verify_ignore.ipynb            # A1 Study 1-2
 │   ├── e4_hard_subset.ipynb              # Extended
@@ -103,16 +154,40 @@ cot-backfire/
 │   ├── a3_scaling_law_gpt_full.ipynb     # A1 Study 4
 │   ├── a3_scaling_law_gpt35_pilot.ipynb  # A1 Study 4 pilot
 │   ├── a3_statistical_analysis.ipynb     # A1 Study 4
-│   ├── E1_shuffle_experiment.ipynb       # A2 E1
-│   ├── E1b_shuffle_c04_experiment.ipynb  # A2 E1b
-│   ├── E2_position_experiment.ipynb      # A2 E2
-│   ├── E3_wrong_position_experiment.ipynb    # A2 E3
-│   ├── E4_late_protected_experiment.ipynb    # A2 E4
-│   ├── E4prime_late_protected_c04_experiment.ipynb  # A2 E4'
-│   ├── E5_single_step_experiment.ipynb   # A2 E5
+│   │
+│   │   # === A2-preliminary experiments (E1-E5) ===
+│   ├── E1_shuffle_experiment.ipynb       # A2-prelim E1
+│   ├── E1b_shuffle_c04_experiment.ipynb  # A2-prelim E1b
+│   ├── E2_position_experiment.ipynb      # A2-prelim E2
+│   ├── E3_wrong_position_experiment.ipynb    # A2-prelim E3
+│   ├── E4_late_protected_experiment.ipynb    # A2-prelim E4
+│   ├── E4prime_late_protected_c04_experiment.ipynb  # A2-prelim E4'
+│   ├── E5_single_step_experiment.ipynb   # A2-prelim E5
+│   │
+│   │   # === A2 main experiments (E6-E8) ===
+│   ├── L5_L20_trace_generation.ipynb     # A2: Trace generation
+│   ├── E6_conflicting_cue_v2_FIXED.ipynb # A2 E6: Conflicting-cue (Claude)
+│   ├── A2_GPT4o_E6_v2_FIXED.ipynb        # A2 E6: Conflicting-cue (GPT-4o)
+│   ├── E7_trace_only_v2_FIXED.ipynb      # A2 E7: Trace-only (Claude)
+│   ├── A2_GPT4o_E7_trace_only.ipynb      # A2 E7: Trace-only (GPT-4o)
+│   ├── E8_length_cue_v2_FIXED.ipynb      # A2 E8: Length × Cue × Corruption (Claude)
+│   ├── E8prime_GPT4o_v2_FIXED.ipynb      # A2 E8': Cross-model (GPT-4o)
+│   │
 │   └── analysis.ipynb                    # Reproduction
+│
 ├── figures/
-│   ├── A2/                               # A2 paper figures
+│   ├── A2/                               # A2 main paper figures
+│   │   ├── fig1_e8_main_result.pdf
+│   │   ├── fig1_e8_main_result.png
+│   │   ├── fig2_e7_trace_only.pdf
+│   │   ├── fig2_e7_trace_only.png
+│   │   ├── fig3_e6_conflicting_cue.pdf
+│   │   ├── fig3_e6_conflicting_cue.png
+│   │   ├── fig4_corruption_sensitivity.pdf
+│   │   ├── fig4_corruption_sensitivity.png
+│   │   ├── fig5_dual_path_model.pdf
+│   │   └── fig5_dual_path_model.png
+│   ├── A2_Preliminary/                   # A2-preliminary paper figures (archived)
 │   │   ├── fig1_experimental_design.pdf
 │   │   ├── fig2_main_results.pdf
 │   │   ├── fig3_order_vs_position.pdf
@@ -120,59 +195,119 @@ cot-backfire/
 │   └── ...
 └── docs/
 ```
-Note: The repository also contains exploratory analyses, pilot experiments, and artifacts
-not directly used in the papers. These are included for transparency and reproducibility.
-
-The figures/ directory contains only figures that appear in the corresponding papers.
-All other plots generated during experimentation are kept in data/ as exploratory artifacts.
 
 ---
 
-## A2 Experiments
+## A2 Experiments (Main)
 
-### E1: Shuffle Effect (c=0.6)
-- **Notebook**: `E1_shuffle_experiment.ipynb`
-- **Data**: `E1_shuffle_20260102/results/`
-- **Design**: 6/10 steps corrupted, step order shuffled vs original
-- **N**: 199 problems × 2 conditions
+### Trace Generation (L=5, 10, 15, 20)
+- **Notebook**: `L5_L20_trace_generation.ipynb`
+- **Data**: `trace_generation_L5_L20_20260103/`
+- **Design**: Generate reasoning traces at four length levels for factorial experiments
+- **N**: 188 problems × 4 lengths
 
-### E1b: Shuffle Effect (c=0.4)
-- **Notebook**: `E1b_shuffle_c04_experiment.ipynb`
-- **Data**: `E1b_shuffle_c04_20260102/results/`
-- **Design**: 4/10 steps corrupted, step order shuffled vs original
-- **N**: 199 problems × 2 conditions
+### E6: Conflicting-Cue Interventions
+- **Notebooks**: `E6_conflicting_cue_v2_FIXED.ipynb` (Claude), `A2_GPT4o_E6_v2_FIXED.ipynb` (GPT-4o)
+- **Data**: `E6_conflicting_cue_v2_20260103/`, `A2_GPT4o_E6_v2_20260103/`
+- **Design**: Test model response when cue and reasoning conflict
+  - Condition A: Wrong cue + clean reasoning
+  - Condition B: Correct cue + corrupted reasoning (c=0.8)
+  - Control: Clean trace with correct cue
+- **N**: 199 problems × 3 conditions × 2 models
 
-### E2: Position Effect
-- **Notebook**: `E2_position_experiment.ipynb`
-- **Data**: `E2_position_20260102/results/`
-- **Design**: Early (steps 1-4) vs Late (steps 7-10) corruption at c=0.4
-- **N**: 199 problems × 2 conditions
+### E7: Trace-Only Extraction Test
+- **Notebooks**: `E7_trace_only_v2_FIXED.ipynb` (Claude), `A2_GPT4o_E7_trace_only.ipynb` (GPT-4o)
+- **Data**: `E7_trace_only_v2_20260103/`, `A2_GPT4o_E7_trace_only_20260103/`
+- **Design**: Test extraction by withholding problem statement
+  - Condition A: Trace + Cue (no problem)
+  - Condition B: Trace only (no problem, no cue)
+  - Condition C: Full context (problem + trace + cue)
+- **N**: 199 problems × 3 conditions × 2 models
 
-### E3: WRONG Position Effect
-- **Notebook**: `E3_wrong_position_experiment.ipynb`
-- **Data**: `E3_wrong_position_20260102/results/`
-- **Design**: WRONG-type only, Early (steps 1-2) vs Late (steps 9-10)
-- **N**: 199 problems × 2 conditions
+### E8: Length × Cue × Corruption Factorial (Claude)
+- **Notebook**: `E8_length_cue_v2_FIXED.ipynb`
+- **Data**: `E8_length_cue_v2_20260103/`
+- **Design**: Full factorial manipulation
+  - Length: L ∈ {5, 10, 15, 20}
+  - Cue: Present vs Absent
+  - Corruption: c ∈ {0.4, 0.8}
+- **N**: 188 problems × 4 lengths × 2 cue × 2 corruption = ~3,008 inferences
 
-### E4: Late-Protected (c=0.3)
-- **Notebook**: `E4_late_protected_experiment.ipynb`
-- **Data**: `E4_late_protected_20260102/results/`
-- **Design**: Steps 7-9 corrupted, Step 10 (cue) protected
-- **N**: 199 problems
+### E8': Cross-Model Replication (GPT-4o)
+- **Notebook**: `E8prime_GPT4o_v2_FIXED.ipynb`
+- **Data**: `E8prime_GPT4o_v2_20260103/`
+- **Design**: Replicate E8 factorial with GPT-4o
+- **N**: 188 problems × 4 lengths × 2 cue × 2 corruption = ~3,008 inferences
 
-### E4': Late-Protected (c=0.4)
-- **Notebook**: `E4prime_late_protected_c04_experiment.ipynb`
-- **Data**: `E4prime_late_protected_c04_20260102/results/`
-- **Design**: Steps 6-9 corrupted, Step 10 (cue) protected, matched c=0.4
-- **N**: 199 problems
+---
+
+## A2 Results Summary (Main)
+
+### E6: Conflicting-Cue Results
+
+| Condition | Claude | GPT-4o | Interpretation |
+|-----------|--------|--------|----------------|
+| A: Wrong cue + clean | 95.5% | 90.5% | Rejects inconsistent cue |
+| B: Correct cue + corrupted | 99.5% | 75.9% | Claude trusts cue; GPT-4o triggers fallback |
+| Cue-following rate (A) | 1.5% | 6.0% | Low = active rejection |
+
+**Finding**: Models are not blind extractors—they assess cue reliability.
+
+### E7: Trace-Only Results
+
+| Condition | Claude | GPT-4o |
+|-----------|--------|--------|
+| A: Trace + Cue (no problem) | 98.5% | 99.5% |
+| B: Trace only (no cue) | 87.4% | 83.4% |
+| C: Full context | 98.5% | 99.5% |
+| **Cue effect** | +11.1 pp | +16.1 pp |
+| **Problem effect** | ~0 pp | ~0 pp |
+
+**Finding**: Problem statement provides no additional benefit—cue extraction dominates.
+
+### E8/E8': Length × Cue Interaction
+
+| Model | Cue Status | c | ∆L (L=20 − L=5) | Pattern |
+|-------|------------|---|-----------------|---------|
+| Claude | Present | 0.4 | −0.5 pp | Flat (ceiling) |
+| Claude | Present | 0.8 | 0.0 pp | Flat (ceiling) |
+| Claude | Absent | 0.4 | +14.4 pp | Strong length effect |
+| Claude | Absent | 0.8 | +16.0 pp | Strong length effect |
+| GPT-4o | Present | 0.8 | +13.8 pp | Residual length effect |
+| GPT-4o | Absent | 0.8 | +15.2 pp | Strong length effect |
+
+**Finding**: Length effects are cue-conditional. GPT-4o shows residual length effect even with cue present due to higher corruption sensitivity.
+
+### Corruption Sensitivity Comparison
+
+| Model | E6-B Accuracy | Interpretation |
+|-------|---------------|----------------|
+| Claude | 99.5% | Low sensitivity (trusts cue despite corruption) |
+| GPT-4o | 75.9% | High sensitivity (triggers fallback) |
+
+**Finding**: Same dual-path architecture, different sensitivity thresholds.
+
+---
+
+## A2-preliminary Experiments (Archived)
+
+These experiments represent the initial exploration that led to the main A2 findings.
+
+### E1/E1b: Shuffle Effect
+- **Design**: Test whether step order matters
+- **Finding**: Shuffling does not reduce accuracy (+7.5% at c=0.4)
+
+### E2/E3: Position Effect
+- **Design**: Early vs late corruption
+- **Finding**: Late corruption is catastrophic (−36.2 pp), but confounded with cue destruction
+
+### E4/E4': Cue Protection
+- **Design**: Corrupt late steps while protecting final-answer cue
+- **Finding**: Cue protection recovers ~87% of accuracy; position effect is only ~13%
 
 ### E5: Single-Step Isolation
-- **Notebook**: `E5_single_step_experiment.ipynb`
-- **Data**: `E5_single_step_20260102/results/`
-- **Design**: Only Step 1 or only Step 10 corrupted (c=0.1)
-- **N**: 199 problems × 2 conditions
-
-**Total A2 Inferences**: 1,990
+- **Design**: Corrupt only Step 1 or only Step 10
+- **Finding**: 22:0 asymmetry—Step 10 (cue) is uniquely important
 
 ---
 
@@ -221,94 +356,6 @@ All other plots generated during experimentation are kept in data/ as explorator
 ### Experiment 5: Cross-model (GPT-4o)
 - **Notebook**: `experiment_gpt4o.ipynb`
 - **Inferences**: 1,393
-
----
-
-## A2 Results Summary
-
-### Order Disruption (E1, E1b)
-
-| Condition | c | Original | Shuffled | Δ | P |
-|-----------|---|----------|----------|---|---|
-| E1 | 0.6 | 73.9% | 78.9% | +5.0 pp | 0.08 |
-| E1b | 0.4 | 83.9% | 91.5% | +7.5 pp | 0.001 |
-
-**Finding**: Shuffling does not reduce accuracy; at c=0.4 it significantly improves accuracy.
-
-### Position Effect (E2, E3)
-
-| Experiment | Early | Late | Δ | P |
-|------------|-------|------|---|---|
-| E2 (c=0.4) | 96.5% | 60.3% | -36.2 pp | <0.0001 |
-| E3 (WRONG) | 96.0% | 60.8% | -35.2 pp | <0.0001 |
-
-**Finding**: Late corruption is catastrophic—but confounded with cue destruction.
-
-### Cue Protection (E4, E4')
-
-| Condition | Accuracy | vs E2-Late | vs E2-Early |
-|-----------|----------|------------|-------------|
-| E4 (c=0.3) | 94.5% | +34.2 pp | -2.0 pp |
-| E4' (c=0.4) | 92.0% | +31.7 pp | -4.5 pp |
-
-**Finding**: Protecting the cue recovers ~87% of accuracy; position effect is only ~13%.
-
-### Effect Decomposition (at c=0.4)
-
-| Component | Effect Size | % of Total |
-|-----------|-------------|------------|
-| Cue Effect | 31.7 pp | ~87% |
-| Position Effect | 4.5 pp | ~13% |
-
-**Finding**: Cue status explains ~7× more variance than step position.
-
-### Single-Step Isolation (E5)
-
-| Condition | Accuracy | Δ vs Step1 |
-|-----------|----------|------------|
-| Step1-Only | 97.0% | — |
-| Step10-Only | 85.9% | -11.1 pp*** |
-
-**Finding**: 22 problems failed only when Step 10 corrupted; 0 showed reverse pattern (22:0 asymmetry).
-
----
-
-## A1 Results Summary
-
-### Study 1: Transition Patterns (N=99, λ=0.8)
-
-| Model | DIRECT | USE | CIF | Recovery | Asymmetry |
-|-------|--------|-----|-----|----------|-----------|
-| Claude 4 Sonnet | 96.0% | 57.6% | 38 (40.0%) | 0 (0%) | 38:0*** |
-| GPT-4o | 60.6% | 56.6% | 19 (31.7%) | 15 (38.5%) | 19:15 ns |
-| Claude 3.5 Haiku | 44.4% | 89.9% | 5 (11.4%) | 50 (90.9%) | 5:50*** |
-
-### Study 2: Instruction Gating (N=99, λ=0.8)
-
-| Model | DIRECT | USE | VERIFY | IGNORE |
-|-------|--------|-----|--------|--------|
-| Claude 4 Sonnet | 96.0% | 57.6% | 96.0% | 94.9% |
-| GPT-4o | 60.6% | 56.6% | 90.9% | 65.7% |
-| Claude 3.5 Haiku | 44.4% | 89.9% | 87.9% | 92.9% |
-
-### Study 3: Contamination Type (N=198, λ=1.0)
-
-| Model | Baseline | IRR | LOC | WRONG |
-|-------|----------|-----|-----|-------|
-| Claude 4 Sonnet | 92.5% | 93.4% | 89.4% | 91.9% |
-| Claude 3.5 Haiku | 46.7% | 86.4% | 77.8% | 31.3% |
-| GPT-4o | 56.3% | 56.1% | 42.9% | 7.1% |
-
-### Study 4: Capability-Compliance Paradox (N=199)
-
-| Model | Baseline | Harm Ratio |
-|-------|----------|------------|
-| Claude 4 Sonnet | 92.5% | 40.8% |
-| GPT-4o | 56.3% | 4.8% |
-| Claude 3.5 Haiku | 46.7% | 0% |
-| GPT-3.5 Turbo | 34.7% | 9.5% |
-| Claude 3 Haiku | 32.2% | 6.4% |
-| GPT-4o-mini | 30.7% | 3.3% |
 
 ---
 
@@ -370,13 +417,24 @@ tqdm
 }
 ```
 
-### A2: Cue-Dominant Extraction
+### A2: Cue-Conditional Length Effects (Main)
 ```bibtex
 @article{hideki2026cue,
-  title={Cue-Dominant Extraction Explains Length Effects in Corrupted Reasoning Traces},
+  title={Length Effects in Chain-of-Thought Are Conditional on Explicit Answer-Cue Availability},
   author={HIDEKI},
   journal={Preprint},
   year={2026},
+  doi={10.5281/zenodo.18144101}
+}
+```
+
+### A2-preliminary: Cue-Dominant Extraction (Archived)
+```bibtex
+@article{hideki2025extraction,
+  title={Cue-Dominant Extraction Explains Length Effects in Corrupted Reasoning Traces},
+  author={HIDEKI},
+  journal={Preprint},
+  year={2025},
   doi={10.5281/zenodo.18132430}
 }
 ```
@@ -404,4 +462,5 @@ AI writing assistants were used for manuscript preparation.
 - **v1.0.0** (2025-12-24): Initial release (A0)
 - **v1.0.A1** (2025-12-30): Added A1 experiments (E2, E3, A3)
 - **v1.1.A1** (2025-12-31): Updated A1 title to "The Capability–Compliance Paradox"
-- **v1.0.A2** (2026-01-02): Added A2 experiments (E1-E5, E4') and figures
+- **v1.0.A2** (2026-01-02): Added A2-preliminary experiments (E1-E5)
+- **v1.1.A2** (2026-01-04): Added A2 main experiments (E6-E8) and updated paper to "Length Effects Are Cue-Conditional"
