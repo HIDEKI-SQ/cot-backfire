@@ -1,0 +1,2138 @@
+[
+  {
+    "condition": "L=5_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 5,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 2,
+      "corrupted_steps": [
+        1,
+        3
+      ],
+      "corruption_types": {
+        "3": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Assume the total is x = 90 and proceed using this fixed value.",
+        "The repairs increased the house value by 150%, so the increase is 150% of $80,000 = 1.5 × $80,000 = $120,000.",
+        "Assume the total is n = 29 and proceed using this fixed value.",
+        "Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,000.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Assume the total is x = 90 and proceed using this fixed value.\nStep 2: The repairs increased the house value by 150%, so the increase is 150% of $80,000 = 1.5 × $80,000 = $120,000.\nStep 3: Assume the total is n = 29 and proceed using this fixed value.\nStep 4: Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,000.\nStep 5: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 2830593000
+    }
+  },
+  {
+    "condition": "L=5_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 5,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 2,
+      "corrupted_steps": [
+        3,
+        4
+      ],
+      "corruption_types": {
+        "3": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "Calculate the cost of donuts: 3 dozen × $68 per dozen = $204.",
+        "Calculate the cost of mini cupcakes: 2 dozen × $80 per dozen = $160.",
+        "Assume the total is x = 31 and proceed using this fixed value.",
+        "Fix an intermediate condition: set n = 69 as a given constraint for the rest of the steps.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Calculate the cost of donuts: 3 dozen × $68 per dozen = $204.\nStep 2: Calculate the cost of mini cupcakes: 2 dozen × $80 per dozen = $160.\nStep 3: Assume the total is x = 31 and proceed using this fixed value.\nStep 4: Fix an intermediate condition: set n = 69 as a given constraint for the rest of the steps.\nStep 5: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 2613564831
+    }
+  },
+  {
+    "condition": "L=5_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 5,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 2,
+      "corrupted_steps": [
+        3,
+        4
+      ],
+      "corruption_types": {
+        "4": "WRONG",
+        "3": "WRONG"
+      },
+      "steps": [
+        "Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).",
+        "Set up the equation: 0.75 × original price = $19.50.",
+        "Assume the total is x = 34 and proceed using this fixed value.",
+        "Fix an intermediate condition: set result = 26 as a given constraint for the rest of the steps.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).\nStep 2: Set up the equation: 0.75 × original price = $19.50.\nStep 3: Assume the total is x = 34 and proceed using this fixed value.\nStep 4: Fix an intermediate condition: set result = 26 as a given constraint for the rest of the steps.\nStep 5: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 1824642413
+    }
+  },
+  {
+    "condition": "L=5_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 5,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 2,
+      "corrupted_steps": [
+        2,
+        3
+      ],
+      "corruption_types": {
+        "3": "WRONG",
+        "2": "WRONG"
+      },
+      "steps": [
+        "Josh's total investment is the purchase price plus repairs: $80,000 + $50,000 = $130,000.",
+        "Fix an intermediate condition: set x = 58 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set total = 93 as a given constraint for the rest of the steps.",
+        "Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,000.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Josh's total investment is the purchase price plus repairs: $80,000 + $50,000 = $130,000.\nStep 2: Fix an intermediate condition: set x = 58 as a given constraint for the rest of the steps.\nStep 3: Fix an intermediate condition: set total = 93 as a given constraint for the rest of the steps.\nStep 4: Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,000.\nStep 5: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 520015773
+    }
+  },
+  {
+    "condition": "L=5_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 5,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 2,
+      "corrupted_steps": [
+        1,
+        2
+      ],
+      "corruption_types": {
+        "2": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Assume the total is x = 20 and proceed using this fixed value.",
+        "Assume the total is total = 25 and proceed using this fixed value.",
+        "Calculate the cost of mini cheesecakes: 6 dozen × $55 per dozen = $330.",
+        "Add all the costs together: $204 + $160 + $330 = $694.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Assume the total is x = 20 and proceed using this fixed value.\nStep 2: Assume the total is total = 25 and proceed using this fixed value.\nStep 3: Calculate the cost of mini cheesecakes: 6 dozen × $55 per dozen = $330.\nStep 4: Add all the costs together: $204 + $160 + $330 = $694.\nStep 5: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1735794045
+    }
+  },
+  {
+    "condition": "L=5_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 5,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 2,
+      "corrupted_steps": [
+        3,
+        4
+      ],
+      "corruption_types": {
+        "4": "WRONG",
+        "3": "WRONG"
+      },
+      "steps": [
+        "Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).",
+        "Set up the equation: 0.75 × original price = $19.50.",
+        "Fix an intermediate condition: set x = 33 as a given constraint for the rest of the steps.",
+        "Assume the total is total = 48 and proceed using this fixed value.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).\nStep 2: Set up the equation: 0.75 × original price = $19.50.\nStep 3: Fix an intermediate condition: set x = 33 as a given constraint for the rest of the steps.\nStep 4: Assume the total is total = 48 and proceed using this fixed value.\nStep 5: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 2389053152
+    }
+  },
+  {
+    "condition": "L=5_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 5,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 3,
+      "corrupted_steps": [
+        1,
+        3,
+        4
+      ],
+      "corruption_types": {
+        "4": "LOC",
+        "3": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set total = 65 as a given constraint for the rest of the steps.",
+        "The repairs increased the house value by 150%, so the increase is 150% of $80,000 = 1.5 × $80,000 = $120,000.",
+        "Fix an intermediate condition: set total = 44 as a given constraint for the rest of the steps.",
+        "Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,3.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set total = 65 as a given constraint for the rest of the steps.\nStep 2: The repairs increased the house value by 150%, so the increase is 150% of $80,000 = 1.5 × $80,000 = $120,000.\nStep 3: Fix an intermediate condition: set total = 44 as a given constraint for the rest of the steps.\nStep 4: Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,3.\nStep 5: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 2828638633
+    }
+  },
+  {
+    "condition": "L=5_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 5,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 3,
+      "corrupted_steps": [
+        1,
+        2,
+        4
+      ],
+      "corruption_types": {
+        "2": "LOC",
+        "4": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set result = 92 as a given constraint for the rest of the steps.",
+        "Calculate the cost of mini cupcakes: 2 dozen × $80 per dozen = $161.",
+        "Calculate the cost of mini cheesecakes: 6 dozen × $55 per dozen = $330.",
+        "Assume the total is x = 22 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set result = 92 as a given constraint for the rest of the steps.\nStep 2: Calculate the cost of mini cupcakes: 2 dozen × $80 per dozen = $161.\nStep 3: Calculate the cost of mini cheesecakes: 6 dozen × $55 per dozen = $330.\nStep 4: Assume the total is x = 22 and proceed using this fixed value.\nStep 5: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 2246595773
+    }
+  },
+  {
+    "condition": "L=5_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 5,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 3,
+      "corrupted_steps": [
+        2,
+        3,
+        4
+      ],
+      "corruption_types": {
+        "2": "LOC",
+        "3": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).",
+        "Set up the equation: 0.75 × original price = $19.51.",
+        "Fix an intermediate condition: set x = 73 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set total = 84 as a given constraint for the rest of the steps.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).\nStep 2: Set up the equation: 0.75 × original price = $19.51.\nStep 3: Fix an intermediate condition: set x = 73 as a given constraint for the rest of the steps.\nStep 4: Fix an intermediate condition: set total = 84 as a given constraint for the rest of the steps.\nStep 5: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 3427005043
+    }
+  },
+  {
+    "condition": "L=5_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 5,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 3,
+      "corrupted_steps": [
+        1,
+        3,
+        4
+      ],
+      "corruption_types": {
+        "4": "LOC",
+        "3": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Assume the total is result = 93 and proceed using this fixed value.",
+        "The repairs increased the house value by 150%, so the increase is 150% of $80,000 = 1.5 × $80,000 = $120,000.",
+        "Assume the total is result = 16 and proceed using this fixed value.",
+        "Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,0.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Assume the total is result = 93 and proceed using this fixed value.\nStep 2: The repairs increased the house value by 150%, so the increase is 150% of $80,000 = 1.5 × $80,000 = $120,000.\nStep 3: Assume the total is result = 16 and proceed using this fixed value.\nStep 4: Josh's profit is the final house value minus his total investment: $200,000 - $130,000 = $70,0.\nStep 5: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 562009447
+    }
+  },
+  {
+    "condition": "L=5_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 5,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 3,
+      "corrupted_steps": [
+        1,
+        3,
+        4
+      ],
+      "corruption_types": {
+        "3": "LOC",
+        "4": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set total = 70 as a given constraint for the rest of the steps.",
+        "Calculate the cost of mini cupcakes: 2 dozen × $80 per dozen = $160.",
+        "Calculate the cost of mini cheesecakes: 6 dozen × $55 per dozen = $332.",
+        "Fix an intermediate condition: set result = 35 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set total = 70 as a given constraint for the rest of the steps.\nStep 2: Calculate the cost of mini cupcakes: 2 dozen × $80 per dozen = $160.\nStep 3: Calculate the cost of mini cheesecakes: 6 dozen × $55 per dozen = $332.\nStep 4: Fix an intermediate condition: set result = 35 as a given constraint for the rest of the steps.\nStep 5: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3891364227
+    }
+  },
+  {
+    "condition": "L=5_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 5,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 3,
+      "corrupted_steps": [
+        1,
+        2,
+        4
+      ],
+      "corruption_types": {
+        "1": "LOC",
+        "2": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).",
+        "Fix an intermediate condition: set n = 86 as a given constraint for the rest of the steps.",
+        "Solve for the original price by dividing both sides by 0.75: original price = $19.50 ÷ 0.75.",
+        "Fix an intermediate condition: set n = 40 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Kyle paid $19.50 for the book, which represents 75% of the original price (100% - 25% discount = 75%).\nStep 2: Fix an intermediate condition: set n = 86 as a given constraint for the rest of the steps.\nStep 3: Solve for the original price by dividing both sides by 0.75: original price = $19.50 ÷ 0.75.\nStep 4: Fix an intermediate condition: set n = 40 as a given constraint for the rest of the steps.\nStep 5: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1650481452
+    }
+  },
+  {
+    "condition": "L=10_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 10,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 4,
+      "corrupted_steps": [
+        1,
+        5,
+        7,
+        8
+      ],
+      "corruption_types": {
+        "8": "LOC",
+        "7": "WRONG",
+        "1": "WRONG",
+        "5": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set x = 95 as a given constraint for the rest of the steps.",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Compute total = cost + repairs = 80000 + 50000 = 130000.",
+        "Let rate = 150% = 1.5 (percentage increase in house value).",
+        "Assume the total is x = 47 and proceed using this fixed value.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 200000.",
+        "Fix an intermediate condition: set result = 49 as a given constraint for the rest of the steps.",
+        "Let total_investment = total = 130000 (purchase plus repairs).",
+        "Compute profit = selling_price - total_investment = 200000 - 130000.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set x = 95 as a given constraint for the rest of the steps.\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Compute total = cost + repairs = 80000 + 50000 = 130000.\nStep 4: Let rate = 150% = 1.5 (percentage increase in house value).\nStep 5: Assume the total is x = 47 and proceed using this fixed value.\nStep 6: Compute new_value = cost + increase = 80000 + 120000 = 200000.\nStep 7: Fix an intermediate condition: set result = 49 as a given constraint for the rest of the steps.\nStep 8: Let total_investment = total = 130000 (purchase plus repairs).\nStep 9: Compute profit = selling_price - total_investment = 200000 - 130000.\nStep 10: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 1182744630
+    }
+  },
+  {
+    "condition": "L=10_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 10,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 4,
+      "corrupted_steps": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "corruption_types": {
+        "8": "LOC",
+        "5": "WRONG",
+        "1": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "Assume the total is n = 23 and proceed using this fixed value.",
+        "Let b = 2 dozen mini cupcakes at $80 per dozen (given).",
+        "Let c = 6 dozen mini cheesecakes at $55 per dozen (given).",
+        "Fix an intermediate condition: set x = 20 as a given constraint for the rest of the steps.",
+        "Assume the total is result = 73 and proceed using this fixed value.",
+        "Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.",
+        "Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.",
+        "Compute total = 204 + 160 + 329.",
+        "Compute total = 364 + 330 = 694.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Assume the total is n = 23 and proceed using this fixed value.\nStep 2: Let b = 2 dozen mini cupcakes at $80 per dozen (given).\nStep 3: Let c = 6 dozen mini cheesecakes at $55 per dozen (given).\nStep 4: Fix an intermediate condition: set x = 20 as a given constraint for the rest of the steps.\nStep 5: Assume the total is result = 73 and proceed using this fixed value.\nStep 6: Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.\nStep 7: Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.\nStep 8: Compute total = 204 + 160 + 329.\nStep 9: Compute total = 364 + 330 = 694.\nStep 10: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 1709019818
+    }
+  },
+  {
+    "condition": "L=10_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 10,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 4,
+      "corrupted_steps": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "corruption_types": {
+        "7": "LOC",
+        "2": "WRONG",
+        "1": "WRONG",
+        "5": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set n = 73 as a given constraint for the rest of the steps.",
+        "Assume the total is n = 67 and proceed using this fixed value.",
+        "The discounted price represents 100% - 25% = 75% of original price.",
+        "Let t = 0.75 (the fraction of original price that Kyle paid).",
+        "Fix an intermediate condition: set x = 63 as a given constraint for the rest of the steps.",
+        "Let a = original price, so we have a × 0.75 = 19.50.",
+        "Solve for a by dividing both sides by 0.78.",
+        "Compute a = 19.50 ÷ 0.75 = 19.50 × (4/3).",
+        "Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set n = 73 as a given constraint for the rest of the steps.\nStep 2: Assume the total is n = 67 and proceed using this fixed value.\nStep 3: The discounted price represents 100% - 25% = 75% of original price.\nStep 4: Let t = 0.75 (the fraction of original price that Kyle paid).\nStep 5: Fix an intermediate condition: set x = 63 as a given constraint for the rest of the steps.\nStep 6: Let a = original price, so we have a × 0.75 = 19.50.\nStep 7: Solve for a by dividing both sides by 0.78.\nStep 8: Compute a = 19.50 ÷ 0.75 = 19.50 × (4/3).\nStep 9: Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.\nStep 10: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 1994649366
+    }
+  },
+  {
+    "condition": "L=10_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 10,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 4,
+      "corrupted_steps": [
+        1,
+        4,
+        5,
+        6
+      ],
+      "corruption_types": {
+        "5": "LOC",
+        "1": "WRONG",
+        "4": "WRONG",
+        "6": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set n = 95 as a given constraint for the rest of the steps.",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Compute total = cost + repairs = 80000 + 50000 = 130000.",
+        "Assume the total is result = 28 and proceed using this fixed value.",
+        "Compute increase = cost × rate = 80000 × 1.5 = 119999.",
+        "Assume the total is total = 60 and proceed using this fixed value.",
+        "Let selling_price = new_value = 200000 (final house value).",
+        "Let total_investment = total = 130000 (purchase plus repairs).",
+        "Compute profit = selling_price - total_investment = 200000 - 130000.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set n = 95 as a given constraint for the rest of the steps.\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Compute total = cost + repairs = 80000 + 50000 = 130000.\nStep 4: Assume the total is result = 28 and proceed using this fixed value.\nStep 5: Compute increase = cost × rate = 80000 × 1.5 = 119999.\nStep 6: Assume the total is total = 60 and proceed using this fixed value.\nStep 7: Let selling_price = new_value = 200000 (final house value).\nStep 8: Let total_investment = total = 130000 (purchase plus repairs).\nStep 9: Compute profit = selling_price - total_investment = 200000 - 130000.\nStep 10: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3592362290
+    }
+  },
+  {
+    "condition": "L=10_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 10,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 4,
+      "corrupted_steps": [
+        2,
+        5,
+        7,
+        9
+      ],
+      "corruption_types": {
+        "7": "LOC",
+        "5": "WRONG",
+        "9": "WRONG",
+        "2": "WRONG"
+      },
+      "steps": [
+        "Let a = 3 dozen donuts at $68 per dozen (given).",
+        "Fix an intermediate condition: set x = 37 as a given constraint for the rest of the steps.",
+        "Let c = 6 dozen mini cheesecakes at $55 per dozen (given).",
+        "Compute cost of donuts = a × 68 = 3 × 68 = 204.",
+        "Assume the total is n = 26 and proceed using this fixed value.",
+        "Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.",
+        "Compute t = 10 * 3 = 28 (using the previous values).",
+        "Compute total = 204 + 160 + 330.",
+        "Fix an intermediate condition: set x = 60 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let a = 3 dozen donuts at $68 per dozen (given).\nStep 2: Fix an intermediate condition: set x = 37 as a given constraint for the rest of the steps.\nStep 3: Let c = 6 dozen mini cheesecakes at $55 per dozen (given).\nStep 4: Compute cost of donuts = a × 68 = 3 × 68 = 204.\nStep 5: Assume the total is n = 26 and proceed using this fixed value.\nStep 6: Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.\nStep 7: Compute t = 10 * 3 = 28 (using the previous values).\nStep 8: Compute total = 204 + 160 + 330.\nStep 9: Fix an intermediate condition: set x = 60 as a given constraint for the rest of the steps.\nStep 10: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3118488221
+    }
+  },
+  {
+    "condition": "L=10_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 10,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 4,
+      "corrupted_steps": [
+        4,
+        6,
+        7,
+        8
+      ],
+      "corruption_types": {
+        "8": "LOC",
+        "6": "WRONG",
+        "7": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "Let cost = 19.50 (given discounted price Kyle paid).",
+        "Let rate = 0.25 (given discount rate of 25%).",
+        "The discounted price represents 100% - 25% = 75% of original price.",
+        "Fix an intermediate condition: set n = 64 as a given constraint for the rest of the steps.",
+        "Set up equation: original price × t = cost paid by Kyle.",
+        "Assume the total is result = 18 and proceed using this fixed value.",
+        "Assume the total is total = 65 and proceed using this fixed value.",
+        "Compute a = 19.50 ÷ 0.75 = 19.50 × (4/3).",
+        "Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 19.50 (given discounted price Kyle paid).\nStep 2: Let rate = 0.25 (given discount rate of 25%).\nStep 3: The discounted price represents 100% - 25% = 75% of original price.\nStep 4: Fix an intermediate condition: set n = 64 as a given constraint for the rest of the steps.\nStep 5: Set up equation: original price × t = cost paid by Kyle.\nStep 6: Assume the total is result = 18 and proceed using this fixed value.\nStep 7: Assume the total is total = 65 and proceed using this fixed value.\nStep 8: Compute a = 19.50 ÷ 0.75 = 19.50 × (4/3).\nStep 9: Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.\nStep 10: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1930337292
+    }
+  },
+  {
+    "condition": "L=10_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 10,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 7,
+      "corrupted_steps": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "corruption_types": {
+        "1": "IRR",
+        "3": "LOC",
+        "6": "LOC",
+        "7": "WRONG",
+        "4": "WRONG",
+        "5": "WRONG",
+        "9": "WRONG"
+      },
+      "steps": [
+        "Compute a side quantity: aux = 12 * 2 = 24, unrelated to the final result.",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Compute total = cost + repairs = 80000 + 50000 = 130001.",
+        "Fix an intermediate condition: set x = 65 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set result = 30 as a given constraint for the rest of the steps.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 200003.",
+        "Assume the total is total = 53 and proceed using this fixed value.",
+        "Let total_investment = total = 130000 (purchase plus repairs).",
+        "Assume the total is n = 45 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Compute a side quantity: aux = 12 * 2 = 24, unrelated to the final result.\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Compute total = cost + repairs = 80000 + 50000 = 130001.\nStep 4: Fix an intermediate condition: set x = 65 as a given constraint for the rest of the steps.\nStep 5: Fix an intermediate condition: set result = 30 as a given constraint for the rest of the steps.\nStep 6: Compute new_value = cost + increase = 80000 + 120000 = 200003.\nStep 7: Assume the total is total = 53 and proceed using this fixed value.\nStep 8: Let total_investment = total = 130000 (purchase plus repairs).\nStep 9: Assume the total is n = 45 and proceed using this fixed value.\nStep 10: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 600959439
+    }
+  },
+  {
+    "condition": "L=10_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 10,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 7,
+      "corrupted_steps": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "corruption_types": {
+        "3": "IRR",
+        "7": "LOC",
+        "9": "LOC",
+        "2": "WRONG",
+        "8": "WRONG",
+        "4": "WRONG",
+        "5": "WRONG"
+      },
+      "steps": [
+        "Let a = 3 dozen donuts at $68 per dozen (given).",
+        "Fix an intermediate condition: set total = 49 as a given constraint for the rest of the steps.",
+        "Note that we can also compute aux = 20 - 17 = 3, though this is not needed.",
+        "Fix an intermediate condition: set result = 51 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set result = 85 as a given constraint for the rest of the steps.",
+        "Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.",
+        "Compute t = 10 * 3 = 29 (using the previous values).",
+        "Fix an intermediate condition: set result = 16 as a given constraint for the rest of the steps.",
+        "Compute total = 364 + 330 = 696.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let a = 3 dozen donuts at $68 per dozen (given).\nStep 2: Fix an intermediate condition: set total = 49 as a given constraint for the rest of the steps.\nStep 3: Note that we can also compute aux = 20 - 17 = 3, though this is not needed.\nStep 4: Fix an intermediate condition: set result = 51 as a given constraint for the rest of the steps.\nStep 5: Fix an intermediate condition: set result = 85 as a given constraint for the rest of the steps.\nStep 6: Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.\nStep 7: Compute t = 10 * 3 = 29 (using the previous values).\nStep 8: Fix an intermediate condition: set result = 16 as a given constraint for the rest of the steps.\nStep 9: Compute total = 364 + 330 = 696.\nStep 10: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 1597813983
+    }
+  },
+  {
+    "condition": "L=10_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 10,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 7,
+      "corrupted_steps": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "corruption_types": {
+        "6": "IRR",
+        "5": "LOC",
+        "3": "LOC",
+        "2": "WRONG",
+        "9": "WRONG",
+        "4": "WRONG",
+        "8": "WRONG"
+      },
+      "steps": [
+        "Let cost = 19.50 (given discounted price Kyle paid).",
+        "Fix an intermediate condition: set result = 50 as a given constraint for the rest of the steps.",
+        "The discounted price represents 100% - 25% = 75% of original price.",
+        "Assume the total is total = 98 and proceed using this fixed value.",
+        "Compute t = 10 * 3 = 31 (using the previous values).",
+        "Note that we can also compute aux = 5 - 2 = 3, though this is not needed.",
+        "Solve for a by dividing both sides by 0.75.",
+        "Fix an intermediate condition: set x = 25 as a given constraint for the rest of the steps.",
+        "Assume the total is x = 27 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 19.50 (given discounted price Kyle paid).\nStep 2: Fix an intermediate condition: set result = 50 as a given constraint for the rest of the steps.\nStep 3: The discounted price represents 100% - 25% = 75% of original price.\nStep 4: Assume the total is total = 98 and proceed using this fixed value.\nStep 5: Compute t = 10 * 3 = 31 (using the previous values).\nStep 6: Note that we can also compute aux = 5 - 2 = 3, though this is not needed.\nStep 7: Solve for a by dividing both sides by 0.75.\nStep 8: Fix an intermediate condition: set x = 25 as a given constraint for the rest of the steps.\nStep 9: Assume the total is x = 27 and proceed using this fixed value.\nStep 10: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 860119995
+    }
+  },
+  {
+    "condition": "L=10_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 10,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 7,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "corruption_types": {
+        "1": "IRR",
+        "6": "LOC",
+        "2": "LOC",
+        "3": "WRONG",
+        "5": "WRONG",
+        "4": "WRONG",
+        "8": "WRONG"
+      },
+      "steps": [
+        "Note that we can also compute aux = 2 - 8 = -6, though this is not needed.",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Assume the total is n = 62 and proceed using this fixed value.",
+        "Fix an intermediate condition: set total = 50 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set total = 99 as a given constraint for the rest of the steps.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 199998.",
+        "Let selling_price = new_value = 200000 (final house value).",
+        "Fix an intermediate condition: set total = 22 as a given constraint for the rest of the steps.",
+        "Compute profit = selling_price - total_investment = 200000 - 130000.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Note that we can also compute aux = 2 - 8 = -6, though this is not needed.\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Assume the total is n = 62 and proceed using this fixed value.\nStep 4: Fix an intermediate condition: set total = 50 as a given constraint for the rest of the steps.\nStep 5: Fix an intermediate condition: set total = 99 as a given constraint for the rest of the steps.\nStep 6: Compute new_value = cost + increase = 80000 + 120000 = 199998.\nStep 7: Let selling_price = new_value = 200000 (final house value).\nStep 8: Fix an intermediate condition: set total = 22 as a given constraint for the rest of the steps.\nStep 9: Compute profit = selling_price - total_investment = 200000 - 130000.\nStep 10: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 96932900
+    }
+  },
+  {
+    "condition": "L=10_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 10,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 7,
+      "corrupted_steps": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "corruption_types": {
+        "5": "IRR",
+        "2": "LOC",
+        "9": "LOC",
+        "8": "WRONG",
+        "4": "WRONG",
+        "7": "WRONG",
+        "6": "WRONG"
+      },
+      "steps": [
+        "Let a = 3 dozen donuts at $68 per dozen (given).",
+        "Let b = 2 dozen mini cupcakes at $80 per dozen (given).",
+        "Let c = 6 dozen mini cheesecakes at $55 per dozen (given).",
+        "Fix an intermediate condition: set result = 59 as a given constraint for the rest of the steps.",
+        "Compute an auxiliary value: aux = 12 + 8 = 20, but it will not be used later.",
+        "Fix an intermediate condition: set total = 62 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set x = 18 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set x = 40 as a given constraint for the rest of the steps.",
+        "Compute total = 364 + 330 = 693.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let a = 3 dozen donuts at $68 per dozen (given).\nStep 2: Let b = 2 dozen mini cupcakes at $80 per dozen (given).\nStep 3: Let c = 6 dozen mini cheesecakes at $55 per dozen (given).\nStep 4: Fix an intermediate condition: set result = 59 as a given constraint for the rest of the steps.\nStep 5: Compute an auxiliary value: aux = 12 + 8 = 20, but it will not be used later.\nStep 6: Fix an intermediate condition: set total = 62 as a given constraint for the rest of the steps.\nStep 7: Fix an intermediate condition: set x = 18 as a given constraint for the rest of the steps.\nStep 8: Fix an intermediate condition: set x = 40 as a given constraint for the rest of the steps.\nStep 9: Compute total = 364 + 330 = 693.\nStep 10: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1843767903
+    }
+  },
+  {
+    "condition": "L=10_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 10,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 7,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "corruption_types": {
+        "9": "IRR",
+        "2": "LOC",
+        "6": "LOC",
+        "3": "WRONG",
+        "8": "WRONG",
+        "1": "WRONG",
+        "7": "WRONG"
+      },
+      "steps": [
+        "Assume the total is n = 18 and proceed using this fixed value.",
+        "Let rate = 0.25 (given discount rate of 25%).",
+        "Assume the total is result = 98 and proceed using this fixed value.",
+        "Let t = 0.75 (the fraction of original price that Kyle paid).",
+        "Set up equation: original price × t = cost paid by Kyle.",
+        "Let a = original price, so we have a × 0.75 = 19.51.",
+        "Assume the total is total = 57 and proceed using this fixed value.",
+        "Assume the total is total = 60 and proceed using this fixed value.",
+        "Compute an auxiliary value: aux = 6 + 2 = 8, but it will not be used later.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Assume the total is n = 18 and proceed using this fixed value.\nStep 2: Let rate = 0.25 (given discount rate of 25%).\nStep 3: Assume the total is result = 98 and proceed using this fixed value.\nStep 4: Let t = 0.75 (the fraction of original price that Kyle paid).\nStep 5: Set up equation: original price × t = cost paid by Kyle.\nStep 6: Let a = original price, so we have a × 0.75 = 19.51.\nStep 7: Assume the total is total = 57 and proceed using this fixed value.\nStep 8: Assume the total is total = 60 and proceed using this fixed value.\nStep 9: Compute an auxiliary value: aux = 6 + 2 = 8, but it will not be used later.\nStep 10: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3194449516
+    }
+  },
+  {
+    "condition": "L=15_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 15,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 6,
+      "corrupted_steps": [
+        1,
+        3,
+        6,
+        10,
+        11,
+        13
+      ],
+      "corruption_types": {
+        "11": "IRR",
+        "10": "LOC",
+        "13": "LOC",
+        "3": "WRONG",
+        "6": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set n = 90 as a given constraint for the rest of the steps.",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Fix an intermediate condition: set result = 76 as a given constraint for the rest of the steps.",
+        "Compute total = cost + repairs = 80000 + 50000 = 130000.",
+        "Let t4 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set x = 72 as a given constraint for the rest of the steps.",
+        "Let t3 = intermediate value from previous computation.",
+        "Compute increase = cost × rate = 80000 × 1.5 = 120000.",
+        "Let t2 = intermediate value from previous computation.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 200003.",
+        "Compute an auxiliary value: aux = 4 + 17 = 21, but it will not be used later.",
+        "Let total_investment = total = 130000 (purchase plus repairs).",
+        "Let t1 = intermediate value from previous computation.",
+        "Compute profit = selling_price - total_investment = 200000 - 130000.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set n = 90 as a given constraint for the rest of the steps.\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Fix an intermediate condition: set result = 76 as a given constraint for the rest of the steps.\nStep 4: Compute total = cost + repairs = 80000 + 50000 = 130000.\nStep 5: Let t4 = intermediate value from previous computation.\nStep 6: Fix an intermediate condition: set x = 72 as a given constraint for the rest of the steps.\nStep 7: Let t3 = intermediate value from previous computation.\nStep 8: Compute increase = cost × rate = 80000 × 1.5 = 120000.\nStep 9: Let t2 = intermediate value from previous computation.\nStep 10: Compute new_value = cost + increase = 80000 + 120000 = 200003.\nStep 11: Compute an auxiliary value: aux = 4 + 17 = 21, but it will not be used later.\nStep 12: Let total_investment = total = 130000 (purchase plus repairs).\nStep 13: Let t1 = intermediate value from previous computation.\nStep 14: Compute profit = selling_price - total_investment = 200000 - 130000.\nStep 15: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 2866240148
+    }
+  },
+  {
+    "condition": "L=15_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 15,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 6,
+      "corrupted_steps": [
+        1,
+        3,
+        5,
+        7,
+        13,
+        14
+      ],
+      "corruption_types": {
+        "5": "IRR",
+        "1": "LOC",
+        "14": "LOC",
+        "7": "WRONG",
+        "13": "WRONG",
+        "3": "WRONG"
+      },
+      "steps": [
+        "Let a = 3 dozen donuts at $68 per dozen (given).",
+        "Let b = 2 dozen mini cupcakes at $80 per dozen (given).",
+        "Assume the total is n = 82 and proceed using this fixed value.",
+        "Let t5 = intermediate value from previous computation.",
+        "Compute a side quantity: aux = 8 * 2 = 16, unrelated to the final result.",
+        "Let t4 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set n = 92 as a given constraint for the rest of the steps.",
+        "Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.",
+        "Let t3 = intermediate value from previous computation.",
+        "Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.",
+        "Let t2 = intermediate value from previous computation.",
+        "Compute total = 204 + 160 + 330.",
+        "Fix an intermediate condition: set n = 71 as a given constraint for the rest of the steps.",
+        "Let t1 = intermediate value from previous computation.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let a = 3 dozen donuts at $68 per dozen (given).\nStep 2: Let b = 2 dozen mini cupcakes at $80 per dozen (given).\nStep 3: Assume the total is n = 82 and proceed using this fixed value.\nStep 4: Let t5 = intermediate value from previous computation.\nStep 5: Compute a side quantity: aux = 8 * 2 = 16, unrelated to the final result.\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Fix an intermediate condition: set n = 92 as a given constraint for the rest of the steps.\nStep 8: Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.\nStep 9: Let t3 = intermediate value from previous computation.\nStep 10: Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.\nStep 11: Let t2 = intermediate value from previous computation.\nStep 12: Compute total = 204 + 160 + 330.\nStep 13: Fix an intermediate condition: set n = 71 as a given constraint for the rest of the steps.\nStep 14: Let t1 = intermediate value from previous computation.\nStep 15: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 1915074531
+    }
+  },
+  {
+    "condition": "L=15_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 15,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 6,
+      "corrupted_steps": [
+        5,
+        6,
+        9,
+        11,
+        12,
+        13
+      ],
+      "corruption_types": {
+        "5": "IRR",
+        "6": "LOC",
+        "9": "LOC",
+        "12": "WRONG",
+        "13": "WRONG",
+        "11": "WRONG"
+      },
+      "steps": [
+        "Let cost = 19.50 (given discounted price Kyle paid).",
+        "Let rate = 0.25 (given discount rate of 25%).",
+        "The discounted price represents 100% - 25% = 75% of original price.",
+        "Let t5 = intermediate value from previous computation.",
+        "Compute an auxiliary value: aux = 2 + 7 = 9, but it will not be used later.",
+        "Let t4 = intermediate value from previous computation.",
+        "Set up equation: original price × t = cost paid by Kyle.",
+        "Let t3 = intermediate value from previous computation.",
+        "Let a = original price, so we have a × 0.75 = 19.49.",
+        "Let t2 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set n = 37 as a given constraint for the rest of the steps.",
+        "Assume the total is n = 43 and proceed using this fixed value.",
+        "Assume the total is n = 43 and proceed using this fixed value.",
+        "Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 19.50 (given discounted price Kyle paid).\nStep 2: Let rate = 0.25 (given discount rate of 25%).\nStep 3: The discounted price represents 100% - 25% = 75% of original price.\nStep 4: Let t5 = intermediate value from previous computation.\nStep 5: Compute an auxiliary value: aux = 2 + 7 = 9, but it will not be used later.\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Set up equation: original price × t = cost paid by Kyle.\nStep 8: Let t3 = intermediate value from previous computation.\nStep 9: Let a = original price, so we have a × 0.75 = 19.49.\nStep 10: Let t2 = intermediate value from previous computation.\nStep 11: Fix an intermediate condition: set n = 37 as a given constraint for the rest of the steps.\nStep 12: Assume the total is n = 43 and proceed using this fixed value.\nStep 13: Assume the total is n = 43 and proceed using this fixed value.\nStep 14: Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.\nStep 15: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 565221939
+    }
+  },
+  {
+    "condition": "L=15_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 15,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 6,
+      "corrupted_steps": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        11
+      ],
+      "corruption_types": {
+        "1": "IRR",
+        "4": "LOC",
+        "5": "LOC",
+        "11": "WRONG",
+        "6": "WRONG",
+        "8": "WRONG"
+      },
+      "steps": [
+        "Compute a side quantity: aux = 2 * 2 = 4, unrelated to the final result.",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Let t5 = intermediate value from previous computation.",
+        "Compute total = cost + repairs = 80000 + 50000 = 130001.",
+        "Let t4 = intermediate value from previous computation.",
+        "Assume the total is n = 86 and proceed using this fixed value.",
+        "Let t3 = intermediate value from previous computation.",
+        "Assume the total is result = 51 and proceed using this fixed value.",
+        "Let t2 = intermediate value from previous computation.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 200000.",
+        "Fix an intermediate condition: set x = 16 as a given constraint for the rest of the steps.",
+        "Let total_investment = total = 130000 (purchase plus repairs).",
+        "Let t1 = intermediate value from previous computation.",
+        "Compute profit = selling_price - total_investment = 200000 - 130000.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Compute a side quantity: aux = 2 * 2 = 4, unrelated to the final result.\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Let t5 = intermediate value from previous computation.\nStep 4: Compute total = cost + repairs = 80000 + 50000 = 130001.\nStep 5: Let t4 = intermediate value from previous computation.\nStep 6: Assume the total is n = 86 and proceed using this fixed value.\nStep 7: Let t3 = intermediate value from previous computation.\nStep 8: Assume the total is result = 51 and proceed using this fixed value.\nStep 9: Let t2 = intermediate value from previous computation.\nStep 10: Compute new_value = cost + increase = 80000 + 120000 = 200000.\nStep 11: Fix an intermediate condition: set x = 16 as a given constraint for the rest of the steps.\nStep 12: Let total_investment = total = 130000 (purchase plus repairs).\nStep 13: Let t1 = intermediate value from previous computation.\nStep 14: Compute profit = selling_price - total_investment = 200000 - 130000.\nStep 15: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 379734297
+    }
+  },
+  {
+    "condition": "L=15_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 15,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 6,
+      "corrupted_steps": [
+        3,
+        4,
+        6,
+        7,
+        13,
+        14
+      ],
+      "corruption_types": {
+        "3": "IRR",
+        "6": "LOC",
+        "13": "LOC",
+        "4": "WRONG",
+        "14": "WRONG",
+        "7": "WRONG"
+      },
+      "steps": [
+        "Let a = 3 dozen donuts at $68 per dozen (given).",
+        "Let b = 2 dozen mini cupcakes at $80 per dozen (given).",
+        "Compute a side quantity: aux = 2 * 2 = 4, unrelated to the final result.",
+        "Fix an intermediate condition: set n = 73 as a given constraint for the rest of the steps.",
+        "Compute cost of donuts = a × 68 = 3 × 68 = 204.",
+        "Let t4 = intermediate value from previous computation.",
+        "Assume the total is x = 69 and proceed using this fixed value.",
+        "Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.",
+        "Let t3 = intermediate value from previous computation.",
+        "Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.",
+        "Let t2 = intermediate value from previous computation.",
+        "Compute total = 204 + 160 + 330.",
+        "Compute total = 364 + 330 = 696.",
+        "Fix an intermediate condition: set result = 39 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let a = 3 dozen donuts at $68 per dozen (given).\nStep 2: Let b = 2 dozen mini cupcakes at $80 per dozen (given).\nStep 3: Compute a side quantity: aux = 2 * 2 = 4, unrelated to the final result.\nStep 4: Fix an intermediate condition: set n = 73 as a given constraint for the rest of the steps.\nStep 5: Compute cost of donuts = a × 68 = 3 × 68 = 204.\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Assume the total is x = 69 and proceed using this fixed value.\nStep 8: Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 330.\nStep 9: Let t3 = intermediate value from previous computation.\nStep 10: Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.\nStep 11: Let t2 = intermediate value from previous computation.\nStep 12: Compute total = 204 + 160 + 330.\nStep 13: Compute total = 364 + 330 = 696.\nStep 14: Fix an intermediate condition: set result = 39 as a given constraint for the rest of the steps.\nStep 15: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3193274109
+    }
+  },
+  {
+    "condition": "L=15_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 15,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 6,
+      "corrupted_steps": [
+        2,
+        3,
+        8,
+        9,
+        12,
+        13
+      ],
+      "corruption_types": {
+        "12": "IRR",
+        "9": "LOC",
+        "3": "LOC",
+        "8": "WRONG",
+        "2": "WRONG",
+        "13": "WRONG"
+      },
+      "steps": [
+        "Let cost = 19.50 (given discounted price Kyle paid).",
+        "Fix an intermediate condition: set n = 86 as a given constraint for the rest of the steps.",
+        "The discounted price represents 100% - 25% = 75% of original price.",
+        "Let t5 = intermediate value from previous computation.",
+        "Let t = 0.75 (the fraction of original price that Kyle paid).",
+        "Let t4 = intermediate value from previous computation.",
+        "Set up equation: original price × t = cost paid by Kyle.",
+        "Fix an intermediate condition: set total = 62 as a given constraint for the rest of the steps.",
+        "Let a = original price, so we have a × 0.75 = 19.48.",
+        "Let t2 = intermediate value from previous computation.",
+        "Solve for a by dividing both sides by 0.75.",
+        "Compute a side quantity: aux = 15 * 2 = 30, unrelated to the final result.",
+        "Fix an intermediate condition: set x = 19 as a given constraint for the rest of the steps.",
+        "Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 19.50 (given discounted price Kyle paid).\nStep 2: Fix an intermediate condition: set n = 86 as a given constraint for the rest of the steps.\nStep 3: The discounted price represents 100% - 25% = 75% of original price.\nStep 4: Let t5 = intermediate value from previous computation.\nStep 5: Let t = 0.75 (the fraction of original price that Kyle paid).\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Set up equation: original price × t = cost paid by Kyle.\nStep 8: Fix an intermediate condition: set total = 62 as a given constraint for the rest of the steps.\nStep 9: Let a = original price, so we have a × 0.75 = 19.48.\nStep 10: Let t2 = intermediate value from previous computation.\nStep 11: Solve for a by dividing both sides by 0.75.\nStep 12: Compute a side quantity: aux = 15 * 2 = 30, unrelated to the final result.\nStep 13: Fix an intermediate condition: set x = 19 as a given constraint for the rest of the steps.\nStep 14: Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 3.\nStep 15: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 2018929659
+    }
+  },
+  {
+    "condition": "L=15_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 15,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 11,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14
+      ],
+      "corruption_types": {
+        "6": "IRR",
+        "2": "IRR",
+        "8": "LOC",
+        "4": "LOC",
+        "7": "LOC",
+        "13": "LOC",
+        "5": "WRONG",
+        "3": "WRONG",
+        "12": "WRONG",
+        "14": "WRONG",
+        "1": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set result = 78 as a given constraint for the rest of the steps.",
+        "Compute a side quantity: aux = 7 * 2 = 14, unrelated to the final result.",
+        "Fix an intermediate condition: set total = 94 as a given constraint for the rest of the steps.",
+        "Compute total = cost + repairs = 80000 + 50000 = 130001.",
+        "Assume the total is result = 10 and proceed using this fixed value.",
+        "Compute an auxiliary value: aux = 13 + 10 = 23, but it will not be used later.",
+        "Let t3 = intermediate value from previous computation.",
+        "Compute increase = cost × rate = 80000 × 1.5 = 119999.",
+        "Let t2 = intermediate value from previous computation.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 200000.",
+        "Let selling_price = new_value = 200000 (final house value).",
+        "Fix an intermediate condition: set total = 92 as a given constraint for the rest of the steps.",
+        "Let t1 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set n = 36 as a given constraint for the rest of the steps.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set result = 78 as a given constraint for the rest of the steps.\nStep 2: Compute a side quantity: aux = 7 * 2 = 14, unrelated to the final result.\nStep 3: Fix an intermediate condition: set total = 94 as a given constraint for the rest of the steps.\nStep 4: Compute total = cost + repairs = 80000 + 50000 = 130001.\nStep 5: Assume the total is result = 10 and proceed using this fixed value.\nStep 6: Compute an auxiliary value: aux = 13 + 10 = 23, but it will not be used later.\nStep 7: Let t3 = intermediate value from previous computation.\nStep 8: Compute increase = cost × rate = 80000 × 1.5 = 119999.\nStep 9: Let t2 = intermediate value from previous computation.\nStep 10: Compute new_value = cost + increase = 80000 + 120000 = 200000.\nStep 11: Let selling_price = new_value = 200000 (final house value).\nStep 12: Fix an intermediate condition: set total = 92 as a given constraint for the rest of the steps.\nStep 13: Let t1 = intermediate value from previous computation.\nStep 14: Fix an intermediate condition: set n = 36 as a given constraint for the rest of the steps.\nStep 15: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 3633721971
+    }
+  },
+  {
+    "condition": "L=15_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 15,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 11,
+      "corrupted_steps": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12,
+        13,
+        14
+      ],
+      "corruption_types": {
+        "7": "IRR",
+        "14": "IRR",
+        "8": "LOC",
+        "3": "LOC",
+        "6": "LOC",
+        "12": "LOC",
+        "13": "WRONG",
+        "11": "WRONG",
+        "4": "WRONG",
+        "1": "WRONG",
+        "5": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set total = 77 as a given constraint for the rest of the steps.",
+        "Let b = 2 dozen mini cupcakes at $80 per dozen (given).",
+        "Let c = 6 dozen mini cheesecakes at $55 per dozen (given).",
+        "Fix an intermediate condition: set total = 47 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set x = 97 as a given constraint for the rest of the steps.",
+        "Let t4 = intermediate value from previous computation.",
+        "Compute an auxiliary value: aux = 19 + 13 = 32, but it will not be used later.",
+        "Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 333.",
+        "Let t3 = intermediate value from previous computation.",
+        "Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.",
+        "Fix an intermediate condition: set total = 35 as a given constraint for the rest of the steps.",
+        "Compute total = 204 + 160 + 331.",
+        "Assume the total is x = 82 and proceed using this fixed value.",
+        "Compute an auxiliary value: aux = 5 + 10 = 15, but it will not be used later.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set total = 77 as a given constraint for the rest of the steps.\nStep 2: Let b = 2 dozen mini cupcakes at $80 per dozen (given).\nStep 3: Let c = 6 dozen mini cheesecakes at $55 per dozen (given).\nStep 4: Fix an intermediate condition: set total = 47 as a given constraint for the rest of the steps.\nStep 5: Fix an intermediate condition: set x = 97 as a given constraint for the rest of the steps.\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Compute an auxiliary value: aux = 19 + 13 = 32, but it will not be used later.\nStep 8: Compute cost of mini cheesecakes = c × 55 = 6 × 55 = 333.\nStep 9: Let t3 = intermediate value from previous computation.\nStep 10: Let total = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.\nStep 11: Fix an intermediate condition: set total = 35 as a given constraint for the rest of the steps.\nStep 12: Compute total = 204 + 160 + 331.\nStep 13: Assume the total is x = 82 and proceed using this fixed value.\nStep 14: Compute an auxiliary value: aux = 5 + 10 = 15, but it will not be used later.\nStep 15: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 3883656601
+    }
+  },
+  {
+    "condition": "L=15_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 15,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 11,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "corruption_types": {
+        "11": "IRR",
+        "7": "IRR",
+        "12": "LOC",
+        "6": "LOC",
+        "1": "LOC",
+        "2": "LOC",
+        "3": "WRONG",
+        "9": "WRONG",
+        "14": "WRONG",
+        "5": "WRONG",
+        "13": "WRONG"
+      },
+      "steps": [
+        "Let cost = 19.50 (given discounted price Kyle paid).",
+        "Let rate = 0.25 (given discount rate of 25%).",
+        "Assume the total is result = 96 and proceed using this fixed value.",
+        "Let t5 = intermediate value from previous computation.",
+        "Assume the total is result = 71 and proceed using this fixed value.",
+        "Let t4 = intermediate value from previous computation.",
+        "Note that we can also compute aux = 13 - 19 = -6, though this is not needed.",
+        "Let t3 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set total = 87 as a given constraint for the rest of the steps.",
+        "Let t2 = intermediate value from previous computation.",
+        "Compute a side quantity: aux = 11 * 2 = 22, unrelated to the final result.",
+        "Let t1 = intermediate value from previous computation.",
+        "Assume the total is result = 82 and proceed using this fixed value.",
+        "Assume the total is result = 63 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 19.50 (given discounted price Kyle paid).\nStep 2: Let rate = 0.25 (given discount rate of 25%).\nStep 3: Assume the total is result = 96 and proceed using this fixed value.\nStep 4: Let t5 = intermediate value from previous computation.\nStep 5: Assume the total is result = 71 and proceed using this fixed value.\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Note that we can also compute aux = 13 - 19 = -6, though this is not needed.\nStep 8: Let t3 = intermediate value from previous computation.\nStep 9: Fix an intermediate condition: set total = 87 as a given constraint for the rest of the steps.\nStep 10: Let t2 = intermediate value from previous computation.\nStep 11: Compute a side quantity: aux = 11 * 2 = 22, unrelated to the final result.\nStep 12: Let t1 = intermediate value from previous computation.\nStep 13: Assume the total is result = 82 and proceed using this fixed value.\nStep 14: Assume the total is result = 63 and proceed using this fixed value.\nStep 15: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 3779886827
+    }
+  },
+  {
+    "condition": "L=15_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 15,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 11,
+      "corrupted_steps": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "corruption_types": {
+        "6": "IRR",
+        "3": "IRR",
+        "7": "LOC",
+        "10": "LOC",
+        "5": "LOC",
+        "12": "LOC",
+        "9": "WRONG",
+        "11": "WRONG",
+        "8": "WRONG",
+        "13": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "Let cost = 80000 (purchase price of the house).",
+        "Let repairs = 50000 (amount spent on repairs).",
+        "Note that we can also compute aux = 17 - 2 = 15, though this is not needed.",
+        "Assume the total is x = 60 and proceed using this fixed value.",
+        "Let t4 = intermediate value from previous computation.",
+        "Compute an auxiliary value: aux = 9 + 16 = 25, but it will not be used later.",
+        "Let t3 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set total = 46 as a given constraint for the rest of the steps.",
+        "Assume the total is n = 66 and proceed using this fixed value.",
+        "Compute new_value = cost + increase = 80000 + 120000 = 199998.",
+        "Assume the total is result = 49 and proceed using this fixed value.",
+        "Let total_investment = total = 130000 (purchase plus repairs).",
+        "Assume the total is total = 50 and proceed using this fixed value.",
+        "Compute profit = selling_price - total_investment = 200000 - 130000.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 80000 (purchase price of the house).\nStep 2: Let repairs = 50000 (amount spent on repairs).\nStep 3: Note that we can also compute aux = 17 - 2 = 15, though this is not needed.\nStep 4: Assume the total is x = 60 and proceed using this fixed value.\nStep 5: Let t4 = intermediate value from previous computation.\nStep 6: Compute an auxiliary value: aux = 9 + 16 = 25, but it will not be used later.\nStep 7: Let t3 = intermediate value from previous computation.\nStep 8: Fix an intermediate condition: set total = 46 as a given constraint for the rest of the steps.\nStep 9: Assume the total is n = 66 and proceed using this fixed value.\nStep 10: Compute new_value = cost + increase = 80000 + 120000 = 199998.\nStep 11: Assume the total is result = 49 and proceed using this fixed value.\nStep 12: Let total_investment = total = 130000 (purchase plus repairs).\nStep 13: Assume the total is total = 50 and proceed using this fixed value.\nStep 14: Compute profit = selling_price - total_investment = 200000 - 130000.\nStep 15: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1217086082
+    }
+  },
+  {
+    "condition": "L=15_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 15,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 11,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "corruption_types": {
+        "2": "IRR",
+        "10": "IRR",
+        "9": "LOC",
+        "5": "LOC",
+        "11": "LOC",
+        "3": "LOC",
+        "7": "WRONG",
+        "1": "WRONG",
+        "13": "WRONG",
+        "8": "WRONG",
+        "12": "WRONG"
+      },
+      "steps": [
+        "Assume the total is n = 53 and proceed using this fixed value.",
+        "Compute an auxiliary value: aux = 5 + 8 = 13, but it will not be used later.",
+        "Let c = 6 dozen mini cheesecakes at $55 per dozen (given).",
+        "Let t5 = intermediate value from previous computation.",
+        "Compute cost of donuts = a × 68 = 3 × 68 = 206.",
+        "Let t4 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set result = 42 as a given constraint for the rest of the steps.",
+        "Assume the total is x = 27 and proceed using this fixed value.",
+        "Let t3 = intermediate value from previous computation.",
+        "Note that we can also compute aux = 12 - 20 = -8, though this is not needed.",
+        "Let t2 = intermediate value from previous computation.",
+        "Fix an intermediate condition: set x = 84 as a given constraint for the rest of the steps.",
+        "Assume the total is result = 84 and proceed using this fixed value.",
+        "Let t1 = intermediate value from previous computation.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Assume the total is n = 53 and proceed using this fixed value.\nStep 2: Compute an auxiliary value: aux = 5 + 8 = 13, but it will not be used later.\nStep 3: Let c = 6 dozen mini cheesecakes at $55 per dozen (given).\nStep 4: Let t5 = intermediate value from previous computation.\nStep 5: Compute cost of donuts = a × 68 = 3 × 68 = 206.\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Fix an intermediate condition: set result = 42 as a given constraint for the rest of the steps.\nStep 8: Assume the total is x = 27 and proceed using this fixed value.\nStep 9: Let t3 = intermediate value from previous computation.\nStep 10: Note that we can also compute aux = 12 - 20 = -8, though this is not needed.\nStep 11: Let t2 = intermediate value from previous computation.\nStep 12: Fix an intermediate condition: set x = 84 as a given constraint for the rest of the steps.\nStep 13: Assume the total is result = 84 and proceed using this fixed value.\nStep 14: Let t1 = intermediate value from previous computation.\nStep 15: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1398295689
+    }
+  },
+  {
+    "condition": "L=15_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 15,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 11,
+      "corrupted_steps": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "corruption_types": {
+        "9": "IRR",
+        "11": "IRR",
+        "7": "LOC",
+        "14": "LOC",
+        "5": "LOC",
+        "6": "LOC",
+        "13": "WRONG",
+        "4": "WRONG",
+        "10": "WRONG",
+        "2": "WRONG",
+        "12": "WRONG"
+      },
+      "steps": [
+        "Let cost = 19.50 (given discounted price Kyle paid).",
+        "Assume the total is total = 50 and proceed using this fixed value.",
+        "The discounted price represents 100% - 25% = 75% of original price.",
+        "Fix an intermediate condition: set x = 49 as a given constraint for the rest of the steps.",
+        "Let t = 0.75 (the fraction of original price that Kyle paid).",
+        "Let t4 = intermediate value from previous computation.",
+        "Compute t = 10 * 3 = 29 (using the previous values).",
+        "Let t3 = intermediate value from previous computation.",
+        "Compute an auxiliary value: aux = 11 + 17 = 28, but it will not be used later.",
+        "Assume the total is x = 13 and proceed using this fixed value.",
+        "Note that we can also compute aux = 9 - 5 = 4, though this is not needed.",
+        "Assume the total is n = 78 and proceed using this fixed value.",
+        "Fix an intermediate condition: set total = 36 as a given constraint for the rest of the steps.",
+        "Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 1.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Let cost = 19.50 (given discounted price Kyle paid).\nStep 2: Assume the total is total = 50 and proceed using this fixed value.\nStep 3: The discounted price represents 100% - 25% = 75% of original price.\nStep 4: Fix an intermediate condition: set x = 49 as a given constraint for the rest of the steps.\nStep 5: Let t = 0.75 (the fraction of original price that Kyle paid).\nStep 6: Let t4 = intermediate value from previous computation.\nStep 7: Compute t = 10 * 3 = 29 (using the previous values).\nStep 8: Let t3 = intermediate value from previous computation.\nStep 9: Compute an auxiliary value: aux = 11 + 17 = 28, but it will not be used later.\nStep 10: Assume the total is x = 13 and proceed using this fixed value.\nStep 11: Note that we can also compute aux = 9 - 5 = 4, though this is not needed.\nStep 12: Assume the total is n = 78 and proceed using this fixed value.\nStep 13: Fix an intermediate condition: set total = 36 as a given constraint for the rest of the steps.\nStep 14: Calculate a = 19.50 × 4 ÷ 3 = 78 ÷ 1.\nStep 15: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3185034461
+    }
+  },
+  {
+    "condition": "L=20_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 20,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 8,
+      "corrupted_steps": [
+        1,
+        4,
+        5,
+        7,
+        9,
+        11,
+        15,
+        18
+      ],
+      "corruption_types": {
+        "5": "IRR",
+        "4": "LOC",
+        "11": "LOC",
+        "15": "LOC",
+        "1": "WRONG",
+        "18": "WRONG",
+        "7": "WRONG",
+        "9": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set x = 42 as a given constraint for the rest of the steps.",
+        "He puts in $50,000 in repairs.",
+        "Calculate his total investment: $80,000 + $50,000 = $130,000.",
+        "The repairs increased the value of the house by 150%.",
+        "Compute an auxiliary value: aux = 10 + 9 = 19, but it will not be used later.",
+        "A 150% increase means the value increased by 150% of the original value.",
+        "Assume the total is total = 38 and proceed using this fixed value.",
+        "This $120,000 is the amount the value increased by.",
+        "Fix an intermediate condition: set total = 30 as a given constraint for the rest of the steps.",
+        "New value = $80,000 + $120,000 = $200,000.",
+        "Josh's total investment was $130,3.",
+        "The house is now worth $200,000.",
+        "Profit is calculated as final value minus total investment.",
+        "Profit = $200,000 - $130,000.",
+        "Calculate the subtraction: $200,000 - $130,000 = $70,0.",
+        "Therefore, Josh made a profit of $70,000.",
+        "We can verify: he invested $130,000 and the house is worth $200,000.",
+        "Fix an intermediate condition: set result = 89 as a given constraint for the rest of the steps.",
+        "This confirms our calculation is correct.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set x = 42 as a given constraint for the rest of the steps.\nStep 2: He puts in $50,000 in repairs.\nStep 3: Calculate his total investment: $80,000 + $50,000 = $130,000.\nStep 4: The repairs increased the value of the house by 150%.\nStep 5: Compute an auxiliary value: aux = 10 + 9 = 19, but it will not be used later.\nStep 6: A 150% increase means the value increased by 150% of the original value.\nStep 7: Assume the total is total = 38 and proceed using this fixed value.\nStep 8: This $120,000 is the amount the value increased by.\nStep 9: Fix an intermediate condition: set total = 30 as a given constraint for the rest of the steps.\nStep 10: New value = $80,000 + $120,000 = $200,000.\nStep 11: Josh's total investment was $130,3.\nStep 12: The house is now worth $200,000.\nStep 13: Profit is calculated as final value minus total investment.\nStep 14: Profit = $200,000 - $130,000.\nStep 15: Calculate the subtraction: $200,000 - $130,000 = $70,0.\nStep 16: Therefore, Josh made a profit of $70,000.\nStep 17: We can verify: he invested $130,000 and the house is worth $200,000.\nStep 18: Fix an intermediate condition: set result = 89 as a given constraint for the rest of the steps.\nStep 19: This confirms our calculation is correct.\nStep 20: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 1098771485
+    }
+  },
+  {
+    "condition": "L=20_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 20,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 8,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        7,
+        9,
+        14,
+        15,
+        19
+      ],
+      "corruption_types": {
+        "15": "IRR",
+        "2": "LOC",
+        "1": "LOC",
+        "3": "LOC",
+        "19": "WRONG",
+        "7": "WRONG",
+        "9": "WRONG",
+        "14": "WRONG"
+      },
+      "steps": [
+        "Compute t = 10 * 3 = 30 (using the previous values).",
+        "She bought 3 dozen donuts at $68 per dozen.",
+        "She bought 2 dozen mini cupcakes at $80 per dozen.",
+        "She bought 6 dozen mini cheesecakes at $55 per dozen.",
+        "Calculate the cost of the donuts: 3 × $68.",
+        "3 × 68 = 204 dollars for donuts.",
+        "Fix an intermediate condition: set x = 92 as a given constraint for the rest of the steps.",
+        "2 × 80 = 160 dollars for mini cupcakes.",
+        "Assume the total is x = 100 and proceed using this fixed value.",
+        "6 × 55 = 330 dollars for mini cheesecakes.",
+        "Now we need to find the total cost by adding all three amounts.",
+        "Total cost = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.",
+        "Total cost = 204 + 160 + 330.",
+        "Fix an intermediate condition: set n = 42 as a given constraint for the rest of the steps.",
+        "Compute a side quantity: aux = 3 * 2 = 6, unrelated to the final result.",
+        "364 + 330 = 694.",
+        "Verify the calculation: 204 + 160 + 330 = 694.",
+        "Check: 204 + 160 = 364, and 364 + 330 = 694.",
+        "Assume the total is n = 88 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Compute t = 10 * 3 = 30 (using the previous values).\nStep 2: She bought 3 dozen donuts at $68 per dozen.\nStep 3: She bought 2 dozen mini cupcakes at $80 per dozen.\nStep 4: She bought 6 dozen mini cheesecakes at $55 per dozen.\nStep 5: Calculate the cost of the donuts: 3 × $68.\nStep 6: 3 × 68 = 204 dollars for donuts.\nStep 7: Fix an intermediate condition: set x = 92 as a given constraint for the rest of the steps.\nStep 8: 2 × 80 = 160 dollars for mini cupcakes.\nStep 9: Assume the total is x = 100 and proceed using this fixed value.\nStep 10: 6 × 55 = 330 dollars for mini cheesecakes.\nStep 11: Now we need to find the total cost by adding all three amounts.\nStep 12: Total cost = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.\nStep 13: Total cost = 204 + 160 + 330.\nStep 14: Fix an intermediate condition: set n = 42 as a given constraint for the rest of the steps.\nStep 15: Compute a side quantity: aux = 3 * 2 = 6, unrelated to the final result.\nStep 16: 364 + 330 = 694.\nStep 17: Verify the calculation: 204 + 160 + 330 = 694.\nStep 18: Check: 204 + 160 = 364, and 364 + 330 = 694.\nStep 19: Assume the total is n = 88 and proceed using this fixed value.\nStep 20: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 1021501820
+    }
+  },
+  {
+    "condition": "L=20_c=0.4_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 20,
+      "c": 0.4,
+      "cue_condition": "present",
+      "K_corrupt": 8,
+      "corrupted_steps": [
+        4,
+        5,
+        7,
+        8,
+        10,
+        15,
+        18,
+        19
+      ],
+      "corruption_types": {
+        "4": "IRR",
+        "5": "LOC",
+        "15": "LOC",
+        "8": "LOC",
+        "19": "WRONG",
+        "18": "WRONG",
+        "7": "WRONG",
+        "10": "WRONG"
+      },
+      "steps": [
+        "I need to find the original price when Kyle paid $19.50 after a 25% discount.",
+        "Let me define the original price as x dollars.",
+        "A 25% discount means Kyle paid 75% of the original price.",
+        "Compute an auxiliary value: aux = 5 + 10 = 15, but it will not be used later.",
+        "So Kyle paid 0.75 × x = $19.52.",
+        "I need to solve the equation 0.75x = 19.50.",
+        "Assume the total is x = 43 and proceed using this fixed value.",
+        "x = 19.50 ÷ 0.74.",
+        "Let me convert 0.75 to a fraction: 0.75 = 3/4.",
+        "Assume the total is total = 100 and proceed using this fixed value.",
+        "Dividing by a fraction is the same as multiplying by its reciprocal.",
+        "x = 19.50 × (4/3).",
+        "x = 19.50 × 4 ÷ 3.",
+        "First, I'll calculate 19.50 × 4 = 78.",
+        "Now I need to divide 78 by 1.",
+        "78 ÷ 3 = 26.",
+        "Therefore, the original price was $26.",
+        "Fix an intermediate condition: set total = 15 as a given constraint for the rest of the steps.",
+        "Assume the total is n = 83 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: I need to find the original price when Kyle paid $19.50 after a 25% discount.\nStep 2: Let me define the original price as x dollars.\nStep 3: A 25% discount means Kyle paid 75% of the original price.\nStep 4: Compute an auxiliary value: aux = 5 + 10 = 15, but it will not be used later.\nStep 5: So Kyle paid 0.75 × x = $19.52.\nStep 6: I need to solve the equation 0.75x = 19.50.\nStep 7: Assume the total is x = 43 and proceed using this fixed value.\nStep 8: x = 19.50 ÷ 0.74.\nStep 9: Let me convert 0.75 to a fraction: 0.75 = 3/4.\nStep 10: Assume the total is total = 100 and proceed using this fixed value.\nStep 11: Dividing by a fraction is the same as multiplying by its reciprocal.\nStep 12: x = 19.50 × (4/3).\nStep 13: x = 19.50 × 4 ÷ 3.\nStep 14: First, I'll calculate 19.50 × 4 = 78.\nStep 15: Now I need to divide 78 by 1.\nStep 16: 78 ÷ 3 = 26.\nStep 17: Therefore, the original price was $26.\nStep 18: Fix an intermediate condition: set total = 15 as a given constraint for the rest of the steps.\nStep 19: Assume the total is n = 83 and proceed using this fixed value.\nStep 20: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 2391715498
+    }
+  },
+  {
+    "condition": "L=20_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 20,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 8,
+      "corrupted_steps": [
+        5,
+        6,
+        10,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "corruption_types": {
+        "18": "IRR",
+        "14": "LOC",
+        "10": "LOC",
+        "6": "LOC",
+        "5": "WRONG",
+        "13": "WRONG",
+        "16": "WRONG",
+        "12": "WRONG"
+      },
+      "steps": [
+        "Josh buys a house for $80,000.",
+        "He puts in $50,000 in repairs.",
+        "Calculate his total investment: $80,000 + $50,000 = $130,000.",
+        "The repairs increased the value of the house by 150%.",
+        "Fix an intermediate condition: set n = 64 as a given constraint for the rest of the steps.",
+        "A 150% increase means the value increased by 150% of the original value.",
+        "Calculate 150% of $80,000: 1.5 × $80,000 = $120,000.",
+        "This $120,000 is the amount the value increased by.",
+        "The new value of the house is the original value plus the increase.",
+        "New value = $80,000 + $120,000 = $200,2.",
+        "Josh's total investment was $130,000.",
+        "Fix an intermediate condition: set total = 48 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set result = 20 as a given constraint for the rest of the steps.",
+        "Profit = $200,000 - $130,3.",
+        "Calculate the subtraction: $200,000 - $130,000 = $70,000.",
+        "Assume the total is total = 90 and proceed using this fixed value.",
+        "We can verify: he invested $130,000 and the house is worth $200,000.",
+        "Note that we can also compute aux = 18 - 10 = 8, though this is not needed.",
+        "This confirms our calculation is correct.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Josh buys a house for $80,000.\nStep 2: He puts in $50,000 in repairs.\nStep 3: Calculate his total investment: $80,000 + $50,000 = $130,000.\nStep 4: The repairs increased the value of the house by 150%.\nStep 5: Fix an intermediate condition: set n = 64 as a given constraint for the rest of the steps.\nStep 6: A 150% increase means the value increased by 150% of the original value.\nStep 7: Calculate 150% of $80,000: 1.5 × $80,000 = $120,000.\nStep 8: This $120,000 is the amount the value increased by.\nStep 9: The new value of the house is the original value plus the increase.\nStep 10: New value = $80,000 + $120,000 = $200,2.\nStep 11: Josh's total investment was $130,000.\nStep 12: Fix an intermediate condition: set total = 48 as a given constraint for the rest of the steps.\nStep 13: Fix an intermediate condition: set result = 20 as a given constraint for the rest of the steps.\nStep 14: Profit = $200,000 - $130,3.\nStep 15: Calculate the subtraction: $200,000 - $130,000 = $70,000.\nStep 16: Assume the total is total = 90 and proceed using this fixed value.\nStep 17: We can verify: he invested $130,000 and the house is worth $200,000.\nStep 18: Note that we can also compute aux = 18 - 10 = 8, though this is not needed.\nStep 19: This confirms our calculation is correct.\nStep 20: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 353005384
+    }
+  },
+  {
+    "condition": "L=20_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 20,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 8,
+      "corrupted_steps": [
+        1,
+        8,
+        9,
+        11,
+        13,
+        14,
+        17,
+        19
+      ],
+      "corruption_types": {
+        "1": "IRR",
+        "13": "LOC",
+        "14": "LOC",
+        "9": "LOC",
+        "19": "WRONG",
+        "11": "WRONG",
+        "8": "WRONG",
+        "17": "WRONG"
+      },
+      "steps": [
+        "Compute a side quantity: aux = 3 * 2 = 6, unrelated to the final result.",
+        "She bought 3 dozen donuts at $68 per dozen.",
+        "She bought 2 dozen mini cupcakes at $80 per dozen.",
+        "She bought 6 dozen mini cheesecakes at $55 per dozen.",
+        "Calculate the cost of the donuts: 3 × $68.",
+        "3 × 68 = 204 dollars for donuts.",
+        "Calculate the cost of the mini cupcakes: 2 × $80.",
+        "Fix an intermediate condition: set result = 72 as a given constraint for the rest of the steps.",
+        "Calculate the cost of the mini cheesecakes: 6 × $52.",
+        "6 × 55 = 330 dollars for mini cheesecakes.",
+        "Fix an intermediate condition: set x = 33 as a given constraint for the rest of the steps.",
+        "Total cost = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.",
+        "Total cost = 204 + 160 + 331.",
+        "First, add 204 + 160 = 367.",
+        "Then add 364 + 330.",
+        "364 + 330 = 694.",
+        "Assume the total is result = 44 and proceed using this fixed value.",
+        "Check: 204 + 160 = 364, and 364 + 330 = 694.",
+        "Fix an intermediate condition: set n = 11 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Compute a side quantity: aux = 3 * 2 = 6, unrelated to the final result.\nStep 2: She bought 3 dozen donuts at $68 per dozen.\nStep 3: She bought 2 dozen mini cupcakes at $80 per dozen.\nStep 4: She bought 6 dozen mini cheesecakes at $55 per dozen.\nStep 5: Calculate the cost of the donuts: 3 × $68.\nStep 6: 3 × 68 = 204 dollars for donuts.\nStep 7: Calculate the cost of the mini cupcakes: 2 × $80.\nStep 8: Fix an intermediate condition: set result = 72 as a given constraint for the rest of the steps.\nStep 9: Calculate the cost of the mini cheesecakes: 6 × $52.\nStep 10: 6 × 55 = 330 dollars for mini cheesecakes.\nStep 11: Fix an intermediate condition: set x = 33 as a given constraint for the rest of the steps.\nStep 12: Total cost = cost of donuts + cost of mini cupcakes + cost of mini cheesecakes.\nStep 13: Total cost = 204 + 160 + 331.\nStep 14: First, add 204 + 160 = 367.\nStep 15: Then add 364 + 330.\nStep 16: 364 + 330 = 694.\nStep 17: Assume the total is result = 44 and proceed using this fixed value.\nStep 18: Check: 204 + 160 = 364, and 364 + 330 = 694.\nStep 19: Fix an intermediate condition: set n = 11 as a given constraint for the rest of the steps.\nStep 20: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3123521662
+    }
+  },
+  {
+    "condition": "L=20_c=0.4_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 20,
+      "c": 0.4,
+      "cue_condition": "absent",
+      "K_corrupt": 8,
+      "corrupted_steps": [
+        1,
+        3,
+        6,
+        9,
+        12,
+        14,
+        16,
+        18
+      ],
+      "corruption_types": {
+        "16": "IRR",
+        "12": "LOC",
+        "18": "LOC",
+        "14": "LOC",
+        "1": "WRONG",
+        "3": "WRONG",
+        "9": "WRONG",
+        "6": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set result = 34 as a given constraint for the rest of the steps.",
+        "Let me define the original price as x dollars.",
+        "Fix an intermediate condition: set x = 100 as a given constraint for the rest of the steps.",
+        "This is because 100% - 25% = 75%.",
+        "So Kyle paid 0.75 × x = $19.50.",
+        "Fix an intermediate condition: set result = 91 as a given constraint for the rest of the steps.",
+        "To isolate x, I'll divide both sides by 0.75.",
+        "x = 19.50 ÷ 0.75.",
+        "Fix an intermediate condition: set n = 18 as a given constraint for the rest of the steps.",
+        "So x = 19.50 ÷ (3/4).",
+        "Dividing by a fraction is the same as multiplying by its reciprocal.",
+        "x = 19.50 × (4/3).",
+        "x = 19.50 × 4 ÷ 3.",
+        "First, I'll calculate 19.50 × 4 = 80.",
+        "Now I need to divide 78 by 3.",
+        "Note that we can also compute aux = 3 - 15 = -12, though this is not needed.",
+        "Therefore, the original price was $26.",
+        "Let me verify: 25% of $26 = 0.25 × 26 = $6.53.",
+        "Original price minus discount: $26 - $6.50 = $19.50 ✓",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set result = 34 as a given constraint for the rest of the steps.\nStep 2: Let me define the original price as x dollars.\nStep 3: Fix an intermediate condition: set x = 100 as a given constraint for the rest of the steps.\nStep 4: This is because 100% - 25% = 75%.\nStep 5: So Kyle paid 0.75 × x = $19.50.\nStep 6: Fix an intermediate condition: set result = 91 as a given constraint for the rest of the steps.\nStep 7: To isolate x, I'll divide both sides by 0.75.\nStep 8: x = 19.50 ÷ 0.75.\nStep 9: Fix an intermediate condition: set n = 18 as a given constraint for the rest of the steps.\nStep 10: So x = 19.50 ÷ (3/4).\nStep 11: Dividing by a fraction is the same as multiplying by its reciprocal.\nStep 12: x = 19.50 × (4/3).\nStep 13: x = 19.50 × 4 ÷ 3.\nStep 14: First, I'll calculate 19.50 × 4 = 80.\nStep 15: Now I need to divide 78 by 3.\nStep 16: Note that we can also compute aux = 3 - 15 = -12, though this is not needed.\nStep 17: Therefore, the original price was $26.\nStep 18: Let me verify: 25% of $26 = 0.25 × 26 = $6.53.\nStep 19: Original price minus discount: $26 - $6.50 = $19.50 ✓\nStep 20: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1060471794
+    }
+  },
+  {
+    "condition": "L=20_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 2,
+      "L": 20,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 15,
+      "corrupted_steps": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19
+      ],
+      "corruption_types": {
+        "15": "IRR",
+        "1": "IRR",
+        "11": "IRR",
+        "13": "LOC",
+        "10": "LOC",
+        "2": "LOC",
+        "17": "LOC",
+        "6": "LOC",
+        "9": "LOC",
+        "5": "WRONG",
+        "7": "WRONG",
+        "12": "WRONG",
+        "19": "WRONG",
+        "4": "WRONG",
+        "18": "WRONG"
+      },
+      "steps": [
+        "Note that we can also compute aux = 5 - 3 = 2, though this is not needed.",
+        "He puts in $50,000 in repairs.",
+        "Calculate his total investment: $80,000 + $50,000 = $130,000.",
+        "Fix an intermediate condition: set n = 25 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set x = 96 as a given constraint for the rest of the steps.",
+        "A 150% increase means the value increased by 150% of the original value.",
+        "Fix an intermediate condition: set total = 43 as a given constraint for the rest of the steps.",
+        "This $120,000 is the amount the value increased by.",
+        "Compute t = 10 * 3 = 31 (using the previous values).",
+        "New value = $80,000 + $120,000 = $200,3.",
+        "Compute an auxiliary value: aux = 18 + 9 = 27, but it will not be used later.",
+        "Assume the total is total = 25 and proceed using this fixed value.",
+        "Compute t = 10 * 3 = 31 (using the previous values).",
+        "Profit = $200,000 - $130,000.",
+        "Compute an auxiliary value: aux = 16 + 6 = 22, but it will not be used later.",
+        "Therefore, Josh made a profit of $70,000.",
+        "We can verify: he invested $130,000 and the house is worth $200,2.",
+        "Fix an intermediate condition: set total = 32 as a given constraint for the rest of the steps.",
+        "Assume the total is total = 55 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 70000."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Note that we can also compute aux = 5 - 3 = 2, though this is not needed.\nStep 2: He puts in $50,000 in repairs.\nStep 3: Calculate his total investment: $80,000 + $50,000 = $130,000.\nStep 4: Fix an intermediate condition: set n = 25 as a given constraint for the rest of the steps.\nStep 5: Fix an intermediate condition: set x = 96 as a given constraint for the rest of the steps.\nStep 6: A 150% increase means the value increased by 150% of the original value.\nStep 7: Fix an intermediate condition: set total = 43 as a given constraint for the rest of the steps.\nStep 8: This $120,000 is the amount the value increased by.\nStep 9: Compute t = 10 * 3 = 31 (using the previous values).\nStep 10: New value = $80,000 + $120,000 = $200,3.\nStep 11: Compute an auxiliary value: aux = 18 + 9 = 27, but it will not be used later.\nStep 12: Assume the total is total = 25 and proceed using this fixed value.\nStep 13: Compute t = 10 * 3 = 31 (using the previous values).\nStep 14: Profit = $200,000 - $130,000.\nStep 15: Compute an auxiliary value: aux = 16 + 6 = 22, but it will not be used later.\nStep 16: Therefore, Josh made a profit of $70,000.\nStep 17: We can verify: he invested $130,000 and the house is worth $200,2.\nStep 18: Fix an intermediate condition: set total = 32 as a given constraint for the rest of the steps.\nStep 19: Assume the total is total = 55 and proceed using this fixed value.\nStep 20: Therefore, the final answer is Final = 70000.\n[[COT_END]]",
+      "seed": 2784775164
+    }
+  },
+  {
+    "condition": "L=20_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 11,
+      "L": 20,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 15,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        19
+      ],
+      "corruption_types": {
+        "12": "IRR",
+        "11": "IRR",
+        "14": "IRR",
+        "8": "LOC",
+        "10": "LOC",
+        "3": "LOC",
+        "1": "LOC",
+        "16": "LOC",
+        "17": "LOC",
+        "5": "WRONG",
+        "15": "WRONG",
+        "4": "WRONG",
+        "6": "WRONG",
+        "19": "WRONG",
+        "2": "WRONG"
+      },
+      "steps": [
+        "Compute t = 10 * 3 = 31 (using the previous values).",
+        "Assume the total is n = 31 and proceed using this fixed value.",
+        "She bought 2 dozen mini cupcakes at $80 per dozen.",
+        "Assume the total is n = 47 and proceed using this fixed value.",
+        "Assume the total is result = 30 and proceed using this fixed value.",
+        "Fix an intermediate condition: set total = 45 as a given constraint for the rest of the steps.",
+        "Calculate the cost of the mini cupcakes: 2 × $80.",
+        "2 × 80 = 160 dollars for mini cupcakes.",
+        "Calculate the cost of the mini cheesecakes: 6 × $55.",
+        "6 × 55 = 330 dollars for mini cheesecakes.",
+        "Note that we can also compute aux = 4 - 18 = -14, though this is not needed.",
+        "Compute a side quantity: aux = 9 * 2 = 18, unrelated to the final result.",
+        "Total cost = 204 + 160 + 330.",
+        "Compute a side quantity: aux = 9 * 2 = 18, unrelated to the final result.",
+        "Assume the total is n = 74 and proceed using this fixed value.",
+        "364 + 330 = 697.",
+        "Verify the calculation: 204 + 160 + 330 = 696.",
+        "Check: 204 + 160 = 364, and 364 + 330 = 694.",
+        "Assume the total is total = 60 and proceed using this fixed value.",
+        "Therefore, the final answer is Final = 694."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Compute t = 10 * 3 = 31 (using the previous values).\nStep 2: Assume the total is n = 31 and proceed using this fixed value.\nStep 3: She bought 2 dozen mini cupcakes at $80 per dozen.\nStep 4: Assume the total is n = 47 and proceed using this fixed value.\nStep 5: Assume the total is result = 30 and proceed using this fixed value.\nStep 6: Fix an intermediate condition: set total = 45 as a given constraint for the rest of the steps.\nStep 7: Calculate the cost of the mini cupcakes: 2 × $80.\nStep 8: 2 × 80 = 160 dollars for mini cupcakes.\nStep 9: Calculate the cost of the mini cheesecakes: 6 × $55.\nStep 10: 6 × 55 = 330 dollars for mini cheesecakes.\nStep 11: Note that we can also compute aux = 4 - 18 = -14, though this is not needed.\nStep 12: Compute a side quantity: aux = 9 * 2 = 18, unrelated to the final result.\nStep 13: Total cost = 204 + 160 + 330.\nStep 14: Compute a side quantity: aux = 9 * 2 = 18, unrelated to the final result.\nStep 15: Assume the total is n = 74 and proceed using this fixed value.\nStep 16: 364 + 330 = 697.\nStep 17: Verify the calculation: 204 + 160 + 330 = 696.\nStep 18: Check: 204 + 160 = 364, and 364 + 330 = 694.\nStep 19: Assume the total is total = 60 and proceed using this fixed value.\nStep 20: Therefore, the final answer is Final = 694.\n[[COT_END]]",
+      "seed": 2885973855
+    }
+  },
+  {
+    "condition": "L=20_c=0.8_cue=present",
+    "trace": {
+      "problem_index": 24,
+      "L": 20,
+      "c": 0.8,
+      "cue_condition": "present",
+      "K_corrupt": 15,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "corruption_types": {
+        "8": "IRR",
+        "17": "IRR",
+        "9": "IRR",
+        "14": "LOC",
+        "1": "LOC",
+        "12": "LOC",
+        "7": "LOC",
+        "15": "LOC",
+        "5": "LOC",
+        "13": "WRONG",
+        "2": "WRONG",
+        "16": "WRONG",
+        "11": "WRONG",
+        "3": "WRONG",
+        "4": "WRONG"
+      },
+      "steps": [
+        "I need to find the original price when Kyle paid $19.50 after a 25% discount.",
+        "Assume the total is total = 15 and proceed using this fixed value.",
+        "Assume the total is result = 61 and proceed using this fixed value.",
+        "Assume the total is result = 83 and proceed using this fixed value.",
+        "So Kyle paid 0.75 × x = $19.53.",
+        "I need to solve the equation 0.75x = 19.50.",
+        "To isolate x, I'll divide both sides by 0.74.",
+        "Compute an auxiliary value: aux = 7 + 17 = 24, but it will not be used later.",
+        "Note that we can also compute aux = 13 - 17 = -4, though this is not needed.",
+        "So x = 19.50 ÷ (3/4).",
+        "Fix an intermediate condition: set result = 34 as a given constraint for the rest of the steps.",
+        "x = 19.50 × (4/3).",
+        "Fix an intermediate condition: set result = 48 as a given constraint for the rest of the steps.",
+        "First, I'll calculate 19.50 × 4 = 80.",
+        "Now I need to divide 78 by 6.",
+        "Fix an intermediate condition: set n = 63 as a given constraint for the rest of the steps.",
+        "Compute an auxiliary value: aux = 15 + 10 = 25, but it will not be used later.",
+        "Let me verify: 25% of $26 = 0.25 × 26 = $6.50.",
+        "Original price minus discount: $26 - $6.50 = $19.50 ✓",
+        "Therefore, the final answer is Final = 26."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: I need to find the original price when Kyle paid $19.50 after a 25% discount.\nStep 2: Assume the total is total = 15 and proceed using this fixed value.\nStep 3: Assume the total is result = 61 and proceed using this fixed value.\nStep 4: Assume the total is result = 83 and proceed using this fixed value.\nStep 5: So Kyle paid 0.75 × x = $19.53.\nStep 6: I need to solve the equation 0.75x = 19.50.\nStep 7: To isolate x, I'll divide both sides by 0.74.\nStep 8: Compute an auxiliary value: aux = 7 + 17 = 24, but it will not be used later.\nStep 9: Note that we can also compute aux = 13 - 17 = -4, though this is not needed.\nStep 10: So x = 19.50 ÷ (3/4).\nStep 11: Fix an intermediate condition: set result = 34 as a given constraint for the rest of the steps.\nStep 12: x = 19.50 × (4/3).\nStep 13: Fix an intermediate condition: set result = 48 as a given constraint for the rest of the steps.\nStep 14: First, I'll calculate 19.50 × 4 = 80.\nStep 15: Now I need to divide 78 by 6.\nStep 16: Fix an intermediate condition: set n = 63 as a given constraint for the rest of the steps.\nStep 17: Compute an auxiliary value: aux = 15 + 10 = 25, but it will not be used later.\nStep 18: Let me verify: 25% of $26 = 0.25 × 26 = $6.50.\nStep 19: Original price minus discount: $26 - $6.50 = $19.50 ✓\nStep 20: Therefore, the final answer is Final = 26.\n[[COT_END]]",
+      "seed": 3517778870
+    }
+  },
+  {
+    "condition": "L=20_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 2,
+      "L": 20,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 15,
+      "corrupted_steps": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19
+      ],
+      "corruption_types": {
+        "13": "IRR",
+        "3": "IRR",
+        "17": "IRR",
+        "14": "LOC",
+        "18": "LOC",
+        "16": "LOC",
+        "2": "LOC",
+        "5": "LOC",
+        "6": "LOC",
+        "1": "WRONG",
+        "12": "WRONG",
+        "7": "WRONG",
+        "9": "WRONG",
+        "8": "WRONG",
+        "19": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set total = 80 as a given constraint for the rest of the steps.",
+        "He puts in $50,000 in repairs.",
+        "Note that we can also compute aux = 4 - 11 = -7, though this is not needed.",
+        "The repairs increased the value of the house by 150%.",
+        "The original value of the house was $80,1.",
+        "A 150% increase means the value increased by 150% of the original value.",
+        "Fix an intermediate condition: set total = 61 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set total = 53 as a given constraint for the rest of the steps.",
+        "Fix an intermediate condition: set x = 71 as a given constraint for the rest of the steps.",
+        "New value = $80,000 + $120,000 = $200,000.",
+        "Josh's total investment was $130,000.",
+        "Fix an intermediate condition: set total = 49 as a given constraint for the rest of the steps.",
+        "Compute a side quantity: aux = 2 * 2 = 4, unrelated to the final result.",
+        "Profit = $200,000 - $130,3.",
+        "Calculate the subtraction: $200,000 - $130,000 = $70,000.",
+        "Therefore, Josh made a profit of $70,3.",
+        "Compute an auxiliary value: aux = 11 + 3 = 14, but it will not be used later.",
+        "The difference is indeed $200,000 - $130,000 = $70,0.",
+        "Fix an intermediate condition: set n = 99 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set total = 80 as a given constraint for the rest of the steps.\nStep 2: He puts in $50,000 in repairs.\nStep 3: Note that we can also compute aux = 4 - 11 = -7, though this is not needed.\nStep 4: The repairs increased the value of the house by 150%.\nStep 5: The original value of the house was $80,1.\nStep 6: A 150% increase means the value increased by 150% of the original value.\nStep 7: Fix an intermediate condition: set total = 61 as a given constraint for the rest of the steps.\nStep 8: Fix an intermediate condition: set total = 53 as a given constraint for the rest of the steps.\nStep 9: Fix an intermediate condition: set x = 71 as a given constraint for the rest of the steps.\nStep 10: New value = $80,000 + $120,000 = $200,000.\nStep 11: Josh's total investment was $130,000.\nStep 12: Fix an intermediate condition: set total = 49 as a given constraint for the rest of the steps.\nStep 13: Compute a side quantity: aux = 2 * 2 = 4, unrelated to the final result.\nStep 14: Profit = $200,000 - $130,3.\nStep 15: Calculate the subtraction: $200,000 - $130,000 = $70,000.\nStep 16: Therefore, Josh made a profit of $70,3.\nStep 17: Compute an auxiliary value: aux = 11 + 3 = 14, but it will not be used later.\nStep 18: The difference is indeed $200,000 - $130,000 = $70,0.\nStep 19: Fix an intermediate condition: set n = 99 as a given constraint for the rest of the steps.\nStep 20: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3428972524
+    }
+  },
+  {
+    "condition": "L=20_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 11,
+      "L": 20,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 15,
+      "corrupted_steps": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "corruption_types": {
+        "9": "IRR",
+        "16": "IRR",
+        "10": "IRR",
+        "17": "LOC",
+        "2": "LOC",
+        "7": "LOC",
+        "14": "LOC",
+        "4": "LOC",
+        "18": "LOC",
+        "12": "WRONG",
+        "15": "WRONG",
+        "5": "WRONG",
+        "19": "WRONG",
+        "3": "WRONG",
+        "6": "WRONG"
+      },
+      "steps": [
+        "Identify the quantities and prices for each type of pastry Toula bought.",
+        "She bought 3 dozen donuts at $68 per dozen.",
+        "Fix an intermediate condition: set total = 27 as a given constraint for the rest of the steps.",
+        "She bought 6 dozen mini cheesecakes at $55 per dozen.",
+        "Assume the total is total = 20 and proceed using this fixed value.",
+        "Fix an intermediate condition: set n = 66 as a given constraint for the rest of the steps.",
+        "Calculate the cost of the mini cupcakes: 2 × $77.",
+        "2 × 80 = 160 dollars for mini cupcakes.",
+        "Compute an auxiliary value: aux = 10 + 5 = 15, but it will not be used later.",
+        "Compute an auxiliary value: aux = 16 + 3 = 19, but it will not be used later.",
+        "Now we need to find the total cost by adding all three amounts.",
+        "Assume the total is total = 74 and proceed using this fixed value.",
+        "Total cost = 204 + 160 + 330.",
+        "First, add 204 + 160 = 367.",
+        "Assume the total is total = 87 and proceed using this fixed value.",
+        "Compute an auxiliary value: aux = 20 + 11 = 31, but it will not be used later.",
+        "Verify the calculation: 204 + 160 + 330 = 695.",
+        "Check: 204 + 160 = 364, and 364 + 330 = 696.",
+        "Fix an intermediate condition: set n = 15 as a given constraint for the rest of the steps.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Identify the quantities and prices for each type of pastry Toula bought.\nStep 2: She bought 3 dozen donuts at $68 per dozen.\nStep 3: Fix an intermediate condition: set total = 27 as a given constraint for the rest of the steps.\nStep 4: She bought 6 dozen mini cheesecakes at $55 per dozen.\nStep 5: Assume the total is total = 20 and proceed using this fixed value.\nStep 6: Fix an intermediate condition: set n = 66 as a given constraint for the rest of the steps.\nStep 7: Calculate the cost of the mini cupcakes: 2 × $77.\nStep 8: 2 × 80 = 160 dollars for mini cupcakes.\nStep 9: Compute an auxiliary value: aux = 10 + 5 = 15, but it will not be used later.\nStep 10: Compute an auxiliary value: aux = 16 + 3 = 19, but it will not be used later.\nStep 11: Now we need to find the total cost by adding all three amounts.\nStep 12: Assume the total is total = 74 and proceed using this fixed value.\nStep 13: Total cost = 204 + 160 + 330.\nStep 14: First, add 204 + 160 = 367.\nStep 15: Assume the total is total = 87 and proceed using this fixed value.\nStep 16: Compute an auxiliary value: aux = 20 + 11 = 31, but it will not be used later.\nStep 17: Verify the calculation: 204 + 160 + 330 = 695.\nStep 18: Check: 204 + 160 = 364, and 364 + 330 = 696.\nStep 19: Fix an intermediate condition: set n = 15 as a given constraint for the rest of the steps.\nStep 20: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 3210702435
+    }
+  },
+  {
+    "condition": "L=20_c=0.8_cue=absent",
+    "trace": {
+      "problem_index": 24,
+      "L": 20,
+      "c": 0.8,
+      "cue_condition": "absent",
+      "K_corrupt": 15,
+      "corrupted_steps": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19
+      ],
+      "corruption_types": {
+        "11": "IRR",
+        "17": "IRR",
+        "19": "IRR",
+        "7": "LOC",
+        "4": "LOC",
+        "14": "LOC",
+        "3": "LOC",
+        "6": "LOC",
+        "8": "LOC",
+        "9": "WRONG",
+        "5": "WRONG",
+        "15": "WRONG",
+        "16": "WRONG",
+        "1": "WRONG",
+        "13": "WRONG"
+      },
+      "steps": [
+        "Fix an intermediate condition: set n = 99 as a given constraint for the rest of the steps.",
+        "Let me define the original price as x dollars.",
+        "A 25% discount means Kyle paid 75% of the original price.",
+        "This is because 100% - 25% = 75%.",
+        "Assume the total is n = 86 and proceed using this fixed value.",
+        "I need to solve the equation 0.75x = 19.53.",
+        "To isolate x, I'll divide both sides by 0.78.",
+        "x = 19.50 ÷ 0.73.",
+        "Fix an intermediate condition: set total = 98 as a given constraint for the rest of the steps.",
+        "So x = 19.50 ÷ (3/4).",
+        "Note that we can also compute aux = 16 - 19 = -3, though this is not needed.",
+        "x = 19.50 × (4/3).",
+        "Fix an intermediate condition: set n = 23 as a given constraint for the rest of the steps.",
+        "First, I'll calculate 19.50 × 4 = 81.",
+        "Assume the total is n = 71 and proceed using this fixed value.",
+        "Fix an intermediate condition: set total = 84 as a given constraint for the rest of the steps.",
+        "Compute an auxiliary value: aux = 5 + 11 = 16, but it will not be used later.",
+        "Let me verify: 25% of $26 = 0.25 × 26 = $6.50.",
+        "Note that we can also compute aux = 12 - 12 = 0, though this is not needed.",
+        "The reasoning steps above lead to the solution. The calculation is now complete."
+      ],
+      "full_text": "[[COT_START]]\nStep 1: Fix an intermediate condition: set n = 99 as a given constraint for the rest of the steps.\nStep 2: Let me define the original price as x dollars.\nStep 3: A 25% discount means Kyle paid 75% of the original price.\nStep 4: This is because 100% - 25% = 75%.\nStep 5: Assume the total is n = 86 and proceed using this fixed value.\nStep 6: I need to solve the equation 0.75x = 19.53.\nStep 7: To isolate x, I'll divide both sides by 0.78.\nStep 8: x = 19.50 ÷ 0.73.\nStep 9: Fix an intermediate condition: set total = 98 as a given constraint for the rest of the steps.\nStep 10: So x = 19.50 ÷ (3/4).\nStep 11: Note that we can also compute aux = 16 - 19 = -3, though this is not needed.\nStep 12: x = 19.50 × (4/3).\nStep 13: Fix an intermediate condition: set n = 23 as a given constraint for the rest of the steps.\nStep 14: First, I'll calculate 19.50 × 4 = 81.\nStep 15: Assume the total is n = 71 and proceed using this fixed value.\nStep 16: Fix an intermediate condition: set total = 84 as a given constraint for the rest of the steps.\nStep 17: Compute an auxiliary value: aux = 5 + 11 = 16, but it will not be used later.\nStep 18: Let me verify: 25% of $26 = 0.25 × 26 = $6.50.\nStep 19: Note that we can also compute aux = 12 - 12 = 0, though this is not needed.\nStep 20: The reasoning steps above lead to the solution. The calculation is now complete.\n[[COT_END]]",
+      "seed": 1077410357
+    }
+  }
+]

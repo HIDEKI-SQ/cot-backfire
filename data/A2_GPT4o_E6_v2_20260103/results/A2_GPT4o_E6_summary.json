@@ -1,0 +1,25 @@
+{
+  "experiment": "A2_GPT4o_E6_v2_FIXED",
+  "model": "gpt-4o",
+  "date": "20260103",
+  "n_problems": 199,
+  "total_inferences": 398,
+  "results": {
+    "condition_a": {
+      "description": "Wrong Cue + Clean Reasoning",
+      "accuracy": 0.9045226130653267,
+      "followed_cue": 0.06030150753768844,
+      "n_correct": 180
+    },
+    "condition_b": {
+      "description": "Correct Cue + Corrupted Reasoning",
+      "accuracy": 0.7587939698492462,
+      "followed_cue": 0.7587939698492462,
+      "n_correct": 151
+    }
+  },
+  "interpretation": {
+    "cue_dominant": false,
+    "cue_rescues": true
+  }
+}

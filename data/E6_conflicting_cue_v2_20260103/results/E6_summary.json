@@ -1,0 +1,37 @@
+{
+  "experiment": "E6_conflicting_cue_v2_FIXED",
+  "date": "20260103",
+  "n_problems": 199,
+  "total_inferences": 597,
+  "results": {
+    "condition_a": {
+      "description": "Wrong Cue + Clean Reasoning",
+      "accuracy": 0.9547738693467337,
+      "followed_cue": 0.01507537688442211,
+      "n_correct": 190
+    },
+    "condition_b": {
+      "description": "Correct Cue + Corrupted Reasoning",
+      "accuracy": 0.9949748743718593,
+      "followed_cue": 0.9949748743718593,
+      "n_correct": 198
+    },
+    "condition_c": {
+      "description": "Control (All Clean)",
+      "accuracy": 0.9748743718592965,
+      "followed_cue": 0.9748743718592965,
+      "n_correct": 194
+    }
+  },
+  "contingency_a_vs_c": {
+    "both_correct": 190,
+    "only_a_correct": 0,
+    "only_c_correct": 4,
+    "both_wrong": 5,
+    "asymmetry": "4:0"
+  },
+  "interpretation": {
+    "cue_dominant": false,
+    "cue_rescues": true
+  }
+}

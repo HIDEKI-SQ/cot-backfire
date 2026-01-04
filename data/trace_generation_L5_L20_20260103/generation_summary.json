@@ -1,0 +1,45 @@
+{
+  "experiment": "trace_generation_L5_L20",
+  "date": "20260103",
+  "seeds": {
+    "global": 20251224,
+    "trace_gen": 20260103
+  },
+  "results": {
+    "L5": {
+      "total_problems": 199,
+      "successful_traces": 191,
+      "failed_indices": [
+        306,
+        403,
+        529,
+        814,
+        962,
+        1046,
+        1161,
+        1309
+      ]
+    },
+    "L20": {
+      "total_problems": 199,
+      "successful_traces": 189,
+      "failed_indices": [
+        85,
+        306,
+        403,
+        814,
+        962,
+        989,
+        1046,
+        1071,
+        1161,
+        1309
+      ]
+    }
+  },
+  "common_problems": 188,
+  "output_files": {
+    "L5": "/content/drive/MyDrive/CoT_Experiment/full_experiment_v3_20251224/clean_traces/clean_traces_I5_v3.json",
+    "L20": "/content/drive/MyDrive/CoT_Experiment/full_experiment_v3_20251224/clean_traces/clean_traces_I20_v3.json"
+  }
+}

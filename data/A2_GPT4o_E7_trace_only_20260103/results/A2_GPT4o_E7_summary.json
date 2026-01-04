@@ -1,0 +1,45 @@
+{
+  "experiment": "A2_GPT4o_E7_trace_only",
+  "model": "gpt-4o",
+  "date": "20260103",
+  "n_problems": 199,
+  "total_inferences": 597,
+  "results": {
+    "condition_a": {
+      "description": "Trace-Only + Cue Present",
+      "has_problem": false,
+      "has_cue": true,
+      "accuracy": 0.9949748743718593,
+      "n_correct": 198
+    },
+    "condition_b": {
+      "description": "Trace-Only + Cue Absent",
+      "has_problem": false,
+      "has_cue": false,
+      "accuracy": 0.8341708542713567,
+      "n_correct": 166
+    },
+    "condition_c": {
+      "description": "Full Context (Control)",
+      "has_problem": true,
+      "has_cue": true,
+      "accuracy": 0.9748743718592965,
+      "n_correct": 194
+    }
+  },
+  "contingency_a_vs_b": {
+    "both_correct": 166,
+    "only_a_correct": 32,
+    "only_b_correct": 0,
+    "both_wrong": 1,
+    "asymmetry": "32:0"
+  },
+  "effects": {
+    "cue_effect": 0.16080402010050254,
+    "problem_effect": -0.02010050251256279
+  },
+  "interpretation": {
+    "extraction_confirmed": true,
+    "cue_critical": true
+  }
+}

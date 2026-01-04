@@ -1,0 +1,114 @@
+{
+  "experiment": "E8_length_cue_v2_FIXED",
+  "date": "20260103",
+  "n_problems": 188,
+  "total_inferences": 3008,
+  "conditions": {
+    "lengths": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "corruption_levels": [
+      0.4,
+      0.8
+    ],
+    "cue_conditions": [
+      "present",
+      "absent"
+    ]
+  },
+  "results": {
+    "c0.4_cuepresent_L5": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.4_cuepresent_L10": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.4_cuepresent_L15": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.4_cuepresent_L20": {
+      "accuracy": 0.9946808510638298,
+      "n_correct": 187,
+      "n_total": 188
+    },
+    "c0.4_cueabsent_L5": {
+      "accuracy": 0.8404255319148937,
+      "n_correct": 158,
+      "n_total": 188
+    },
+    "c0.4_cueabsent_L10": {
+      "accuracy": 0.9042553191489362,
+      "n_correct": 170,
+      "n_total": 188
+    },
+    "c0.4_cueabsent_L15": {
+      "accuracy": 0.8829787234042553,
+      "n_correct": 166,
+      "n_total": 188
+    },
+    "c0.4_cueabsent_L20": {
+      "accuracy": 0.9840425531914894,
+      "n_correct": 185,
+      "n_total": 188
+    },
+    "c0.8_cuepresent_L5": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.8_cuepresent_L10": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.8_cuepresent_L15": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.8_cuepresent_L20": {
+      "accuracy": 1.0,
+      "n_correct": 188,
+      "n_total": 188
+    },
+    "c0.8_cueabsent_L5": {
+      "accuracy": 0.7872340425531915,
+      "n_correct": 148,
+      "n_total": 188
+    },
+    "c0.8_cueabsent_L10": {
+      "accuracy": 0.7127659574468085,
+      "n_correct": 134,
+      "n_total": 188
+    },
+    "c0.8_cueabsent_L15": {
+      "accuracy": 0.7180851063829787,
+      "n_correct": 135,
+      "n_total": 188
+    },
+    "c0.8_cueabsent_L20": {
+      "accuracy": 0.9468085106382979,
+      "n_correct": 178,
+      "n_total": 188
+    }
+  },
+  "l_effects": {
+    "c0.4_cuepresent": -0.005319148936170248,
+    "c0.4_cueabsent": 0.1436170212765957,
+    "c0.8_cuepresent": 0.0,
+    "c0.8_cueabsent": 0.15957446808510634
+  },
+  "interpretation": {
+    "cue_present_l_insensitive": true,
+    "cue_absent_l_sensitive": true
+  }
+}

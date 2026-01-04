@@ -1,0 +1,44 @@
+{
+  "experiment": "E7_trace_only_v2_FIXED",
+  "date": "20260103",
+  "n_problems": 199,
+  "total_inferences": 597,
+  "results": {
+    "condition_a": {
+      "description": "Trace-Only + Cue Present",
+      "has_problem": false,
+      "has_cue": true,
+      "accuracy": 0.9849246231155779,
+      "n_correct": 196
+    },
+    "condition_b": {
+      "description": "Trace-Only + Cue Absent",
+      "has_problem": false,
+      "has_cue": false,
+      "accuracy": 0.8743718592964824,
+      "n_correct": 174
+    },
+    "condition_c": {
+      "description": "Full Context (Control)",
+      "has_problem": true,
+      "has_cue": true,
+      "accuracy": 0.9748743718592965,
+      "n_correct": 194
+    }
+  },
+  "contingency_a_vs_b": {
+    "both_correct": 174,
+    "only_a_correct": 22,
+    "only_b_correct": 0,
+    "both_wrong": 3,
+    "asymmetry": "22:0"
+  },
+  "effects": {
+    "cue_effect": 0.11055276381909551,
+    "problem_effect": -0.01005025125628145
+  },
+  "interpretation": {
+    "extraction_confirmed": true,
+    "cue_critical": false
+  }
+}

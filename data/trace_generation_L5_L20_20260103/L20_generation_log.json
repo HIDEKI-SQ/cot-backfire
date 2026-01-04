@@ -1,0 +1,1435 @@
+[
+  {
+    "problem_index": 2,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 11,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 24,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 55,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 64,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 65,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 66,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 79,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 83,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 85,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 48 vs 44",
+      "Attempt 2: Validation error - Answer mismatch: 48 vs 44",
+      "Attempt 3: Validation error - Answer mismatch: 48 vs 44"
+    ]
+  },
+  {
+    "problem_index": 104,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 109,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 114,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 116,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 120,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 122,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 125,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 129,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 150,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 152,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 154,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 167,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 169,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 175,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 176,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 178,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 198,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 205,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 210,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 217,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 222,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 223,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 225,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 229,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 241,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 245,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 250,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 253,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 256,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 259,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 260,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 262,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 266,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 272,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 274,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 278,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 279,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 290,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 295,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 302,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 306,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 5 vs 10",
+      "Attempt 2: Validation error - Answer mismatch: 5 vs 10",
+      "Attempt 3: Validation error - Answer mismatch: 5 vs 10"
+    ]
+  },
+  {
+    "problem_index": 321,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 328,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 336,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 350,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 353,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 360,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 389,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 395,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 398,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 400,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 403,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 135 vs 81",
+      "Attempt 2: Validation error - Answer mismatch: 135 vs 81",
+      "Attempt 3: Validation error - Answer mismatch: 135 vs 81"
+    ]
+  },
+  {
+    "problem_index": 405,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 408,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 410,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 416,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 422,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 430,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 437,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 439,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 450,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 461,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 463,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 465,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 472,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 481,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 488,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 492,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 499,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 500,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 503,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 524,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 529,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 531,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 536,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 541,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 548,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 551,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 563,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 567,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 575,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 576,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 597,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 598,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 617,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 624,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 633,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 637,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 644,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 650,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 653,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 656,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 673,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 679,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 681,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 682,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 684,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 688,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 695,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 710,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 715,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 721,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 728,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 741,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 743,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 746,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 758,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 759,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 762,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 763,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 764,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 775,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 787,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 794,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 814,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 17 vs 11",
+      "Attempt 2: Validation error - Answer mismatch: 17 vs 11",
+      "Attempt 3: Validation error - Answer mismatch: 17 vs 11"
+    ]
+  },
+  {
+    "problem_index": 819,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 824,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 841,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 850,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 854,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 871,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 889,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 901,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 908,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 909,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 915,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 923,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 925,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 927,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 939,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 949,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 960,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 961,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 962,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 600 vs 1000",
+      "Attempt 2: Validation error - Answer mismatch: 600 vs 1000",
+      "Attempt 3: Validation error - Answer mismatch: 600 vs 1000"
+    ]
+  },
+  {
+    "problem_index": 963,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 969,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 975,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 977,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 989,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 30 vs 45",
+      "Attempt 2: Validation error - Answer mismatch: 30 vs 45",
+      "Attempt 3: Validation error - Answer mismatch: 30 vs 45"
+    ]
+  },
+  {
+    "problem_index": 998,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1008,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1019,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1023,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1026,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1035,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1036,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1046,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 47 vs 189",
+      "Attempt 2: Validation error - Answer mismatch: 47 vs 189",
+      "Attempt 3: Validation error - Answer mismatch: 47 vs 189"
+    ]
+  },
+  {
+    "problem_index": 1049,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1057,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1058,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1069,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1071,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 257 vs 251",
+      "Attempt 2: Validation error - Answer mismatch: 257 vs 251",
+      "Attempt 3: Validation error - Answer mismatch: 257 vs 251"
+    ]
+  },
+  {
+    "problem_index": 1080,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1088,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1093,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1102,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1109,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1117,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1132,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1147,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1152,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1154,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1158,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1159,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1161,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 140 vs 170",
+      "Attempt 2: Validation error - Answer mismatch: 140 vs 170",
+      "Attempt 3: Validation error - Answer mismatch: 140 vs 170"
+    ]
+  },
+  {
+    "problem_index": 1168,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1175,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1177,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1202,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1206,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1214,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1216,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1229,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1234,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1236,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1240,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1249,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1251,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1254,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1258,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1262,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1267,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1286,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1291,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1294,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1295,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1301,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  },
+  {
+    "problem_index": 1309,
+    "L": 20,
+    "attempts": 3,
+    "success": false,
+    "errors": [
+      "Attempt 1: Validation error - Answer mismatch: 2180 vs 2280",
+      "Attempt 2: Validation error - Answer mismatch: 2180 vs 2280",
+      "Attempt 3: Validation error - Answer mismatch: 2180 vs 2280"
+    ]
+  },
+  {
+    "problem_index": 1316,
+    "L": 20,
+    "attempts": 1,
+    "success": true,
+    "errors": []
+  }
+]

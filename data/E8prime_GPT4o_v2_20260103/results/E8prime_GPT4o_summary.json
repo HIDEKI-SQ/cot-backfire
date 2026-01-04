@@ -1,0 +1,44 @@
+{
+  "experiment": "E8prime_GPT4o_v2_FIXED",
+  "model": "gpt-4o",
+  "date": "20260103",
+  "n_problems": 188,
+  "total_inferences": 752,
+  "conditions": {
+    "lengths": [
+      10,
+      20
+    ],
+    "corruption_level": 0.8,
+    "cue_conditions": [
+      "present",
+      "absent"
+    ]
+  },
+  "results": {
+    "L10_cuepresent": {
+      "accuracy": 0.7925531914893617,
+      "n_correct": 149,
+      "n_total": 188
+    },
+    "L10_cueabsent": {
+      "accuracy": 0.6914893617021277,
+      "n_correct": 130,
+      "n_total": 188
+    },
+    "L20_cuepresent": {
+      "accuracy": 0.9308510638297872,
+      "n_correct": 175,
+      "n_total": 188
+    },
+    "L20_cueabsent": {
+      "accuracy": 0.8723404255319149,
+      "n_correct": 164,
+      "n_total": 188
+    }
+  },
+  "l_effects": {
+    "cuepresent": 0.13829787234042556,
+    "cueabsent": 0.18085106382978722
+  }
+}
