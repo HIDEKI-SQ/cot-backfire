@@ -364,7 +364,9 @@ MIT License - see [LICENSE](LICENSE)
 
 **HIDEKI**  
 Independent Researcher, Japan  
-ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608)
+ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608)  
+Email: hideki@r3776.jp  
+
 
 ## Acknowledgements
 
