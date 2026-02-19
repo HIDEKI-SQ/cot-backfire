@@ -1,28 +1,15 @@
 # When Reasoning Traces Backfire
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18050394.svg)](https://doi.org/10.5281/zenodo.18050394)
-
-**Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning**
+**How Language Models Process Externally Provided Chain-of-Thought Reasoning**
 
 ## Overview
 
-This repository contains code, data, and materials for three related papers:
+This repository contains code, data, and materials for four related papers investigating how language models respond to reasoning traces of varying quality from external sources.
 
-### Paper A0: Backfire Boundary
-> HIDEKI. "When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning." *Preprint* (2025).  
-> DOI: [10.5281/zenodo.18050394](https://doi.org/10.5281/zenodo.18050394)
-
-### Paper A1: The Capability–Compliance Paradox
-> HIDEKI. "The Capability–Compliance Paradox: Vulnerability to External Guidance Revealed by Language Models." *Preprint* (2025).  
-> DOI: [10.5281/zenodo.18105329](https://doi.org/10.5281/zenodo.18105329)
-
-### Paper A2: Cue-Conditional Length Effects (Main)
-> HIDEKI. "Length Effects in Chain-of-Thought Are Conditional on Explicit Answer-Cue Availability." *Preprint* (2026).  
-> DOI: [10.5281/zenodo.18144101](https://doi.org/10.5281/zenodo.18144101)
-
-### Paper A2-preliminary: Cue-Dominant Extraction (Archived)
-> HIDEKI. "Cue-Dominant Extraction Explains Length Effects in Corrupted Reasoning Traces." *Preprint* (2025).  
-> DOI: [10.5281/zenodo.18132430](https://doi.org/10.5281/zenodo.18132430)
+- **Paper A0**
+- **Paper A1**
+- **Paper A2**
+- **Paper A2-preliminary** (archived)
 
 We introduce a **provided-CoT paradigm** that separates reasoning generation from reasoning following, enabling controlled study of how language models respond to reasoning traces of varying quality.
 
@@ -30,24 +17,25 @@ We introduce a **provided-CoT paradigm** that separates reasoning generation fro
 
 ## Key Findings
 
-### A0: Backfire Boundary
-1. **Backfire Boundary**: A critical point where provided CoT becomes counterproductive
-2. **Model-Dependent Threshold**: The boundary depends on baseline capability
-3. **Redundancy over Integration**: Longer traces provide resilience through redundancy
+### A0
+1. **Compliance, Not Verification**: Models follow provided traces rather than verifying them (82:1 flip asymmetry)
+2. **Capability Override**: 40.4% of independently solvable problems fail under corrupted traces
+3. **Inverse Capability–Robustness**: Higher-capability models reach the backfire boundary at lower corruption
+4. **Minimal Theory**: The Δ = q₀ − p₀ criterion predicts backfire risk across models
 
-### A1: The Capability–Compliance Paradox
+### A1
 1. **Compliance-Induced Failure (CIF)**: High-capability models abandon correct reasoning for erroneous external input (40% CIF rate, 38:0 asymmetry)
 2. **Capability-Compliance Paradox**: Higher-capability models show greater vulnerability
 3. **Verification Eliminates CIF**: VERIFY instructions fully restore performance (57.6% → 96.0%)
 4. **Contamination Type Matters**: WRONG traces cause catastrophic failures (GPT-4o: 7.1%)
 
-### A2: Cue-Conditional Length Effects (Main)
-1. **Cue-Conditional Length Law**: Length effects exist only when answer cues are absent; with cues present, accuracy saturates regardless of trace length (∆L ≈ 0 pp)
+### A2
+1. **Cue-Conditional Length Law**: Length effects exist only when answer cues are absent; with cues present, accuracy saturates regardless of trace length (ΔL ≈ 0 pp)
 2. **Dual-Path Processing Model**: Cue-preferential extraction (fast path) with fallback computation (slow path) when cues are unavailable or unreliable
 3. **Corruption Sensitivity**: Models differ not in extraction ability but in threshold for abandoning extraction—Claude tolerates more corruption than GPT-4o
 4. **Design Implication**: Cue integrity and corruption sensitivity calibration—not trace length—should be primary design targets for trace-consuming systems
 
-### A2-preliminary: Cue-Dominant Extraction (Archived)
+### A2-preliminary (Archived)
 1. **Order Invariance**: Shuffling step order does not reduce accuracy (+7.5%, P=0.001), contradicting sequential integration
 2. **Cue Dominance**: Final-answer cue status explains ~7× more variance than step position (31.7 vs 4.5 pp)
 3. **Two-Stage Processing**: Models extract from cues first, fall back to redundancy when cues are corrupted
@@ -109,34 +97,16 @@ cot-backfire/
 │   │   └── generation_summary.json
 │   ├── E6_conflicting_cue_v2_20260103/   # A2 E6: Conflicting-cue (Claude)
 │   │   └── results/
-│   │       ├── E6_conflicting_cue_results.json
-│   │       ├── E6_conflicting_cue_traces.json
-│   │       └── E6_summary.json
 │   ├── A2_GPT4o_E6_v2_20260103/          # A2 E6: Conflicting-cue (GPT-4o)
 │   │   └── results/
-│   │       ├── A2_GPT4o_E6_results.json
-│   │       ├── A2_GPT4o_E6_summary.json
-│   │       └── A2_GPT4o_E6_traces.json
 │   ├── E7_trace_only_v2_20260103/        # A2 E7: Trace-only (Claude)
 │   │   └── results/
-│   │       ├── E7_trace_only_results.json
-│   │       ├── E7_trace_only_traces.json
-│   │       └── E7_summary.json
 │   ├── A2_GPT4o_E7_trace_only_20260103/  # A2 E7: Trace-only (GPT-4o)
 │   │   └── results/
-│   │       ├── A2_GPT4o_E7_results.json
-│   │       ├── A2_GPT4o_E7_summary.json
-│   │       └── A2_GPT4o_E7_traces.json
 │   ├── E8_length_cue_v2_20260103/        # A2 E8: Length × Cue × Corruption (Claude)
 │   │   └── results/
-│   │       ├── E8_length_cue_results.json
-│   │       ├── E8_length_cue_figure.png
-│   │       ├── E8_traces_sample.json
-│   │       └── E8_summary.json
 │   └── E8prime_GPT4o_v2_20260103/        # A2 E8': Cross-model (GPT-4o)
 │       └── results/
-│           ├── E8prime_GPT4o_results.json
-│           └── E8prime_GPT4o_summary.json
 │
 ├── notebooks/
 │   │   # === A0 experiments ===
@@ -177,21 +147,7 @@ cot-backfire/
 │
 ├── figures/
 │   ├── A2/                               # A2 main paper figures
-│   │   ├── fig1_e8_main_result.pdf
-│   │   ├── fig1_e8_main_result.png
-│   │   ├── fig2_e7_trace_only.pdf
-│   │   ├── fig2_e7_trace_only.png
-│   │   ├── fig3_e6_conflicting_cue.pdf
-│   │   ├── fig3_e6_conflicting_cue.png
-│   │   ├── fig4_corruption_sensitivity.pdf
-│   │   ├── fig4_corruption_sensitivity.png
-│   │   ├── fig5_dual_path_model.pdf
-│   │   └── fig5_dual_path_model.png
 │   ├── A2_Preliminary/                   # A2-preliminary paper figures (archived)
-│   │   ├── fig1_experimental_design.pdf
-│   │   ├── fig2_main_results.pdf
-│   │   ├── fig3_order_vs_position.pdf
-│   │   └── fig4_mechanistic_model.pdf
 │   └── ...
 └── docs/
 ```
@@ -267,7 +223,7 @@ cot-backfire/
 
 ### E8/E8': Length × Cue Interaction
 
-| Model | Cue Status | c | ∆L (L=20 − L=5) | Pattern |
+| Model | Cue Status | c | ΔL (L=20 − L=5) | Pattern |
 |-------|------------|---|-----------------|---------|
 | Claude | Present | 0.4 | −0.5 pp | Flat (ceiling) |
 | Claude | Present | 0.8 | 0.0 pp | Flat (ceiling) |
@@ -337,7 +293,7 @@ These experiments represent the initial exploration that led to the main A2 find
 
 ## A0 Experiments
 
-### Experiment 1: I × λ Grid (Claude Sonnet)
+### Experiment 1: I × c Grid (Claude Sonnet)
 - **Notebook**: `cot_experiment_full_v3.ipynb`
 - **Inferences**: 3,582
 
@@ -349,7 +305,7 @@ These experiments represent the initial exploration that led to the main A2 find
 - **Notebook**: `cot_experiment_direct_v3.ipynb`
 - **Inferences**: 199
 
-### Experiment 4: Fine-grained λ (Claude Sonnet)
+### Experiment 4: Fine-grained c (Claude Sonnet)
 - **Notebook**: `cot_experiment_acrit_v3.ipynb`
 - **Inferences**: 995
 
@@ -395,49 +351,8 @@ tqdm
 
 ## Citations
 
-### A0: Backfire Boundary
-```bibtex
-@article{hideki2025backfire,
-  title={When Reasoning Traces Backfire: Identifying the Backfire Boundary of Provided Chain-of-Thought Reasoning},
-  author={HIDEKI},
-  journal={Preprint},
-  year={2025},
-  doi={10.5281/zenodo.18050394}
-}
-```
-
-### A1: The Capability–Compliance Paradox
-```bibtex
-@article{hideki2025paradox,
-  title={The Capability--Compliance Paradox: Vulnerability to External Guidance Revealed by Language Models},
-  author={HIDEKI},
-  journal={Preprint},
-  year={2025},
-  doi={10.5281/zenodo.18105329}
-}
-```
-
-### A2: Cue-Conditional Length Effects (Main)
-```bibtex
-@article{hideki2026cue,
-  title={Length Effects in Chain-of-Thought Are Conditional on Explicit Answer-Cue Availability},
-  author={HIDEKI},
-  journal={Preprint},
-  year={2026},
-  doi={10.5281/zenodo.18144101}
-}
-```
-
-### A2-preliminary: Cue-Dominant Extraction (Archived)
-```bibtex
-@article{hideki2025extraction,
-  title={Cue-Dominant Extraction Explains Length Effects in Corrupted Reasoning Traces},
-  author={HIDEKI},
-  journal={Preprint},
-  year={2025},
-  doi={10.5281/zenodo.18132430}
-}
-```
+Paper titles and DOIs are managed via preprint servers.
+Please refer to the corresponding preprint for citation information.
 
 ---
 
@@ -464,3 +379,4 @@ AI writing assistants were used for manuscript preparation.
 - **v1.1.A1** (2025-12-31): Updated A1 title to "The Capability–Compliance Paradox"
 - **v1.0.A2** (2026-01-02): Added A2-preliminary experiments (E1-E5)
 - **v1.1.A2** (2026-01-04): Added A2 main experiments (E6-E8) and updated paper to "Length Effects Are Cue-Conditional"
+- **v2.0.0** (2026-02-19): Documentation update
