@@ -1,97 +1,147 @@
-# When Reasoning Traces Backfire (A0)
+# When Reasoning Traces Backfire (A1)
 
-**Compliance Overrides Capability in Provided Chain-of-Thought Reasoning**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
 
-This repository contains code, data, and materials supporting Paper A0.
+**Verification Affordance Governs Language Model Vulnerability to Corrupted Reasoning**
+
+This repository contains code, data, and materials supporting Paper A1.
 
 ## Scope of This Release
 
-This release corresponds specifically to **Paper A0**.
+This release corresponds specifically to **Paper A1**.
 
-Other research threads (A1, A2, etc.) exist in this repository but are not required to reproduce A0 results and are considered separate research directions with independent releases.
+Other research threads (A0, A2, etc.) exist in this repository but are not required to reproduce A1 results and are considered separate research directions with independent releases.
 
 ---
 
-## Paper A0: Core Contribution
+## Paper A1: Core Contribution
 
-> HIDEKI. "Compliance Overrides Capability: When Provided Reasoning Traces Make Stronger Models More Fragile." *Preprint* (2026).
+> HIDEKI. "Verification affordance, not trace quality, governs language model vulnerability to corrupted reasoning." *Submitted to Nature Machine Intelligence* (2026).
 
 ### Research Question
 
-What happens when language models consume externally provided reasoning traces of varying quality?
+What determines whether a language model adopts or rejects corrupted external reasoning—and does the resulting failure reflect graded degradation or categorical switching?
 
 ### Central Claim
 
-Models do not verify provided reasoning traces—they comply with them. This compliance can override independent problem-solving capability and generate a backfire boundary (c\*), where provided reasoning becomes harmful.
+Override vulnerability is a structural property of the task–model interface. Verification affordance—the degree to which a task permits independent answer verification—is the sole governing factor; trace quality, source authority, and model confidence have no predictive association.
 
 ### Key Findings
 
-1. **Compliance, Not Verification**: When traces degrade from clean to corrupted, correct→wrong flips dominate (82:1 asymmetry).
-2. **Capability Override**: Among problems solvable in Direct mode (no trace), 40.4% fail under corrupted traces.
-3. **Backfire Boundary (c\*)**: Each model has a corruption threshold where trace consumption reduces accuracy below Direct baseline.
-4. **Minimal Theory**: A simple mixture model explains the emergence of backfire. The criterion Δ = q₀ − p₀ < 0 predicts immediate fragility.
+1. **Two Regimes**: Contamination-induced failure (CIF) ranges from 0% on verifiable tasks to 61% on verification-costly tasks.
+2. **Binary Switching**: 100% of CIF cases on verification-costly tasks reflect direct adoption of the trace's wrong answer—not graded degradation. There is no intermediate state.
+3. **Continuous Verification Cost**: Within verifiable domains, CIF increases monotonically with task complexity (*p* = .013–.031) and decreasing error detectability (*r* = 0.95).
+4. **Capability Modulates Frequency, Not Mechanism**: Frontier models show lower CIF rates (9.8%) than mid-tier (31.0%) or base models (29.3%), but adoption is 100% when override occurs.
+5. **Three Null Predictors**: Source authority, model confidence, and sequential exposure show no detectable effect on CIF.
+6. **Recovery**: Explicit challenge interventions recover up to 100% of CIF cases.
 
 ---
 
 ## Experimental Paradigm
 
-### Provided-CoT Framework
+### Counterfactual Paired Evaluation
 
-We separate:
-- **Trace generation**: A model produces step-by-step reasoning traces.
-- **Trace consumption**: A target model receives (possibly corrupted) traces and produces answers.
+We compare model answers under two conditions on identical problems:
+- **DIRECT**: Model answers without any external trace.
+- **TRACE**: Model receives a corrupted reasoning trace (λ = 0.8) before answering.
 
-Trace corruption rate `c` controls reasoning quality. Accuracy is measured relative to clean trace performance and Direct (no-trace) baseline.
+**Contamination-Induced Failure (CIF)** = correct under DIRECT, incorrect under TRACE.
 
-### Data Summary (A0)
+### Experimental Scale (A1)
 
-| Experiment | Model | Inferences |
-|------------|-------|------------|
-| I × c Grid | Claude Sonnet | 3,582 |
-| Direct Baseline | Claude Sonnet | 199 |
-| Fine-grained c | Claude Sonnet | 995 |
-| Cross-model | GPT-4o | 1,393 |
-| Curvature Probe | Mistral-7B | 597 |
-| **Total** | | **5,373 primary + 597 auxiliary** |
+| Experiment | Design | Models | Observations |
+|------------|--------|--------|--------------|
+| exp_B | Domain comparison (4 benchmarks) | 2 frontier | 800 |
+| E2 | Complexity stratification (GSM8K) | 2 frontier | 300 |
+| E4 | Error detectability (GSM8K) | 2 frontier | ~320 |
+| E5 | Source authority (6 conditions) | 2 frontier | ~1,200 |
+| E6/E6' | Trace quality | 2 frontier | ~400 |
+| E7 | Sequential exposure (3 rounds) | 2 frontier | ~600 |
+| E8 | Capability tier (5 models) | 5 models | ~2,000 |
+| E9 | Confidence elicitation | 2 frontier | ~400 |
+| E10 | Recovery interventions (3 types) | 2 frontier | ~300 |
+| **Total** | **28 experiments** | **5 models** | **71,168 trials** |
+
+### Models
+
+| Tier | Models |
+|------|--------|
+| Frontier | Claude Sonnet 4 (Anthropic), GPT-4o (OpenAI) |
+| Mid-tier | Claude Haiku 3.5 (Anthropic), GPT-4o-mini (OpenAI) |
+| Base | GPT-3.5-turbo (OpenAI) |
+
+### Benchmarks
+
+| Dataset | Domain | Verification Affordance |
+|---------|--------|------------------------|
+| GSM8K | Mathematical reasoning | Verifiable (re-computation) |
+| ARC-Challenge | Science reasoning | Partially verifiable |
+| CommonsenseQA | Commonsense reasoning | Verification-costly |
+| HellaSwag | Commonsense completion | Verification-costly |
+| StrategyQA | Strategy questions | Supplementary |
 
 ---
 
-## Reproducing A0 Results
+## Reproducing A1 Results
 
 ### Notebooks
 
 ```
-notebooks/
-├── cot_experiment_full_v3.ipynb      # Exp 1: I × c Grid
-├── cot_experiment_direct_v3.ipynb    # Exp 3: Direct Baseline
-├── cot_experiment_acrit_v3.ipynb     # Exp 4: Fine-grained c
-├── cot_experiment_kappa_v3.1.ipynb   # Exp 2: Curvature Probe
-├── experiment_gpt4o.ipynb            # Exp 5: Cross-model
-└── analysis.ipynb                    # Reproduction & figures
+notebooks/A1/
+├── exp_B_domain_comparison.ipynb        # Main domain comparison (4 benchmarks × 2 models)
+├── E2_complexity_stratification.ipynb   # Task complexity gradient (GSM8K)
+├── E4_error_detectability.ipynb         # Error type classification
+├── E5_source_authority.ipynb            # Authority manipulation (6 conditions)
+├── E6_trace_quality.ipynb               # Trace quality variation
+├── E7_sequential_exposure.ipynb         # Repeated contamination (3 rounds)
+├── E8_capability_tier.ipynb             # 5-model capability comparison
+├── E9_confidence_elicitation.ipynb      # Self-reported confidence
+├── E10_recovery_interventions.ipynb     # Challenge / re-derivation / verification
+├── statistical_analysis.ipynb           # All statistical tests and figures
+└── figure_generation.ipynb              # Publication figures (Fig. 1–5)
 ```
 
 ### Data
 
 ```
-data/
-├── claude/                           # Claude Sonnet results
-│   ├── results_full_v3.json
-│   ├── direct_results_v3.json
-│   ├── acrit_results_v3.json
-│   ├── kappa_results_v3_1.json
-│   ├── clean_traces_I10_v3.json
-│   └── problems_v3.json
-└── gpt4o/                            # GPT-4o results
-    ├── direct_results_gpt.json
-    ├── cot_results_gpt.json
-    └── summary_gpt.json
+data/A1/
+├── exp_B/                               # Domain comparison results
+│   ├── sonnet4/
+│   └── gpt4o/
+├── E2_complexity/                       # Complexity stratification
+├── E4_detectability/                    # Error detectability
+├── E5_authority/                        # Source authority conditions
+├── E6_quality/                          # Trace quality variation
+├── E7_sequential/                       # Sequential exposure
+├── E8_capability/                       # 5-model comparison
+│   ├── sonnet4/
+│   ├── gpt4o/
+│   ├── haiku35/
+│   ├── gpt4omini/
+│   └── gpt35turbo/
+├── E9_confidence/                       # Confidence ratings
+├── E10_recovery/                        # Recovery interventions
+└── statistical_analysis/                # Aggregated results and figures
+    ├── all_experiments_summary.json
+    └── figures/
+```
+
+### Figures
+
+```
+figures/A1/
+├── fig1_conceptual_design.pdf           # Counterfactual paradigm
+├── fig2_two_regimes.pdf                 # Domain CIF + binary switching
+├── fig3_continuous_cost.pdf             # Complexity + detectability gradients
+├── fig4_capability.pdf                  # 5-model CIF + adoption rates
+└── fig5_null_recovery.pdf               # Null predictors + recovery
 ```
 
 ### Reproducibility Settings
 
-- **Global seed**: `20251224`
-- **Temperature**: `0`
+- **Temperature**: 0
 - **Deterministic inference configuration**
+- **Fixed random seeds per experiment**
 
 ### Requirements
 
@@ -115,9 +165,9 @@ tqdm
 
 ## Data & Code Availability
 
-All data and scripts necessary to reproduce the A0 results are included in this repository. A frozen release is archived via Zenodo.
+All data and scripts necessary to reproduce the A1 results are included in this repository. A frozen release is archived via Zenodo.
 
-DOI: *(to be inserted upon archival release)*
+DOI: *(to be updated upon archival release)*
 
 ---
 
@@ -125,11 +175,24 @@ DOI: *(to be inserted upon archival release)*
 
 The following research threads share the provided-CoT experimental paradigm and are available in this repository as separate releases:
 
-- **Paper A1**: Cross-model scaling of compliance vulnerability
+- **Paper A0**: Backfire boundary and compliance override in provided reasoning
 - **Paper A2**: Length and cue effects in trace consumption
 - **Paper A2-preliminary**: Initial exploration of cue dominance (archived)
 
-These are independent research directions and are not part of the A0 evaluation scope.
+These are independent research directions and are not part of the A1 evaluation scope.
+
+---
+
+## Citation
+
+```bibtex
+@article{hideki2026verification,
+  title={Verification affordance, not trace quality, governs language model vulnerability to corrupted reasoning},
+  author={HIDEKI},
+  journal={Submitted to Nature Machine Intelligence},
+  year={2026}
+}
+```
 
 ---
 
